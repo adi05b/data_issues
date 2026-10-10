@@ -90,10 +90,6 @@ __pycache__/
 pytest-*.txt
 
 # ---- Left out on review: IP addresses, internal hostnames/ports, server paths ----
-/P2_FINISH.md
-/P6_DIAGNOSIS.md
-/P6_FIX.md
-/p3/p3_sql_check.py
 /probe-runs/2026-09-21/00_connectivity.md
 /probe-runs/2026-09-21/MANIFEST.md
 /probe-runs/2026-10-07/MANIFEST.md
