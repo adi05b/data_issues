@@ -1,0 +1,262 @@
+group,source_id,record_id,location,status,gbopen,gbhumanitarian,agree,inside_cod_gbhumanitarian,km_to_boundary_gbopen,km_to_boundary_gbhumanitarian,km_to_cod_gbhumanitarian
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,02a714ece70c0d9a72c3d36078290086dd8d7a9aa659f97c7aefe3c35d78020e76,POINT(-26.05861 -10.55333),usable,none,none,True,False,,,4292.6
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,028e38b0ed1aadc099969678d7ce9cbc852eedaac7d354c8cc964e9538c7871e3d,POINT(26.0664 -10.6692),usable,Lualaba,Lualaba,True,True,27.12,26.3,0.0
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,029506dffe37f93eeb0fcd8e37db36e05b09e7ec7ac4f84b1e5ec21c45031838dc,MULTIPOINT(26.5 10.75),usable,none,none,True,False,,,606.5
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,02e3dc3c8b10b13504e593367bda6f4d186ba63783ce9ae4f61749a9754b8b20b4,MULTIPOINT(25.5 -10.6833),usable,Lualaba,Lualaba,True,True,53.47,55.98,0.0
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,02c41f98a220d8045ca0024347fc7d386d0df9cd3a8a6f17a4850b1ee6fefc0129,POINT(26.0917 -10.9542),usable,Haut-Katanga,Lualaba,False,True,0.88,1.24,0.0
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,022cf0ee87da3612a528af909d05ff8f6042c9f7af96f1c82d6cd776e7eb31852f,POINT(28.25 -11.35),usable,Haut-Katanga,Haut-Katanga,True,True,20.11,20.1,0.0
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,02db8d2a66ee6665a44d4ced00324de715fffcf71d7553cec26bc6ccf5860918c5,POINT(27.5016 -9.0426),usable,Haut-Katanga,Haut-Katanga,True,True,69.95,70.59,0.0
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,028b606fd5a4f12fd08cf3e53364ec6ff9627603829f0f23da4ded1b2850d1ba23,POINT(27.0166667 -11.1833333),usable,Haut-Katanga,Haut-Katanga,True,True,45.77,46.82,0.0
+state normalized to Q3000,https://api.cdr.land/v1/docs/documents,02e095404fe8f4acdf9558202bc5d568d3e6b391fda5bf2967d8c3a565ccf84c78,POINT(25.5 -10.66667),usable,Lualaba,Lualaba,True,True,54.73,57.23,0.0
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,02a597f1b32f9985178b5c44bd2026cd8de667836ce3814adcc2937e425ff6fca2,MULTIPOINT(26.75 -9.15),usable,Haut-Katanga,Haut-Katanga,True,True,17.88,17.5,0.0
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,02b123fa95ef696cc0b4479bfed0598084b8156002a74d54177f6e9633f2601486,,no location,no location,no location,True,,,,
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,02b6360b83559b4aa47ca1d9fcf2032923861b6d3cb3fd8dfd701a220d3186a1c9,MULTIPOINT(26.7625 -11.0125),usable,Haut-Katanga,Haut-Katanga,True,True,29.23,26.29,0.0
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,02b2fa42ff3059c1b7a1b8885e1d004f337febcb428d865c5e8db394c8a44f2006,,no location,no location,no location,True,,,,
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,02a2f5b94ff931ed506fe9015a3c2665a439a62dcafb15d10271e1231b17e38cb4,POINT(28.477 -11.067),usable,Haut-Katanga,Haut-Katanga,True,True,1.92,2.01,0.0
+state normalized to Q3000,https://api.cdr.land/v1/docs/documents,02dbb3f745dc5f9501641fef661e80d127389fc6b7bf61298c2fde4e92cd0ee739,,no location,no location,no location,True,,,,
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,02985623c56ad317be6bc8c26151958642bcfedcbe5837bd236664a1068d1b5fdc,MULTIPOINT(60 -9),round placeholder,round placeholder,round placeholder,True,,,,
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,0279a9177050435be6df8a8be90f4d8a184c5df11bc69c491b37b31cb2a66e1d32,POINT(26.7625 -11.0125),usable,Haut-Katanga,Haut-Katanga,True,True,29.23,26.29,0.0
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,02ecce4ba42721f620ae2000567a88f606d11bde7b441f483b7b47c5b932d96858,MULTIPOINT(23.499 10.934),usable,none,none,True,False,,,655.7
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,02ea7e62898b2b8d01a5f3b10880edafaea5f25c7c86dc1ee684b8cb0b7f402543,MULTIPOINT(27.1 -10.6),usable,Haut-Katanga,Haut-Katanga,True,True,15.02,4.92,0.0
+drop list (state -> Q6152 Tanga),https://api.cdr.land/v1/docs/documents,0292a16f4f8a2ffba9e8e34b28a800f94ae9cc6c7dc52817b612d686c516728141,,no location,no location,no location,True,,,,
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400556,POINT (27.5840999999999994 -11.6354000000000006),usable,Haut-Katanga,Haut-Katanga,True,True,33.74,33.93,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400578,POINT (27.0919999999999987 -11.2447999999999997),usable,Haut-Katanga,Haut-Katanga,True,True,37.61,37.93,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400611,,no location,no location,no location,True,,,,
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400580,POINT (26.1899000000000015 -10.5803999999999991),usable,Lualaba,Lualaba,True,True,32.3,30.66,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10038701,POINT (26.9180099999999989 -10.9975100000000001),usable,Haut-Katanga,Haut-Katanga,True,True,42.57,41.26,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10134837,POINT (25.4166999999999987 -10.7500000000000000),usable,Lualaba,Lualaba,True,True,50.01,53.58,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400594,POINT (26.3597999999999999 -10.7051999999999996),usable,Lualaba,Lualaba,True,True,21.05,17.04,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400599,POINT (25.6920999999999999 -10.7997999999999994),usable,Lualaba,Lualaba,True,True,29.31,31.66,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400560,POINT (27.0734999999999992 -11.2315000000000005),usable,Haut-Katanga,Haut-Katanga,True,True,39.72,40.02,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400581,POINT (28.9407999999999994 -13.1770999999999994),usable,Haut-Katanga,Haut-Katanga,True,True,2.86,3.27,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400572,POINT (27.3082999999999991 -11.2542000000000009),usable,Haut-Katanga,Haut-Katanga,True,True,36.26,36.74,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10280763,POINT (26.1533000000000015 -10.5800000000000001),usable,Lualaba,Lualaba,True,True,32.91,33.68,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400553,POINT (26.3839000000000006 -10.7288999999999994),usable,Lualaba,Lualaba,True,True,17.57,15.17,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400574,POINT (27.4942999999999991 -11.1454000000000004),usable,Haut-Katanga,Haut-Katanga,True,True,56.56,56.95,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10106135,POINT (23.1846999999999994 -10.6808899999999998),usable,Lualaba,Lualaba,True,True,38.99,38.72,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10159261,POINT (25.5337999999999994 -10.6782000000000004),usable,Lualaba,Lualaba,True,True,51.15,53.62,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10079674,POINT (26.5985799999999983 -10.8861600000000003),usable,Haut-Katanga,Haut-Katanga,True,True,6.61,3.67,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10079676,POINT (26.6098999999999997 -10.8503000000000007),usable,Haut-Katanga,Haut-Katanga,True,True,4.58,5.25,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10281362,POINT (25.3902500000000018 -10.7058499999999999),usable,Lualaba,Lualaba,True,True,54.3,58.13,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400563,POINT (26.4058999999999990 -10.7364999999999995),usable,Lualaba,Lualaba,True,True,16.03,13.32,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10107362,POINT (25.4433000000000007 -10.7134999999999998),usable,Lualaba,Lualaba,True,True,54.66,58.07,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10256036,POINT (26.7846399999999996 -10.9642300000000006),usable,Haut-Katanga,Haut-Katanga,True,True,27.8,26.03,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400576,POINT (27.9023000000000003 -12.0173000000000005),usable,Haut-Katanga,Haut-Katanga,True,True,24.4,24.85,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400583,POINT (26.2380999999999993 -10.7521000000000004),usable,Lualaba,Lualaba,True,True,12.88,14.8,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10255750,POINT (25.4846499999999985 -10.7142499999999998),usable,Lualaba,Lualaba,True,True,52.55,55.11,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10183207,POINT (27.4513199999999991 -7.2770099999999998),usable,Tanganyika,Tanganyika,True,True,23.68,21.8,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400615,,no location,no location,no location,True,,,,
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10135052,POINT (26.7846399999999996 -10.9642300000000006),usable,Haut-Katanga,Haut-Katanga,True,True,27.8,26.03,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10183424,POINT (26.4680399999999985 -10.7975399999999997),usable,Lualaba,Lualaba,True,True,7.87,10.54,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10079670,POINT (25.4039999999999999 -10.6979000000000006),usable,Lualaba,Lualaba,True,True,55.42,59.15,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10183296,POINT (25.3905500000000011 -10.7072500000000002),usable,Lualaba,Lualaba,True,True,54.15,57.97,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400577,POINT (27.0947999999999993 -11.2551000000000005),usable,Haut-Katanga,Haut-Katanga,True,True,36.42,36.75,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10183294,POINT (24.6680600000000005 -10.8308400000000002),usable,Lualaba,Lualaba,True,True,42.83,42.16,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400357,POINT (26.2539900000000017 -10.7535200000000000),usable,Lualaba,Lualaba,True,True,12.93,15.12,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400575,POINT (27.5871999999999993 -11.3694000000000006),usable,Haut-Katanga,Haut-Katanga,True,True,47.69,47.81,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10256244,POINT (25.3752299999999984 -10.7411600000000007),usable,Lualaba,Lualaba,True,True,50.18,54.09,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400571,POINT (27.4240999999999993 -11.0898000000000003),usable,Haut-Katanga,Haut-Katanga,True,True,58.06,58.51,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400600,POINT (27.3292000000000002 -11.2125000000000004),usable,Haut-Katanga,Haut-Katanga,True,True,41.41,41.88,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400592,POINT (26.3487000000000009 -10.7243999999999993),usable,Lualaba,Lualaba,True,True,19.64,18.73,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400596,POINT (26.3667000000000016 -10.7245000000000008),usable,Lualaba,Lualaba,True,True,18.78,16.81,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400561,POINT (26.4226999999999990 -10.7332999999999998),usable,Lualaba,Lualaba,True,True,16.01,11.53,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400568,POINT (25.4588000000000001 -10.6891999999999996),usable,Lualaba,Lualaba,True,True,56.54,59.09,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400570,POINT (27.2848000000000006 -11.6547999999999998),usable,Haut-Katanga,Haut-Katanga,True,True,6.26,6.55,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400612,,no location,no location,no location,True,,,,
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10183504,POINT (25.4185000000000016 -10.7134000000000000),usable,Lualaba,Lualaba,True,True,54.03,57.64,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400608,POINT (29.2374000000000009 -8.3268000000000004),usable,Haut-Katanga,Haut-Katanga,True,True,13.03,13.69,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10183231,POINT (25.4009000000000000 -10.7142999999999997),usable,Lualaba,Lualaba,True,True,53.56,57.3,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400597,POINT (26.2048999999999985 -10.5962999999999994),usable,Lualaba,Lualaba,True,True,30.34,29.65,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400565,POINT (25.9333999999999989 -10.6351999999999993),usable,Lualaba,Lualaba,True,True,33.44,35.29,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400587,POINT (27.4207000000000001 -11.5060000000000002),usable,Haut-Katanga,Haut-Katanga,True,True,24.72,24.72,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400607,POINT (29.2379999999999995 -8.3308999999999997),usable,Haut-Katanga,Haut-Katanga,True,True,12.57,13.23,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400569,POINT (26.2227999999999994 10.6202000000000005),usable,none,none,True,False,,,587.5
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10280640,POINT (25.4180500000000009 -10.7475500000000004),usable,Lualaba,Lualaba,True,True,50.31,53.87,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400605,POINT (27.2717999999999989 -11.6100999999999992),usable,Haut-Katanga,Haut-Katanga,True,True,5.69,5.75,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400590,POINT (25.9324000000000012 -10.9711999999999996),usable,Lualaba,Haut-Katanga,False,True,0.45,0.65,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400555,POINT (28.2743000000000002 -8.8919999999999995),usable,Haut-Katanga,Haut-Katanga,True,True,22.42,43.77,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400559,POINT (26.1550000000000011 -10.5807000000000002),usable,Lualaba,Lualaba,True,True,32.8,33.59,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400582,POINT (28.0948999999999991 -12.3571000000000009),usable,Haut-Katanga,Haut-Katanga,True,True,0.92,0.88,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10231591,POINT (27.4013199999999983 -7.2977999999999996),usable,Tanganyika,Tanganyika,True,True,21.6,19.9,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400589,POINT (26.2434000000000012 -10.6110000000000007),usable,Lualaba,Lualaba,True,True,28.6,26.4,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400598,POINT (26.1725999999999992 -10.5724999999999998),usable,Lualaba,Lualaba,True,True,33.42,32.29,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400573,POINT (27.1244000000000014 -11.2858999999999998),usable,Haut-Katanga,Haut-Katanga,True,True,32.14,32.51,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10158911,POINT (27.1846199999999989 -7.7144700000000004),usable,Haut-Lomami,Haut-Lomami,True,True,12.69,10.87,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400601,POINT (27.8541999999999987 -11.4957999999999991),usable,Haut-Katanga,Haut-Katanga,True,True,59.38,59.41,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400614,,no location,no location,no location,True,,,,
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10183112,POINT (27.7362000000000002 -12.2719000000000005),usable,Haut-Katanga,Haut-Katanga,True,True,1.06,1.42,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10207824,POINT (25.4180500000000009 -10.7475500000000004),usable,Lualaba,Lualaba,True,True,50.31,53.87,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400609,POINT (29.2353999999999985 -8.3004999999999995),usable,Haut-Katanga,Haut-Katanga,True,True,15.97,16.62,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400566,POINT (26.7727000000000004 -10.9510000000000005),usable,Haut-Katanga,Haut-Katanga,True,True,25.89,24.28,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10231654,POINT (27.5180399999999992 -11.6641700000000004),usable,Haut-Katanga,Haut-Katanga,True,True,26.92,27.16,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10079675,POINT (26.6004499999999986 -10.8392099999999996),usable,Haut-Katanga,Haut-Katanga,True,True,3.08,4.46,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400585,POINT (27.4390999999999998 -11.5151000000000003),usable,Haut-Katanga,Haut-Katanga,True,True,26.38,26.4,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400595,POINT (26.4204000000000008 -10.7401000000000000),usable,Lualaba,Lualaba,True,True,15.32,12.16,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10159211,POINT (23.3346699999999991 -10.6975599999999993),usable,Lualaba,Lualaba,True,True,29.63,28.96,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400562,POINT (26.4787999999999997 -10.8462999999999994),usable,Lualaba,Lualaba,True,True,2.33,6.1,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400558,POINT (28.4744999999999990 -12.7278000000000002),usable,Haut-Katanga,Haut-Katanga,True,True,1.5,1.25,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400567,POINT (27.1076000000000015 -11.2158999999999995),usable,Haut-Katanga,Haut-Katanga,True,True,40.15,40.52,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10079678,POINT (27.9654999999999987 -12.2614000000000001),usable,Haut-Katanga,Haut-Katanga,True,True,3.3,3.95,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400586,POINT (26.2860000000000014 -10.7393999999999998),usable,Lualaba,Lualaba,True,True,15.12,17.9,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400645,POINT (25.8134000000000015 -10.7858999999999998),usable,Lualaba,Lualaba,True,True,24.17,23.62,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400593,POINT (26.5743000000000009 -10.8109999999999999),usable,Lualaba,Haut-Katanga,False,True,0.58,1.27,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400616,POINT (26.5705999999999989 -11.0494000000000003),usable,Haut-Katanga,Haut-Katanga,True,True,20.24,16.97,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400564,POINT (25.2219000000000015 -11.0181000000000004),usable,Lualaba,Lualaba,True,True,21.29,25.55,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10183230,POINT (26.9596200000000010 -7.4644899999999996),usable,Tanganyika,Tanganyika,True,True,11.76,17.95,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10134596,POINT (27.2346399999999988 -11.7641600000000004),usable,Haut-Katanga,Haut-Katanga,True,True,0.61,0.77,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10183595,POINT (27.4180199999999985 -8.3727199999999993),usable,Haut-Katanga,Haut-Katanga,True,True,23.11,21.58,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400610,POINT (27.2763999999999989 -11.6277000000000008),usable,Haut-Katanga,Haut-Katanga,True,True,5.66,5.92,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400579,POINT (26.3160999999999987 -10.7334999999999994),usable,Lualaba,Lualaba,True,True,16.93,20.15,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400613,,no location,no location,no location,True,,,,
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10231544,POINT (27.3846200000000017 -7.3228000000000000),usable,Tanganyika,Tanganyika,True,True,18.76,17.64,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400588,POINT (27.2631000000000014 -11.5992999999999995),usable,Haut-Katanga,Haut-Katanga,True,True,5.03,5.1,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400584,POINT (27.0087000000000010 -11.1668000000000003),usable,Haut-Katanga,Haut-Katanga,True,True,47.68,48.72,0.0
+drop list (state -> Q6152 Tanga),https://mrdata.usgs.gov/mrds,10400602,POINT (27.4750000000000014 -11.5875000000000004),usable,Haut-Katanga,Haut-Katanga,True,True,28.22,28.43,0.0
+state never normalized,https://mrdata.usgs.gov/nicrpge,12162780,POINT (25.55 -10.66),usable,Lualaba,Lualaba,True,True,51.4,53.82,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10379,POINT (26.1372 -10.6015),usable,Lualaba,Lualaba,True,True,30.95,31.48,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10203,POINT (26.615061 -10.782344),usable,Haut-Katanga,Haut-Katanga,True,True,3.04,2.75,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10216,POINT (26.1742 -10.992),usable,Haut-Katanga,Haut-Katanga,True,True,8.95,7.47,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10226,POINT (27.4699 -11.2385),usable,Haut-Katanga,Haut-Katanga,True,True,46.64,46.99,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10284,POINT (27.4241 -11.0898),usable,Haut-Katanga,Haut-Katanga,True,True,58.06,58.51,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10317,POINT (27.2922 -11.6024),usable,Haut-Katanga,Haut-Katanga,True,True,8.07,8.16,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10359,POINT (26.589158 -10.8152),usable,Haut-Katanga,Haut-Katanga,True,True,1.14,2.96,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10201,POINT (25.4995 -10.5432),usable,Lualaba,Lualaba,True,True,65.02,66.99,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10205,POINT (25.8882 -10.9765),usable,Lualaba,Lualaba,True,True,1.39,2.39,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10272,POINT (26.1392 -11.1541),usable,Haut-Katanga,Haut-Katanga,True,True,14.63,19.73,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10370,POINT (26.2049 -10.5963),usable,Lualaba,Lualaba,True,True,30.34,29.65,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10371,POINT (25.4581 -10.7259),usable,Lualaba,Lualaba,True,True,53.64,56.73,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10337,POINT (27.4391 -11.5151),usable,Haut-Katanga,Haut-Katanga,True,True,26.38,26.4,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10277,POINT (26.485421 -10.858546),usable,Lualaba,Lualaba,True,True,0.81,4.57,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10305,POINT (26.4204 -10.7401),usable,Lualaba,Lualaba,True,True,15.32,12.16,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10382,POINT (26.2278 -10.6183),usable,Lualaba,Lualaba,True,True,27.76,28.32,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10331,POINT (27.9023 -12.0173),usable,Haut-Katanga,Haut-Katanga,True,True,24.4,24.85,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10312,POINT (26.4227 -10.7333),usable,Lualaba,Lualaba,True,True,16.01,11.53,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10377,POINT (27.5733 -11.3604),usable,Haut-Katanga,Haut-Katanga,True,True,46.79,46.95,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10329,POINT (26.2544 -10.7525),usable,Lualaba,Lualaba,True,True,13.05,15.25,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10278,POINT (26.201387 -11.092815),usable,Haut-Katanga,Haut-Katanga,True,True,5.6,12.64,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10217,POINT (26.579162 -10.878178),usable,Haut-Katanga,Haut-Katanga,True,True,4.8,1.47,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10375,POINT (27.9655 -12.2614),usable,Haut-Katanga,Haut-Katanga,True,True,3.3,3.95,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10264,POINT (26.658952 -11.034619),usable,Haut-Katanga,Haut-Katanga,True,True,24.33,19.44,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10302,POINT (26.3667 -10.7245),usable,Lualaba,Lualaba,True,True,18.78,16.81,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10311,POINT (27.281 -11.6667),usable,Haut-Katanga,Haut-Katanga,True,True,5.4,6.11,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10322,POINT (27.2718 -11.6101),usable,Haut-Katanga,Haut-Katanga,True,True,5.69,5.75,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10199,POINT (27.3684 -11.7014),usable,Haut-Katanga,Haut-Katanga,True,True,14.47,14.83,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10214,POINT (26.124917 -10.611316),usable,Lualaba,Lualaba,True,True,30.28,30.61,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10369,POINT (25.47 -10.695),usable,Lualaba,Lualaba,True,True,55.17,57.71,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10206,POINT (28.0452 -12.1321),usable,Haut-Katanga,Haut-Katanga,True,True,17.5,18.46,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10209,POINT (25.854799 -10.74019),usable,Lualaba,Lualaba,True,True,25.55,25.71,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10215,POINT (26.742613 -10.781464),usable,Haut-Katanga,Haut-Katanga,True,True,16.93,15.86,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10269,POINT (27.2484 -11.5989),usable,Haut-Katanga,Haut-Katanga,True,True,3.55,3.52,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10235,POINT (25.9372 -10.6496),usable,Lualaba,Lualaba,True,True,31.79,33.67,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10224,POINT (27.4955 -11.2251),usable,Haut-Katanga,Haut-Katanga,True,True,49.61,49.96,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10324,POINT (27.2749 -11.5996),usable,Haut-Katanga,Haut-Katanga,True,True,6.28,6.36,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10303,POINT (26.5706 -11.0494),usable,Haut-Katanga,Haut-Katanga,True,True,20.24,16.97,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10247,POINT (26.180676 -11.095721),usable,Haut-Katanga,Haut-Katanga,True,True,7.91,14.93,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10275,POINT (27.779696 -12.133077),usable,Haut-Katanga,Haut-Katanga,True,True,10.51,11.6,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10352,POINT (25.5174 -10.6726),usable,Lualaba,Lualaba,True,True,52.88,55.36,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10368,POINT (28.0949 -12.3571),usable,Haut-Katanga,Haut-Katanga,True,True,0.92,0.88,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10332,POINT (27.4207 -11.506),usable,Haut-Katanga,Haut-Katanga,True,True,24.72,24.72,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10281,POINT (25.380951 -10.715002),usable,Lualaba,Lualaba,True,True,53.15,57.03,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10271,POINT (26.199067 -11.171309),usable,Haut-Katanga,Haut-Katanga,True,True,9.43,12.8,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10273,POINT (27.162657 -11.143342),usable,Haut-Katanga,Haut-Katanga,True,True,46.97,47.46,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10279,POINT (27.207743 -11.209017),usable,Haut-Katanga,Haut-Katanga,True,True,39.42,39.96,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10308,POINT (26.3839 -10.7289),usable,Lualaba,Lualaba,True,True,17.57,15.17,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10262,POINT (26.1427 -10.5911),usable,Lualaba,Lualaba,True,True,31.94,32.56,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10254,POINT (25.457354 -10.736458),usable,Lualaba,Lualaba,True,True,52.48,55.88,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10287,POINT (27.064481 -11.223466),usable,Haut-Katanga,Haut-Katanga,True,True,40.92,41.21,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10244,POINT (25.9324 -10.9712),usable,Lualaba,Haut-Katanga,False,True,0.45,0.65,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10314,POINT (26.604503 -10.842779),usable,Haut-Katanga,Haut-Katanga,True,True,3.65,4.86,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10354,POINT (26.6099 -10.8503),usable,Haut-Katanga,Haut-Katanga,True,True,4.58,5.25,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10222,POINT (26.954637 -11.139978),usable,Haut-Katanga,Haut-Katanga,True,True,51.56,51.96,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10231,POINT (27.3151 -11.6743),usable,Haut-Katanga,Haut-Katanga,True,True,8.93,9.89,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10321,POINT (27.092 -11.2448),usable,Haut-Katanga,Haut-Katanga,True,True,37.61,37.93,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10372,POINT (27.5841 -11.6354),usable,Haut-Katanga,Haut-Katanga,True,True,33.74,33.93,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10208,POINT (25.892859 -10.723954),usable,Lualaba,Lualaba,True,True,25.14,26.09,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10326,POINT (27.2764 -11.6277),usable,Haut-Katanga,Haut-Katanga,True,True,5.66,5.92,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10349,POINT (26.763824 -11.015694),usable,Haut-Katanga,Haut-Katanga,True,True,29.59,26.61,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10229,POINT (26.951882 -11.157078),usable,Haut-Katanga,Haut-Katanga,True,True,49.76,50.69,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10218,POINT (26.581094 -10.883028),usable,Haut-Katanga,Haut-Katanga,True,True,5.38,1.7,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10252,POINT (27.9623 -12.0614),usable,Haut-Katanga,Haut-Katanga,True,True,20.29,20.48,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10315,POINT (25.910982 -10.772392),usable,Lualaba,Lualaba,True,True,19.39,20.38,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10261,POINT (27.0963 -11.1583),usable,Haut-Katanga,Haut-Katanga,True,True,46.66,47.05,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10257,POINT (25.997919 -10.639487),usable,Lualaba,Lualaba,True,True,32.59,32.99,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10378,POINT (26.188829 -10.579258),usable,Lualaba,Lualaba,True,True,32.44,30.74,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10309,POINT (26.286 -10.7394),usable,Lualaba,Lualaba,True,True,15.12,17.9,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10241,POINT (26.414744 -10.656879),usable,Lualaba,Lualaba,True,True,20.37,10.8,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10270,POINT (26.406919 -11.110556),usable,Haut-Katanga,Haut-Katanga,True,True,4.04,5.69,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10347,POINT (25.9347 -10.6326),usable,Lualaba,Lualaba,True,True,33.7,35.57,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10367,POINT (26.155 -10.5807),usable,Lualaba,Lualaba,True,True,32.8,33.59,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10237,POINT (25.429383 -10.698827),usable,Lualaba,Lualaba,True,True,55.88,59.42,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10230,POINT (26.3833 -10.7206),usable,Lualaba,Lualaba,True,True,18.46,14.92,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10266,POINT (26.223469 -11.095137),usable,Haut-Katanga,Haut-Katanga,True,True,3.4,10.17,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10260,POINT (26.173742 -10.570387),usable,Lualaba,Lualaba,True,True,33.63,32.11,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10233,POINT (25.9859 -10.9641),usable,Haut-Katanga,Haut-Katanga,True,True,3.04,0.01,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10239,POINT (26.742844 -11.003177),usable,Haut-Katanga,Haut-Katanga,True,True,26.95,23.9,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10207,POINT (25.937531 -10.771979),usable,Lualaba,Lualaba,True,True,18.44,20.06,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10221,POINT (25.4556 -10.971),usable,Lualaba,Lualaba,True,True,27.57,30.87,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10223,POINT (26.9932 -11.1517),usable,Haut-Katanga,Haut-Katanga,True,True,49.55,50.56,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10232,POINT (27.306963 -11.681694),usable,Haut-Katanga,Haut-Katanga,True,True,7.96,8.97,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10250,POINT (25.463057 -10.709608),usable,Lualaba,Lualaba,True,True,54.77,57.34,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10283,POINT (26.7947 -10.6559),usable,Haut-Katanga,Haut-Katanga,True,True,21.1,16.07,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10387,POINT (25.3785 -10.7423),usable,Lualaba,Lualaba,True,True,50.1,53.98,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10242,POINT (27.5438 -11.2233),usable,Haut-Katanga,Haut-Katanga,True,True,53.41,53.73,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10263,POINT (26.1721 -10.5842),usable,Lualaba,Lualaba,True,True,32.13,32.68,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10200,POINT (25.712774 -10.795883),usable,Lualaba,Lualaba,True,True,28.29,30.41,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10285,POINT (27.5141 -11.1441),usable,Haut-Katanga,Haut-Katanga,True,True,57.96,58.34,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10213,POINT (25.7674 -10.7386),usable,Lualaba,Lualaba,True,True,30.85,30.87,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10253,POINT (26.713196 -10.816856),usable,Haut-Katanga,Haut-Katanga,True,True,14.52,14.24,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10363,POINT (25.538462 -10.681614),usable,Lualaba,Lualaba,True,True,50.52,52.98,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10392,POINT (25.4194 -10.7108),usable,Lualaba,Lualaba,True,True,54.34,57.94,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10301,POINT (26.3055 -10.737),usable,Lualaba,Lualaba,True,True,16.09,19.18,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10227,POINT (27.4615 -11.2306),usable,Haut-Katanga,Haut-Katanga,True,True,46.75,47.11,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10228,POINT (26.690066 -10.977353),usable,Haut-Katanga,Haut-Katanga,True,True,20.91,17.45,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10210,POINT (26.6015 -11.044),usable,Haut-Katanga,Haut-Katanga,True,True,22.82,17.21,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10236,POINT (26.166399 -11.149686),usable,Haut-Katanga,Haut-Katanga,True,True,11.66,16.7,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10335,POINT (25.4588 -10.6892),usable,Lualaba,Lualaba,True,True,56.54,59.09,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10336,POINT (25.225903 -11.017056),usable,Lualaba,Lualaba,True,True,21.21,25.58,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10353,POINT (25.5386 -10.6817),usable,Lualaba,Lualaba,True,True,50.5,52.96,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10255,POINT (25.43476 -10.731379),usable,Lualaba,Lualaba,True,True,52.5,55.94,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10238,POINT (25.8851 -10.6123),usable,Lualaba,Lualaba,True,True,37.14,38.43,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10366,POINT (27.2631 -11.5993),usable,Haut-Katanga,Haut-Katanga,True,True,5.03,5.1,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10365,POINT (26.4026 -10.7351),usable,Lualaba,Lualaba,True,True,16.28,13.57,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10234,POINT (26.002179 -10.955476),usable,Haut-Katanga,Lualaba,False,True,2.09,1.11,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10240,POINT (26.557172 -10.970193),usable,Haut-Katanga,Haut-Katanga,True,True,13.42,8.03,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10351,POINT (25.9252 -10.6523),usable,Lualaba,Lualaba,True,True,31.73,33.44,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10265,POINT (26.502895 -10.876856),usable,Haut-Katanga,Lualaba,False,True,1.71,2.04,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10282,POINT (26.8221 -10.6572),usable,Haut-Katanga,Haut-Katanga,True,True,20.85,13.36,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10385,POINT (25.813495 -10.785951),usable,Lualaba,Lualaba,True,True,24.16,23.61,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10259,POINT (25.76376 -10.624191),usable,Lualaba,Lualaba,True,True,41.93,41.81,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10307,POINT (27.5597 -11.6301),usable,Haut-Katanga,Haut-Katanga,True,True,32.61,32.82,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10341,POINT (26.573619 -10.885941),usable,Haut-Katanga,Haut-Katanga,True,True,5.37,0.98,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10286,POINT (27.520307 -11.140153),usable,Haut-Katanga,Haut-Katanga,True,True,58.72,59.1,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10310,POINT (26.7727 -10.951),usable,Haut-Katanga,Haut-Katanga,True,True,25.89,24.28,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10212,POINT (26.1322 -10.5978),usable,Lualaba,Lualaba,True,True,31.49,31.96,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10304,POINT (26.2381 -10.7521),usable,Lualaba,Lualaba,True,True,12.88,14.8,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10211,POINT (26.5815 -11.0283),usable,Haut-Katanga,Haut-Katanga,True,True,20.4,14.89,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10323,POINT (27.1871 -11.1431),usable,Haut-Katanga,Haut-Katanga,True,True,46.8,47.32,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10374,POINT (27.0087 -11.1668),usable,Haut-Katanga,Haut-Katanga,True,True,47.68,48.72,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10376,POINT (27.4943 -11.1454),usable,Haut-Katanga,Haut-Katanga,True,True,56.56,56.95,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10274,POINT (25.795003 -10.970256),usable,Lualaba,Lualaba,True,True,7.85,10.46,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10280,POINT (25.620068 -10.771932),usable,Lualaba,Lualaba,True,True,36.98,39.46,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10202,POINT (25.9139 -10.6262),usable,Lualaba,Lualaba,True,True,34.83,36.44,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10204,POINT (28.327 -12.3197),usable,Haut-Katanga,Haut-Katanga,True,True,11.11,11.13,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10306,POINT (26.609775 -10.95712),usable,Haut-Katanga,Haut-Katanga,True,True,14.23,9.36,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10219,POINT (25.897233 -10.843501),usable,Lualaba,Lualaba,True,True,13.55,13.29,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10243,POINT (25.907414 -10.665629),usable,Lualaba,Lualaba,True,True,30.74,32.17,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10256,POINT (26.052223 -10.63724),usable,Lualaba,Lualaba,True,True,30.99,30.19,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10246,POINT (26.1784 -11.0994),usable,Haut-Katanga,Haut-Katanga,True,True,8.26,15.17,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10249,POINT (26.2102 -10.7553),usable,Lualaba,Lualaba,True,True,12.7,13.93,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10258,POINT (25.747 -10.6126),usable,Lualaba,Lualaba,True,True,44.07,43.86,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10276,POINT (26.250828 -11.078243),usable,Lualaba,Haut-Katanga,False,True,0.14,7.28,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10220,POINT (25.4153 -10.7523),usable,Lualaba,Lualaba,True,True,49.73,53.3,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10225,POINT (27.486 -11.2515),usable,Haut-Katanga,Haut-Katanga,True,True,46.71,47.04,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10245,POINT (26.18 -10.9018),usable,Haut-Katanga,Haut-Katanga,True,True,1.45,1.94,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10248,POINT (26.246568 -10.631141),usable,Lualaba,Lualaba,True,True,26.38,27.21,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10373,POINT (27.5444 -11.619),usable,Haut-Katanga,Haut-Katanga,True,True,32.72,32.98,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10358,POINT (26.3487 -10.7244),usable,Lualaba,Lualaba,True,True,19.64,18.73,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10251,POINT (26.522025 -10.756673),usable,Lualaba,Lualaba,True,True,7.68,6.84,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10267,POINT (25.675048 -10.51001),usable,Lualaba,Lualaba,True,True,58.01,57.77,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10381,POINT (26.2966 -10.6153),usable,Lualaba,Lualaba,True,True,28.85,21.6,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10268,POINT (26.242787 -10.644599),usable,Lualaba,Lualaba,True,True,24.86,26.6,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10342,POINT (26.4788 -10.8463),usable,Lualaba,Lualaba,True,True,2.33,6.1,0.0
+state never normalized,https://mrdata.usgs.gov/sir20105090z,10384,POINT (26.6044 -10.8862),usable,Haut-Katanga,Haut-Katanga,True,True,7.0,4.31,0.0

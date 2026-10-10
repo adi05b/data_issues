@@ -1,0 +1,20 @@
+{
+ "all_pairs": {
+  "n": 13111,
+  "median_before": NaN,
+  "median_after": NaN,
+  "w50_before": 0.922889177026924,
+  "w50_after": 8.275493860117459,
+  "improving": 1608
+ },
+ "nearest": {
+  "n": 1609,
+  "median_before": 159.20639139117623,
+  "median_after": 26.44487544526083,
+  "w50_before": 6.4636420136730885,
+  "w50_after": 64.26351771286514,
+  "improving": 1234
+ },
+ "entities_all": 1470,
+ "worse_nearest": 360
+}

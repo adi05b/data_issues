@@ -1,0 +1,19 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mr: <https://minmod.isi.edu/resource/>
+
+# Sonora Lithium Project: every member of the merge group whose hub is the
+# POINT(0 0) record (the KG writes each group as hub owl:sameAs member).
+SELECT ?m ?label ?src ?rid ?by ?mod ?wkt ?crs ?score
+WHERE {
+  { VALUES ?m { mr:site__api-cdr-land-v1-docs-documents__0205e384bede4889373d9e9788b27e984c76aec51a0ba876f098cd08541ac7ab54__inferlink } }
+  UNION
+  { mr:site__api-cdr-land-v1-docs-documents__0205e384bede4889373d9e9788b27e984c76aec51a0ba876f098cd08541ac7ab54__inferlink owl:sameAs ?m }
+  ?m :source_id ?src ; :record_id ?rid ; :created_by ?by ; :modified_at ?mod .
+  OPTIONAL { ?m rdfs:label ?label }
+  OPTIONAL { ?m :location_info ?li . OPTIONAL { ?li :location ?wkt } OPTIONAL { ?li :crs/:normalized_uri/rdfs:label ?crs } }
+  BIND(IRI(STR(?src)) AS ?ds)
+  OPTIONAL { ?ds :score ?score }
+}
+ORDER BY DESC(?rid) DESC(?mod)

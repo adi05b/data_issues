@@ -1,0 +1,11 @@
+{
+  "id": "p5-pf2-commodity-preds",
+  "sent_at": "2026-09-22T03:15:16.007187+00:00",
+  "http_status": 200,
+  "elapsed_ms": 31443,
+  "bytes": 1805,
+  "curl_exit": 0,
+  "row_count": 5,
+  "truncated_by_limit": false,
+  "error": null
+}

@@ -1,0 +1,50 @@
+{ "head": {
+    "vars": [ "m" , "o" , "role" , "site" , "cb" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Measure_fbc32a18_3c61_410d_b0cb_53bdda525c3b" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "5e-05" } ,
+        "role": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/grade" } ,
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02c9593d2550e6bf75381aba60fd1ac24039518ac35726c3471ed94d02c666aa1b__inferlink" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/inferlink" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Measure_d8eeea39_1841_4ac0_908b_e4529020387b" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "5e-05" } ,
+        "role": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/grade" } ,
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02c9593d2550e6bf75381aba60fd1ac24039518ac35726c3471ed94d02c666aa1b__inferlink" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/inferlink" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Measure_2994e8b2_5524_4678_9af6_e58b2fddebc1" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "7e-05" } ,
+        "role": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/grade" } ,
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10073055__umn" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Measure_e53c867b_e549_47e3_aca6_6ac8b2c877a8" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "7e-05" } ,
+        "role": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/grade" } ,
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10071448__umn" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Measure_abfc69dd_2d30_4862_8e10_1c34f6148e50" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "8.9e-05" } ,
+        "role": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/grade" } ,
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10079053__umn" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Measure_a56a884c_3943_4177_b29f_a645a1589e86" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "3e-05" } ,
+        "role": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/grade" } ,
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10065483__umn" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      }
+    ]
+  }
+}

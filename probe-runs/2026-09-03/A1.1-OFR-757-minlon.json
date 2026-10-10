@@ -1,0 +1,118 @@
+{ "head": {
+    "vars": [ "site" , "label" , "source" , "wkt" , "lon" , "lat" , "crs_label" , "country_obs" , "state_obs" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__6861__umn" } ,
+        "label": { "type": "literal" , "value": "Terry Benches Gravel Deposit No.1" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (229947 4109464)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "229947.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4109464.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__6860__umn" } ,
+        "label": { "type": "literal" , "value": "Terry Benches Gravel Deposit No. 2" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (230133 4102112)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "230133.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4102112.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__3381__umn" } ,
+        "label": { "type": "literal" , "value": "Unknown Silver Prospect" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (230604 4151736)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "230604.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4151736.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__6781__umn" } ,
+        "label": { "type": "literal" , "value": "Scarecrow Peak Gravel Deposit No. 1" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (230946 4116541)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "230946.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4116541.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__6882__umn" } ,
+        "label": { "type": "literal" , "value": "Unknown" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (231627 4184364)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "231627.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4184364.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__6782__umn" } ,
+        "label": { "type": "literal" , "value": "Scarecrow Peak Gravel Deposit No. 2" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (231798 4120500)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "231798.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4120500.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__1975__umn" } ,
+        "label": { "type": "literal" , "value": "Prospect South Of The Jenny Mine" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (231810 4198582)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "231810.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4198582.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__1968__umn" } ,
+        "label": { "type": "literal" , "value": "Lower Gold Springs Wash Prospect" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (231891 4198276)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "231891.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4198276.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__1980__umn" } ,
+        "label": { "type": "literal" , "value": "Section 23 Prospects" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (231897 4201322)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "231897.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4201322.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__1966__umn" } ,
+        "label": { "type": "literal" , "value": "Jennie Mine" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (231935 4198955)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "231935.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4198955.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      }
+    ]
+  }
+}

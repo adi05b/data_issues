@@ -1,0 +1,21 @@
+source,matcher,affected
+https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,5586
+https://doi.org/10.5066/P9K1HBNT,UMN Matching System v1,179
+https://api.cdr.land/v1/docs/documents,Inferlink Extraction v3,97
+https://mrdata.usgs.gov/vms,UMN Matching System-ProcMinev2,82
+https://mrdata.usgs.gov/phosphate,UMN Matching System v1,71
+https://mrdata.usgs.gov/nicrpge,UMN Matching System v1,25
+https://mrdata.usgs.gov/major-deposits,UMN Matching System v1,24
+https://mrdata.usgs.gov/ree,UMN Matching System v1,20
+https://doi.org/10.2113/econgeo.110.8.1925,SAND,17
+https://doi.org/10.5066/P99RK9SU,SAND,15
+https://mrdata.usgs.gov/porcu,UMN Exact Match v1,13
+https://doi.org/10.3133/pp1802J,SAND,10
+https://mrdata.usgs.gov/deposit,UMN Exact Match v1,8
+https://mrdata.usgs.gov/sedznpb,UMN Exact Match v1,2
+https://mrdata.usgs.gov/pp1802,UMN Matching System v1,2
+https://api.cdr.land/v1/docs/documents,Inferlink Extraction v2,1
+https://doi.org/10.31035/cg2020009,SAND,1
+https://mrdata.usgs.gov/sedcu,UMN Exact Match v1,1
+https://mrdata.usgs.gov/sir20105090z,UMN Exact Match v1,1
+https://mrdata.usgs.gov/carbonatite,UMN Matching System v1,1

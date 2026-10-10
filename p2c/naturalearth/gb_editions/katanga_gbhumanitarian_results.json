@@ -1,0 +1,235 @@
+{
+ "vertices": {
+  "gbHumanitarian": 70328,
+  "gbOpen": 194049
+ },
+ "by_group": {
+  "drop list (state -> Q6152 Tanga)": {
+   "records": 111,
+   "gbopen": {
+    "none": 4,
+    "Lualaba": 43,
+    "Haut-Katanga": 50,
+    "no location": 8,
+    "round placeholder": 1,
+    "Tanganyika": 4,
+    "Haut-Lomami": 1
+   },
+   "gbhumanitarian": {
+    "none": 4,
+    "Lualaba": 42,
+    "Haut-Katanga": 51,
+    "no location": 8,
+    "round placeholder": 1,
+    "Tanganyika": 4,
+    "Haut-Lomami": 1
+   }
+  },
+  "state never normalized": {
+   "records": 148,
+   "gbopen": {
+    "Lualaba": 71,
+    "Haut-Katanga": 77
+   },
+   "gbhumanitarian": {
+    "Lualaba": 71,
+    "Haut-Katanga": 77
+   }
+  },
+  "state normalized to Q3000": {
+   "records": 2,
+   "gbopen": {
+    "Lualaba": 1,
+    "no location": 1
+   },
+   "gbhumanitarian": {
+    "Lualaba": 1,
+    "no location": 1
+   }
+  }
+ },
+ "disagreements": [
+  {
+   "group": "drop list (state -> Q6152 Tanga)",
+   "source_id": "https://api.cdr.land/v1/docs/documents",
+   "record_id": "02c41f98a220d8045ca0024347fc7d386d0df9cd3a8a6f17a4850b1ee6fefc0129",
+   "location": "POINT(26.0917 -10.9542)",
+   "status": "usable",
+   "gbopen": "Haut-Katanga",
+   "gbhumanitarian": "Lualaba",
+   "inside_cod_gbhumanitarian": true,
+   "km_to_boundary_gbhumanitarian": 1.24,
+   "km_to_boundary_gbopen": 0.88,
+   "km_to_cod_gbhumanitarian": 0.0,
+   "agree": false
+  },
+  {
+   "group": "drop list (state -> Q6152 Tanga)",
+   "source_id": "https://mrdata.usgs.gov/mrds",
+   "record_id": "10400590",
+   "location": "POINT (25.9324000000000012 -10.9711999999999996)",
+   "status": "usable",
+   "gbopen": "Lualaba",
+   "gbhumanitarian": "Haut-Katanga",
+   "inside_cod_gbhumanitarian": true,
+   "km_to_boundary_gbhumanitarian": 0.65,
+   "km_to_boundary_gbopen": 0.45,
+   "km_to_cod_gbhumanitarian": 0.0,
+   "agree": false
+  },
+  {
+   "group": "drop list (state -> Q6152 Tanga)",
+   "source_id": "https://mrdata.usgs.gov/mrds",
+   "record_id": "10400593",
+   "location": "POINT (26.5743000000000009 -10.8109999999999999)",
+   "status": "usable",
+   "gbopen": "Lualaba",
+   "gbhumanitarian": "Haut-Katanga",
+   "inside_cod_gbhumanitarian": true,
+   "km_to_boundary_gbhumanitarian": 1.27,
+   "km_to_boundary_gbopen": 0.58,
+   "km_to_cod_gbhumanitarian": 0.0,
+   "agree": false
+  },
+  {
+   "group": "state never normalized",
+   "source_id": "https://mrdata.usgs.gov/sir20105090z",
+   "record_id": "10244",
+   "location": "POINT (25.9324 -10.9712)",
+   "status": "usable",
+   "gbopen": "Lualaba",
+   "gbhumanitarian": "Haut-Katanga",
+   "inside_cod_gbhumanitarian": true,
+   "km_to_boundary_gbhumanitarian": 0.65,
+   "km_to_boundary_gbopen": 0.45,
+   "km_to_cod_gbhumanitarian": 0.0,
+   "agree": false
+  },
+  {
+   "group": "state never normalized",
+   "source_id": "https://mrdata.usgs.gov/sir20105090z",
+   "record_id": "10234",
+   "location": "POINT (26.002179 -10.955476)",
+   "status": "usable",
+   "gbopen": "Haut-Katanga",
+   "gbhumanitarian": "Lualaba",
+   "inside_cod_gbhumanitarian": true,
+   "km_to_boundary_gbhumanitarian": 1.11,
+   "km_to_boundary_gbopen": 2.09,
+   "km_to_cod_gbhumanitarian": 0.0,
+   "agree": false
+  },
+  {
+   "group": "state never normalized",
+   "source_id": "https://mrdata.usgs.gov/sir20105090z",
+   "record_id": "10265",
+   "location": "POINT (26.502895 -10.876856)",
+   "status": "usable",
+   "gbopen": "Haut-Katanga",
+   "gbhumanitarian": "Lualaba",
+   "inside_cod_gbhumanitarian": true,
+   "km_to_boundary_gbhumanitarian": 2.04,
+   "km_to_boundary_gbopen": 1.71,
+   "km_to_cod_gbhumanitarian": 0.0,
+   "agree": false
+  },
+  {
+   "group": "state never normalized",
+   "source_id": "https://mrdata.usgs.gov/sir20105090z",
+   "record_id": "10276",
+   "location": "POINT (26.250828 -11.078243)",
+   "status": "usable",
+   "gbopen": "Lualaba",
+   "gbhumanitarian": "Haut-Katanga",
+   "inside_cod_gbhumanitarian": true,
+   "km_to_boundary_gbhumanitarian": 7.28,
+   "km_to_boundary_gbopen": 0.14,
+   "km_to_cod_gbhumanitarian": 0.0,
+   "agree": false
+  }
+ ],
+ "outside_cod_gbhumanitarian": [
+  {
+   "record_id": "02a714ece70c0d9a72c3d36078290086dd8d7a9aa659f97c7aefe3c35d78020e76",
+   "location": "POINT(-26.05861 -10.55333)",
+   "km_to_cod_gbhumanitarian": 4292.6
+  },
+  {
+   "record_id": "029506dffe37f93eeb0fcd8e37db36e05b09e7ec7ac4f84b1e5ec21c45031838dc",
+   "location": "MULTIPOINT(26.5 10.75)",
+   "km_to_cod_gbhumanitarian": 606.5
+  },
+  {
+   "record_id": "02ecce4ba42721f620ae2000567a88f606d11bde7b441f483b7b47c5b932d96858",
+   "location": "MULTIPOINT(23.499 10.934)",
+   "km_to_cod_gbhumanitarian": 655.7
+  },
+  {
+   "record_id": "10400569",
+   "location": "POINT (26.2227999999999994 10.6202000000000005)",
+   "km_to_cod_gbhumanitarian": 587.5
+  }
+ ],
+ "closest_to_boundary_gbhumanitarian": [
+  {
+   "record_id": "10233",
+   "gbhumanitarian": "Haut-Katanga",
+   "km_to_boundary_gbhumanitarian": 0.01,
+   "km_to_boundary_gbopen": 3.04
+  },
+  {
+   "record_id": "10400590",
+   "gbhumanitarian": "Haut-Katanga",
+   "km_to_boundary_gbhumanitarian": 0.65,
+   "km_to_boundary_gbopen": 0.45
+  },
+  {
+   "record_id": "10244",
+   "gbhumanitarian": "Haut-Katanga",
+   "km_to_boundary_gbhumanitarian": 0.65,
+   "km_to_boundary_gbopen": 0.45
+  },
+  {
+   "record_id": "10134596",
+   "gbhumanitarian": "Haut-Katanga",
+   "km_to_boundary_gbhumanitarian": 0.77,
+   "km_to_boundary_gbopen": 0.61
+  },
+  {
+   "record_id": "10400582",
+   "gbhumanitarian": "Haut-Katanga",
+   "km_to_boundary_gbhumanitarian": 0.88,
+   "km_to_boundary_gbopen": 0.92
+  },
+  {
+   "record_id": "10368",
+   "gbhumanitarian": "Haut-Katanga",
+   "km_to_boundary_gbhumanitarian": 0.88,
+   "km_to_boundary_gbopen": 0.92
+  },
+  {
+   "record_id": "10341",
+   "gbhumanitarian": "Haut-Katanga",
+   "km_to_boundary_gbhumanitarian": 0.98,
+   "km_to_boundary_gbopen": 5.37
+  },
+  {
+   "record_id": "10234",
+   "gbhumanitarian": "Lualaba",
+   "km_to_boundary_gbhumanitarian": 1.11,
+   "km_to_boundary_gbopen": 2.09
+  },
+  {
+   "record_id": "02c41f98a220d8045ca0024347fc7d386d0df9cd3a8a6f17a4850b1ee6fefc0129",
+   "gbhumanitarian": "Lualaba",
+   "km_to_boundary_gbhumanitarian": 1.24,
+   "km_to_boundary_gbopen": 0.88
+  },
+  {
+   "record_id": "10400558",
+   "gbhumanitarian": "Haut-Katanga",
+   "km_to_boundary_gbhumanitarian": 1.25,
+   "km_to_boundary_gbopen": 1.5
+  }
+ ]
+}

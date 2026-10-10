@@ -1,0 +1,271 @@
+minmod_id,country_code,name,match_tier,matched_shape,shapeISO,names_agree_after_folding,minmod_lat,minmod_lon,group,point_is_in_country,point_is_in_shape,km_from_matched_shape
+Q2011,AF,Helmand,iso,Helmand,AF-HEL,True,39.2989361,-76.6160472,outside the country,USA,,15485.2
+Q2027,AF,Panjshir,iso,Panjshir,AF-PAN,True,38.8802391,-77.1717238,outside the country,USA,,16251.3
+Q2126,DZ,Sidi Bel Abbès,iso,Sidi Bel Abbès,DZ-22,True,34.6806024,-1.0999495,inside the country,DZA,Tlemcen,24.3
+Q2146,AO,Bengo Province,iso,Bengo,AO-BGO,True,-9.1042257,13.7289167,inside the country,AGO,Luanda,22.0
+Q2170,AG,Saint Philip Parish,iso,Saint Philip,AG-08,True,40.4368258,-80.0685532,outside the country,USA,,3294.9
+Q2175,AR,Ciudad Autónoma de Buenos Aires,iso,Ciudad Autónoma de Buenos Aires,AR-C,True,-34.6036844,-58.3815591,outside the country,"none (sea, or a country gB lacks)",,8.8
+Q2185,AR,Neuquén,iso,Neuquén,AR-Q,True,-38.94587,-68.0730925,inside the country,ARG,Río Negro,10.7
+Q2193,AR,Tierra del Fuego,iso,Tierra del Fuego,AR-V,True,-54.8053998,-68.3242061,outside the country,"none (sea, or a country gB lacks)",,12.4
+Q2373,BB,Christ Church,iso,Christ Church,BB-01,True,36.0060407,-95.921121,outside the country,USA,,4767.1
+Q2375,BB,Saint George,iso,Saint George,BB-03,True,37.0965278,-113.5684164,outside the country,USA,,6555.2
+Q2376,BB,Saint James,iso,Saint James,BB-04,True,48.523566,-1.3237885,outside the country,FRA,,7562.1
+Q2377,BB,Saint John,iso,Saint John,BB-05,True,45.2733153,-66.063308,outside the country,CAN,,3632.6
+Q2378,BB,Saint Joseph,iso,Saint Joseph,BB-06,True,39.7674578,-94.846681,outside the country,USA,,4901.2
+Q2379,BB,Saint Lucy,iso,Saint Lucy,BB-07,True,38.7614625,-77.4491439,outside the country,USA,,3446.8
+Q2380,BB,Saint Michael,iso,Saint Michael,BB-08,True,36.035977,-95.849052,outside the country,USA,,4755.9
+Q2381,BB,Saint Peter,iso,Saint Peter,BB-09,True,37.0827119,-94.517125,outside the country,USA,,4686.8
+Q2382,BB,Saint Philip,iso,Saint Philip,BB-10,True,35.233114,-89.4364042,outside the country,USA,,4129.5
+Q2383,BB,Saint Thomas,iso,Saint Thomas,BB-11,True,18.3380965,-64.8940946,outside the country,USA,,817.8
+Q2418,BJ,Mono Department,iso,Mono,BJ-MO,True,37.9218608,-118.9528645,outside the country,USA,,13821.8
+Q2481,BW,North-East District,iso,North-East District,BW-NE,True,37.5884461,-94.6863782,outside the country,USA,,14997.0
+Q2482,BW,North-West District,iso,North-West District,BW-NW,True,39.3446307,-76.6854283,outside the country,USA,,12591.1
+Q2483,BW,South-East District,iso,South-East District,BW-SE,True,31.2163798,-82.3527044,outside the country,USA,,13507.6
+Q2624,KH,Kampong Thom,iso,Kampong Thom,KH-6,True,12.8167485,103.8413104,inside the country,KHM,Pursat,37.2
+Q2643,CM,Adamawa,iso,Adamaoua,CM-AD,False,9.3264751,12.3983853,outside the country,NGA,,127.9
+Q2645,CM,East,iso,East,CM-ES,True,39.0185336,-94.2792411,outside the country,USA,,12445.1
+Q2646,CM,Far North,iso,Far North,CM-EN,True,66.7613451,124.123753,outside the country,RUS,,13537.5
+Q2647,CM,Littoral,iso,Littoral,CM-LT,True,48.4622757,-68.5178071,outside the country,CAN,,9921.8
+Q2648,CM,North,iso,North,CM-NO,True,37.09024,-95.712891,outside the country,USA,,12397.3
+Q2649,CM,Northwest,iso,North-West,CM-NW,False,36.3711857,-94.1934606,outside the country,USA,,11999.7
+Q2650,CM,South,iso,South,CM-SU,True,37.631595,-97.3458409,outside the country,USA,,12500.2
+Q2651,CM,Southwest,iso,South-West,CM-SW,False,36.1908813,-95.8897448,outside the country,USA,,12104.2
+Q2652,CM,West,iso,West,CM-OU,True,37.0364989,-95.6705987,outside the country,USA,,12231.5
+Q2665,CA,Yukon,iso,Yukon,CA-YT,True,35.5067215,-97.7625441,outside the country,USA,,3967.1
+Q2667,CV,Boa Vista,iso,Boa Vista,CV-BV,True,38.743466,-120.7304297,outside the country,USA,,11140.4
+Q2668,CV,Brava,iso,Brava,CV-BR,True,40.9897778,-73.6835715,outside the country,USA,,6157.2
+Q2670,CV,Mosteiros,iso,Mosteiros,CV-MO,True,37.8904348,-25.8207556,outside the country,PRT,,2540.2
+Q2671,CV,Paul,iso,Paul,CV-PA,True,37.0625,-95.677068,outside the country,USA,,8144.5
+Q2672,CV,Porto Novo,iso,Porto Novo,CV-PN,True,6.4968574,2.6288523,outside the country,BEN,,3281.7
+Q2675,CV,Ribeira Grande,iso,Ribeira Grande,CV-RG,True,37.8210369,-25.5148137,outside the country,PRT,,2288.9
+Q2677,CV,Sal,iso,Sal,CV-SL,True,26.5958122,-80.2045083,outside the country,USA,,6442.6
+Q2678,CV,Santa Catarina,iso,Santa Catarina,CV-CA,True,-27.2423392,-50.2188556,outside the country,BRA,,5533.3
+Q2680,CV,Santa Cruz,iso,Santa Cruz,CV-CR,True,36.9741171,-122.0307963,outside the country,USA,,11189.2
+Q2684,CV,São Miguel,iso,São Miguel,CV-SM,True,37.780411,-25.4970466,outside the country,PRT,,2509.4
+Q2685,CV,São Vicente,iso,São Vicente,CV-SV,True,-23.9607157,-46.3962022,outside the country,BRA,,5107.6
+Q2719,TD,Mayo-Kebbi Est,iso,Mayo-Kebbi Est,TD-ME,True,9.4046039,14.8454619,inside the country,TCD,Mayo-Kebbi Ouest,27.3
+Q2720,TD,Mayo-Kebbi Ouest,iso,Mayo-Kebbi Ouest,TD-MO,True,10.4113014,15.5943388,inside the country,TCD,Mayo-Kebbi Est,103.9
+Q2769,CN,Shandong,name,Shandong Province,CHN,True,37.8006064,-122.2699918,outside the country,USA,,26332.8
+Q2784,CO,Bogotá D.C.,iso,Bogota Capital District,CO-DC,False,4.2820415,-74.5027042,inside the country,COL,Cundinamarca,25.7
+Q2800,CO,Meta,iso,Meta,CO-MET,True,39.7673258,-104.9753595,outside the country,USA,,5230.2
+Q2820,CG,Lékoumou Department,iso,Likouala,CG-2,False,-3.170382,13.3587288,inside the country,COG,Lékoumou,508.4
+Q2821,CG,Likouala Department,iso,Lékoumou,CG-7,False,2.043924,17.668887,inside the country,COG,Likouala,630.9
+Q2999,CD,Équateur,iso,Équateur,CD-EQ,True,-1.831239,-78.183406,outside the country,ECU,,10513.0
+Q3005,CD,Kasaï Central,iso,Central Kasai,CD-KC,False,-8.4404591,20.4165934,outside the country,AGO,,178.8
+Q3032,DJ,Djibouti,iso,Djibouti,DJ-DJ,True,11.825138,42.590275,inside the country,DJI,Tadjourah,43.6
+Q3039,DM,Saint Joseph Parish,iso,Saint Joseph,DM-06,True,39.0222712,-94.7176504,outside the country,USA,,4524.6
+Q3040,DM,Saint Luke Parish,iso,Saint Luke,DM-07,True,42.1051363,-80.0570722,outside the country,USA,,3629.4
+Q3043,DM,Saint Paul Parish,iso,Saint Paul,DM-10,True,38.86146,-90.7435619,outside the country,USA,,4169.2
+Q3044,DM,Saint Peter Parish,iso,Saint Peter,DM-11,True,40.4524194,-80.0085056,outside the country,USA,,3447.0
+Q3055,DO,Independencia,iso,Independencia,DO-10,True,32.6335748,-115.4289294,outside the country,MEX,,5065.0
+Q3069,DO,San Juan Province,iso,San Juan,DO-22,True,-31.5287127,-68.5360403,outside the country,ARG,,5573.0
+Q3072,DO,Santiago Province,iso,Santiago,DO-25,True,-33.45,-70.6667,outside the country,CHL,,5824.9
+Q3123,EG,Sharqia,iso,Al Sharqia Governorate,EG-SHR,False,30.6730545,31.1593247,inside the country,EGY,Gharbiyya Governorate,24.4
+Q3189,FJ,Central Division,iso,Central,FJ-C,True,34.0440066,-118.2472738,outside the country,USA,,33362.9
+Q3190,FJ,Eastern Division,iso,Eastern,FJ-E,True,32.8094305,-117.1289937,outside the country,USA,,8823.6
+Q3198,FJ,Northern Division,iso,Northern,FJ-N,True,32.8768766,-117.2156345,outside the country,USA,,8835.8
+Q3204,FJ,Western Division,iso,Western,FJ-W,True,42.9662198,-78.7021134,outside the country,USA,,29144.2
+Q3392,GH,Ahafo,iso,Ahafo Region,GH-AF,True,7.5821372,-2.5497463,inside the country,GHA,Bono Region,39.7
+Q3450,GD,Saint John Parish,iso,Saint John,GD-04,True,30.1118331,-90.4879916,outside the country,USA,,3762.5
+Q3451,GD,Saint Mark Parish,iso,Saint Mark,GD-05,True,40.5881863,-73.9495701,outside the country,USA,,3430.7
+Q3470,GT,Santa Rosa Department,iso,Santa Rosa,GT-SR,True,38.4405759,-122.7037543,outside the country,USA,,4463.5
+Q3536,HT,Centre,iso,Centre Department,HT-CE,True,32.8370251,-96.7773882,outside the country,USA,,3112.3
+Q3537,HT,Grand'Anse,iso,Département de la Grande-Anse,HT-GA,False,12.0166667,-61.7666667,outside the country,GRD,,1510.3
+Q3539,HT,Nord,iso,Département du Nord,HT-ND,False,43.190526,-89.437921,outside the country,USA,,3190.5
+Q3542,HT,Ouest,iso,Département de l'Ouest,HT-OU,False,45.4547249,-73.6502365,outside the country,CAN,,2940.2
+Q3543,HT,Sud,iso,Sud Department,HT-SD,True,29.9213248,-90.0973772,outside the country,USA,,2159.7
+Q3556,HN,La Paz Department,iso,La Paz,HN-LP,True,-15.0892416,-68.5247149,outside the country,BOL,,3848.2
+Q3624,IS,Capital Region,iso,Capital Region,IS-1,True,38.5656957,-92.1816949,outside the country,USA,,8274.4
+Q3626,IS,Northeastern Region,iso,Northeastern Region,IS-6,True,43.2994285,-74.2179326,outside the country,USA,,6620.0
+Q3627,IS,Northwestern Region,iso,Northwestern Region,IS-5,True,41.9133932,-73.0471688,outside the country,USA,,6315.8
+Q3650,IN,Lakshadweep,iso,Lakshadweep,IN-LD,True,10.3280265,72.7846336,outside the country,"none (sea, or a country gB lacks)",,30.1
+Q3679,ID,Kalimantan Barat,iso,West Kalimantan,ID-KB,False,0.4773475,106.6131405,outside the country,"none (sea, or a country gB lacks)",,223.9
+Q3691,ID,Papua,iso,Papua,ID-PA,True,-5.0122202,141.3470159,outside the country,PNG,,38.5
+Q3702,IR,Alborz,iso,Razavi Khorasan,IR-30,False,35.9960467,50.9289246,inside the country,IRN,Alborz,605.3
+Q3703,IR,Ardabil,iso,Hamadan,IR-24,False,38.4853276,47.8911209,inside the country,IRN,Ardabil,309.5
+Q3704,IR,Bushehr,iso,Kohgiluyeh and Boyer-Ahmad,IR-18,False,28.7620739,51.5150077,inside the country,IRN,Bushehr,152.8
+Q3706,IR,East Azerbaijan,iso,Ardabil,IR-03,False,37.9035733,46.2682109,inside the country,IRN,East Azerbaijan,121.5
+Q3708,IR,Gilan,iso,East Azerbaijan,IR-01,False,37.2809455,49.5924134,inside the country,IRN,Gilan,139.1
+Q3710,IR,Hamadan,iso,Sistan and Baluchestan,IR-13,False,34.9193607,47.4832925,inside the country,IRN,Kermanshah,1416.8
+Q3712,IR,Ilam,iso,Kurdistan,IR-16,False,33.2957618,46.670534,inside the country,IRN,Ilam,160.7
+Q3713,IR,Isfahan,iso,Khuzestan,IR-10,False,33.2771073,52.3613378,inside the country,IRN,Isfahan,277.9
+Q3714,IR,Kerman,iso,Chaharmahal and Bakhtiari,IR-08,False,29.4850089,57.6439048,inside the country,IRN,Kerman,726.1
+Q3715,IR,Kermanshah,iso,Ilam,IR-05,False,34.4576233,46.670534,inside the country,IRN,Kermanshah,64.1
+Q3716,IR,Khuzestan,iso,Bushehr,IR-06,False,31.4360149,49.041312,inside the country,IRN,Khuzestan,180.5
+Q3717,IR,Kohgiluyeh and Boyer-Ahmad,iso,Kermanshah,IR-17,False,30.724586,50.8456323,inside the country,IRN,Kohgiluyeh and Boyer-Ahmad,511.3
+Q3718,IR,Kurdistan,iso,Semnan,IR-12,False,35.9553579,47.1362125,inside the country,IRN,Kurdistan,531.0
+Q3719,IR,Lorestan,iso,Kerman,IR-15,False,33.5818394,48.3988186,inside the country,IRN,Lorestan,737.9
+Q3721,IR,Mazandaran,iso,West Azerbaijan,IR-02,False,36.2262393,52.5318604,inside the country,IRN,Mazandaran,570.6
+Q3722,IR,North Khorasan,iso,Qazvin,IR-28,False,37.4710353,57.1013188,inside the country,IRN,North Khorasan,704.3
+Q3723,IR,Qazvin,iso,Qom,IR-26,False,36.0881317,49.8547266,inside the country,IRN,Qazvin,144.8
+Q3724,IR,Qom,iso,Yazd,IR-25,False,34.6415764,50.8746035,inside the country,IRN,Qom,334.9
+Q3725,IR,Razavi Khorasan,iso,Alborz,IR-09,False,35.1020253,59.1041758,inside the country,IRN,Razavi Khorasan,855.4
+Q3726,IR,Semnan,iso,Lorestan,IR-20,False,35.2255585,54.4342138,inside the country,IRN,Semnan,531.8
+Q3727,IR,Sistan and Baluchestan,iso,Zanjan,IR-11,False,27.5299906,60.5820676,inside the country,IRN,Sistan and Baluchestan,1560.4
+Q3729,IR,Tehran,iso,Hormozgan,IR-23,False,35.7248416,51.381653,inside the country,IRN,Tehran,885.5
+Q3730,IR,West Azarbaijan,iso,Isfahan,IR-04,False,37.4550062,45,inside the country,IRN,West Azerbaijan,706.7
+Q3732,IR,Zanjan,iso,Gilan,IR-19,False,36.5018185,48.3988186,inside the country,IRN,Zanjan,93.1
+Q3770,IE,Munster,iso,Munster,IE-M,True,51.9471197,7.584532,outside the country,DEU,,1613.6
+Q3775,IE,Ulster,iso,Ulster,IE-U,True,54.7616555,-6.9612273,outside the country,GBR,,38.5
+Q3780,IL,Central District,iso,Central District,IL-M,True,47.6087583,-122.2964235,outside the country,USA,,17511.6
+Q3783,IL,Northern District,iso,Northern District,IL-Z,True,36.1511864,-95.9951763,outside the country,USA,,14549.1
+Q3784,IL,Southern District,iso,Southern District,IL-D,True,40.7137586,-74.0009059,outside the country,USA,,12063.8
+Q3902,JM,Saint Andrew,iso,Saint Andrew,JM-02,True,37.2245103,-95.7021189,outside the country,USA,,2974.7
+Q3903,JM,Saint Ann Parish,iso,Saint Ann,JM-06,True,37.2871452,-77.4103533,outside the country,USA,,2087.6
+Q3905,JM,Saint Elizabeth Parish,iso,Saint Elizabeth,JM-11,True,38.9925308,-94.58992,outside the country,USA,,2959.4
+Q3906,JM,Saint James Parish,iso,Saint James,JM-08,True,30.0179292,-90.7913227,outside the country,USA,,1915.0
+Q3907,JM,Saint Mary Parish,iso,Saint Mary,JM-05,True,36.092522,-95.973844,outside the country,USA,,2872.4
+Q3908,JM,Saint Thomas Parish,iso,Saint Thomas,JM-03,True,41.4425389,-81.7402218,outside the country,USA,,2653.3
+Q3930,JP,Kōchi Prefecture,iso,Kochi Prefecture,JP-39,True,33.2879161,132.2759262,outside the country,"none (sea, or a country gB lacks)",,39.9
+Q4034,KI,Gilbert Islands,iso,Gilbert Islands,KI-G,True,0.3524262,174.7552634,outside the country,"none (sea, or a country gB lacks)",,89.9
+Q4036,KI,Phoenix Islands,iso,Phoenix Islands,KI-P,True,33.3284369,-111.9824774,outside the country,USA,,7741.7
+Q4047,KW,Capital,iso,Al Asimah,KW-KU,False,26.2285161,50.5860497,outside the country,BHR,,426.9
+Q4204,LS,Berea District,iso,Berea District,LS-D,True,41.3661614,-81.8543026,outside the country,USA,,14449.0
+Q4223,LR,Maryland County,iso,Maryland,LR-MY,True,39.0457549,-76.6412712,outside the country,USA,,8500.2
+Q4225,LR,Nimba,iso,Nimba,LR-NI,True,7.6166667,-8.4166667,outside the country,GIN,,10.3
+Q4226,LR,River Cess County,iso,River Gee,LR-RI,False,5.9025328,-9.456155,inside the country,LBR,Rivercess,140.5
+Q4227,LR,River Gee County,iso,Rivercess,LR-RG,False,5.2604894,-7.87216,inside the country,LBR,River Gee,140.8
+Q4233,LY,Jabal al Akhdar,iso,Al Jabal al Akhdar,LY-JA,False,23.1856081,57.3713879,outside the country,OMN,,4011.6
+Q4250,LI,Balzers,iso,Balzers,LI-01,True,42.0528357,-88.0366848,outside the country,USA,,10837.7
+Q4251,LI,Eschen,iso,Eschen,LI-02,True,40.7669574,-73.9522821,outside the country,USA,,9289.3
+Q4254,LI,Planken,iso,Planken,LI-05,True,40.6650576,-73.504798,outside the country,USA,,9244.7
+Q4378,MW,Southern Region,iso,Southern Region,MW-S,True,32.7504957,-97.3315476,outside the country,USA,,15545.5
+Q4391,MY,Perlis,iso,Perlis,MY-09,True,29.9227094,-90.1228559,outside the country,USA,,21277.5
+Q4397,MV,Addu Atoll,iso,Addu,MV-01,False,-0.6300995,73.1585626,outside the country,"none (sea, or a country gB lacks)",,6.0
+Q4398,MV,Alif Alif Atoll,iso,Alif Alif,MV-02,False,4.085,72.8515479,outside the country,"none (sea, or a country gB lacks)",,40.2
+Q4399,MV,Alif Dhaal Atoll,iso,Alif Dhaalu,MV-00,False,3.6543302,72.8042797,outside the country,"none (sea, or a country gB lacks)",,19.5
+Q4403,MV,Gaafu Alif Atoll,iso,Gaafu Alif,MV-27,False,0.6124813,73.323708,outside the country,"none (sea, or a country gB lacks)",,27.0
+Q4404,MV,Gaafu Dhaalu Atoll,iso,Gaafu Dhaalu,MV-28,False,0.358804,73.1821623,outside the country,"none (sea, or a country gB lacks)",,17.2
+Q4406,MV,Haa Alif Atoll,iso,Haa Alif,MV-07,False,6.9903488,72.9460566,outside the country,"none (sea, or a country gB lacks)",,5.9
+Q4408,MV,Kaafu Atoll,iso,Kaafu,MV-26,False,4.4558979,73.5594128,outside the country,"none (sea, or a country gB lacks)",,25.9
+Q4409,MV,Laamu Atoll,iso,Laamu,MV-05,False,1.9430737,73.4180211,outside the country,"none (sea, or a country gB lacks)",,13.5
+Q4411,MV,Malé,iso,Malé,MV-MLE,True,46.3488867,10.9072489,outside the country,ITA,,8377.8
+Q4412,MV,Meemu Atoll,iso,Meemu,MV-12,False,3.0090345,73.5122928,outside the country,"none (sea, or a country gB lacks)",,25.9
+Q4413,MV,Noonu Atoll,iso,Noonu,MV-25,False,5.8551276,73.323708,outside the country,"none (sea, or a country gB lacks)",,14.4
+Q4417,MV,Shaviyani Atoll,iso,Shaviyani,MV-24,False,6.17511,73.1349605,outside the country,"none (sea, or a country gB lacks)",,13.7
+Q4442,MT,Floriana,iso,Floriana,MT-09,True,45.4952185,-73.7139576,outside the country,CAN,,9849.4
+Q4443,MT,Fontana,iso,Fontana,MT-10,True,34.0922335,-117.435048,outside the country,USA,,14616.8
+Q4456,MT,Lija,iso,Lija,MT-24,True,49.180076,-123.103317,outside the country,CAN,,15337.4
+Q4458,MT,Marsa,iso,Marsa,MT-26,True,34.0319587,-118.4455535,outside the country,USA,,14756.2
+Q4471,MT,Paola,iso,Paola,MT-39,True,38.5722353,-94.8791294,outside the country,USA,,12144.1
+Q4472,MT,Pembroke,iso,Pembroke,MT-40,True,34.6801626,-79.1950373,outside the country,USA,,10396.7
+Q4473,MT,Pietà,iso,Pietà,MT-41,True,42.21862,-83.734647,outside the country,USA,,10925.5
+Q4477,MT,Rabat,iso,Rabat Malta,MT-46,False,33.9715904,-6.8498129,outside the country,MAR,,2360.5
+Q4478,MT,Saint Lawrence,iso,Saint Lawerence,MT-50,False,38.9578056,-95.2565689,outside the country,USA,,12152.5
+Q4486,MT,St. Julian's,iso,Saint Julian's,MT-48,False,42.2122513,-85.8917127,outside the country,USA,,11163.3
+Q4492,MT,Victoria,iso,Rabat Gozo,MT-45,False,28.8052674,-97.0035982,outside the country,USA,,12372.5
+Q4493,MT,Xagħra,iso,Xagħra,MT-61,True,36.050845,14.267482,inside the country,MLT,Xgħajra,35.3
+Q4495,MT,Xgħajra,iso,Xgħajra,MT-63,True,35.8868282,14.5472391,inside the country,MLT,Xagħra,34.5
+Q4528,MU,Saint Brandon Islands,iso,St. Brandon,MU-CC,False,-16.583333,59.616667,outside the country,"none (sea, or a country gB lacks)",,17.0
+Q4539,MX,Durango,iso,Durango,MX-DUR,True,37.27528,-107.8800667,outside the country,USA,,1175.5
+Q4543,MX,Hidalgo,iso,Hidalgo,MX-HID,True,26.1003547,-98.2630684,inside the country,MEX,,522.5
+Q4555,MX,Sonora,iso,Sonora,MX-SON,True,37.9829496,-120.3821724,outside the country,USA,,859.3
+Q4562,FM,Chuuk State,iso,Chuuk,FM-TRK,True,7.1386759,151.5593065,outside the country,"none (sea, or a country gB lacks)",,20.6
+Q4565,FM,Yap State,iso,Yap,FM-YAP,True,8.671649,142.8439335,outside the country,"none (sea, or a country gB lacks)",,181.1
+Q4690,MA,L'Oriental,iso,Oriental,MA-02,False,37.069683,-94.512277,outside the country,USA,,10040.3
+Q4709,MA,Rabat-Salé-Kénitra,iso,Rabat-Salé-Kenitra,MA-04,True,34.076864,-7.3454476,outside the country,"none (sea, or a country gB lacks)",,36.5
+Q4780,NR,Boe District,iso,Boe,NR-06,True,39.0732776,-94.5710498,outside the country,USA,,29355.8
+Q4827,NZ,Bay of Plenty Region,iso,Bay of Plenty Region,NZ-BOP,True,-37.4233917,176.7416374,outside the country,"none (sea, or a country gB lacks)",,40.0
+Q4842,NZ,West Coast Region,iso,West Coast Region,NZ-WTC,True,62.4113634,-149.0729714,outside the country,USA,,37138.9
+Q4864,NE,Tahoua Region,iso,Tillaberi,NE-5,False,16.0902543,5.3939551,inside the country,NER,Tahoua/Agadez,171.9
+Q4877,NG,Delta,iso,Delta,NG-DE,True,33.7453784,-90.7354508,outside the country,USA,,11064.9
+Q5000,NO,Innlandet,iso,Innlandet,NO-34,True,61.1935787,5.5083266,inside the country,NOR,Vestland,223.4
+Q5010,NO,Vestland,iso,Vestland,NO-46,True,60.9069442,3.9627081,outside the country,"none (sea, or a country gB lacks)",,76.8
+Q5011,NO,Viken,iso,Viken,NO-30,True,59.9653005,7.4505144,inside the country,NOR,Vestfold og Telemark,15.4
+Q5031,PK,Punjab,iso,Punjab,PK-PB,True,31.1471305,75.3412179,outside the country,IND,,71.8
+Q5075,PA,Panamá Oeste Province,iso,Provincia de Panamá Oeste,PA-10,True,9.1196751,-79.2902133,inside the country,PAN,Provincia de Panamá,35.6
+Q5084,PG,Gulf,iso,Gulf Province,PG-GPK,True,37.0548315,-94.4370419,outside the country,USA,,26801.8
+Q5085,PG,Hela,name,Hela Province,PG-HLA*,True,42.3329516,-83.0482618,outside the country,USA,,25544.6
+Q5097,PG,Western Highlands Province,iso,Western Province,PG-WHM,False,-5.6268128,144.2593118,inside the country,PNG,Western Highlands Province,183.4
+Q5107,PY,Central Department,iso,CENTRAL,PY-11,True,36.1559229,-95.9662075,outside the country,USA,,8028.0
+Q5127,PE,Ica,iso,Ica,PE-ICA,True,42.3528832,-71.0430097,outside the country,USA,,6168.9
+Q5129,PE,La Libertad,iso,La Libertad,PE-LAL,True,13.490697,-89.3084607,outside the country,SLV,,2517.3
+Q5131,PE,Lima,iso,Lima,PE-LIM,True,-12.0463731,-77.042754,inside the country,PER,Municipalidad Metropolitana de Lima,16.4
+Q5135,PE,Pasco,iso,Pasco,PE-PAS,True,46.2305049,-119.0922316,outside the country,USA,,7855.6
+Q5138,PE,San Martín,iso,San Martín,PE-SAM,True,37.0849464,-121.6102216,outside the country,USA,,6778.7
+Q5372,RO,Alba,iso,ALBA,RO-AB,True,44.7009153,8.0356911,outside the country,ITA,,1635.9
+Q5398,RO,Maramureș County,iso,MARAMURES,RO-MM,True,46.5569904,24.6723215,inside the country,ROU,MURES,110.7
+Q5491,RU,Volgograd Oblast,iso,Volgograd Oblast,RU-VGG,True,49.2587393,39.8154463,outside the country,UKR,,204.4
+Q5518,LC,Canaries,iso,Canaries,LC-12,True,28.2915637,-16.6291304,outside the country,ESP,,5178.5
+Q5531,VC,Saint Andrew Parish,iso,Saint Andrew,VC-02,True,43.0242999,-81.2025,outside the country,CAN,,3981.4
+Q5532,VC,Saint David Parish,iso,Saint David,VC-03,True,43.8523095,-79.5236654,outside the country,CAN,,3947.6
+Q5533,VC,Saint George Parish,iso,Saint George,VC-04,True,42.957609,-81.326705,outside the country,CAN,,3986.4
+Q5534,VC,Saint Patrick Parish,iso,Saint Patrick,VC-05,True,39.7509186,-94.8450556,outside the country,USA,,4746.8
+Q5546,SM,Acquaviva,iso,Acquaviva,SM-01,True,41.8671597,14.7469479,outside the country,ITA,,344.9
+Q5548,SM,Chiesanuova,iso,Chiesanuova,SM-02,True,45.4226172,7.6503854,outside the country,ITA,,553.8
+Q5554,SM,Serravalle,iso,Serravalle,SM-09,True,44.7232084,8.8574005,outside the country,ITA,,407.5
+Q5562,SA,Eastern Province,iso,Eastern Region,SA-04,True,24.0439932,45.6589225,inside the country,SAU,Riyadh Region,219.8
+Q5579,SN,Saint-Louis,iso,Saint Louis,SN-SL,True,38.6270025,-90.1994042,outside the country,USA,,8554.7
+Q5617,SC,Bel Air,name,Bel Air,,True,34.1002455,-118.459463,outside the country,USA,,19775.6
+Q5618,SC,Bel Ombre,name,Bel Ombre,,True,-20.5010095,57.4259624,outside the country,MUS,,1774.1
+Q5619,SC,Cascade,name,Cascade,,True,44.5162821,-116.0417983,outside the country,USA,,19804.8
+Q5620,SC,Glacis,name,Glacis,,True,47.1157303,-70.3028183,outside the country,CAN,,15089.5
+Q5628,SC,Plaisance,name,Plaisance,,True,45.607095,-75.1142745,outside the country,CAN,,15529.6
+Q5633,SC,Takamaka,name,Takamaka,,True,37.9645917,-1.2217727,outside the country,ESP,,7881.3
+Q5637,SL,Western Area,iso,Western Area,SL-W,True,40.2545969,-80.2455444,outside the country,USA,,8224.9
+Q5875,SO,Bari,iso,Bari,SO-BR,True,41.1171432,16.8718715,outside the country,ITA,,4863.2
+Q5876,SO,Bay,iso,Bay,SO-BY,True,37.0365534,-95.6174767,outside the country,USA,,15798.6
+Q5882,SO,Middle Juba,iso,Middle Juba,SO-JD,True,2.0780488,41.6011814,inside the country,SOM,Gedo,15.9
+Q5885,SO,Nugal,iso,Nugaal,SO-NU,False,43.2793861,17.0339205,outside the country,HRV,,5187.5
+Q5889,ZA,Free State,name,Free State,FS,True,37.6858525,-97.2811256,outside the country,USA,,15409.1
+Q5894,ZA,North West,name,North West,NW,True,32.758852,-97.328806,outside the country,USA,,14823.8
+Q5904,KR,Jeju,iso,Jeju,KR-49,True,33.9568278,-84.13135,outside the country,USA,,23342.6
+Q5908,KR,Sejong City,iso,Sejong,KR-50,True,34.0523323,-118.3084897,outside the country,USA,,27237.2
+Q5917,SS,Lakes,iso,Lakes,SS-LK,True,37.1628255,-95.6911623,outside the country,USA,,14195.9
+Q5919,SS,Unity,iso,Unity,SS-UY,True,37.7871276,-122.4034079,outside the country,USA,,17072.9
+Q5937,ES,Canarias,name,Canarias,ESP,True,28.2916,16.6291,outside the country,LBY,,3327.8
+Q6012,SD,Blue Nile,iso,Blue Nile,SD-NB,True,47.598673,-122.334419,outside the country,USA,,17713.6
+Q6013,SD,Central Darfur,iso,Central Darfur,SD-DC,True,14.3782747,24.9042208,inside the country,SDN,North Darfur,108.0
+Q6014,SD,East Darfur,iso,East Darfur,SD-DE,True,14.3782747,24.9042208,inside the country,SDN,North Darfur,168.4
+Q6019,SD,Northern,iso,Northern,SD-NO,True,38.063817,-84.4628648,outside the country,USA,,12280.4
+Q6020,SD,Red Sea,iso,Red Sea,SD-RS,True,20.280232,38.512573,outside the country,"none (sea, or a country gB lacks)",,143.1
+Q6021,SD,River Nile,iso,River Nile,SD-NR,True,23.9727595,32.8749206,outside the country,EGY,,219.0
+Q6025,SD,West Darfur,iso,West Darfur,SD-DW,True,12.8463561,23.0011989,inside the country,SDN,Central Darfur,15.3
+Q6027,SD,White Nile,iso,White Nile,SD-NW,True,9.3321516,31.46153,outside the country,SSD,,299.3
+Q6080,CH,Uri,iso,Uri,CH-UR,True,41.4860647,-71.5308537,outside the country,USA,,8890.8
+Q6100,TW,Chiayi,iso,Chiayi,TW-CYI,True,23.4518428,120.2554615,inside the country,TWN,Chiayi County,15.4
+Q6187,TH,Nan,iso,Nan Province,TH-55,True,45.522208,-122.9863281,outside the country,USA,,24965.4
+Q6221,TH,Sukhothai,iso,Sukhothai Province,TH-64,True,43.6485556,-79.3746639,outside the country,CAN,,20048.9
+Q6224,TH,Surin,iso,Surin Province,TH-32,True,37.0358271,-95.6276367,outside the country,USA,,22187.8
+Q6225,TH,Tak,iso,Tak Province,TH-63,True,45.0299646,-93.1049815,outside the country,USA,,21420.8
+Q6232,TH,Yala,iso,Yala Province,TH-95,True,44.0579117,-123.1653848,outside the country,USA,,25214.9
+Q6237,BS,Bimini,iso,Biminis,BS-BI,False,24.6415325,-79.8506226,outside the country,"none (sea, or a country gB lacks)",,63.8
+Q6238,BS,Black Point,iso,Black Point,BS-BP,True,41.3951024,-71.4650556,outside the country,"none (sea, or a country gB lacks)",,1976.8
+Q6239,BS,Cat Island,iso,Cat Island,BS-CI,True,30.2280136,-89.1014933,outside the country,USA,,1585.9
+Q6243,BS,Crooked Island,iso,Crooked Island,BS-CK,True,22.6390982,-74.006509,inside the country,BHS,Acklins,7.1
+Q6246,BS,Freeport,iso,City of Freeport,BS-FP,True,42.2966861,-89.6212271,outside the country,USA,,2131.3
+Q6251,BS,Harbour Island,iso,Harbour Island,BS-HI,True,25.50011,-76.6340511,inside the country,BHS,North Eleuthera,12.7
+Q6256,BS,Long Island,iso,Long Island,BS-LI,True,40.789142,-73.134961,outside the country,USA,,1913.9
+Q6260,BS,New Providence,iso,New Providence,BS-NP,True,40.6984348,-74.4015405,outside the country,USA,,1743.1
+Q6265,BS,Ragged Island,iso,Ragged Island,BS-RI,True,41.597431,-71.260202,outside the country,USA,,2101.7
+Q6274,BS,Spanish Wells,iso,Spanish Wells,BS-SW,True,26.3250599,-81.7980328,outside the country,USA,,552.7
+Q6290,TG,Maritime,iso,Maritime Region,TG-M,True,41.6551493,-83.5278467,outside the country,USA,,10131.0
+Q6294,TO,ʻEua,iso,'Eua,TO-01,True,37.09024,-95.712891,outside the country,USA,,10921.2
+Q6308,TT,San Fernando,iso,San Fernando,TT-SFO,True,34.2819461,-118.4389719,outside the country,USA,,6860.7
+Q6315,TN,Béja,iso,Béja,TN-31,True,35.1722716,8.8307626,inside the country,TUN,Kasserine,136.1
+Q6421,TM,Balkan Region,iso,Balkan,TM-B,True,41.8101472,21.0937311,outside the country,MKD,,3476.9
+Q6430,TV,Nukufetau,iso,Nukufetau,TV-NKF,True,-8,178.5,outside the country,"none (sea, or a country gB lacks)",,11.3
+Q6462,UG,Central Region,iso,Central Region,UG-C,True,44.296875,-94.7401733,outside the country,USA,,14784.4
+Q6464,UG,Eastern Region,iso,Eastern Region,UG-E,True,6.2374036,-0.4502368,outside the country,GHA,,3730.5
+Q6533,UG,Northern Region,iso,Northern Region,UG-N,True,9.5439269,-0.9056623,outside the country,GHA,,3588.1
+Q6555,UG,Western Region,iso,Western Region,UG-W,True,40.7667215,-111.8877203,outside the country,USA,,16354.2
+Q6841,US,American Samoa,iso,American Samoa,US-AS,True,-14.270972,-170.132217,outside the country,"none (sea, or a country gB lacks)",,45.9
+Q6920,UY,Florida,iso,Florida,UY-FD,True,28.0359495,-82.4579289,outside the country,USA,,7405.1
+Q6929,UY,San José,iso,San José,UY-SJ,True,37.3492968,-121.9056049,outside the country,USA,,10697.1
+Q6950,VU,Shefa,iso,Shefa Province,VU-SEE,True,32.805765,35.169971,outside the country,ISR,,15745.8
+Q6952,VU,Torba,iso,Torba,VU-TOB,True,37.07653,27.456573,outside the country,TUR,,16411.8
+Q6953,VE,Amazonas,iso,Amazonas,VE-Z,True,-3.4168427,-65.8560646,outside the country,BRA,,451.0
+Q6958,VE,Bolívar,iso,Bolívar,VE-F,True,37.6144838,-93.4104749,outside the country,USA,,4473.1
+Q6962,VE,Distrito Capital,iso,Distrito Capital,VE-A,True,41.2614846,-95.9310807,outside the country,USA,,4680.1
+Q6966,VE,La Guaira,iso,La Guaira,VE-X,True,29.3052268,-94.7913854,outside the country,USA,,3685.9
+Q6967,VE,Lara,iso,Lara,VE-K,True,33.9822165,-118.1322747,outside the country,USA,,5879.1
+Q6968,VE,Mérida,iso,Mérida,VE-L,True,20.9673702,-89.5925857,outside the country,MEX,,2392.5
+Q6969,VE,Miranda,iso,Miranda,VE-M,True,42.3519383,-71.5290766,outside the country,USA,,3567.2
+Q6973,VE,Sucre,iso,Sucre,VE-R,True,-19.035345,-65.2592128,outside the country,BOL,,3231.6
+Q6975,VE,Trujillo,iso,Trujillo,VE-T,True,36.6734343,-121.6287588,outside the country,USA,,6366.0
+Q7065,ZM,Central Province,iso,Central,ZM-02,True,7.2564996,80.7214417,outside the country,LKA,,5923.0
+Q7067,ZM,Eastern Province,iso,Eastern,ZM-03,True,23.1669688,49.3653149,outside the country,SAU,,4249.4
+Q7070,ZM,Muchinga Province,iso,Muchinga,ZM-10,True,-15.382193,28.26158,inside the country,ZMB,Lusaka,389.9
+Q7071,ZM,Northern Province,iso,Northern,ZM-05,True,8.8855027,80.2767327,outside the country,LKA,,5698.9
+Q7073,ZM,Southern Province,iso,Southern,ZM-07,True,6.237375,80.543845,outside the country,LKA,,6256.4
+Q7074,ZM,Western Province,iso,Western,ZM-01,True,6.9016086,80.0087746,outside the country,LKA,,6491.4

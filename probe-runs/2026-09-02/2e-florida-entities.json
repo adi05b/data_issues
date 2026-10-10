@@ -1,0 +1,26 @@
+{ "head": {
+    "vars": [ "ent" , "label" , "country_raw" , "country_label" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q5307" } ,
+        "label": { "type": "literal" , "value": "Florida" } ,
+        "country_raw": { "type": "literal" , "value": "Q1177" } ,
+        "country_label": { "type": "literal" , "value": "Puerto Rico" }
+      } ,
+      { 
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q6850" } ,
+        "label": { "type": "literal" , "value": "Florida" } ,
+        "country_raw": { "type": "literal" , "value": "Q1235" } ,
+        "country_label": { "type": "literal" , "value": "United States" }
+      } ,
+      { 
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q6920" } ,
+        "label": { "type": "literal" , "value": "Florida" } ,
+        "country_raw": { "type": "literal" , "value": "Q1237" } ,
+        "country_label": { "type": "literal" , "value": "Uruguay" }
+      }
+    ]
+  }
+}

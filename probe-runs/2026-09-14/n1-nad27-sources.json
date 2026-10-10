@@ -1,0 +1,13 @@
+{ "head": {
+    "vars": [ "source" , "crs_label" , "records" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:4267" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7720" }
+      }
+    ]
+  }
+}

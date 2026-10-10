@@ -1,0 +1,9 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?qid ?country_label
+WHERE {
+  ?s a :StateOrProvince ; :country ?qid .
+  BIND(IRI(CONCAT("https://minmod.isi.edu/resource/", STR(?qid))) AS ?e)
+  ?e rdfs:label ?country_label
+}

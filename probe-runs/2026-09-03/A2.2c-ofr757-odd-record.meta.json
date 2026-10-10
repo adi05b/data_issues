@@ -1,0 +1,11 @@
+{
+  "id": "A2.2c-ofr757-odd-record",
+  "sent_at": "2026-09-02T23:54:09.170314+00:00",
+  "http_status": 200,
+  "elapsed_ms": 2652,
+  "bytes": 536,
+  "curl_exit": 0,
+  "row_count": 1,
+  "truncated_by_limit": false,
+  "error": null
+}

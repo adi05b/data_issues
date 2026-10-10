@@ -1,0 +1,11 @@
+{
+  "id": "P0.1-candidateentity",
+  "sent_at": "2026-09-02T21:49:56.338639+00:00",
+  "http_status": 200,
+  "elapsed_ms": 69012,
+  "bytes": 1823,
+  "curl_exit": 0,
+  "row_count": 5,
+  "truncated_by_limit": false,
+  "error": null
+}

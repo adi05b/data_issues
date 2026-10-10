@@ -1,0 +1,14 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?nad ?nad_wkt ?sib ?sib_src ?sib_wkt ?sib_crs
+WHERE {
+  ?nad a :MineralSite ; :source_id "https://doi.org/10.5066/P96MMRFD" ; :location_info ?nli .
+  ?nli :location ?nad_wkt ; :crs ?nc .
+  ?nc :normalized_uri ?nce . ?nce rdfs:label ?nk . FILTER(STR(?nk)="EPSG:4267")
+  { ?nad owl:sameAs ?sib } UNION { ?sib owl:sameAs ?nad }
+  ?sib :source_id ?sib_src . FILTER(?sib_src != "https://doi.org/10.5066/P96MMRFD")
+  ?sib :location_info ?sli . ?sli :location ?sib_wkt .
+  OPTIONAL { ?sli :crs ?sc . ?sc :normalized_uri ?sce . ?sce rdfs:label ?sib_crs }
+}

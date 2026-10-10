@@ -1,0 +1,602 @@
+{ "head": {
+    "vars": [ "site" , "name" , "obs" , "siblings" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01026__umn" } ,
+        "name": { "type": "literal" , "value": "Thompson Sand Co." } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-00269__umn" } ,
+        "name": { "type": "literal" , "value": "Stones sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-17757__umn" } ,
+        "name": { "type": "literal" , "value": "Sandstone Quarry" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-00830__umn" } ,
+        "name": { "type": "literal" , "value": "Short Sand Rock" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-08784__umn" } ,
+        "name": { "type": "literal" , "value": "East Jenson sand and gravel pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-04527__umn" } ,
+        "name": { "type": "literal" , "value": "North Bend sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-09477__umn" } ,
+        "name": { "type": "literal" , "value": "Copeland sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01426__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01039__umn" } ,
+        "name": { "type": "literal" , "value": "Eaton sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-07305__umn" } ,
+        "name": { "type": "literal" , "value": "Eugene sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01145__umn" } ,
+        "name": { "type": "literal" , "value": "Portland sand and gravel Co." } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01388__umn" } ,
+        "name": { "type": "literal" , "value": "Barton sand and gravel pit and Plant" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-17773__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01024__umn" } ,
+        "name": { "type": "literal" , "value": "Dales sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01384__umn" } ,
+        "name": { "type": "literal" , "value": "American sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01154__umn" } ,
+        "name": { "type": "literal" , "value": "Portland sand and gravel Co." } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-10753__umn" } ,
+        "name": { "type": "literal" , "value": "Sandstone Pit" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-17798__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-17795__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-17770__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-02207__umn" } ,
+        "name": { "type": "literal" , "value": "Baker City sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-20380__umn" } ,
+        "name": { "type": "literal" , "value": "Farmer sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-12541__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-04152__umn" } ,
+        "name": { "type": "literal" , "value": "Sand Hill" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-00160__umn" } ,
+        "name": { "type": "literal" , "value": "Deer Island sand and gravel pit and plant" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01938__umn" } ,
+        "name": { "type": "literal" , "value": "Dayton sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-19850__umn" } ,
+        "name": { "type": "literal" , "value": "sand Mine" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01486__umn" } ,
+        "name": { "type": "literal" , "value": "Molalla sand and gravel pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-05669__umn" } ,
+        "name": { "type": "literal" , "value": "K. D. sand and gravel pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-17774__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-06655__umn" } ,
+        "name": { "type": "literal" , "value": "Vale sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-17515__umn" } ,
+        "name": { "type": "literal" , "value": "Coburg sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-20264__umn" } ,
+        "name": { "type": "literal" , "value": "Sand Creek Quarry" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01159__umn" } ,
+        "name": { "type": "literal" , "value": "Troutdale sand and gravel Co." } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-00638__umn" } ,
+        "name": { "type": "literal" , "value": "Sand Lake Fiber Farm" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-16919__umn" } ,
+        "name": { "type": "literal" , "value": "Simmons Gulch sand and gravel Deposit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01375__umn" } ,
+        "name": { "type": "literal" , "value": "Quick Service sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-10933__umn" } ,
+        "name": { "type": "literal" , "value": "Turner sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01188__umn" } ,
+        "name": { "type": "literal" , "value": "Ross Island sand and gravel Co." } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-03781__umn" } ,
+        "name": { "type": "literal" , "value": "Prineville Sand and Gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-16922__umn" } ,
+        "name": { "type": "literal" , "value": "North Gold Creek sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-04342__umn" } ,
+        "name": { "type": "literal" , "value": "Umpqua sand and gravel pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-13053__umn" } ,
+        "name": { "type": "literal" , "value": "Sanderson Br" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01374__umn" } ,
+        "name": { "type": "literal" , "value": "Boring sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-07906__umn" } ,
+        "name": { "type": "literal" , "value": "Kendall sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-17793__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-12644__umn" } ,
+        "name": { "type": "literal" , "value": "sand and gravel pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-15746__umn" } ,
+        "name": { "type": "literal" , "value": "Crook Sand Pit" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-10533__umn" } ,
+        "name": { "type": "literal" , "value": "Old Dalles-Sandy Wagon Rd" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-07937__umn" } ,
+        "name": { "type": "literal" , "value": "Sand Creek quarry" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01420__umn" } ,
+        "name": { "type": "literal" , "value": "Wilsonville sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-04678__umn" } ,
+        "name": { "type": "literal" , "value": "101 sand and gravel pit and Plant" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-17771__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-00205__umn" } ,
+        "name": { "type": "literal" , "value": "Scappoose sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-00460__umn" } ,
+        "name": { "type": "literal" , "value": "Snipes Mountain Sand" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-08259__umn" } ,
+        "name": { "type": "literal" , "value": "sand and gravel pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01443__umn" } ,
+        "name": { "type": "literal" , "value": "Willamette Falls Sand" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-04860__umn" } ,
+        "name": { "type": "literal" , "value": "Bullards sand and gravel, Inc." } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-05077__umn" } ,
+        "name": { "type": "literal" , "value": "Scappoose sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-17794__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-00981__umn" } ,
+        "name": { "type": "literal" , "value": "Gales Creek sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-11344__umn" } ,
+        "name": { "type": "literal" , "value": "Mcgriffin Sand Pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-00003__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-17772__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-04710__umn" } ,
+        "name": { "type": "literal" , "value": "Glen Alken Creek sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-04653__umn" } ,
+        "name": { "type": "literal" , "value": "Fahys Lake sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01962__umn" } ,
+        "name": { "type": "literal" , "value": "Newburg sand and gravel Plant" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-20522__umn" } ,
+        "name": { "type": "literal" , "value": "Sand Hollow prospect" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-17529__umn" } ,
+        "name": { "type": "literal" , "value": "Wicks Sand Borrow" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-16490__umn" } ,
+        "name": { "type": "literal" , "value": "O'Neil sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01362__umn" } ,
+        "name": { "type": "literal" , "value": "Northwest sand and gravel, Inc." } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-00204__umn" } ,
+        "name": { "type": "literal" , "value": "Warren sand and gravel Co." } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01451__umn" } ,
+        "name": { "type": "literal" , "value": "Barton sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01832__umn" } ,
+        "name": { "type": "literal" , "value": "U S Forest Service-Pink Sand" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-16412__umn" } ,
+        "name": { "type": "literal" , "value": "Corvallis Sand and Gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-07304__umn" } ,
+        "name": { "type": "literal" , "value": "American sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-08782__umn" } ,
+        "name": { "type": "literal" , "value": "West Sensen sand and gravel pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-17754__umn" } ,
+        "name": { "type": "literal" , "value": "Stinking Water Sand Shed Quarry" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-19370__umn" } ,
+        "name": { "type": "literal" , "value": "sand Mine" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-05694__umn" } ,
+        "name": { "type": "literal" , "value": "Ford sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-19782__umn" } ,
+        "name": { "type": "literal" , "value": "sand and gravel pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-17797__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01403__umn" } ,
+        "name": { "type": "literal" , "value": "Hood-Land sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-12542__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-07351__umn" } ,
+        "name": { "type": "literal" , "value": "Eugene sand and gravel Inc." } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-04514__umn" } ,
+        "name": { "type": "literal" , "value": "Last Chance Sulfur Mine" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sulfur and pyrite | S" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-16489__umn" } ,
+        "name": { "type": "literal" , "value": "O'Neil sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01133__umn" } ,
+        "name": { "type": "literal" , "value": "Columbia sand and gravel Co." } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01387__umn" } ,
+        "name": { "type": "literal" , "value": "American sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-01250__umn" } ,
+        "name": { "type": "literal" , "value": "Hood River sand and gravel pit" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-15257__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-12543__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-00461__umn" } ,
+        "name": { "type": "literal" , "value": "Kik Sand Pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-12540__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-11061__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-17799__umn" } ,
+        "name": { "type": "literal" , "value": "sand pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-04695__umn" } ,
+        "name": { "type": "literal" , "value": "Coaledo sand and gravel" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-15127__umn" } ,
+        "name": { "type": "literal" , "value": "Jacobsens Sand Pit" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "siblings": { "type": "literal" , "value": "stone | crushed | SC" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-04759__umn" } ,
+        "name": { "type": "literal" , "value": "Arago sand and gravel pit" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "siblings": { "type": "literal" , "value": "sand and gravel | S | G" }
+      }
+    ]
+  }
+}

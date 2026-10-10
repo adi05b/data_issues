@@ -1,0 +1,11 @@
+{
+  "id": "p2.6-country-totals",
+  "sent_at": "2026-09-14T19:18:02.491624+00:00",
+  "http_status": 200,
+  "elapsed_ms": 6828,
+  "bytes": 37469,
+  "curl_exit": 0,
+  "row_count": 184,
+  "truncated_by_limit": false,
+  "error": null
+}

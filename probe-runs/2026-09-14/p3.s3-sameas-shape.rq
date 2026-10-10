@@ -1,0 +1,9 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+SELECT ?kind (COUNT(*) AS ?n)
+WHERE {
+  ?s a :MineralSite ; owl:sameAs ?o .
+  BIND(IF(STRSTARTS(STR(?o), "https://minmod.isi.edu/resource/dedup_site__"), "dedup_site target",
+       IF(STRSTARTS(STR(?o), "https://minmod.isi.edu/resource/site__"), "site target", "other")) AS ?kind)
+}
+GROUP BY ?kind

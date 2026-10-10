@@ -1,0 +1,100 @@
+{
+ "S0-norm_literal-table": [
+  {
+   "in": "\"1.25\"^^<http://www.w3.org/2001/XMLSchema#decimal>",
+   "out": "\"1.25\"^^<http://www.w3.org/2001/XMLSchema#double>",
+   "out_type": "MyLiteral"
+  },
+  {
+   "in": "\"1.25\"^^<http://www.w3.org/2001/XMLSchema#double>",
+   "out": "\"1.25\"^^<http://www.w3.org/2001/XMLSchema#double>",
+   "out_type": "MyLiteral"
+  },
+  {
+   "in": "\"1.25\"^^<http://www.w3.org/2001/XMLSchema#float>",
+   "out": "\"1.25\"^^<http://www.w3.org/2001/XMLSchema#double>",
+   "out_type": "MyLiteral"
+  },
+  {
+   "in": "\"3\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+   "out": "\"3\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+   "out_type": "Literal"
+  },
+  {
+   "in": "\"true\"^^<http://www.w3.org/2001/XMLSchema#boolean>",
+   "out": "\"true\"^^<http://www.w3.org/2001/XMLSchema#boolean>",
+   "out_type": "Literal"
+  },
+  {
+   "in": "\"2026-10-01\"^^<http://www.w3.org/2001/XMLSchema#date>",
+   "out": "\"2026-10-01\"^^<http://www.w3.org/2001/XMLSchema#date>",
+   "out_type": "Literal"
+  },
+  {
+   "in": "\"2026-10-01T00:00:00+00:00\"^^<http://www.w3.org/2001/XMLSchema#dateTime>",
+   "out": "\"2026-10-01T00:00:00+00:00\"^^<http://www.w3.org/2001/XMLSchema#dateTime>",
+   "out_type": "Literal"
+  },
+  {
+   "in": "\"abc\"",
+   "out": "\"abc\"",
+   "out_type": "MyLiteral"
+  },
+  {
+   "in": "\"abc\"^^<http://www.w3.org/2001/XMLSchema#string>",
+   "out": "\"abc\"",
+   "out_type": "MyLiteral"
+  },
+  {
+   "in": "\"abc\"@en",
+   "out": "\"abc\"@en",
+   "out_type": "MyLiteral"
+  },
+  {
+   "in": "<https://minmod.isi.edu/resource/Q578>",
+   "out": "<https://minmod.isi.edu/resource/Q578>",
+   "out_type": "URIRef"
+  }
+ ],
+ "S1-site-add": {
+  "census": 8,
+  "orphans": 0,
+  "doubles": 0,
+  "attached_dupes": 0
+ },
+ "S2-site-update-text-only": {
+  "census": 14,
+  "orphans": 11,
+  "doubles": 11,
+  "attached_dupes": 0
+ },
+ "S3-site-update-grade-1.25-to-1.3": {
+  "census": 14,
+  "orphans": 11,
+  "doubles": 11,
+  "attached_dupes": 0
+ },
+ "S4-sample-add": {
+  "census": 18,
+  "orphans": 11,
+  "doubles": 11,
+  "attached_dupes": 0
+ },
+ "S5-sample-update-text-only": {
+  "census": 20,
+  "orphans": 15,
+  "doubles": 15,
+  "attached_dupes": 0
+ },
+ "S6-sample-update-top_depth-12.5-to-12.75": {
+  "census": 21,
+  "orphans": 15,
+  "doubles": 16,
+  "attached_dupes": 1
+ },
+ "detection-check-prod-queries-on-repro-store": {
+  "p6-pf1-double-any": 5,
+  "p6-o1-untyped-numeric": 8,
+  "p6-o2-issue-element-query": 2
+ }
+}

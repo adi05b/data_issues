@@ -1,0 +1,11 @@
+{
+  "id": "1.6c-gap3plus-sample",
+  "sent_at": "2026-09-08T06:20:31.497873+00:00",
+  "http_status": 200,
+  "elapsed_ms": 2028,
+  "bytes": 119806,
+  "curl_exit": 0,
+  "row_count": 400,
+  "truncated_by_limit": true,
+  "error": null
+}

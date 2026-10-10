@@ -1,0 +1,11 @@
+{
+  "id": "P3b-worst-cases",
+  "sent_at": "2026-09-08T09:58:48.361950+00:00",
+  "http_status": 200,
+  "elapsed_ms": 2947,
+  "bytes": 6657,
+  "curl_exit": 0,
+  "row_count": 10,
+  "truncated_by_limit": true,
+  "error": null
+}

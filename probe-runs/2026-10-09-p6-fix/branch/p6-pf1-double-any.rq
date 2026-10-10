@@ -1,0 +1,8 @@
+# Is there ANY xsd:double literal on the edit-reachable numeric predicates? (LIMIT 5)
+PREFIX mo: <https://minmod.isi.edu/ontology/>
+PREFIX gco: <https://geochemistry.isi.edu/ontology/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?s ?p ?o WHERE {
+  VALUES ?p { mo:confidence mo:value mo:x_max mo:x_min mo:y_max mo:y_min gco:grade gco:detection_limit gco:top_depth_m gco:bottom_depth_m }
+  ?s ?p ?o FILTER(DATATYPE(?o) = xsd:double)
+} LIMIT 5

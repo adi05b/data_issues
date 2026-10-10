@@ -1,0 +1,14 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?site ?name ?obs (GROUP_CONCAT(DISTINCT ?sib; separator=" | ") AS ?siblings)
+WHERE {
+  ?site a :MineralSite ; :source_id "http://www.oregongeology.org" ; :mineral_inventory ?mi .
+  ?mi :commodity ?cm . ?cm :observed_name ?obs .
+  FILTER(?obs IN ("S","SC","CS"))
+  OPTIONAL { ?site rdfs:label ?name }
+  OPTIONAL { ?site :mineral_inventory ?mi2 . ?mi2 :commodity ?cm2 . ?cm2 :observed_name ?sib }
+  FILTER(CONTAINS(LCASE(STR(?name)), "sulfur") || CONTAINS(LCASE(STR(?name)), "sulphur")
+      || CONTAINS(LCASE(STR(?name)), "scandium") || CONTAINS(LCASE(STR(?name)), "cesium")
+      || CONTAINS(LCASE(STR(?name)), "sand"))
+}
+GROUP BY ?site ?name ?obs

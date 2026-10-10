@@ -1,0 +1,2872 @@
+{
+ "state-wrong": [
+  {
+   "country_obs": "United States",
+   "country_label": "United States",
+   "state_obs": "Florida",
+   "state_label": "Florida",
+   "sites": "1674",
+   "n": 1674
+  },
+  {
+   "country_obs": "Bolivia",
+   "country_label": "Bolivia",
+   "state_obs": "La Paz",
+   "state_label": "La Pampa",
+   "sites": "586",
+   "n": 586
+  },
+  {
+   "country_obs": "Bolivia",
+   "country_label": "Bolivia",
+   "state_obs": "Potosi",
+   "state_label": "Porto",
+   "sites": "552",
+   "n": 552
+  },
+  {
+   "country_obs": "Venezuela",
+   "country_label": "Venezuela",
+   "state_obs": "Bolivar",
+   "state_label": "Bol\u00edvar",
+   "sites": "475",
+   "n": 475
+  },
+  {
+   "country_obs": "Bolivia",
+   "country_label": "Bolivia",
+   "state_obs": "Santa Cruz",
+   "state_label": "Santa Cruz",
+   "sites": "220",
+   "n": 220
+  },
+  {
+   "country_obs": "Bolivia",
+   "country_label": "Bolivia",
+   "state_obs": "Oruro",
+   "state_label": "Koror",
+   "sites": "191",
+   "n": 191
+  },
+  {
+   "country_obs": "India",
+   "country_label": "India",
+   "state_obs": "Orissa",
+   "state_label": "Garissa",
+   "sites": "187",
+   "n": 187
+  },
+  {
+   "country_obs": "Cuba",
+   "country_label": "Cuba",
+   "state_obs": "Camaguey",
+   "state_label": "Camuy",
+   "sites": "158",
+   "n": 158
+  },
+  {
+   "country_obs": "Congo (Kinshasa)",
+   "country_label": "Democratic Republic of the Congo",
+   "state_obs": "Katanga",
+   "state_label": "Tanga",
+   "sites": "93",
+   "n": 93
+  },
+  {
+   "country_obs": "Jamaica",
+   "country_label": "Jamaica",
+   "state_obs": "Saint Andrew",
+   "state_label": "Saint Andrew",
+   "sites": "69",
+   "n": 69
+  },
+  {
+   "country_obs": "Cuba",
+   "country_label": "Cuba",
+   "state_obs": "Granma",
+   "state_label": "Sanma",
+   "sites": "64",
+   "n": 64
+  },
+  {
+   "country_obs": "Canada",
+   "country_label": "Canada",
+   "state_obs": "Yukon Territory*",
+   "state_label": "Northern Territory",
+   "sites": "62",
+   "n": 62
+  },
+  {
+   "country_obs": "Panama",
+   "country_label": "Panama",
+   "state_obs": "Panama",
+   "state_label": "Naama",
+   "sites": "62",
+   "n": 62
+  },
+  {
+   "country_obs": "Costa Rica",
+   "country_label": "Costa Rica",
+   "state_obs": "San Jose",
+   "state_label": "San Jos\u00e9",
+   "sites": "56",
+   "n": 56
+  },
+  {
+   "country_obs": "Panama",
+   "country_label": "Panama",
+   "state_obs": "Veraguas",
+   "state_label": "Caguas",
+   "sites": "51",
+   "n": 51
+  },
+  {
+   "country_obs": "United States",
+   "country_label": "United States",
+   "state_obs": "CO",
+   "state_label": "Colonia",
+   "sites": "50",
+   "n": 50
+  },
+  {
+   "country_obs": "France",
+   "country_label": "France",
+   "state_obs": "Territory Of New Caledonia And Dependencies",
+   "state_label": "Federal Dependencies of Venezuela",
+   "sites": "49",
+   "n": 49
+  },
+  {
+   "country_obs": "United States",
+   "country_label": "United States",
+   "state_obs": "CA",
+   "state_label": "Canelones",
+   "sites": "46",
+   "n": 46
+  },
+  {
+   "country_obs": "Zambia",
+   "country_label": "Zambia",
+   "state_obs": "Central",
+   "state_label": "Central",
+   "sites": "45",
+   "n": 45
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Akita",
+   "state_label": "Latakia",
+   "sites": "44",
+   "n": 44
+  },
+  {
+   "country_obs": "Germany",
+   "country_label": "Germany",
+   "state_obs": "Niedersachsen",
+   "state_label": "Eschen",
+   "sites": "43",
+   "n": 43
+  },
+  {
+   "country_obs": "Panama",
+   "country_label": "Panama",
+   "state_obs": "Colon",
+   "state_label": "Colonia",
+   "sites": "39",
+   "n": 39
+  },
+  {
+   "country_obs": "Zimbabwe",
+   "country_label": "Zimbabwe",
+   "state_obs": "Midlands",
+   "state_label": "Islands",
+   "sites": "39",
+   "n": 39
+  },
+  {
+   "country_obs": "Panama",
+   "country_label": "Panama",
+   "state_obs": "Herrera",
+   "state_label": "Ferrara",
+   "sites": "35",
+   "n": 35
+  },
+  {
+   "country_obs": "Costa Rica",
+   "country_label": "Costa Rica",
+   "state_obs": "Limon",
+   "state_label": "Imo",
+   "sites": "33",
+   "n": 33
+  },
+  {
+   "country_obs": "Australia",
+   "country_label": "Australia",
+   "state_obs": "Victoria",
+   "state_label": "Victoria",
+   "sites": "31",
+   "n": 31
+  },
+  {
+   "country_obs": "Costa Rica",
+   "country_label": "Costa Rica",
+   "state_obs": "Cartago",
+   "state_label": "Caraga",
+   "sites": "28",
+   "n": 28
+  },
+  {
+   "country_obs": "Venezuela",
+   "country_label": "Venezuela",
+   "state_obs": "Amazonas*",
+   "state_label": "Amazonas",
+   "sites": "23",
+   "n": 23
+  },
+  {
+   "country_obs": "Ecuador",
+   "country_label": "Ecuador",
+   "state_obs": "Canar",
+   "state_label": "Canarias",
+   "sites": "22",
+   "n": 22
+  },
+  {
+   "country_obs": "Jamaica",
+   "country_label": "Jamaica",
+   "state_obs": "Saint Thomas",
+   "state_label": "Saint Thomas",
+   "sites": "21",
+   "n": 21
+  },
+  {
+   "country_obs": "Russia",
+   "country_label": "Russia",
+   "state_obs": "Ekaterinburg",
+   "state_label": "Edinburgh",
+   "sites": "19",
+   "n": 19
+  },
+  {
+   "country_obs": "Honduras",
+   "country_label": "Honduras",
+   "state_obs": "Yoro",
+   "state_label": "Koror",
+   "sites": "18",
+   "n": 18
+  },
+  {
+   "country_obs": "Jamaica",
+   "country_label": "Jamaica",
+   "state_obs": "Saint Ann",
+   "state_label": "Saint Andrew",
+   "sites": "18",
+   "n": 18
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Kochi",
+   "state_label": "Kocaeli",
+   "sites": "17",
+   "n": 17
+  },
+  {
+   "country_obs": "Bolivia",
+   "country_label": "Bolivia",
+   "state_obs": "El Beni",
+   "state_label": "El Menia",
+   "sites": "16",
+   "n": 16
+  },
+  {
+   "country_obs": "Ecuador",
+   "country_label": "Ecuador",
+   "state_obs": "Bolivar",
+   "state_label": "Bol\u00edvar",
+   "sites": "16",
+   "n": 16
+  },
+  {
+   "country_obs": "Panama",
+   "country_label": "Panama",
+   "state_obs": "Darien",
+   "state_label": "Tarxien",
+   "sites": "16",
+   "n": 16
+  },
+  {
+   "country_obs": "United States",
+   "country_label": "United States",
+   "state_obs": "MN",
+   "state_label": "Matabeleland North Province",
+   "sites": "16",
+   "n": 16
+  },
+  {
+   "country_obs": "Denmark",
+   "country_label": "Denmark",
+   "state_obs": "Greenland",
+   "state_label": "Burgenland",
+   "sites": "15",
+   "n": 15
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Hyogo",
+   "state_label": "Oyo",
+   "sites": "15",
+   "n": 15
+  },
+  {
+   "country_obs": "United States",
+   "country_label": "United States",
+   "state_obs": "ME",
+   "state_label": "Mashonaland East Province",
+   "sites": "15",
+   "n": 15
+  },
+  {
+   "country_obs": "Bolivia",
+   "country_label": "Bolivia",
+   "state_obs": "Tarija",
+   "state_label": "Arima",
+   "sites": "14",
+   "n": 14
+  },
+  {
+   "country_obs": "Honduras",
+   "country_label": "Honduras",
+   "state_obs": "El Paraiso",
+   "state_label": "Paris",
+   "sites": "14",
+   "n": 14
+  },
+  {
+   "country_obs": "El Salvador",
+   "country_label": "El Salvador",
+   "state_obs": "Santa Ana",
+   "state_label": "Santa Elena",
+   "sites": "13",
+   "n": 13
+  },
+  {
+   "country_obs": "Jamaica",
+   "country_label": "Jamaica",
+   "state_obs": "Manchester",
+   "state_label": "Manchester",
+   "sites": "13",
+   "n": 13
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Nara",
+   "state_label": "Navarra",
+   "sites": "13",
+   "n": 13
+  },
+  {
+   "country_obs": "Laos",
+   "country_label": "Laos",
+   "state_obs": "Attapu",
+   "state_label": "Attard",
+   "sites": "13",
+   "n": 13
+  },
+  {
+   "country_obs": "Uruguay",
+   "country_label": "Uruguay",
+   "state_obs": "Florida",
+   "state_label": "Florida",
+   "sites": "13",
+   "n": 13
+  },
+  {
+   "country_obs": "Argentina",
+   "country_label": "Argentina",
+   "state_obs": "Santa Cruz",
+   "state_label": "Santa Cruz",
+   "sites": "12",
+   "n": 12
+  },
+  {
+   "country_obs": "Guatemala",
+   "country_label": "Guatemala",
+   "state_obs": "Jalapa",
+   "state_label": "Malampa",
+   "sites": "12",
+   "n": 12
+  },
+  {
+   "country_obs": "Panama",
+   "country_label": "Panama",
+   "state_obs": "San Blas*",
+   "state_label": "San Luis",
+   "sites": "12",
+   "n": 12
+  },
+  {
+   "country_obs": "Russia",
+   "country_label": "Russia",
+   "state_obs": "Buryatiya",
+   "state_label": "Bury",
+   "sites": "12",
+   "n": 12
+  },
+  {
+   "country_obs": "Turkey",
+   "country_label": "Turkey",
+   "state_obs": "Elazig",
+   "state_label": "Lazio",
+   "sites": "12",
+   "n": 12
+  },
+  {
+   "country_obs": "United States",
+   "country_label": "United States",
+   "state_obs": "SD",
+   "state_label": "Saada",
+   "sites": "12",
+   "n": 12
+  },
+  {
+   "country_obs": "Ghana",
+   "country_label": "Ghana",
+   "state_obs": "Northern",
+   "state_label": "Northern",
+   "sites": "11",
+   "n": 11
+  },
+  {
+   "country_obs": "Honduras",
+   "country_label": "Honduras",
+   "state_obs": "Copan",
+   "state_label": "Cotopaxi",
+   "sites": "11",
+   "n": 11
+  },
+  {
+   "country_obs": "Honduras",
+   "country_label": "Honduras",
+   "state_obs": "Comayagua",
+   "state_label": "Managua",
+   "sites": "11",
+   "n": 11
+  },
+  {
+   "country_obs": "Honduras",
+   "country_label": "Honduras",
+   "state_obs": "Valle",
+   "state_label": "Valletta",
+   "sites": "11",
+   "n": 11
+  },
+  {
+   "country_obs": "Jamaica",
+   "country_label": "Jamaica",
+   "state_obs": "Saint Mary",
+   "state_label": "Saint Mary Parish",
+   "sites": "11",
+   "n": 11
+  },
+  {
+   "country_obs": "United States",
+   "country_label": "United States",
+   "state_obs": "MO",
+   "state_label": "Montevideo",
+   "sites": "11",
+   "n": 11
+  },
+  {
+   "country_obs": "Venezuela",
+   "country_label": "Venezuela",
+   "state_obs": "Sucre",
+   "state_label": "Sucre",
+   "sites": "11",
+   "n": 11
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Oita",
+   "state_label": "Geita",
+   "sites": "10",
+   "n": 10
+  },
+  {
+   "country_obs": "Mexico",
+   "country_label": "Mexico",
+   "state_obs": "Mexico",
+   "state_label": "New Mexico",
+   "sites": "10",
+   "n": 10
+  },
+  {
+   "country_obs": "Peru",
+   "country_label": "Peru",
+   "state_obs": "Amazonas",
+   "state_label": "Amazonas",
+   "sites": "10",
+   "n": 10
+  },
+  {
+   "country_obs": "United States",
+   "country_label": "United States",
+   "state_obs": "AR",
+   "state_label": "Artigas",
+   "sites": "10",
+   "n": 10
+  },
+  {
+   "country_obs": "United States",
+   "country_label": "United States",
+   "state_obs": "SC",
+   "state_label": "Saint Croix",
+   "sites": "10",
+   "n": 10
+  },
+  {
+   "country_obs": "Democratic Republic of the Congo",
+   "country_label": "Democratic Republic of the Congo",
+   "state_obs": "Katanga Province",
+   "state_label": "Tanga",
+   "sites": "9",
+   "n": 9
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Okayama",
+   "state_label": "Guayama",
+   "sites": "9",
+   "n": 9
+  },
+  {
+   "country_obs": "Laos",
+   "country_label": "Laos",
+   "state_obs": "Savannakhet",
+   "state_label": "Savannah",
+   "sites": "9",
+   "n": 9
+  },
+  {
+   "country_obs": "Jamaica",
+   "country_label": "Jamaica",
+   "state_obs": "Saint James",
+   "state_label": "Saint James",
+   "sites": "8",
+   "n": 8
+  },
+  {
+   "country_obs": "Algeria",
+   "country_label": "Algeria",
+   "state_obs": "Saida",
+   "state_label": "Saada",
+   "sites": "7",
+   "n": 7
+  },
+  {
+   "country_obs": "Guatemala",
+   "country_label": "Guatemala",
+   "state_obs": "Izabal",
+   "state_label": "Ba",
+   "sites": "7",
+   "n": 7
+  },
+  {
+   "country_obs": "Guatemala",
+   "country_label": "Guatemala",
+   "state_obs": "Zacapa",
+   "state_label": "Zacatecas",
+   "sites": "7",
+   "n": 7
+  },
+  {
+   "country_obs": "Haiti",
+   "country_label": "Haiti",
+   "state_obs": "Nord",
+   "state_label": "Nord",
+   "sites": "7",
+   "n": 7
+  },
+  {
+   "country_obs": "Honduras",
+   "country_label": "Honduras",
+   "state_obs": "Cortes",
+   "state_label": "Corrientes",
+   "sites": "7",
+   "n": 7
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Osaka",
+   "state_label": "Sakarya",
+   "sites": "7",
+   "n": 7
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Wakayama",
+   "state_label": "Takamaka",
+   "sites": "7",
+   "n": 7
+  },
+  {
+   "country_obs": "Albania",
+   "country_label": "Albania",
+   "state_obs": "Kukes",
+   "state_label": "Lakes",
+   "sites": "6",
+   "n": 6
+  },
+  {
+   "country_obs": "Austria",
+   "country_label": "Austria",
+   "state_obs": "Karnten",
+   "state_label": "Banten",
+   "sites": "6",
+   "n": 6
+  },
+  {
+   "country_obs": "Austria",
+   "country_label": "Austria",
+   "state_obs": "Steiermark",
+   "state_label": "Western Samar",
+   "sites": "6",
+   "n": 6
+  },
+  {
+   "country_obs": "Botswana",
+   "country_label": "Botswana",
+   "state_obs": "Central",
+   "state_label": "Central",
+   "sites": "6",
+   "n": 6
+  },
+  {
+   "country_obs": "Brazil",
+   "country_label": "Brazil",
+   "state_obs": "Amazonas",
+   "state_label": "Amazonas",
+   "sites": "6",
+   "n": 6
+  },
+  {
+   "country_obs": "Colombia",
+   "country_label": "Colombia",
+   "state_obs": "Cordoba",
+   "state_label": "C\u00f3rdoba",
+   "sites": "6",
+   "n": 6
+  },
+  {
+   "country_obs": "Greece",
+   "country_label": "Greece",
+   "state_obs": "Evvoia",
+   "state_label": "Savoie",
+   "sites": "6",
+   "n": 6
+  },
+  {
+   "country_obs": "Honduras",
+   "country_label": "Honduras",
+   "state_obs": "La Paz",
+   "state_label": "La Pampa",
+   "sites": "6",
+   "n": 6
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Gifu",
+   "state_label": "Ifugao",
+   "sites": "6",
+   "n": 6
+  },
+  {
+   "country_obs": "Kazakhstan",
+   "country_label": "Kazakhstan",
+   "state_obs": "Aktyubinsk",
+   "state_label": "Minsk",
+   "sites": "6",
+   "n": 6
+  },
+  {
+   "country_obs": "Philippines",
+   "country_label": "Philippines",
+   "state_obs": "Samar",
+   "state_label": "Dhamar",
+   "sites": "6",
+   "n": 6
+  },
+  {
+   "country_obs": "Zambia",
+   "country_label": "Zambia",
+   "state_obs": "North-Western",
+   "state_label": "Northwest",
+   "sites": "6",
+   "n": 6
+  },
+  {
+   "country_obs": "Australia",
+   "country_label": "Australia",
+   "state_obs": "Territory Of Christmas Island",
+   "state_label": "Berry Islands",
+   "sites": "5",
+   "n": 5
+  },
+  {
+   "country_obs": "Canada",
+   "country_label": "Canada",
+   "state_obs": "Yukon Territory",
+   "state_label": "Northern Territory",
+   "sites": "5",
+   "n": 5
+  },
+  {
+   "country_obs": "Finland",
+   "country_label": "Finland",
+   "state_obs": "Lappi",
+   "state_label": "Capiz",
+   "sites": "5",
+   "n": 5
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Ibaraki",
+   "state_label": "Karak",
+   "sites": "5",
+   "n": 5
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Miyagi",
+   "state_label": "Minya",
+   "sites": "5",
+   "n": 5
+  },
+  {
+   "country_obs": "Malaysia",
+   "country_label": "Malaysia",
+   "state_obs": "Pulau Pinang",
+   "state_label": "Kepulauan Riau",
+   "sites": "5",
+   "n": 5
+  },
+  {
+   "country_obs": "Niger",
+   "country_label": "Niger",
+   "state_obs": "Niamey",
+   "state_label": "Canindey\u00fa",
+   "sites": "5",
+   "n": 5
+  },
+  {
+   "country_obs": "Norway",
+   "country_label": "Norway",
+   "state_obs": "Sogn Og Fjordane",
+   "state_label": "Dordogne",
+   "sites": "5",
+   "n": 5
+  },
+  {
+   "country_obs": "United States",
+   "country_label": "United States",
+   "state_obs": "PA",
+   "state_label": "Paysand\u00fa",
+   "sites": "5",
+   "n": 5
+  },
+  {
+   "country_obs": "Zambia",
+   "country_label": "Zambia",
+   "state_obs": "Northern",
+   "state_label": "Northern",
+   "sites": "5",
+   "n": 5
+  },
+  {
+   "country_obs": "Argentina",
+   "country_label": "Argentina",
+   "state_obs": "La Rioja",
+   "state_label": "La Rioja",
+   "sites": "4",
+   "n": 4
+  },
+  {
+   "country_obs": "Belize",
+   "country_label": "Belize",
+   "state_obs": "Cayo",
+   "state_label": "Mayo",
+   "sites": "4",
+   "n": 4
+  },
+  {
+   "country_obs": "Cyprus",
+   "country_label": "Cyprus",
+   "state_obs": "Nicosia",
+   "state_label": "Laconia",
+   "sites": "4",
+   "n": 4
+  },
+  {
+   "country_obs": "Finland",
+   "country_label": "Finland",
+   "state_obs": "Oulu Laani",
+   "state_label": "Bulacan",
+   "sites": "4",
+   "n": 4
+  },
+  {
+   "country_obs": "Guatemala",
+   "country_label": "Guatemala",
+   "state_obs": "Izabal",
+   "state_label": "Rizal",
+   "sites": "4",
+   "n": 4
+  },
+  {
+   "country_obs": "Honduras",
+   "country_label": "Honduras",
+   "state_obs": "Colon",
+   "state_label": "Colonia",
+   "sites": "4",
+   "n": 4
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Yamagata",
+   "state_label": "Matagalpa",
+   "sites": "4",
+   "n": 4
+  },
+  {
+   "country_obs": "Mongolia",
+   "country_label": "Mongolia",
+   "state_obs": "Hentiy",
+   "state_label": "Kent",
+   "sites": "4",
+   "n": 4
+  },
+  {
+   "country_obs": "New Zealand",
+   "country_label": "New Zealand",
+   "state_obs": "Westland",
+   "state_label": "Vestland",
+   "sites": "4",
+   "n": 4
+  },
+  {
+   "country_obs": "Pakistan",
+   "country_label": "Pakistan",
+   "state_obs": "Punjab",
+   "state_label": "Punjab",
+   "sites": "4",
+   "n": 4
+  },
+  {
+   "country_obs": "Zambia",
+   "country_label": "Zambia",
+   "state_obs": "Eastern",
+   "state_label": "Eastern",
+   "sites": "4",
+   "n": 4
+  },
+  {
+   "country_obs": "Albania",
+   "country_label": "Albania",
+   "state_obs": "Mat",
+   "state_label": "Matam",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Angola",
+   "country_label": "Angola",
+   "state_obs": "Huila",
+   "state_label": "Huila",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Belize",
+   "country_label": "Belize",
+   "state_obs": "Toledo",
+   "state_label": "Toledo",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Bolivia",
+   "country_label": "Bolivia",
+   "state_obs": "Pando",
+   "state_label": "Mandoul",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Brazil",
+   "country_label": "Brazil",
+   "state_obs": "Piura",
+   "state_label": "Piura",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Brazil",
+   "country_label": "Brazil",
+   "state_obs": "Santa Catarina",
+   "state_label": "Santa Catarina",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Bulgaria",
+   "country_label": "Bulgaria",
+   "state_obs": "Sofiya",
+   "state_label": "Soria",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Cuba",
+   "country_label": "Cuba",
+   "state_obs": "Guantanamo",
+   "state_label": "Guanajuato",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Dominican Republic",
+   "country_label": "Dominican Republic",
+   "state_obs": "Samana",
+   "state_label": "Samangan",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Ecuador",
+   "country_label": "Ecuador",
+   "state_obs": "Los Rios",
+   "state_label": "Los R\u00edos",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "El Salvador",
+   "country_label": "El Salvador",
+   "state_obs": "Morazan",
+   "state_label": "Oran",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Ethiopia",
+   "country_label": "Ethiopia",
+   "state_obs": "Sidamo",
+   "state_label": "Msida",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "France",
+   "country_label": "France",
+   "state_obs": "Nord",
+   "state_label": "Nord",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Guinea",
+   "country_label": "Guinea",
+   "state_obs": "Kankan",
+   "state_label": "Lankaran",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Guinea",
+   "country_label": "Guinea",
+   "state_obs": "Dabola",
+   "state_label": "Paola",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Kagawa",
+   "state_label": "Jigawa",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Aichi",
+   "state_label": "Phichit",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Laos",
+   "country_label": "Laos",
+   "state_obs": "Salavan",
+   "state_label": "Salamanca",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Liberia",
+   "country_label": "Liberia",
+   "state_obs": "Bong",
+   "state_label": "Bono",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Madagascar",
+   "country_label": "Madagascar",
+   "state_obs": "Toamasina",
+   "state_label": "Tasmania",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Mozambique",
+   "country_label": "Mozambique",
+   "state_obs": "Manica",
+   "state_label": "Manicaland",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Netherlands",
+   "country_label": "Netherlands",
+   "state_obs": "Netherlands Antilles",
+   "state_label": "Shetland Islands",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Pakistan",
+   "country_label": "Pakistan",
+   "state_obs": "North-West Frontier",
+   "state_label": "North-West District",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Philippines",
+   "country_label": "Philippines",
+   "state_obs": "Isabela",
+   "state_label": "Isabela",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Russia",
+   "country_label": "Russia",
+   "state_obs": "Kareliya",
+   "state_label": "K\u0131rklareli",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Sweden",
+   "country_label": "Sweden",
+   "state_obs": "G\ufffdvleborg",
+   "state_label": "Alborz",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "United Kingdom",
+   "country_label": "United Kingdom",
+   "state_obs": "Montserrat",
+   "state_label": "Montserrado County",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "United States",
+   "country_label": "United States",
+   "state_obs": "MI",
+   "state_label": "Midlands Province",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Vietnam",
+   "country_label": "Vietnam",
+   "state_obs": "Son La Province",
+   "state_label": "Sofala Province",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Zambia",
+   "country_label": "Zambia",
+   "state_obs": "Southern",
+   "state_label": "Southern",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "Afghanistan",
+   "country_label": "Afghanistan",
+   "state_obs": "Kondoz [Kunduz]",
+   "state_label": "Ondo",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Albania",
+   "country_label": "Albania",
+   "state_obs": "Korce",
+   "state_label": "Koror",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Angola",
+   "country_label": "Angola",
+   "state_obs": "Zaire",
+   "state_label": "Bonaire",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Argentina",
+   "country_label": "Argentina",
+   "state_obs": "San Juan",
+   "state_label": "San Juan",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Austria",
+   "country_label": "Austria",
+   "state_obs": "Oberosterreich",
+   "state_label": "Berrechid",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Belgium",
+   "country_label": "Belgium",
+   "state_obs": "Brabant",
+   "state_label": "Rabat",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Canada",
+   "country_label": "Canada",
+   "state_obs": "York County",
+   "state_label": "Gjirokast\u00ebr County",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "China",
+   "country_label": "China",
+   "state_obs": "Hong Kong Special Administrative Region",
+   "state_label": "Cordillera Administrative",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Cuba",
+   "country_label": "Cuba",
+   "state_obs": "Oriente",
+   "state_label": "Corrientes",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Cyprus",
+   "country_label": "Cyprus",
+   "state_obs": "Limassol",
+   "state_label": "Lima",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Dominican Republic",
+   "country_label": "Dominican Republic",
+   "state_obs": "Azua",
+   "state_label": "Azuay",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Egypt",
+   "country_label": "Egypt",
+   "state_obs": "Al Bahr Al Ahmar",
+   "state_label": "Al Bahah",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "El Salvador",
+   "country_label": "El Salvador",
+   "state_obs": "San Miguel",
+   "state_label": "S\u00e3o Miguel",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Ethiopia",
+   "country_label": "Ethiopia",
+   "state_obs": "Welega [Walaga]",
+   "state_label": "Agalega Islands",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Finland",
+   "country_label": "Finland",
+   "state_obs": "Eastern Finland",
+   "state_label": "East",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Finland",
+   "country_label": "Finland",
+   "state_obs": "Turku",
+   "state_label": "Turkana",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Ghana",
+   "country_label": "Ghana",
+   "state_obs": "Central",
+   "state_label": "Central",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Greece",
+   "country_label": "Greece",
+   "state_obs": "Khalkidhiki",
+   "state_label": "Falkirk",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Guinea",
+   "country_label": "Guinea",
+   "state_obs": "Boke",
+   "state_label": "Bokeo Province",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Guinea",
+   "country_label": "Guinea",
+   "state_obs": "Kindia",
+   "state_label": "Indiana",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Guinea",
+   "country_label": "Guinea",
+   "state_obs": "Fria",
+   "state_label": "Riau",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Hungary",
+   "country_label": "Hungary",
+   "state_obs": "Nograd",
+   "state_label": "Dorado",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Hungary",
+   "country_label": "Hungary",
+   "state_obs": "Pest",
+   "state_label": "West",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Shimane",
+   "state_label": "Benslimane",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Chiba",
+   "state_label": "Ceiba",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Mie",
+   "state_label": "Valmiera",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Kazakhstan",
+   "country_label": "Kazakhstan",
+   "state_obs": "Semipalatinsk",
+   "state_label": "Minsk",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Madagascar",
+   "country_label": "Madagascar",
+   "state_obs": "Toliara",
+   "state_label": "Ra",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Mongolia",
+   "country_label": "Mongolia",
+   "state_obs": "Tov",
+   "state_label": "Chomutov",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Morocco",
+   "country_label": "Morocco",
+   "state_obs": "Agadir",
+   "state_label": "Banaadir",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "New Zealand",
+   "country_label": "New Zealand",
+   "state_obs": "Buller",
+   "state_label": "Allier",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Nicaragua",
+   "country_label": "Nicaragua",
+   "state_obs": "Atlantico Nort",
+   "state_label": "Atl\u00e1ntico",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Oman",
+   "country_label": "Oman",
+   "state_obs": "Zufar",
+   "state_label": "Zamfara",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Philippines",
+   "country_label": "Philippines",
+   "state_obs": "Rapu-Rapu Island",
+   "state_label": "Harbour Island",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Philippines",
+   "country_label": "Philippines",
+   "state_obs": "Agusan del Norte Province",
+   "state_label": "Norte Province",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Philippines",
+   "country_label": "Philippines",
+   "state_obs": "Surigao*",
+   "state_label": "Riga",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Portugal",
+   "country_label": "Portugal",
+   "state_obs": "Set\u00fabal District",
+   "state_label": "Ba",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Romania",
+   "country_label": "Romania",
+   "state_obs": "Bihor",
+   "state_label": "Bihar",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Romania",
+   "country_label": "Romania",
+   "state_obs": "Mures",
+   "state_label": "Eure",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Romania",
+   "country_label": "Romania",
+   "state_obs": "Gorj",
+   "state_label": "Gorgol",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Russia",
+   "country_label": "Russia",
+   "state_obs": "Tuva",
+   "state_label": "Atua",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Russia",
+   "country_label": "Russia",
+   "state_obs": "Irkutskaya Oblast'",
+   "state_label": "Cherkaska oblast",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "South Africa",
+   "country_label": "South Africa",
+   "state_obs": "North-West",
+   "state_label": "Northwest",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Spain",
+   "country_label": "Spain",
+   "state_obs": "Cordoba Province",
+   "state_label": "Ba",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Suriname",
+   "country_label": "Suriname",
+   "state_obs": "Para",
+   "state_label": "Paran\u00e1",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Tunisia",
+   "country_label": "Tunisia",
+   "state_obs": "Al Kaf",
+   "state_label": "Al Jawf",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "United Kingdom",
+   "country_label": "United Kingdom",
+   "state_obs": "British Virgin Islands",
+   "state_label": "United States Virgin Islands",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Vietnam",
+   "country_label": "Vietnam",
+   "state_obs": "Thai Nguyen Province",
+   "state_label": "Bi\u00e9 Province",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Zambia",
+   "country_label": "Zambia",
+   "state_obs": "Western",
+   "state_label": "Western",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Afghanistan",
+   "country_label": "Afghanistan",
+   "state_obs": "Ghowr [Ghor]",
+   "state_label": "Gorgol",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Albania",
+   "country_label": "Albania",
+   "state_obs": "Puke",
+   "state_label": "Phuket",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Angola",
+   "country_label": "Angola",
+   "state_obs": "Luanda",
+   "state_label": "Kandal",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Angola",
+   "country_label": "Angola",
+   "state_obs": "Uige",
+   "state_label": "Niger",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Argentina",
+   "country_label": "Argentina",
+   "state_obs": "Rio Negro Province",
+   "state_label": "Bi\u00e9 Province",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Austria",
+   "country_label": "Austria",
+   "state_obs": "Bad Bleiberg",
+   "state_label": "Ba",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Austria",
+   "country_label": "Austria",
+   "state_obs": "Niederosterreich",
+   "state_label": "Herefordshire",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Austria",
+   "country_label": "Austria",
+   "state_obs": "Niederosterreich",
+   "state_label": "Leicestershire",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Bolivia",
+   "country_label": "Bolivia",
+   "state_obs": "Guarayos",
+   "state_label": "Guayas",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Bolivia",
+   "country_label": "Bolivia",
+   "state_obs": "Potosi",
+   "state_label": "San Luis Potos\u00ed",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Botswana",
+   "country_label": "Botswana",
+   "state_obs": "Central district",
+   "state_label": "Central District",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Bulgaria",
+   "country_label": "Bulgaria",
+   "state_obs": "Burgas",
+   "state_label": "Burgos",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Bulgaria",
+   "country_label": "Bulgaria",
+   "state_obs": "Montana",
+   "state_label": "Montana",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Bulgaria",
+   "country_label": "Bulgaria",
+   "state_obs": "Varna",
+   "state_label": "Var",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Canada",
+   "country_label": "Canada",
+   "state_obs": "Alaska",
+   "state_label": "Alaska",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Canada",
+   "country_label": "Canada",
+   "state_obs": "Liard Mining Division",
+   "state_label": "Dhaka Division",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Canada",
+   "country_label": "Canada",
+   "state_obs": "Labrador",
+   "state_label": "Lara",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Canada",
+   "country_label": "Canada",
+   "state_obs": "Nevada",
+   "state_label": "Nevada",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Canada",
+   "country_label": "Canada",
+   "state_obs": "Western Churchill Province",
+   "state_label": "West",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Chile",
+   "country_label": "Chile",
+   "state_obs": "Araucania",
+   "state_label": "Arauca",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Chile",
+   "country_label": "Chile",
+   "state_obs": "Copiap\u00f3",
+   "state_label": "Cospicua",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "China",
+   "country_label": "China",
+   "state_obs": "Nei Mongol",
+   "state_label": "Negotino Municipality",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "China",
+   "country_label": "China",
+   "state_obs": "Shandong [Shantung]",
+   "state_label": "Shan State",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Democratic Republic of the Congo",
+   "country_label": "Democratic Republic of the Congo",
+   "state_obs": "Haut -Katanga Province",
+   "state_label": "Tanga",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Egypt",
+   "country_label": "Egypt",
+   "state_obs": "Al Buhayrah",
+   "state_label": "Al Bahah",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "El Salvador",
+   "country_label": "El Salvador",
+   "state_obs": "Cabanas",
+   "state_label": "Can\u00f3vanas",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "El Salvador",
+   "country_label": "El Salvador",
+   "state_obs": "La Union",
+   "state_label": "La Union",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "El Salvador",
+   "country_label": "El Salvador",
+   "state_obs": "Cuscatlan",
+   "state_label": "Muscat",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "El Salvador",
+   "country_label": "El Salvador",
+   "state_obs": "Usulutan",
+   "state_label": "Sulu",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Ethiopia",
+   "country_label": "Ethiopia",
+   "state_obs": "Mirab Gojam",
+   "state_label": "Mizoram",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Ethiopia",
+   "country_label": "Ethiopia",
+   "state_obs": "Mirab Harerge",
+   "state_label": "Vorarlberg",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Finland",
+   "country_label": "Finland",
+   "state_obs": "British Columbia",
+   "state_label": "British Columbia",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Finland",
+   "country_label": "Finland",
+   "state_obs": "Oulu",
+   "state_label": "Sulu",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "France",
+   "country_label": "France",
+   "state_obs": "Limousin",
+   "state_label": "Imo",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Greenland",
+   "country_label": "Greenland",
+   "state_obs": "Kommune Kujalleq",
+   "state_label": "Khammouane Province",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Greenland",
+   "country_label": "Greenland",
+   "state_obs": "Kujalleq",
+   "state_label": "Kwale",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Greenland",
+   "country_label": "Greenland",
+   "state_obs": "Qaqortoq District",
+   "state_label": "Sassandra-Marahou\u00e9 District",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Greenland",
+   "country_label": "Greenland",
+   "state_obs": "Qaasuitsup",
+   "state_label": "Wasit",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Guinea",
+   "country_label": "Guinea",
+   "state_obs": "Eastern Guinea",
+   "state_label": "East",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Guinea",
+   "country_label": "Guinea",
+   "state_obs": "Siguiri",
+   "state_label": "Figuig",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Guinea",
+   "country_label": "Guinea",
+   "state_obs": "Beyla",
+   "state_label": "Mbeya",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Guinea",
+   "country_label": "Guinea",
+   "state_obs": "Boffa",
+   "state_label": "Offaly",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Guinea",
+   "country_label": "Guinea",
+   "state_obs": "Tougue",
+   "state_label": "Touggourt",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Indonesia",
+   "country_label": "Indonesia",
+   "state_obs": "Irian Jaya",
+   "state_label": "Ariana",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Indonesia",
+   "country_label": "Indonesia",
+   "state_obs": "Timor Island",
+   "state_label": "Cat Island",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Indonesia",
+   "country_label": "Indonesia",
+   "state_obs": "Halmahera Island",
+   "state_label": "Ra",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Ireland",
+   "country_label": "Ireland",
+   "state_obs": "County Tipperary",
+   "state_label": "Ra",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Italy",
+   "country_label": "Italy",
+   "state_obs": "Valle D'Aosta",
+   "state_label": "Valletta",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Gumma",
+   "state_label": "Guelma",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Saitama",
+   "state_label": "Matam",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Japan",
+   "country_label": "Japan",
+   "state_obs": "Shiga",
+   "state_label": "Vihiga",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Jordan",
+   "country_label": "Jordan",
+   "state_obs": "Al Balqa'",
+   "state_label": "Al Bayda'",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Kazakhstan",
+   "country_label": "Kazakhstan",
+   "state_obs": "Zhitigara District",
+   "state_label": "Has District",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Kazakhstan",
+   "country_label": "Kazakhstan",
+   "state_obs": "Kostenay Oblast",
+   "state_label": "Jewish Autonomous Oblast",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Kyrgyzstan",
+   "country_label": "Kyrgyzstan",
+   "state_obs": "Chui",
+   "state_label": "Chrudim",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Madagascar",
+   "country_label": "Madagascar",
+   "state_obs": "Moramanga",
+   "state_label": "Ra",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Madagascar",
+   "country_label": "Madagascar",
+   "state_obs": "Toliara",
+   "state_label": "Tolima",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Mexico",
+   "country_label": "Mexico",
+   "state_obs": "BS",
+   "state_label": "Basel-Stadt",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Mexico",
+   "country_label": "Mexico",
+   "state_obs": "CO",
+   "state_label": "Colonia",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Mexico",
+   "country_label": "Mexico",
+   "state_obs": "Distrito Federal*",
+   "state_label": "Distrito Federal",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Mexico",
+   "country_label": "Mexico",
+   "state_obs": "Michoacan",
+   "state_label": "Michigan",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Mexico",
+   "country_label": "Mexico",
+   "state_obs": "BN",
+   "state_label": "Northern Bahr el Ghazal",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Mexico",
+   "country_label": "Mexico",
+   "state_obs": "SB",
+   "state_label": "Sibiu County",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Mexico",
+   "country_label": "Mexico",
+   "state_obs": "SI",
+   "state_label": "Sirdaryo Region",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Mongolia",
+   "country_label": "Mongolia",
+   "state_obs": "Sukhbaatar",
+   "state_label": "Ba",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Mongolia",
+   "country_label": "Mongolia",
+   "state_obs": "Suhbaatar",
+   "state_label": "Bataan",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Mongolia",
+   "country_label": "Mongolia",
+   "state_obs": "Dornod",
+   "state_label": "Borno",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Mongolia",
+   "country_label": "Mongolia",
+   "state_obs": "Bulgan",
+   "state_label": "Bulacan",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Mongolia",
+   "country_label": "Mongolia",
+   "state_obs": "Hovsgol",
+   "state_label": "Gorgol",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Mozambique",
+   "country_label": "Mozambique",
+   "state_obs": "Niassa",
+   "state_label": "Assam",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Mozambique",
+   "country_label": "Mozambique",
+   "state_obs": "Tete",
+   "state_label": "Leyte",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Namibia",
+   "country_label": "Namibia",
+   "state_obs": "Erongo",
+   "state_label": "Baringo",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Namibia",
+   "country_label": "Namibia",
+   "state_obs": "Karibib District",
+   "state_label": "Chapai Nawabganj District",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Namibia",
+   "country_label": "Namibia",
+   "state_obs": "Gauteng Province",
+   "state_label": "Gauteng",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Namibia",
+   "country_label": "Namibia",
+   "state_obs": "Otjozondijupa",
+   "state_label": "Ostrobothnia",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Namibia",
+   "country_label": "Namibia",
+   "state_obs": "Karas",
+   "state_label": "Ra",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Nauru",
+   "country_label": "Nauru",
+   "state_obs": "Aiwo",
+   "state_label": "Taiwan",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Nicaragua",
+   "country_label": "Nicaragua",
+   "state_obs": "REGI\u00d3N AUT\u00d3NOMA DE LA COSTA CARIBE NORTE",
+   "state_label": "Andorra la Vella",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Nigeria",
+   "country_label": "Nigeria",
+   "state_obs": "Nasarawa State",
+   "state_label": "Ra",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Norway",
+   "country_label": "Norway",
+   "state_obs": "Troms",
+   "state_label": "Homs",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Norway",
+   "country_label": "Norway",
+   "state_obs": "Ostfold",
+   "state_label": "Most",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Papua New Guinea",
+   "country_label": "Papua New Guinea",
+   "state_obs": "Kainantu",
+   "state_label": "Ain",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Papua New Guinea",
+   "country_label": "Papua New Guinea",
+   "state_obs": "Eastern Highland",
+   "state_label": "East",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Peru",
+   "country_label": "Peru",
+   "state_obs": "Chicha",
+   "state_label": "Chichaoua",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Philippines",
+   "country_label": "Philippines",
+   "state_obs": "Surigao",
+   "state_label": "Riga",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Portugal",
+   "country_label": "Portugal",
+   "state_obs": "Caminha",
+   "state_label": "Carinthia",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Portugal",
+   "country_label": "Portugal",
+   "state_obs": "Alto Alentejo",
+   "state_label": "Toa Alta",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Portugal",
+   "country_label": "Portugal",
+   "state_obs": "Vila Nova De Cerveira",
+   "state_label": "\u00c1vila",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Romania",
+   "country_label": "Romania",
+   "state_obs": "Bacau",
+   "state_label": "Cauca",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Romania",
+   "country_label": "Romania",
+   "state_obs": "Constanta",
+   "state_label": "Constantine",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Romania",
+   "country_label": "Romania",
+   "state_obs": "Calarasi",
+   "state_label": "Lara",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Romania",
+   "country_label": "Romania",
+   "state_obs": "Galati",
+   "state_label": "Latina",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Romania",
+   "country_label": "Romania",
+   "state_obs": "Olt",
+   "state_label": "Volta",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Russia",
+   "country_label": "Russia",
+   "state_obs": "Buryatia",
+   "state_label": "Bury",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Russia",
+   "country_label": "Russia",
+   "state_obs": "Chitinskaya Oblast'",
+   "state_label": "Cherkaska oblast",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Russia",
+   "country_label": "Russia",
+   "state_obs": "Khakassia",
+   "state_label": "Kalasin",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Russia",
+   "country_label": "Russia",
+   "state_obs": "Kola Peninsula",
+   "state_label": "Kola\u0161in Municipality",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Russia",
+   "country_label": "Russia",
+   "state_obs": "Sakhalinskaya Oblast'",
+   "state_label": "Luhanska oblast",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Russia",
+   "country_label": "Russia",
+   "state_obs": "Moskovskaya Oblast'",
+   "state_label": "Mykolaivska oblast",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Russia",
+   "country_label": "Russia",
+   "state_obs": "Yakutia",
+   "state_label": "Paktia",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Russia",
+   "country_label": "Russia",
+   "state_obs": "Tuva",
+   "state_label": "Tubas",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Russia",
+   "country_label": "Russia",
+   "state_obs": "Kamchatskaya Oblast'",
+   "state_label": "Zakarpatska Oblast",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Russia",
+   "country_label": "Russia",
+   "state_obs": "Kuril Islands",
+   "state_label": "\u00c5land Islands",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Rwanda",
+   "country_label": "Rwanda",
+   "state_obs": "Muhanga",
+   "state_label": "Murang'a",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Senegal",
+   "country_label": "Senegal",
+   "state_obs": "Thies",
+   "state_label": "Trieste",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Sierra Leone",
+   "country_label": "Sierra Leone",
+   "state_obs": "Northern",
+   "state_label": "Northern",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Slovakia",
+   "country_label": "Slovakia",
+   "state_obs": "Bansk\u00e1 Bystrica",
+   "state_label": "Ba",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Slovakia",
+   "country_label": "Slovakia",
+   "state_obs": "Eastern Slovakia",
+   "state_label": "East",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "South Africa",
+   "country_label": "South Africa",
+   "state_obs": "Mpumalanga Province",
+   "state_label": "Mal\u00e9",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "South Korea",
+   "country_label": "South Korea",
+   "state_obs": "Chungcheongnam-do",
+   "state_label": "Chachoengsao",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "South Korea",
+   "country_label": "South Korea",
+   "state_obs": "Gangwon-do",
+   "state_label": "Guangdong",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "South Korea",
+   "country_label": "South Korea",
+   "state_obs": "Gangwon-do",
+   "state_label": "Mato Grosso do Sul",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "South Korea",
+   "country_label": "South Korea",
+   "state_obs": "Kangwon-Do",
+   "state_label": "Mato Grosso do Sul",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Spain",
+   "country_label": "Spain",
+   "state_obs": "Castilla y Le\u00f3n",
+   "state_label": "Asti",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Spain",
+   "country_label": "Spain",
+   "state_obs": "Cordoba",
+   "state_label": "C\u00f3rdoba",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Spain",
+   "country_label": "Spain",
+   "state_obs": "Andaluc\u00eda",
+   "state_label": "Lucca",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Spain",
+   "country_label": "Spain",
+   "state_obs": "Extremadura",
+   "state_label": "Ra",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Spain",
+   "country_label": "Spain",
+   "state_obs": "Andalusia",
+   "state_label": "Sila",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Sri Lanka",
+   "country_label": "Sri Lanka",
+   "state_obs": "Melsiripura",
+   "state_label": "Ra",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Sudan",
+   "country_label": "Sudan",
+   "state_obs": "An Nil Al Azra",
+   "state_label": "Al Anbar",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Sweden",
+   "country_label": "Sweden",
+   "state_obs": "\u00d6sterg\u00f6tlands L\u00e4n",
+   "state_label": "Landes",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Sweden",
+   "country_label": "Sweden",
+   "state_obs": "Lapland",
+   "state_label": "Lapland",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Sweden",
+   "country_label": "Sweden",
+   "state_obs": "Norrbotten",
+   "state_label": "Northern",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Sweden",
+   "country_label": "Sweden",
+   "state_obs": "Smaland",
+   "state_label": "Saladin",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Turkey",
+   "country_label": "Turkey",
+   "state_obs": "Hakkari Province",
+   "state_label": "Akkar",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Turkey",
+   "country_label": "Turkey",
+   "state_obs": "Sirnak Province",
+   "state_label": "Cuando Cubango Province",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Turkey",
+   "country_label": "Turkey",
+   "state_obs": "Adana Province",
+   "state_label": "Havana Province",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Turkey",
+   "country_label": "Turkey",
+   "state_obs": "Usak",
+   "state_label": "Lusaka Province",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Turkey",
+   "country_label": "Turkey",
+   "state_obs": "Kutahya Province",
+   "state_label": "Utah",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "United Kingdom",
+   "country_label": "United Kingdom",
+   "state_obs": "Cayman Islands",
+   "state_label": "Cat Island",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "United Kingdom",
+   "country_label": "United Kingdom",
+   "state_obs": "Cleveland",
+   "state_label": "Flevoland",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "USA",
+   "country_label": "United States",
+   "state_obs": "Southeast Alaska",
+   "state_label": "East",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "USA",
+   "country_label": "United States",
+   "state_obs": "Humboldt County",
+   "state_label": "Kor\u00e7\u00eb County",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "USA",
+   "country_label": "United States",
+   "state_obs": "Nye",
+   "state_label": "Nyeri",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "United States",
+   "country_label": "United States",
+   "state_obs": "CT",
+   "state_label": "C\u1ea7n Th\u01a1",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "United States",
+   "country_label": "United States",
+   "state_obs": "Elko County",
+   "state_label": "Gjirokast\u00ebr County",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "United States",
+   "country_label": "United States",
+   "state_obs": "Stevens County",
+   "state_label": "Gy\u0151r-Moson-Sopron County",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "United States",
+   "country_label": "United States",
+   "state_obs": "Esmeralda County",
+   "state_label": "Ra",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Uruguay",
+   "country_label": "Uruguay",
+   "state_obs": "Rio Negro",
+   "state_label": "R\u00edo Negro",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Vietnam",
+   "country_label": "Vietnam",
+   "state_obs": "Son La",
+   "state_label": "Andorra la Vella",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Yemen",
+   "country_label": "Yemen",
+   "state_obs": "Northwest Region",
+   "state_label": "Northwestern Region",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Zambia",
+   "country_label": "Zambia",
+   "state_obs": "North-Western Province",
+   "state_label": "North Western Province",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Zimbabwe",
+   "country_label": "Zimbabwe",
+   "state_obs": "Harare",
+   "state_label": "Ra",
+   "sites": "1",
+   "n": 1
+  }
+ ],
+ "undecidable": [
+  {
+   "country_obs": "",
+   "country_label": "Argentina",
+   "state_obs": "",
+   "state_label": "San Juan",
+   "sites": "8",
+   "n": 8
+  },
+  {
+   "country_obs": "",
+   "country_label": "United States",
+   "state_obs": "",
+   "state_label": "Florida",
+   "sites": "8",
+   "n": 8
+  },
+  {
+   "country_obs": "",
+   "country_label": "Australia",
+   "state_obs": "",
+   "state_label": "Victoria",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "",
+   "country_label": "Papua New Guinea",
+   "state_obs": "",
+   "state_label": "Western Province",
+   "sites": "3",
+   "n": 3
+  },
+  {
+   "country_obs": "",
+   "country_label": "Argentina",
+   "state_obs": "",
+   "state_label": "Santa Cruz",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "",
+   "country_label": "Papua New Guinea",
+   "state_obs": "",
+   "state_label": "Central Province",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "",
+   "country_label": "Zambia",
+   "state_obs": "",
+   "state_label": "Central",
+   "sites": "1",
+   "n": 1
+  }
+ ],
+ "needs-review": [
+  {
+   "country_obs": "Democratic Republic of Congo",
+   "country_label": "Democratic Republic of the Congo",
+   "state_obs": "Katanga Province",
+   "state_label": "Tanga",
+   "sites": "9",
+   "n": 9
+  },
+  {
+   "country_obs": "Korea",
+   "country_label": "North Korea",
+   "state_obs": "Ch'Ungch'Ong-Bukto",
+   "state_label": "Chongqing",
+   "sites": "4",
+   "n": 4
+  },
+  {
+   "country_obs": "Slovak Republic",
+   "country_label": "Central African Republic",
+   "state_obs": "Banska Bystricka Region",
+   "state_label": "Bansk\u00e1 Bystrica Region",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Fiji",
+   "country_label": "Fiji Islands",
+   "state_obs": "Viti Levu Island",
+   "state_label": "Jarvis Island",
+   "sites": "2",
+   "n": 2
+  },
+  {
+   "country_obs": "Republic of Congo",
+   "country_label": "Congo",
+   "state_obs": "District of Niari",
+   "state_label": "Federation of Bosnia and Herzegovina",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "C\u00f4te d\u2019Ivoire",
+   "country_label": "Cote D'Ivoire (Ivory Coast)",
+   "state_obs": "C\u00f4te d\u2019Ivoire",
+   "state_label": "C\u00f4te-d'Or",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Germany and Czech Republic",
+   "country_label": "Czech Republic",
+   "state_obs": "Bayern [Bavaria, Germany]",
+   "state_label": "Bay Islands Department",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Korea, Republic of",
+   "country_label": "Democratic Republic of the Congo",
+   "state_obs": "Ch'Ungch'Ong-Bukto",
+   "state_label": "Changhua",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Korea, Republic of",
+   "country_label": "Democratic Republic of the Congo",
+   "state_obs": "Ch'Ungch'Ong-Namdo",
+   "state_label": "Changhua",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Malawai",
+   "country_label": "Malawi",
+   "state_obs": "Central",
+   "state_label": "Central",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Malawai",
+   "country_label": "Malawi",
+   "state_obs": "Dowa",
+   "state_label": "Doha",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Malawai",
+   "country_label": "Malawi",
+   "state_obs": "Lilongwe",
+   "state_label": "Songwe",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Korea",
+   "country_label": "North Korea",
+   "state_obs": "Ch'Ungch'Ong-Namdo",
+   "state_label": "Chongqing",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Korea",
+   "country_label": "North Korea",
+   "state_obs": "Hamgyong-Namdo",
+   "state_label": "Kampong Cham",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Korea",
+   "country_label": "North Korea",
+   "state_obs": "Hwanghae-Bukto",
+   "state_label": "Shanghai",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Korea",
+   "country_label": "North Korea",
+   "state_obs": "Hwanghae-Namdo",
+   "state_label": "Shanghai",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Korea, North",
+   "country_label": "North Korea",
+   "state_obs": "Hamgyong-Namdo",
+   "state_label": "Domagnano",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Republic of Portugal",
+   "country_label": "Portugal",
+   "state_obs": "Caminha",
+   "state_label": "Carinthia",
+   "sites": "1",
+   "n": 1
+  },
+  {
+   "country_obs": "Republic of Portugal",
+   "country_label": "Portugal",
+   "state_obs": "Vila Nova De Cerveira",
+   "state_label": "\u00c1vila",
+   "sites": "1",
+   "n": 1
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "C1-control-mrds",
+  "sent_at": "2026-09-08T09:53:47.053689+00:00",
+  "http_status": 200,
+  "elapsed_ms": 712,
+  "bytes": 110,
+  "curl_exit": 0,
+  "row_count": 0,
+  "truncated_by_limit": false,
+  "error": null
+}

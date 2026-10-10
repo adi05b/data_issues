@@ -1,0 +1,11 @@
+{
+  "id": "n1d-p96-sitecount",
+  "sent_at": "2026-09-14T21:05:33.695943+00:00",
+  "http_status": 200,
+  "elapsed_ms": 293,
+  "bytes": 525,
+  "curl_exit": 0,
+  "row_count": 1,
+  "truncated_by_limit": false,
+  "error": null
+}

@@ -1,0 +1,58 @@
+{ "head": {
+    "vars": [ "source" , "latd" , "sites" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "37" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "386" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3973" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "38335" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "304610" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "239" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1604" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16110" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

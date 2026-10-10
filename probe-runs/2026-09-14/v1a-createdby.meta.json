@@ -1,0 +1,11 @@
+{
+  "id": "v1a-createdby",
+  "sent_at": "2026-09-15T06:21:19.280482+00:00",
+  "http_status": 200,
+  "elapsed_ms": 6243,
+  "bytes": 2390,
+  "curl_exit": 0,
+  "row_count": 10,
+  "truncated_by_limit": false,
+  "error": null
+}

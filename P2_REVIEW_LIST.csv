@@ -1,0 +1,222 @@
+entity_id,recorded_country,observed_state,reason_group,reason_note,c_outcome,c_containing_shape,c_would_fill_with,name_check
+dedup_site__doi-org-10-5066-p99rk9su__amitsoq__usc-stu,Greenland,Kommune Kujalleq,Greenland,the table has no Greenland rows,point outside the recorded country,,,
+dedup_site__doi-org-10-2113-econgeo-110-8-1925__kvanefjeld-155__usc,Greenland,Kujalleq,Greenland,the table has no Greenland rows,no usable point,,,
+dedup_site__doi-org-10-2113-econgeo-110-8-1925__sarfartoq-st-1-zone-158__usc,Greenland,Qaasuitsup,Greenland,the table has no Greenland rows,no usable point,,,
+dedup_site__api-cdr-land-v1-docs-documents__02338f41e38d4b0b946bf87bf672ccc27f5418cebc16c71d1095b236c5dab6d19d__inferlink,Greenland,Qaqortoq District,Greenland,the table has no Greenland rows,point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10400569__sri,Democratic Republic of the Congo,Katanga,Katanga,outside the four provinces,point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10400590__sri,Democratic Republic of the Congo,Katanga,Katanga,within 2 km of an internal border,fillable,Lualaba,Q3012 Lualaba,n/a
+dedup_site__mrdata-usgs-gov-mrds__10400593__sri,Democratic Republic of the Congo,Katanga,Katanga,within 2 km of an internal border,fillable,Lualaba,Q3012 Lualaba,n/a
+dedup_site__mrdata-usgs-gov-mrds__10400611__umn,Democratic Republic of the Congo,Katanga,Katanga,no location,no usable point,,,
+dedup_site__mrdata-usgs-gov-mrds__10400612__umn,Democratic Republic of the Congo,Katanga,Katanga,no location,no usable point,,,
+dedup_site__mrdata-usgs-gov-mrds__10400613__umn,Democratic Republic of the Congo,Katanga,Katanga,no location,no usable point,,,
+dedup_site__mrdata-usgs-gov-mrds__10400614__umn,Democratic Republic of the Congo,Katanga,Katanga,no location,no usable point,,,
+dedup_site__mrdata-usgs-gov-mrds__10400615__umn,Democratic Republic of the Congo,Katanga,Katanga,no location,no usable point,,,
+dedup_site__api-cdr-land-v1-docs-documents__0292a16f4f8a2ffba9e8e34b28a800f94ae9cc6c7dc52817b612d686c516728141__inferlink,Democratic Republic of the Congo,Katanga Province,Katanga,no location,no usable point,,,
+dedup_site__api-cdr-land-v1-docs-documents__029506dffe37f93eeb0fcd8e37db36e05b09e7ec7ac4f84b1e5ec21c45031838dc__inferlink,Democratic Republic of the Congo,Katanga Province,Katanga,outside the four provinces,point outside the recorded country,,,
+dedup_site__api-cdr-land-v1-docs-documents__02985623c56ad317be6bc8c26151958642bcfedcbe5837bd236664a1068d1b5fdc__inferlink,Democratic Republic of the Congo,Katanga Province,Katanga,round placeholder,no usable point,,,
+dedup_site__api-cdr-land-v1-docs-documents__02a714ece70c0d9a72c3d36078290086dd8d7a9aa659f97c7aefe3c35d78020e76__inferlink,Democratic Republic of the Congo,Katanga Province,Katanga,outside the four provinces | within 2 km of an internal border,point outside the recorded country,,,
+dedup_site__api-cdr-land-v1-docs-documents__02b123fa95ef696cc0b4479bfed0598084b8156002a74d54177f6e9633f2601486__inferlink,Democratic Republic of the Congo,Katanga Province,Katanga,no location,no usable point,,,
+dedup_site__api-cdr-land-v1-docs-documents__02b2fa42ff3059c1b7a1b8885e1d004f337febcb428d865c5e8db394c8a44f2006__inferlink,Democratic Republic of the Congo,Katanga Province,Katanga,no location,no usable point,,,
+dedup_site__api-cdr-land-v1-docs-documents__02ecce4ba42721f620ae2000567a88f606d11bde7b441f483b7b47c5b932d96858__inferlink,Democratic Republic of the Congo,Katanga Province,Katanga,outside the four provinces,point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10068643__sri,Cayman Islands,Cayman Islands,Option A,Cayman Islands,point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10081081__sri,Christmas Island,Territory Of Christmas Island,Option A,Christmas Island,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10134370__sri,Christmas Island,Territory Of Christmas Island,Option A,Christmas Island,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10305101__sri,Christmas Island,Territory Of Christmas Island,Option A,Christmas Island,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000707__sri,Christmas Island,Territory Of Christmas Island,Option A,Christmas Island,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10008515__sri,Greenland,Greenland,Option A,Greenland,point in a shape with no MinMod match,Northeast Greenland National Park,,
+dedup_site__mrdata-usgs-gov-mrds__10024878__sri,Greenland,Greenland,Option A,Greenland,point in a shape with no MinMod match,Kujalleq,,
+dedup_site__mrdata-usgs-gov-mrds__10038190__sri,Greenland,Greenland,Option A,Greenland,point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10038191__sri,Greenland,Greenland,Option A,Greenland,point in a shape with no MinMod match,Sermersooq,,
+dedup_site__mrdata-usgs-gov-mrds__10038192__sri,Greenland,Greenland,Option A,Greenland,point in a shape with no MinMod match,Kujalleq,,
+dedup_site__mrdata-usgs-gov-mrds__10038193__sri,Greenland,Greenland,Option A,Greenland,point in a shape with no MinMod match,Sermersooq,,
+dedup_site__mrdata-usgs-gov-mrds__10038194__sri,Greenland,Greenland,Option A,Greenland,point in a shape with no MinMod match,Kujalleq,,
+dedup_site__mrdata-usgs-gov-mrds__10038195__sri,Greenland,Greenland,Option A,Greenland,point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10073071__sri,Greenland,Greenland,Option A,Greenland,point in a shape with no MinMod match,Avannaata,,
+dedup_site__mrdata-usgs-gov-mrds__10133053__umn,Greenland,Greenland,Option A,Greenland,point in a shape with no MinMod match,Avannaata,,
+dedup_site__mrdata-usgs-gov-mrds__10255522__sri,Greenland,Greenland,Option A,Greenland,point in a shape with no MinMod match,Sermersooq,,
+dedup_site__mrdata-usgs-gov-mrds__10255610__sri,Greenland,Greenland,Option A,Greenland,point in a shape with no MinMod match,Sermersooq,,
+dedup_site__mrdata-usgs-gov-mrds__10279369__umn,Greenland,Greenland,Option A,Greenland,point in a shape with no MinMod match,Sermersooq,,
+dedup_site__mrdata-usgs-gov-mrds__10303620__sri,Greenland,Greenland,Option A,Greenland,point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000525__sri,Greenland,Greenland,Option A,Greenland,point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10061584__sri,Montserrat,Montserrat,Option A,Montserrat,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10061585__sri,Montserrat,Montserrat,Option A,Montserrat,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10061586__sri,Montserrat,Montserrat,Option A,Montserrat,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10068641__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10069196__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10070078__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10079652__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10079653__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10079654__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10079655__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10079656__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10079657__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10079658__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10079659__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10079660__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10079661__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10085264__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10085265__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10085266__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10085268__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10085269__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10096541__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10096542__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10097461__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10097462__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10100227__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10134543__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10134700__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10134767__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10182916__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10231923__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10231964__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10256358__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000619__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000621__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000622__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000623__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000624__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000625__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000626__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000628__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000629__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000631__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000632__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000633__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000634__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000635__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000636__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000637__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60000638__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__60001852__sri,New Caledonia,Territory Of New Caledonia And Dependencies,Option A,New Caledonia,no ADM1 for country,,,
+dedup_site__mrdata-usgs-gov-mrds__10061612__sri,Virgin Islands (British),British Virgin Islands,Option A,Virgin Islands (British),point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10062299__sri,Virgin Islands (British),British Virgin Islands,Option A,Virgin Islands (British),point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10206921__umn,Belgium,Brabant,abolished unit,"former province, split in 1995",point in a shape with no MinMod match,Brussels Hoofdstedelijk,,
+dedup_site__mrdata-usgs-gov-mrds__10303873__umn,Belgium,Brabant,abolished unit,"former province, split in 1995",point in a shape with no MinMod match,Wallonne Gewest,,
+dedup_site__doi-org-10-5382-econgeo-2018-4590__la-cristina-989__usc,Cuba,Oriente,abolished unit,"former province, split in 1976",fillable,Granma,Q2890 Granma Province,agrees
+dedup_site__mrdata-usgs-gov-vms__1171__sri,Cuba,Oriente,abolished unit,"former province, split in 1976",fillable,Granma,Q2890 Granma Province,agrees
+dedup_site__mrdata-usgs-gov-mrds__10023847__sri,Ethiopia,Sidamo,abolished unit,"former province, split in 1995",fillable,Oromia,Q3182 Oromia Region,agrees
+dedup_site__mrdata-usgs-gov-mrds__10134541__umn,Ethiopia,Sidamo,abolished unit,"former province, split in 1995",fillable,Oromia,Q3182 Oromia Region,agrees
+dedup_site__mrdata-usgs-gov-mrds__10280422__umn,Ethiopia,Sidamo,abolished unit,"former province, split in 1995",fillable,Oromia,Q3182 Oromia Region,agrees
+dedup_site__mrdata-usgs-gov-mrds__10023849__umn,Ethiopia,Welega [Walaga],abolished unit,"former province, now zones of Oromia",fillable,Oromia,Q3182 Oromia Region,agrees
+dedup_site__mrdata-usgs-gov-mrds__10106888__sri,Ethiopia,Welega [Walaga],abolished unit,"former province, now zones of Oromia",fillable,Oromia,Q3182 Oromia Region,agrees
+dedup_site__api-cdr-land-v1-docs-documents__022b3d59cc1cf69fbfc7568ea9481a6c28bf70ad5bf92170f7913b6ee73832accc__inferlink,Finland,Eastern Finland,abolished unit,former province spanning several regions,fillable,North Karelia,Q3212 North Karelia,agrees
+dedup_site__mrdata-usgs-gov-mrds__10023258__sri,Finland,Oulu Laani,abolished unit,"former province, abolished 2009; now Northern Ostrobothnia and Kainuu",fillable,Kainuu,Q3209 Kainuu,agrees
+dedup_site__mrdata-usgs-gov-mrds__10024919__sri,Finland,Oulu Laani,abolished unit,"former province, abolished 2009; now Northern Ostrobothnia and Kainuu",fillable,Kainuu,Q3209 Kainuu,agrees
+dedup_site__mrdata-usgs-gov-mrds__10039368__sri,Finland,Oulu Laani,abolished unit,"former province, abolished 2009; now Northern Ostrobothnia and Kainuu",fillable,Northern Ostrobothnia,Q3213 Northern Ostrobothnia,agrees
+dedup_site__mrdata-usgs-gov-mrds__10085296__umn,France,Limousin,abolished unit,"former region, merged into Nouvelle-Aquitaine in 2016: a part of it",fillable,Nouvelle-Aquitaine,Q3312 Nouvelle-Aquitaine,agrees
+dedup_site__mrdata-usgs-gov-mrds__10021443__umn,Indonesia,Irian Jaya,abolished unit,"former name of all of western New Guinea, now several provinces",fillable,Papua,Q3691 Papua,agrees
+dedup_site__mrdata-usgs-gov-vms__1649__sri,Kazakhstan,Semipalatinsk,abolished unit,"former oblast; merged 1997, most of it now Abai Region (2022), which the table lacks",fillable,East Kazakhstan Region,Q3976 East Kazakhstan Region,agrees
+dedup_site__mrdata-usgs-gov-vms__1650__sri,Kazakhstan,Semipalatinsk,abolished unit,"former oblast; merged 1997, most of it now Abai Region (2022), which the table lacks",fillable,East Kazakhstan Region,Q3976 East Kazakhstan Region,agrees
+dedup_site__mrdata-usgs-gov-mrds__10062302__sri,Netherlands,Netherlands Antilles,abolished unit,dissolved 2010 into several territories,point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10107083__sri,Netherlands,Netherlands Antilles,abolished unit,dissolved 2010 into several territories,point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10205958__sri,Netherlands,Netherlands Antilles,abolished unit,dissolved 2010 into several territories,point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10133986__sri,Norway,Ostfold,abolished unit,merged into Viken in 2020 (split out again in 2024): a part of it,fillable,Vestfold og Telemark,Q5009 Vestfold og Telemark,contradicts
+dedup_site__mrdata-usgs-gov-mrds__10134345__sri,Norway,Sogn Og Fjordane,abolished unit,"merged into Vestland in 2020: a part of it, not another name for it",fillable,Troms og Finnmark,Q5007 Troms og Finnmark,contradicts
+dedup_site__mrdata-usgs-gov-mrds__10158219__umn,Norway,Sogn Og Fjordane,abolished unit,"merged into Vestland in 2020: a part of it, not another name for it",fillable,Troms og Finnmark,Q5007 Troms og Finnmark,contradicts
+dedup_site__mrdata-usgs-gov-mrds__10231002__umn,Norway,Sogn Og Fjordane,abolished unit,"merged into Vestland in 2020: a part of it, not another name for it",fillable,Troms og Finnmark,Q5007 Troms og Finnmark,contradicts
+dedup_site__mrdata-usgs-gov-mrds__10279744__sri,Norway,Sogn Og Fjordane,abolished unit,"merged into Vestland in 2020: a part of it, not another name for it",fillable,Troms og Finnmark,Q5007 Troms og Finnmark,contradicts
+dedup_site__mrdata-usgs-gov-mrds__10305212__umn,Norway,Sogn Og Fjordane,abolished unit,"merged into Vestland in 2020: a part of it, not another name for it",fillable,Troms og Finnmark,Q5007 Troms og Finnmark,contradicts
+dedup_site__mrdata-usgs-gov-mrds__10134232__sri,Norway,Troms,abolished unit,merged into Troms og Finnmark in 2020 (split out again in 2024): a part of it,fillable,Troms og Finnmark,Q5007 Troms og Finnmark,agrees
+dedup_site__mrdata-usgs-gov-vms__1702__sri,Portugal,Alto Alentejo,abolished unit,historical province spanning districts,fillable,PORTALEGRE,Q5269 Portalegre,agrees
+dedup_site__doi-org-10-5066-p99rk9su__vittangi__usc-stu,Sweden,Lapland,abolished unit,historical province spanning two counties,fillable,Norrbottens län,Q6047 Norrbotten County,agrees
+dedup_site__doi-org-10-2113-econgeo-110-8-1925__norra-karr-237__usc,Sweden,Smaland,abolished unit,historical province spanning three counties,no usable point,,,
+dedup_site__mrdata-usgs-gov-mrds__10085405__sri,United Kingdom,Cleveland,abolished unit,"former county, abolished 1996 and split",fillable,England,Q6679 England,agrees
+dedup_site__mrdata-usgs-gov-vms__576__sri,Finland,Turku,city,a city,fillable,Finland Proper,Q3208 Finland Proper,agrees
+dedup_site__mrdata-usgs-gov-vms__863__sri,Finland,Turku,city,a city,fillable,Finland Proper,Q3208 Finland Proper,agrees
+dedup_site__mrdata-usgs-gov-mrds__10106670__umn,Morocco,Agadir,city,"a city (seat of Agadir-Ida-Ou-Tanane prefecture), not the prefecture's name",fillable,Béni Mellal-Khénifra,Q4655 Béni Mellal-Khénifra,contradicts
+dedup_site__mrdata-usgs-gov-mrds__10304499__umn,Morocco,Agadir,city,"a city (seat of Agadir-Ida-Ou-Tanane prefecture), not the prefecture's name",fillable,Souss-Massa,Q4720 Souss-Massa,agrees
+dedup_site__api-cdr-land-v1-docs-documents__023ae820430fe17015dc4b8071b035cc051bd6ba0708d82bdffccfaa82bfd95fdb__inferlink,Papua New Guinea,Kainantu,city,a town in Eastern Highlands,no usable point,,,
+dedup_site__api-cdr-land-v1-docs-documents__02795827ba7393a9ec7923556fdb91860167bf54688999beefa2f9699ebc9e930e__inferlink,Sri Lanka,Melsiripura,city,a town,no usable point,,,
+dedup_site__api-cdr-land-v1-docs-documents__0200ab064d1f23368ac703f8789169194114421955c172b55e2bc1a95184e2f0e0__inferlink,Austria,Bad Bleiberg,county,a municipality in Carinthia,no usable point,,,
+dedup_site__mrdata-usgs-gov-vms__1194__sri,Bolivia,Guarayos,county,a province inside Santa Cruz,fillable,Santa Cruz,Q2457 Santa Cruz Department,agrees
+dedup_site__api-cdr-land-v1-docs-documents__02c9ac685b549d7ee82685c01ca544e632f6df21b1a6f7732a6014282a68194fe5__inferlink,Canada,York County,county,a county,fillable,New Brunswick,Q2656 New Brunswick,agrees
+dedup_site__mrdata-usgs-gov-vms__1206__sri,Chile,Copiapó,county,a province and city inside Atacama,fillable,RegiÃ³n de Atacama,Q2732 Atacama,agrees
+dedup_site__mrdata-usgs-gov-mrds__10023848__sri,Ethiopia,Mirab Gojam,county,a zone of Amhara,fillable,Beneshangul Gumu,Q3178 Benishangul-Gumuz Region,contradicts
+dedup_site__mrdata-usgs-gov-mrds__10023851__sri,Ethiopia,Mirab Harerge,county,a zone of Oromia,fillable,Somali,Q3183 Somali Region,contradicts
+dedup_site__api-cdr-land-v1-docs-documents__023270daf4b4c58bb22e9f25ccba07beeed99de543289e4687b499190836e77139__inferlink,Kazakhstan,Zhitigara District,county,a district,no usable point,,,
+dedup_site__api-cdr-land-v1-docs-documents__0202df58d4d9fca30dda22e70e60f3a4c4ce0d826bba0453d7b43bd46970ad2836__inferlink,Namibia,Karibib District,county,a constituency in Erongo,no usable point,,,
+dedup_site__mrdata-usgs-gov-major-deposits__401__sri,New Zealand,Buller,county,a district inside West Coast Region,fillable,West Coast Region,Q4842 West Coast Region,agrees
+dedup_site__mrdata-usgs-gov-major-deposits__400__sri,New Zealand,Westland,county,a district inside West Coast Region,fillable,West Coast Region,Q4842 West Coast Region,agrees
+dedup_site__mrdata-usgs-gov-mrds__10038189__sri,New Zealand,Westland,county,a district inside West Coast Region,fillable,West Coast Region,Q4842 West Coast Region,agrees
+dedup_site__api-cdr-land-v1-docs-documents__02b43b4ffaaf7a1179cd75d1fbe87c72b58caff3264cb08da2eb4e4b124f787558__inferlink,Portugal,Vila Nova De Cerveira,county,a municipality (Viana do Castelo district),fillable,VIANA DO CASTELO,Q5273 Viana do Castelo,agrees
+dedup_site__api-cdr-land-v1-docs-documents__02075c9ac4218257ced5dfd62292ebeea21d5d26b5329c1f8302b940117738ef46__inferlink,Rwanda,Muhanga,county,a district,fillable,Western Province,Q5501 Western Province,contradicts
+dedup_site__api-cdr-land-v1-docs-documents__0242fccfa1b933e502b156bb5d61960e4cddc88fa0a960553f91d3fa324190b025__inferlink,United States,Nye,county,a county (Nevada),fillable,Nevada,Q6876 Nevada,agrees
+dedup_site__mrdata-usgs-gov-vms__1312__sri,Fiji Islands,Viti Levu Island,island,an island spanning several provinces,fillable,Central,Q3189 Central Division,agrees
+dedup_site__mrdata-usgs-gov-vms__1313__sri,Fiji Islands,Viti Levu Island,island,an island spanning several provinces,fillable,Central,Q3189 Central Division,agrees
+dedup_site__api-cdr-land-v1-docs-documents__026775c5b92e25fb0989e869355670011f316e5056ad119db38cc74a5cc79c6957__inferlink,Indonesia,Halmahera Island,island,an island,point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-vms__1319__sri,Indonesia,Timor Island,island,an island,fillable,East Nusa Tenggara,Q3690 Nusa Tenggara Timur,agrees
+dedup_site__mrdata-usgs-gov-mrds__10069643__sri,Philippines,Rapu-Rapu Island,island,an island municipality in Albay,fillable,Bicol Region,Q5156 Bicol,agrees
+dedup_site__mrdata-usgs-gov-vms__762__sri,Philippines,Rapu-Rapu Island,island,an island municipality in Albay,fillable,Bicol Region,Q5156 Bicol,agrees
+dedup_site__mrdata-usgs-gov-mrds__10118458__sri,Philippines,Samar,island,"the island, not the province: 5 of the 6 records lie in Eastern Samar",fillable,Eastern Visayas,Q5184 Eastern Visayas,agrees
+dedup_site__mrdata-usgs-gov-mrds__10206712__sri,Philippines,Samar,island,"the island, not the province: 5 of the 6 records lie in Eastern Samar",fillable,Eastern Visayas,Q5184 Eastern Visayas,agrees
+dedup_site__mrdata-usgs-gov-mrds__10207013__sri,Philippines,Samar,island,"the island, not the province: 5 of the 6 records lie in Eastern Samar",fillable,Eastern Visayas,Q5184 Eastern Visayas,agrees
+dedup_site__mrdata-usgs-gov-mrds__10231369__sri,Philippines,Samar,island,"the island, not the province: 5 of the 6 records lie in Eastern Samar",fillable,Eastern Visayas,Q5184 Eastern Visayas,agrees
+dedup_site__mrdata-usgs-gov-mrds__10255731__sri,Philippines,Samar,island,"the island, not the province: 5 of the 6 records lie in Eastern Samar",fillable,Eastern Visayas,Q5184 Eastern Visayas,agrees
+dedup_site__mrdata-usgs-gov-mrds__10256144__umn,Philippines,Samar,island,"the island, not the province: 5 of the 6 records lie in Eastern Samar",fillable,Eastern Visayas,Q5184 Eastern Visayas,agrees
+dedup_site__doi-org-10-2113-econgeo-110-8-1925__afrikanda-218__usc,Russia,Kola Peninsula,island,a peninsula,no usable point,,,
+dedup_site__doi-org-10-5382-econgeo-2018-4590__valentina-1733__usc,Russia,Kuril Islands,island,an island chain,fillable,Sakhalin Oblast,Q5476 Sakhalin,agrees
+dedup_site__doi-org-10-5382-econgeo-2018-4590__rehove-15__usc,Albania,Korce,other,"blocked, waiting on a decision",point in an ambiguous shape,Korçë,Q2052 Korçë County | Q2053 Korçë District,
+dedup_site__mrdata-usgs-gov-mrds__10024535__sri,Albania,Korce,other,"blocked, waiting on a decision",point in an ambiguous shape,Korçë,Q2052 Korçë County | Q2053 Korçë District,
+dedup_site__mrdata-usgs-gov-mrds__10024337__sri,Albania,Kukes,other,"blocked, waiting on a decision",point in an ambiguous shape,Kukës,Q2056 Kukës County | Q2057 Kukës District,
+dedup_site__mrdata-usgs-gov-mrds__10231462__umn,Albania,Kukes,other,"blocked, waiting on a decision",point in an ambiguous shape,Kukës,Q2056 Kukës County | Q2057 Kukës District,
+dedup_site__mrdata-usgs-gov-mrds__10231478__umn,Albania,Kukes,other,"blocked, waiting on a decision",point in an ambiguous shape,Kukës,Q2056 Kukës County | Q2057 Kukës District,
+dedup_site__mrdata-usgs-gov-mrds__10255794__sri,Albania,Kukes,other,"blocked, waiting on a decision",point in an ambiguous shape,Kukës,Q2056 Kukës County | Q2057 Kukës District,
+dedup_site__mrdata-usgs-gov-mrds__10279508__umn,Albania,Kukes,other,"blocked, waiting on a decision",point in an ambiguous shape,Kukës,Q2056 Kukës County | Q2057 Kukës District,
+dedup_site__mrdata-usgs-gov-mrds__10279991__sri,Albania,Kukes,other,"blocked, waiting on a decision",point in an ambiguous shape,Kukës,Q2056 Kukës County | Q2057 Kukës District,
+dedup_site__doi-org-10-5382-econgeo-2018-4590__chelopech-350__usc,Bulgaria,Sofiya,other,Sofia City Province or Sofia Province: two rows,fillable,Pazardzhik,Q2525 Pazardzhik Province,contradicts
+dedup_site__mrdata-usgs-gov-mrds__10157864__sri,Bulgaria,Sofiya,other,Sofia City Province or Sofia Province: two rows,fillable,Plovdiv,Q2528 Plovdiv Province,contradicts
+dedup_site__mrdata-usgs-gov-mrds__10207295__umn,Bulgaria,Sofiya,other,Sofia City Province or Sofia Province: two rows,fillable,Sofia,Q2536 Sofia Province,agrees
+dedup_site__doi-org-10-2113-econgeo-110-8-1925__two-tom-121__usc,Canada,Labrador,other,a part of Newfoundland and Labrador,no usable point,,,
+dedup_site__api-cdr-land-v1-docs-documents__02ff7e1e9b8ef37f7c5a784e9fa4dc034c06a975902cd10cd1f251e01e547d9a3d__inferlink,Canada,Western Churchill Province,other,a geological province,no usable point,,,
+dedup_site__api-cdr-land-v1-docs-documents__0296bc0c1b6d9d80aaeee594d72e8a5eec483c81b090ffff23afbb73b0c1d2b151__inferlink,Cote D'Ivoire (Ivory Coast),Côte d’Ivoire,other,the country's own name,no usable point,,,
+dedup_site__mrdata-usgs-gov-mrds__10081070__sri,Egypt,Al Buhayrah,other,"alias rejected on coordinates: Beheira, but the record lies at Aswan, 690 km away; al-Buhayrah is also 'the lake' (Lake Nasser)",fillable,Aswan Governorate,Q3101 Aswan,contradicts
+dedup_site__mrdata-usgs-gov-mrds__10023336__sri,Greece,Khalkidhiki,other,the Chalkidiki regional unit has no row (the Greek rows mix regions and units),point in a shape with no MinMod match,Macedonia-Thrace,,
+dedup_site__mrdata-usgs-gov-mrds__10023810__sri,Greece,Khalkidhiki,other,the Chalkidiki regional unit has no row (the Greek rows mix regions and units),point in a shape with no MinMod match,Macedonia-Thrace,,
+dedup_site__mrdata-usgs-gov-major-deposits__2372__sri,Guinea,Boke,other,"blocked, waiting on a decision",point in an ambiguous shape,Boke,Q3476 Boké Prefecture | Q3477 Boké Region,
+dedup_site__mrdata-usgs-gov-major-deposits__2378__sri,Guinea,Boke,other,"blocked, waiting on a decision",point in an ambiguous shape,Kindia,Q3492 Kindia Prefecture | Q3493 Kindia Region,
+dedup_site__api-cdr-land-v1-docs-documents__027bea68542f8d5ceec0f7bdbb385b922bcb22214d7f18e30fbcbfc7acc2edd728__inferlink,Guinea,Eastern Guinea,other,not an administrative unit,point in an ambiguous shape,Kankan,Q3489 Kankan Prefecture | Q3490 Kankan Region,
+dedup_site__mrdata-usgs-gov-mrds__10135145__umn,Guinea,Kankan,other,"blocked, waiting on a decision",point in an ambiguous shape,Kankan,Q3489 Kankan Prefecture | Q3490 Kankan Region,
+dedup_site__mrdata-usgs-gov-mrds__10255974__sri,Guinea,Kankan,other,"blocked, waiting on a decision",point in an ambiguous shape,Kankan,Q3489 Kankan Prefecture | Q3490 Kankan Region,
+dedup_site__mrdata-usgs-gov-mrds__10280781__sri,Guinea,Kankan,other,"blocked, waiting on a decision",point in an ambiguous shape,Kankan,Q3489 Kankan Prefecture | Q3490 Kankan Region,
+dedup_site__mrdata-usgs-gov-major-deposits__2376__sri,Guinea,Kindia,other,"blocked, waiting on a decision",point in an ambiguous shape,Kindia,Q3492 Kindia Prefecture | Q3493 Kindia Region,
+dedup_site__mrdata-usgs-gov-mrds__10305128__sri,Guinea,Kindia,other,"blocked, waiting on a decision",point in an ambiguous shape,Kindia,Q3492 Kindia Prefecture | Q3493 Kindia Region,
+dedup_site__mrdata-usgs-gov-mrds__10255666__umn,Jordan,Al Balqa',other,"alias rejected on coordinates: Balqa, but the record lies at Aqaba, 240 km away",fillable,Aqaba,Q3960 Aqaba,contradicts
+dedup_site__mrdata-usgs-gov-mrds__10134145__sri,Malaysia,Pulau Pinang,other,"alias rejected on coordinates: Malay for Penang, but all 5 records lie in Sabah, about 1,800 km away",fillable,Sabah,Q4393 Sabah,contradicts
+dedup_site__mrdata-usgs-gov-mrds__10159036__umn,Malaysia,Pulau Pinang,other,"alias rejected on coordinates: Malay for Penang, but all 5 records lie in Sabah, about 1,800 km away",fillable,Sabah,Q4393 Sabah,contradicts
+dedup_site__mrdata-usgs-gov-mrds__10280775__sri,Malaysia,Pulau Pinang,other,"alias rejected on coordinates: Malay for Penang, but all 5 records lie in Sabah, about 1,800 km away",fillable,Sabah,Q4393 Sabah,contradicts
+dedup_site__mrdata-usgs-gov-mrds__10287985__sri,Malaysia,Pulau Pinang,other,"alias rejected on coordinates: Malay for Penang, but all 5 records lie in Sabah, about 1,800 km away",fillable,Sabah,Q4393 Sabah,contradicts
+dedup_site__mrdata-usgs-gov-nicrpge__12208__sri,Mexico,BN,other,a two-letter abbreviation that is not a code in the table,fillable,Baja California,Q4531 Baja California,unclear
+dedup_site__mrdata-usgs-gov-nicrpge__12272__sri,Mexico,BS,other,a two-letter abbreviation that is not a code in the table,fillable,Baja California Sur,Q4532 Baja California Sur,unclear
+dedup_site__mrdata-usgs-gov-nicrpge__13066__sri,Mexico,CO,other,a two-letter abbreviation that is not a code in the table,fillable,Coahuila de Zaragoza,Q4537 Coahuila de Zaragoza,unclear
+dedup_site__mrdata-usgs-gov-nicrpge__24394__sri,Mexico,SB,other,a two-letter abbreviation that is not a code in the table,fillable,Baja California Sur,Q4532 Baja California Sur,unclear
+dedup_site__mrdata-usgs-gov-nicrpge__15103__sri,Mexico,SI,other,a two-letter abbreviation that is not a code in the table,fillable,Sinaloa,Q4554 Sinaloa,unclear
+dedup_site__mrdata-usgs-gov-mrds__60000544__sri,North Korea,Hwanghae-Namdo,other,"alias rejected on coordinates: South Hwanghae, but the record lies in North Hamgyong, 365 km away",fillable,North Hamgyong,Q4906 North Hamgyong Province,contradicts
+dedup_site__doi-org-10-1016-j-oregeorev-2016-08-010__cerro-lindo-679__usc,Peru,Chicha,other,not a Peruvian region; unclear what it names,fillable,Ica,Q5127 Ica,unclear
+dedup_site__mrdata-usgs-gov-vms__1311__sri,Philippines,Surigao,other,Surigao del Norte or Surigao del Sur: two rows,fillable,Caraga,Q5168 Caraga,agrees
+dedup_site__mrdata-usgs-gov-mrds__10280185__sri,Philippines,Surigao*,other,Surigao del Norte or Surigao del Sur: two rows,fillable,Caraga,Q5168 Caraga,agrees
+dedup_site__mrdata-usgs-gov-mrds__10085906__sri,Russia,Chitinskaya Oblast',other,"alias rejected on coordinates: Chita Oblast is now Zabaykalsky Krai, but the record lies in Amur Oblast, 130 km away",fillable,Amur Oblast,Q5416 Amur Oblast,contradicts
+dedup_site__api-cdr-land-v1-docs-documents__025762d155d83d3681fa642bb5daab7cf1a63976782cecb488e8905e78bd92231d__inferlink,Slovakia,Eastern Slovakia,other,a macro-region spanning two regions,fillable,Region of Banská Bystrica,Q5643 Banská Bystrica Region,contradicts
+dedup_site__api-cdr-land-v1-docs-documents__02b51e2f97f89522b57abafea8e36cf7f55fd21647ff0d9fa7c1089a37e88da8e0__inferlink,Spain,Andalusia,other,an autonomous community; the Spanish rows are provinces,point in a shape with no MinMod match,Andalucía,,
+dedup_site__api-cdr-land-v1-docs-documents__0249cf080edc4c536abfde9e13867b5ee755b880a247857956ddf23b72a44211d4__inferlink,Spain,Castilla y León,other,an autonomous community; the Spanish rows are provinces,no usable point,,,
+dedup_site__api-cdr-land-v1-docs-documents__02f6c199e8bf93ab77032b15e59fbdf67bc7c1300482e79bb57445387718a9af30__inferlink,Spain,Extremadura,other,an autonomous community; the Spanish rows are provinces,point outside the recorded country,,,
+dedup_site__doi-org-10-5066-p99rk9su__woxna-graphite-project-gropabo-deposit__usc-stu,Sweden,G�vleborg,other,"Gävleborg with the ä destroyed by a broken encoding upstream; fix the source, not the vocabulary",fillable,Gävleborgs län,Q6040 Gävleborg County,agrees
+dedup_site__doi-org-10-5066-p99rk9su__woxna-graphite-project-kringel-deposit__usc-stu,Sweden,G�vleborg,other,"Gävleborg with the ä destroyed by a broken encoding upstream; fix the source, not the vocabulary",fillable,Gävleborgs län,Q6040 Gävleborg County,agrees
+dedup_site__doi-org-10-5066-p99rk9su__woxna-graphite-project-mattsmyra-deposit__usc-stu,Sweden,G�vleborg,other,"Gävleborg with the ä destroyed by a broken encoding upstream; fix the source, not the vocabulary",fillable,Gävleborgs län,Q6040 Gävleborg County,agrees
+dedup_site__api-cdr-land-v1-docs-documents__02789e32f78b2e4b16865b837961fc34229a0f33d685d73369cde6277d45ac9072__inferlink,Sweden,Östergötlands Län,other,"alias rejected on coordinates: Östergötland County, but the record lies in Jämtland, 600 km away",point in a shape with no MinMod match,Jämtlands län,,
+dedup_site__api-cdr-land-v1-docs-documents__0271abd0d1cc45f678f481a875711252c9e92f2e2879de9ae1a414ef4b5a8cc46f__inferlink,United States,Southeast Alaska,other,a region of Alaska,fillable,Alaska,Q6840 Alaska,agrees
+dedup_site__api-cdr-land-v1-docs-documents__02733b88f2e890d17442c54e019544695adeb90d8e519aecd8a8c4757260eadc8a__inferlink,Yemen,Northwest Region,other,not a Yemeni governorate,no usable point,,,
+dedup_site__mrdata-usgs-gov-phosphate__151__sri,Brazil,Piura,wrong recorded country,the name belongs to another country than the one recorded (Peru),fillable,Piaui,Q2502 Piauí,unclear
+dedup_site__mrdata-usgs-gov-phosphate__178__sri,Brazil,Piura,wrong recorded country,the name belongs to another country than the one recorded (Peru),fillable,Piaui,Q2502 Piauí,unclear
+dedup_site__api-cdr-land-v1-docs-documents__02028cde67ee14736512d54a601b69aca1b439fcb9bde828b3e1f9274720a0bcad__inferlink,Canada,Nevada,wrong recorded country,the name belongs to another country than the one recorded (United States),point outside the recorded country,,,
+dedup_site__api-cdr-land-v1-docs-documents__021639dd82455469880eabc73dc0bd32cac7bd5b0483e21cb875e7dcc7ce9de43b__inferlink,Central African Republic,Banska Bystricka Region,wrong recorded country,the name belongs to another country than the one recorded (Slovakia),no usable point,,,
+dedup_site__api-cdr-land-v1-docs-documents__02df057d15fe78ee8248732c3cd223018debc55ddf713f55184f657b4ca3c45b44__inferlink,Central African Republic,Banska Bystricka Region,wrong recorded country,the name belongs to another country than the one recorded (Slovakia),no usable point,,,
+dedup_site__doi-org-10-3133-pp1802j__33__usc-stu,Czech Republic,"Bayern [Bavaria, Germany]",wrong recorded country,the name belongs to another country than the one recorded (Germany),fillable,Jihočeský kraj,Q2931 Jihočeský kraj,contradicts
+dedup_site__doi-org-10-3133-pp1802j__50__usc-stu,Democratic Republic of the Congo,Ch'Ungch'Ong-Bukto,wrong recorded country,the name belongs to another country than the one recorded (South Korea),point outside the recorded country,,,
+dedup_site__doi-org-10-3133-pp1802j__51__usc-stu,Democratic Republic of the Congo,Ch'Ungch'Ong-Namdo,wrong recorded country,the name belongs to another country than the one recorded (South Korea),point outside the recorded country,,,
+dedup_site__api-cdr-land-v1-docs-documents__02c457dca01d06f190b7b00cc1a58ba98eb4419c484f367f0c4762606c74490101__inferlink,Finland,British Columbia,wrong recorded country,the name belongs to another country than the one recorded (Canada),no usable point,,,
+dedup_site__mrdata-usgs-gov-mrds__10021612__sri,North Korea,Ch'Ungch'Ong-Bukto,wrong recorded country,the name belongs to another country than the one recorded (South Korea),point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10021618__sri,North Korea,Ch'Ungch'Ong-Bukto,wrong recorded country,the name belongs to another country than the one recorded (South Korea),point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10024401__sri,North Korea,Ch'Ungch'Ong-Bukto,wrong recorded country,the name belongs to another country than the one recorded (South Korea),point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10024403__sri,North Korea,Ch'Ungch'Ong-Bukto,wrong recorded country,the name belongs to another country than the one recorded (South Korea),point outside the recorded country,,,
+dedup_site__mrdata-usgs-gov-mrds__10024400__sri,North Korea,Ch'Ungch'Ong-Namdo,wrong recorded country,the name belongs to another country than the one recorded (South Korea),point outside the recorded country,,,

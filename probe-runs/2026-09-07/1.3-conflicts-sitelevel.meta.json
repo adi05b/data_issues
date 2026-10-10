@@ -1,0 +1,11 @@
+{
+  "id": "1.3-conflicts-sitelevel",
+  "sent_at": "2026-09-08T06:15:20.316615+00:00",
+  "http_status": 200,
+  "elapsed_ms": 9929,
+  "bytes": 5135676,
+  "curl_exit": 0,
+  "row_count": 6159,
+  "truncated_by_limit": false,
+  "error": null
+}

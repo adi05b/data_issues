@@ -1,0 +1,4 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?p (COUNT(*) AS ?n) (COUNT(DISTINCT ?li) AS ?subjects)
+WHERE { ?li a :LocationInfo ; ?p ?o }
+GROUP BY ?p ORDER BY DESC(?n)

@@ -1,0 +1,102 @@
+# ---- Allowlist: ignore everything, then re-include only these types ----
+*
+!*/
+!.gitignore
+!*.md
+!*.txt
+!*.py
+!*.sql
+!*.rq
+!*.sh
+!*.yml
+!*.csv
+!*.json
+
+# ---- Client files (Adriana) ----
+commodity_bad_normalizations.csv
+defect-evidence-rows.pdf
+*.pdf
+*.xlsx
+*.xls
+
+# ---- Downloaded third-party datasets ----
+geoboundaries*/
+**/naturalearth/src/
+**/gb_editions/*.geojson
+*.geojson
+*.shp
+*.gpkg
+*.tif
+apache-jena*
+*.tar.gz
+*.zip
+
+# ---- Run outputs and big data ----
+rerun/
+run-*/
+databases/
+*.sqlite
+*.sqlite.inited
+*.dump
+*.sql.gz
+
+# ---- Clones of other repos ----
+ta2-minmod-data/
+ta2-minmod-kg/
+minmod_data_issues/
+
+# ---- Environment and tooling ----
+.venv*/
+__pycache__/
+*.pyc
+.env*
+.[c]laude/
+[cC][lL][aA][uU][dD][eE].md
+.DS_Store
+
+# ---- Files over 1 MB (generated list; re-check before each commit) ----
+/p3/out/amandeep_conflicts.csv
+/p3/out/coarser_kept.csv
+/probe-runs/2026-09-03/A2.4c-vocab-states.json
+/probe-runs/2026-09-07/1.3-conflicts-sitelevel.csv
+/probe-runs/2026-09-07/1.3-conflicts-sitelevel.json
+/probe-runs/2026-09-14/n2-nad27-coords-all.csv
+/probe-runs/2026-09-14/n2-nad27-coords-all.json
+/probe-runs/2026-09-14/n3-nad27-bothways.csv
+/probe-runs/2026-09-14/p2.3-full-population.csv
+/probe-runs/2026-09-14/p2.3-full-population.json
+/probe-runs/2026-09-14/p2.4-state-vocabulary.json
+/probe-runs/2026-09-14/p2.5-classified.csv
+/probe-runs/2026-09-14/p3.2a-popA-pull.json
+/probe-runs/2026-09-14/p3.2b-dms-pull.csv
+/probe-runs/2026-09-14/p3.2b-dms-pull.json
+/probe-runs/2026-09-14/p3.4a-coord-pairs.csv
+/probe-runs/2026-09-14/p3.4a-coord-pairs.json
+/probe-runs/2026-09-14/v1b-coord-pairs-full.csv
+/probe-runs/2026-09-14/v1b-coord-pairs-full.json
+/probe-runs/2026-09-14/v6-mrds-control.csv
+/probe-runs/2026-09-14/v6-mrds-control.json
+/probe-runs/2026-09-21/nad27_stored_as_wgs84.csv
+/probe-runs/2026-09-21/q2-site-to-dedup.json
+/probe-runs/2026-09-21/q3-dedup-members.json
+/probe-runs/2026-09-21/q3-pairs.csv
+/probe-runs/2026-09-21/q3-sibling-coords.json
+/probe-runs/2026-09-21/s4-all-7720-geodesic.csv
+/probe-runs/2026-09-21/s4-all-7720.csv
+
+# ---- Left out on review ----
+/probe-runs/2026-10-09-p6-fix/config-blocked.yml
+/probe-runs/2026-10-09-p6-fix/config-harness.yml
+pytest-*.txt
+
+# ---- Left out on review: IP addresses, internal hostnames/ports, server paths ----
+/P2_FINISH.md
+/P6_DIAGNOSIS.md
+/P6_FIX.md
+/p3/p3_sql_check.py
+/probe-runs/2026-09-21/00_connectivity.md
+/probe-runs/2026-09-21/MANIFEST.md
+/probe-runs/2026-10-07/MANIFEST.md
+/probe-runs/2026-10-07/p6_repro.py
+/probe-runs/2026-10-07/p6-issue107.json
+/probe-runs/2026-10-09-p6-fix/p6_repro.py

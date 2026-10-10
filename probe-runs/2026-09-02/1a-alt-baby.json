@@ -1,0 +1,44 @@
+{ "head": {
+    "vars": [ "site" , "name" , "source" , "wkt" , "crs_obs" , "crs_label" , "country_obs" , "country_ent" , "state_obs" , "state_ent" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-02066__umn" } ,
+        "name": { "type": "literal" , "value": "Little Baby prospect" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (2086265.3179133832 1172007.2080052495)" } ,
+        "crs_obs": { "type": "literal" , "value": "EPSG:2994" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1235" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" } ,
+        "state_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q6886" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10008104__umn" } ,
+        "name": { "type": "literal" , "value": "Little Baby Prospect" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-117.5010300000000001 44.9165300000000016)" } ,
+        "crs_obs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1235" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" } ,
+        "state_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q6886" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10177309__umn" } ,
+        "name": { "type": "literal" , "value": "Little Baby Prospect" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-117.5129299999999972 44.9287599999999969)" } ,
+        "crs_obs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1235" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" } ,
+        "state_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q6886" }
+      }
+    ]
+  }
+}

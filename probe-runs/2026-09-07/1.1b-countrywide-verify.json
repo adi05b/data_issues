@@ -1,0 +1,408 @@
+{ "head": {
+    "vars": [ "state_obs" , "state_label" , "state_country_id" , "sc_label" , "country_obs" , "country_label" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "bounding box" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "category" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "commodity" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "country" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "crs" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "cutoff grade" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "deposit type" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "deposit type candidate" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "document" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "energy" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "geology info" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "grade" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "modified at" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "location info" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "location info objectproperty" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "mappable criteria objectproperty" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "match info objectproperty" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "measure objectproperty" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "mineral inventory" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "mineral inventory objectproperty" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "mineral site objectproperty" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "mineral system objectproperty" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "normalized uri" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "ore" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "outflow" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "page info" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "property" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "page info objectproperty" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "pathway" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "potential dataset" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "preservation" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "reference" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "reference objectproperty" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "source" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "state or province" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "supporting references" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "trap" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "unit" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "age" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "bounding box dataproperty" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "comments" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "confidence" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "contained metal" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "criteria" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "date" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "deposit type dataproperty" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "description" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "document dataproperty" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "doi" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banska Bystricka Region" } ,
+        "state_label": { "type": "literal" , "value": "Banská Bystrica Region" } ,
+        "state_country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sc_label": { "type": "literal" , "xml:lang": "en" , "value": "environment" } ,
+        "country_obs": { "type": "literal" , "value": "Slovak Republic" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      }
+    ]
+  }
+}

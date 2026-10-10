@@ -1,0 +1,1374 @@
+{
+  "S0-norm_literal-table": [
+    {
+      "in": "\"1.25\"^^<http://www.w3.org/2001/XMLSchema#decimal>",
+      "out": "\"1.25\"^^<http://www.w3.org/2001/XMLSchema#double>",
+      "out_type": "MyLiteral"
+    },
+    {
+      "in": "\"1.25\"^^<http://www.w3.org/2001/XMLSchema#double>",
+      "out": "\"1.25\"^^<http://www.w3.org/2001/XMLSchema#double>",
+      "out_type": "MyLiteral"
+    },
+    {
+      "in": "\"1.25\"^^<http://www.w3.org/2001/XMLSchema#float>",
+      "out": "\"1.25\"^^<http://www.w3.org/2001/XMLSchema#double>",
+      "out_type": "MyLiteral"
+    },
+    {
+      "in": "\"3\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+      "out": "\"3\"^^<http://www.w3.org/2001/XMLSchema#integer>",
+      "out_type": "Literal"
+    },
+    {
+      "in": "\"true\"^^<http://www.w3.org/2001/XMLSchema#boolean>",
+      "out": "\"true\"^^<http://www.w3.org/2001/XMLSchema#boolean>",
+      "out_type": "Literal"
+    },
+    {
+      "in": "\"2026-10-01\"^^<http://www.w3.org/2001/XMLSchema#date>",
+      "out": "\"2026-10-01\"^^<http://www.w3.org/2001/XMLSchema#date>",
+      "out_type": "Literal"
+    },
+    {
+      "in": "\"2026-10-01T00:00:00+00:00\"^^<http://www.w3.org/2001/XMLSchema#dateTime>",
+      "out": "\"2026-10-01T00:00:00+00:00\"^^<http://www.w3.org/2001/XMLSchema#dateTime>",
+      "out_type": "Literal"
+    },
+    {
+      "in": "\"abc\"",
+      "out": "\"abc\"",
+      "out_type": "MyLiteral"
+    },
+    {
+      "in": "\"abc\"^^<http://www.w3.org/2001/XMLSchema#string>",
+      "out": "\"abc\"",
+      "out_type": "MyLiteral"
+    },
+    {
+      "in": "\"abc\"@en",
+      "out": "\"abc\"@en",
+      "out_type": "MyLiteral"
+    },
+    {
+      "in": "<https://minmod.isi.edu/resource/Q578>",
+      "out": "<https://minmod.isi.edu/resource/Q578>",
+      "out_type": "URIRef"
+    }
+  ],
+  "S1-site-add": {
+    "census": [
+      {
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "5"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/discovered_year",
+        "dt": "http://www.w3.org/2001/XMLSchema#integer",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/page",
+        "dt": "http://www.w3.org/2001/XMLSchema#integer",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/value",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "2"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      }
+    ],
+    "orphans": [],
+    "doubles": [],
+    "attached_dupes": []
+  },
+  "S2-site-update-text-only": {
+    "census": [
+      {
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "5"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "5"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/discovered_year",
+        "dt": "http://www.w3.org/2001/XMLSchema#integer",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/page",
+        "dt": "http://www.w3.org/2001/XMLSchema#integer",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/value",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "2"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/value",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "2"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      }
+    ],
+    "orphans": [
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "o": "10.5",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "o": "1.25",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "o": "20.75",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "o": "2.5",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_40d4e4ec_8274_4a43_bfa9_101f4afb1efa",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_42f4a39c_82cc_46ec_912a_4b6287c7efbe",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9999",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_537dcb3c_e4d8_4f6f_92f5_9f7c68e7e0b5",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_970002f4_7d61_4aca_8023_c568f0b7f6c5",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_a2c28121_99d0_4f47_800f_2ab16fbc0865",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/Measure_b58be414_0687_4b4e_b6d2_76c2b03efc6b",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "8.54",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/Measure_f75fea7e_2c56_43e6_838e_8830d00f1da9",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "1.25",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      }
+    ],
+    "doubles": [
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_10cc32f3_02fd_4b16_97cf_91e85aa37492",
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "o": "10.5e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_10cc32f3_02fd_4b16_97cf_91e85aa37492",
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "o": "1.25e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_10cc32f3_02fd_4b16_97cf_91e85aa37492",
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "o": "20.75e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_10cc32f3_02fd_4b16_97cf_91e85aa37492",
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "o": "2.5e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_31501fa5_8d05_413f_961e_fe78b28ab71a",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_78805a5c_c894_46d5_8694_3e9fc1149188",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_831bbce4_a668_455c_843e_1ecd6ad4612a",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9999e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_86ea89d1_7488_4e91_8668_f118b358a6d6",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_8edfd9c2_d205_4976_b7e3_aef9528fe97f",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/Measure_3e71321d_f357_47c3_993b_dbacc8d593bd",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "8.54e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/Measure_6123c278_13d6_409e_8bae_2d0f1b0b581d",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "1.25e0"
+      }
+    ],
+    "attached_dupes": []
+  },
+  "S3-site-update-grade-1.25-to-1.3": {
+    "census": [
+      {
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "5"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "5"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/discovered_year",
+        "dt": "http://www.w3.org/2001/XMLSchema#integer",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/page",
+        "dt": "http://www.w3.org/2001/XMLSchema#integer",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/value",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "2"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/value",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "2"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      }
+    ],
+    "orphans": [
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "o": "10.5",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "o": "1.25",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "o": "20.75",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "o": "2.5",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_40d4e4ec_8274_4a43_bfa9_101f4afb1efa",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_42f4a39c_82cc_46ec_912a_4b6287c7efbe",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9999",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_537dcb3c_e4d8_4f6f_92f5_9f7c68e7e0b5",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_970002f4_7d61_4aca_8023_c568f0b7f6c5",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_a2c28121_99d0_4f47_800f_2ab16fbc0865",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/Measure_b58be414_0687_4b4e_b6d2_76c2b03efc6b",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "8.54",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/Measure_f75fea7e_2c56_43e6_838e_8830d00f1da9",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "1.25",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      }
+    ],
+    "doubles": [
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "o": "10.5e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "o": "1.25e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "o": "20.75e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "o": "2.5e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_005286cf_824e_41f5_9edd_bee653993b6f",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_1e6eea81_f1da_4ba8_bc0a_2acc604be542",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9999e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_44c1b5dc_14ad_4998_902a_b5bfe6bd14d6",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_764dc5cc_ff29_4a2f_8007_199b34f84bdd",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_ba552683_f923_4c73_b1a1_90d624015616",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/Measure_9f5f550a_5247_4502_be28_7edc486c973b",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "1.3e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/Measure_efeb1c1f_b774_47e9_a75f_6e60f5f2377d",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "8.54e0"
+      }
+    ],
+    "attached_dupes": []
+  },
+  "S4-sample-add": {
+    "census": [
+      {
+        "p": "https://geochemistry.isi.edu/ontology/bottom_depth_m",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/detection_limit",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/grade",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "2"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/top_depth_m",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "6"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "5"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/discovered_year",
+        "dt": "http://www.w3.org/2001/XMLSchema#integer",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/page",
+        "dt": "http://www.w3.org/2001/XMLSchema#integer",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/value",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "2"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/value",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "2"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      }
+    ],
+    "orphans": [
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "o": "10.5",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "o": "1.25",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "o": "20.75",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "o": "2.5",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_40d4e4ec_8274_4a43_bfa9_101f4afb1efa",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_42f4a39c_82cc_46ec_912a_4b6287c7efbe",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9999",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_537dcb3c_e4d8_4f6f_92f5_9f7c68e7e0b5",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_970002f4_7d61_4aca_8023_c568f0b7f6c5",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_a2c28121_99d0_4f47_800f_2ab16fbc0865",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/Measure_b58be414_0687_4b4e_b6d2_76c2b03efc6b",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "8.54",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/Measure_f75fea7e_2c56_43e6_838e_8830d00f1da9",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "1.25",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      }
+    ],
+    "doubles": [
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "o": "10.5e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "o": "1.25e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "o": "20.75e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "o": "2.5e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_005286cf_824e_41f5_9edd_bee653993b6f",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_1e6eea81_f1da_4ba8_bc0a_2acc604be542",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9999e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_44c1b5dc_14ad_4998_902a_b5bfe6bd14d6",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_764dc5cc_ff29_4a2f_8007_199b34f84bdd",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_ba552683_f923_4c73_b1a1_90d624015616",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/Measure_9f5f550a_5247_4502_be28_7edc486c973b",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "1.3e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/Measure_efeb1c1f_b774_47e9_a75f_6e60f5f2377d",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "8.54e0"
+      }
+    ],
+    "attached_dupes": []
+  },
+  "S5-sample-update-text-only": {
+    "census": [
+      {
+        "p": "https://geochemistry.isi.edu/ontology/bottom_depth_m",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/detection_limit",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/detection_limit",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/grade",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "2"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/grade",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "2"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/top_depth_m",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "6"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "6"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/discovered_year",
+        "dt": "http://www.w3.org/2001/XMLSchema#integer",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/page",
+        "dt": "http://www.w3.org/2001/XMLSchema#integer",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/value",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "2"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/value",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "2"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      }
+    ],
+    "orphans": [
+      {
+        "n": "https://geochemistry.isi.edu/resource/Element_402d19ca_7b49_4a48_a819_0a6f4cc86c73",
+        "p": "https://geochemistry.isi.edu/ontology/grade",
+        "o": "61.5",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://geochemistry.isi.edu/resource/Element_9be76926_3284_4bf1_b933_7e831a93db16",
+        "p": "https://geochemistry.isi.edu/ontology/detection_limit",
+        "o": "0.04",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://geochemistry.isi.edu/resource/Element_9be76926_3284_4bf1_b933_7e831a93db16",
+        "p": "https://geochemistry.isi.edu/ontology/grade",
+        "o": "29.33",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "o": "10.5",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "o": "1.25",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "o": "20.75",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "o": "2.5",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_40d4e4ec_8274_4a43_bfa9_101f4afb1efa",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_42f4a39c_82cc_46ec_912a_4b6287c7efbe",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9999",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_537dcb3c_e4d8_4f6f_92f5_9f7c68e7e0b5",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_970002f4_7d61_4aca_8023_c568f0b7f6c5",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_a2c28121_99d0_4f47_800f_2ab16fbc0865",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_fe7a1a28_242c_4bda_8fe8_5028ad442659",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.95",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/Measure_b58be414_0687_4b4e_b6d2_76c2b03efc6b",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "8.54",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/Measure_f75fea7e_2c56_43e6_838e_8830d00f1da9",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "1.25",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      }
+    ],
+    "doubles": [
+      {
+        "s": "https://geochemistry.isi.edu/resource/Element_27754435_0bce_401a_a722_fbaa946b479d",
+        "p": "https://geochemistry.isi.edu/ontology/grade",
+        "o": "61.5e0"
+      },
+      {
+        "s": "https://geochemistry.isi.edu/resource/Element_676864d4_52f9_44f9_a577_3e18e7390643",
+        "p": "https://geochemistry.isi.edu/ontology/detection_limit",
+        "o": "0.04e0"
+      },
+      {
+        "s": "https://geochemistry.isi.edu/resource/Element_676864d4_52f9_44f9_a577_3e18e7390643",
+        "p": "https://geochemistry.isi.edu/ontology/grade",
+        "o": "29.33e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "o": "10.5e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "o": "1.25e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "o": "20.75e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "o": "2.5e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_005286cf_824e_41f5_9edd_bee653993b6f",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_1e6eea81_f1da_4ba8_bc0a_2acc604be542",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9999e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_44c1b5dc_14ad_4998_902a_b5bfe6bd14d6",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_71ad9a22_138f_4c47_8aff_40748c2faf1a",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.95e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_764dc5cc_ff29_4a2f_8007_199b34f84bdd",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_ba552683_f923_4c73_b1a1_90d624015616",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/Measure_9f5f550a_5247_4502_be28_7edc486c973b",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "1.3e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/Measure_efeb1c1f_b774_47e9_a75f_6e60f5f2377d",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "8.54e0"
+      }
+    ],
+    "attached_dupes": []
+  },
+  "S6-sample-update-top_depth-12.5-to-12.75": {
+    "census": [
+      {
+        "p": "https://geochemistry.isi.edu/ontology/bottom_depth_m",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/detection_limit",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/detection_limit",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/grade",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "2"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/grade",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "2"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/top_depth_m",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/top_depth_m",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "6"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "6"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/discovered_year",
+        "dt": "http://www.w3.org/2001/XMLSchema#integer",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/page",
+        "dt": "http://www.w3.org/2001/XMLSchema#integer",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/value",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "2"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/value",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "2"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal",
+        "n": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "dt": "http://www.w3.org/2001/XMLSchema#double",
+        "n": "1"
+      }
+    ],
+    "orphans": [
+      {
+        "n": "https://geochemistry.isi.edu/resource/Element_402d19ca_7b49_4a48_a819_0a6f4cc86c73",
+        "p": "https://geochemistry.isi.edu/ontology/grade",
+        "o": "61.5",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://geochemistry.isi.edu/resource/Element_9be76926_3284_4bf1_b933_7e831a93db16",
+        "p": "https://geochemistry.isi.edu/ontology/detection_limit",
+        "o": "0.04",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://geochemistry.isi.edu/resource/Element_9be76926_3284_4bf1_b933_7e831a93db16",
+        "p": "https://geochemistry.isi.edu/ontology/grade",
+        "o": "29.33",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "o": "10.5",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "o": "1.25",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "o": "20.75",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/BoundingBox_6d696d44_33c2_4df8_b74a_4f3b370f1996",
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "o": "2.5",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_40d4e4ec_8274_4a43_bfa9_101f4afb1efa",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_42f4a39c_82cc_46ec_912a_4b6287c7efbe",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9999",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_537dcb3c_e4d8_4f6f_92f5_9f7c68e7e0b5",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_970002f4_7d61_4aca_8023_c568f0b7f6c5",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_a2c28121_99d0_4f47_800f_2ab16fbc0865",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/CandidateEntity_fe7a1a28_242c_4bda_8fe8_5028ad442659",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.95",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/Measure_b58be414_0687_4b4e_b6d2_76c2b03efc6b",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "8.54",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "n": "https://minmod.isi.edu/resource/Measure_f75fea7e_2c56_43e6_838e_8830d00f1da9",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "1.25",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      }
+    ],
+    "doubles": [
+      {
+        "s": "https://geochemistry.isi.edu/resource/Element_a6b6b192_301b_402b_84f4_68913277d4c7",
+        "p": "https://geochemistry.isi.edu/ontology/grade",
+        "o": "61.5e0"
+      },
+      {
+        "s": "https://geochemistry.isi.edu/resource/Element_ba82c54a_02a1_489f_815a_8e79403092b2",
+        "p": "https://geochemistry.isi.edu/ontology/detection_limit",
+        "o": "0.04e0"
+      },
+      {
+        "s": "https://geochemistry.isi.edu/resource/Element_ba82c54a_02a1_489f_815a_8e79403092b2",
+        "p": "https://geochemistry.isi.edu/ontology/grade",
+        "o": "29.33e0"
+      },
+      {
+        "s": "https://geochemistry.isi.edu/resource/sample__site__mrdata-usgs-gov-mrds__10014570__curator1__s1",
+        "p": "https://geochemistry.isi.edu/ontology/top_depth_m",
+        "o": "12.75e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "o": "10.5e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "o": "1.25e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "o": "20.75e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/BoundingBox_b52c6884_8e3f_4e93_befd_09899e02a6bf",
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "o": "2.5e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_005286cf_824e_41f5_9edd_bee653993b6f",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_1e6eea81_f1da_4ba8_bc0a_2acc604be542",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9999e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_44c1b5dc_14ad_4998_902a_b5bfe6bd14d6",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_764dc5cc_ff29_4a2f_8007_199b34f84bdd",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_ba552683_f923_4c73_b1a1_90d624015616",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_ed5c895d_03f3_4298_af97_abf5c4fd4778",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.95e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/Measure_9f5f550a_5247_4502_be28_7edc486c973b",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "1.3e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/Measure_efeb1c1f_b774_47e9_a75f_6e60f5f2377d",
+        "p": "https://minmod.isi.edu/ontology/value",
+        "o": "8.54e0"
+      }
+    ],
+    "attached_dupes": [
+      {
+        "s": "https://geochemistry.isi.edu/resource/sample__site__mrdata-usgs-gov-mrds__10014570__curator1__s1",
+        "p": "https://geochemistry.isi.edu/ontology/top_depth_m",
+        "vals": "2",
+        "all": "12.5^^http://www.w3.org/2001/XMLSchema#decimal | 12.75e0^^http://www.w3.org/2001/XMLSchema#double"
+      }
+    ]
+  },
+  "detection-check-prod-queries-on-repro-store": {
+    "p6-pf1-double-any": [
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_764dc5cc_ff29_4a2f_8007_199b34f84bdd",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_ed5c895d_03f3_4298_af97_abf5c4fd4778",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.95e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_1e6eea81_f1da_4ba8_bc0a_2acc604be542",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "0.9999e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_44c1b5dc_14ad_4998_902a_b5bfe6bd14d6",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      },
+      {
+        "s": "https://minmod.isi.edu/resource/CandidateEntity_005286cf_824e_41f5_9edd_bee653993b6f",
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "o": "1.0e0"
+      }
+    ],
+    "p6-o1-untyped-numeric": [
+      {
+        "p": "https://minmod.isi.edu/ontology/y_max",
+        "nodes": "1",
+        "triples": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/y_min",
+        "nodes": "1",
+        "triples": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/confidence",
+        "nodes": "6",
+        "triples": "6"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/detection_limit",
+        "nodes": "1",
+        "triples": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_min",
+        "nodes": "1",
+        "triples": "1"
+      },
+      {
+        "p": "https://geochemistry.isi.edu/ontology/grade",
+        "nodes": "2",
+        "triples": "2"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/x_max",
+        "nodes": "1",
+        "triples": "1"
+      },
+      {
+        "p": "https://minmod.isi.edu/ontology/value",
+        "nodes": "2",
+        "triples": "2"
+      }
+    ],
+    "p6-o2-issue-element-query": [
+      {
+        "e": "https://geochemistry.isi.edu/resource/Element_402d19ca_7b49_4a48_a819_0a6f4cc86c73",
+        "lex": "61.5",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      },
+      {
+        "e": "https://geochemistry.isi.edu/resource/Element_9be76926_3284_4bf1_b933_7e831a93db16",
+        "lex": "29.33",
+        "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+      }
+    ]
+  }
+}

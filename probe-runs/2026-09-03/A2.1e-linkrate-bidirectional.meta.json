@@ -1,0 +1,11 @@
+{
+  "id": "A2.1e-linkrate-bidirectional",
+  "sent_at": "2026-09-02T23:55:49.703318+00:00",
+  "http_status": 200,
+  "elapsed_ms": 11157,
+  "bytes": 13702,
+  "curl_exit": 0,
+  "row_count": 38,
+  "truncated_by_limit": false,
+  "error": null
+}

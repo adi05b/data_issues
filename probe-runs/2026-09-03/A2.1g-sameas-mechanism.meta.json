@@ -1,0 +1,11 @@
+{
+  "id": "A2.1g-sameas-mechanism",
+  "sent_at": "2026-09-02T23:56:38.408572+00:00",
+  "http_status": 200,
+  "elapsed_ms": 6985,
+  "bytes": 988,
+  "curl_exit": 0,
+  "row_count": 3,
+  "truncated_by_limit": false,
+  "error": null
+}

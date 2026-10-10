@@ -1,0 +1,143 @@
+{ "head": {
+    "vars": [ "source" , "lat_dp" , "sites" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1604" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "374" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "239" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "198" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "106" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "101" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "89" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "78" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "60" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "48" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "42" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "29" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "27" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedexmvt" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "26" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "25" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "23" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "20" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedexmvt" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

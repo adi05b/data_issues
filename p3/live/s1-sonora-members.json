@@ -1,0 +1,140 @@
+{ "head": {
+    "vars": [ "m" , "label" , "src" , "rid" , "by" , "mod" , "wkt" , "crs" , "score" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02ec633583ef811bf4df15f2bd24d489ea20a207cd326c15c39b498d1a9ac3b7c8__inferlink" } ,
+        "label": { "type": "literal" , "value": "Sonora Lithium Project" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rid": { "type": "literal" , "value": "02ec633583ef811bf4df15f2bd24d489ea20a207cd326c15c39b498d1a9ac3b7c8" } ,
+        "by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/inferlink" } ,
+        "mod": { "type": "literal" , "value": "2024-11-13T23:54:59.980142Z" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-109.103889 29.774722)" } ,
+        "crs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "score": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02ec633583ef811bf4df15f2bd24d489ea20a207cd326c15c39b498d1a9ac3b7c8__sri" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rid": { "type": "literal" , "value": "02ec633583ef811bf4df15f2bd24d489ea20a207cd326c15c39b498d1a9ac3b7c8" } ,
+        "by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/sri" } ,
+        "mod": { "type": "literal" , "value": "2024-10-29T11:01:23.000000Z" } ,
+        "score": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02c7aaeba47f66bf9721bb652a3c859a9172da745d53a9407891e120f77dac0bd2__inferlink" } ,
+        "label": { "type": "literal" , "value": "Sonora Lithium Project" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rid": { "type": "literal" , "value": "02c7aaeba47f66bf9721bb652a3c859a9172da745d53a9407891e120f77dac0bd2" } ,
+        "by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/inferlink" } ,
+        "mod": { "type": "literal" , "value": "2024-12-10T20:33:36.230326Z" } ,
+        "wkt": { "type": "literal" , "value": "MULTIPOINT(-110.68 30.39)" } ,
+        "crs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "score": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02c7aaeba47f66bf9721bb652a3c859a9172da745d53a9407891e120f77dac0bd2__sri" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rid": { "type": "literal" , "value": "02c7aaeba47f66bf9721bb652a3c859a9172da745d53a9407891e120f77dac0bd2" } ,
+        "by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/sri" } ,
+        "mod": { "type": "literal" , "value": "2024-10-29T11:01:23.000000Z" } ,
+        "score": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02c2ae8fc934cdf9f847839e7eb1e1afaef46dee32a0bf6141da57b22e4a3abec4__inferlink" } ,
+        "label": { "type": "literal" , "value": "Sonora Lithium Project" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rid": { "type": "literal" , "value": "02c2ae8fc934cdf9f847839e7eb1e1afaef46dee32a0bf6141da57b22e4a3abec4" } ,
+        "by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/inferlink" } ,
+        "mod": { "type": "literal" , "value": "2024-12-10T20:25:10.373490Z" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-110.0 30.0)" } ,
+        "score": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02c2ae8fc934cdf9f847839e7eb1e1afaef46dee32a0bf6141da57b22e4a3abec4__sri" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rid": { "type": "literal" , "value": "02c2ae8fc934cdf9f847839e7eb1e1afaef46dee32a0bf6141da57b22e4a3abec4" } ,
+        "by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/sri" } ,
+        "mod": { "type": "literal" , "value": "2024-10-29T11:01:23.000000Z" } ,
+        "score": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__026332f71cf72dcdae20a7a08d16f9196a1922ffced9bd75cebf6ee7391cc5f3ce__inferlink" } ,
+        "label": { "type": "literal" , "value": "Sonora Lithium Project" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rid": { "type": "literal" , "value": "026332f71cf72dcdae20a7a08d16f9196a1922ffced9bd75cebf6ee7391cc5f3ce" } ,
+        "by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/inferlink" } ,
+        "mod": { "type": "literal" , "value": "2024-12-18T18:19:02.181573Z" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-110.9149 30.0142)" } ,
+        "crs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "score": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__026332f71cf72dcdae20a7a08d16f9196a1922ffced9bd75cebf6ee7391cc5f3ce__sri" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rid": { "type": "literal" , "value": "026332f71cf72dcdae20a7a08d16f9196a1922ffced9bd75cebf6ee7391cc5f3ce" } ,
+        "by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/sri" } ,
+        "mod": { "type": "literal" , "value": "2024-10-29T11:01:23.000000Z" } ,
+        "score": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02497a3039a4c6faf6c61ff4b489cdc68e6e0b295cac89248fbc3bdfb9051905bb__inferlink" } ,
+        "label": { "type": "literal" , "value": "Sonora Lithium Project" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rid": { "type": "literal" , "value": "02497a3039a4c6faf6c61ff4b489cdc68e6e0b295cac89248fbc3bdfb9051905bb" } ,
+        "by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/inferlink" } ,
+        "mod": { "type": "literal" , "value": "2024-12-10T23:23:52.596466Z" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-110 31)" } ,
+        "crs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "score": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02497a3039a4c6faf6c61ff4b489cdc68e6e0b295cac89248fbc3bdfb9051905bb__sri" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rid": { "type": "literal" , "value": "02497a3039a4c6faf6c61ff4b489cdc68e6e0b295cac89248fbc3bdfb9051905bb" } ,
+        "by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/sri" } ,
+        "mod": { "type": "literal" , "value": "2024-10-29T11:01:23.000000Z" } ,
+        "score": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0232b37b8235ee193f92aa53e7981aae7364638ff90ea1d57ef7d93f96fed5b525__inferlink" } ,
+        "label": { "type": "literal" , "value": "SONORA LITHIUM PROJECT" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rid": { "type": "literal" , "value": "0232b37b8235ee193f92aa53e7981aae7364638ff90ea1d57ef7d93f96fed5b525" } ,
+        "by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/inferlink" } ,
+        "mod": { "type": "literal" , "value": "2024-11-14T00:20:45.236770Z" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-110.924 29.081)" } ,
+        "crs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "score": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0232b37b8235ee193f92aa53e7981aae7364638ff90ea1d57ef7d93f96fed5b525__sri" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rid": { "type": "literal" , "value": "0232b37b8235ee193f92aa53e7981aae7364638ff90ea1d57ef7d93f96fed5b525" } ,
+        "by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/sri" } ,
+        "mod": { "type": "literal" , "value": "2024-10-29T11:01:23.000000Z" } ,
+        "score": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0205e384bede4889373d9e9788b27e984c76aec51a0ba876f098cd08541ac7ab54__inferlink" } ,
+        "label": { "type": "literal" , "value": "SONORA LITHIUM PROJECT" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rid": { "type": "literal" , "value": "0205e384bede4889373d9e9788b27e984c76aec51a0ba876f098cd08541ac7ab54" } ,
+        "by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/inferlink" } ,
+        "mod": { "type": "literal" , "value": "2024-12-11T20:16:04.056417Z" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "crs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "score": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "m": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0205e384bede4889373d9e9788b27e984c76aec51a0ba876f098cd08541ac7ab54__sri" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rid": { "type": "literal" , "value": "0205e384bede4889373d9e9788b27e984c76aec51a0ba876f098cd08541ac7ab54" } ,
+        "by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/sri" } ,
+        "mod": { "type": "literal" , "value": "2024-10-29T11:01:23.000000Z" } ,
+        "score": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      }
+    ]
+  }
+}

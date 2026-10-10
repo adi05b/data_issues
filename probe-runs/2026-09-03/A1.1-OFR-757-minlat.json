@@ -1,0 +1,118 @@
+{ "head": {
+    "vars": [ "site" , "label" , "source" , "wkt" , "lon" , "lat" , "crs_label" , "country_obs" , "state_obs" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__3533__umn" } ,
+        "label": { "type": "literal" , "value": "School Sec. 36" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (561170 4094970)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "561170.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4094970.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__3529__umn" } ,
+        "label": { "type": "literal" , "value": "Monument 3" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (557347 4095803)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "557347.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4095803.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__3532__umn" } ,
+        "label": { "type": "literal" , "value": "Rock Door #1" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (569737 4096803)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "569737.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4096803.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__3537__umn" } ,
+        "label": { "type": "literal" , "value": "Tom Holliday Prospect" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (566017 4097023)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "566017.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4097023.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__3526__umn" } ,
+        "label": { "type": "literal" , "value": "Copper Point" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (560407 4097103)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "560407.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4097103.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__3535__umn" } ,
+        "label": { "type": "literal" , "value": "Skyline Road" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (565767 4097183)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "565767.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4097183.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__3528__umn" } ,
+        "label": { "type": "literal" , "value": "Mitten No. 1" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (567287 4097303)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "567287.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4097303.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__929__umn" } ,
+        "label": { "type": "literal" , "value": "Meskin Bar" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (478188 4097427)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "478188.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4097427.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__3534__umn" } ,
+        "label": { "type": "literal" , "value": "Skyline Mine" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (567237 4097453)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "567237.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4097453.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__7228__umn" } ,
+        "label": { "type": "literal" , "value": "Ut Dept. Of Hwys. Gravel Pit #13013" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (385711 4097902)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "385711.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4097902.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      }
+    ]
+  }
+}

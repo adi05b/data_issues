@@ -1,0 +1,342 @@
+_site,state_obs,state_obs_bound,country_id,country_id_bound,sites,sites_bound
+,Florida,1,Q1235,1,1674,1
+,La Paz,1,Q1025,1,586,1
+,Potosi,1,Q1025,1,553,1
+,Bolivar,1,Q1241,1,475,1
+,Santa Cruz,1,Q1025,1,220,1
+,Oruro,1,Q1025,1,191,1
+,Orissa,1,Q1101,1,187,1
+,Camaguey,1,Q1054,1,158,1
+,Katanga,1,Q1058,1,93,1
+,Saint Andrew,1,Q1108,1,69,1
+,Granma,1,Q1054,1,64,1
+,Yukon Territory*,1,Q1038,1,62,1
+,Panama,1,Q1169,1,62,1
+,San Jose,1,Q1051,1,56,1
+,Veraguas,1,Q1169,1,51,1
+,CO,1,Q1235,1,50,1
+,Territory Of New Caledonia And Dependencies,1,Q1075,1,49,1
+,CA,1,Q1235,1,46,1
+,Central,1,Q1248,1,45,1
+,Akita,1,Q1109,1,44,1
+,Niedersachsen,1,Q1082,1,43,1
+,Colon,1,Q1169,1,39,1
+,Midlands,1,Q1249,1,39,1
+,Herrera,1,Q1169,1,35,1
+,Limon,1,Q1051,1,33,1
+,Victoria,1,Q1013,1,31,1
+,Cartago,1,Q1051,1,28,1
+,Amazonas*,1,Q1241,1,23,1
+,Canar,1,Q1063,1,22,1
+,Saint Thomas,1,Q1108,1,21,1
+,Ekaterinburg,1,Q1181,1,19,1
+,Katanga Province,1,Q1058,1,18,1
+,Yoro,1,Q1097,1,18,1
+,Saint Ann,1,Q1108,1,18,1
+,Kochi,1,Q1109,1,17,1
+,El Beni,1,Q1025,1,16,1
+,Bolivar,1,Q1063,1,16,1
+,Darien,1,Q1169,1,16,1
+,MN,1,Q1235,1,16,1
+,Greenland,1,Q1059,1,15,1
+,Hyogo,1,Q1109,1,15,1
+,ME,1,Q1235,1,15,1
+,Tarija,1,Q1025,1,14,1
+,El Paraiso,1,Q1097,1,14,1
+,Santa Ana,1,Q1065,1,13,1
+,Manchester,1,Q1108,1,13,1
+,Nara,1,Q1109,1,13,1
+,Attapu,1,Q1118,1,13,1
+,Florida,1,Q1237,1,13,1
+,Santa Cruz,1,Q1010,1,12,1
+,Jalapa,1,Q1090,1,12,1
+,San Blas*,1,Q1169,1,12,1
+,Buryatiya,1,Q1181,1,12,1
+,Elazig,1,Q1227,1,12,1
+,SD,1,Q1235,1,12,1
+,Northern,1,Q1083,1,11,1
+,Izabal,1,Q1090,1,11,1
+,Comayagua,1,Q1097,1,11,1
+,Copan,1,Q1097,1,11,1
+,Valle,1,Q1097,1,11,1
+,Saint Mary,1,Q1108,1,11,1
+,MO,1,Q1235,1,11,1
+,Sucre,1,Q1241,1,11,1
+,Oita,1,Q1109,1,10,1
+,Mexico,1,Q1140,1,10,1
+,Amazonas,1,Q1172,1,10,1
+,AR,1,Q1235,1,10,1
+,SC,1,Q1235,1,10,1
+,Okayama,1,Q1109,1,9,1
+,Savannakhet,1,Q1118,1,9,1
+,Saint James,1,Q1108,1,8,1
+,Saida,1,Q1003,1,7,1
+,Zacapa,1,Q1090,1,7,1
+,Nord,1,Q1095,1,7,1
+,Cortes,1,Q1097,1,7,1
+,Osaka,1,Q1109,1,7,1
+,Wakayama,1,Q1109,1,7,1
+,Kukes,1,Q1002,1,6,1
+,Karnten,1,Q1014,1,6,1
+,Steiermark,1,Q1014,1,6,1
+,Central,1,Q1028,1,6,1
+,Amazonas,1,Q1030,1,6,1
+,Cordoba,1,Q1047,1,6,1
+,Evvoia,1,Q1085,1,6,1
+,La Paz,1,Q1097,1,6,1
+,Gifu,1,Q1109,1,6,1
+,Aktyubinsk,1,Q1112,1,6,1
+,Samar,1,Q1173,1,6,1
+,North-Western,1,Q1248,1,6,1
+,Territory Of Christmas Island,1,Q1013,1,5,1
+,Yukon Territory,1,Q1038,1,5,1
+,Lappi,1,Q1074,1,5,1
+,Ibaraki,1,Q1109,1,5,1
+,Miyagi,1,Q1109,1,5,1
+,Pulau Pinang,1,Q1130,1,5,1
+,Niamey,1,Q1157,1,5,1
+,Sogn Og Fjordane,1,Q1164,1,5,1
+,PA,1,Q1235,1,5,1
+,Northern,1,Q1248,1,5,1
+,La Rioja,1,Q1010,1,4,1
+,Cayo,1,Q1021,1,4,1
+,Nicosia,1,Q1056,1,4,1
+,Oulu Laani,1,Q1074,1,4,1
+,Colon,1,Q1097,1,4,1
+,Yamagata,1,Q1109,1,4,1
+,Hentiy,1,Q1144,1,4,1
+,Westland,1,Q1155,1,4,1
+,Ch'Ungch'Ong-Bukto,1,Q1161,1,4,1
+,Punjab,1,Q1166,1,4,1
+,Eastern,1,Q1248,1,4,1
+,Mat,1,Q1002,1,3,1
+,Huila,1,Q1006,1,3,1
+,Toledo,1,Q1021,1,3,1
+,Pando,1,Q1025,1,3,1
+,Piura,1,Q1030,1,3,1
+,Santa Catarina,1,Q1030,1,3,1
+,Sofiya,1,Q1033,1,3,1
+,Guantanamo,1,Q1054,1,3,1
+,Samana,1,Q1062,1,3,1
+,Los Rios,1,Q1063,1,3,1
+,Morazan,1,Q1065,1,3,1
+,Sidamo,1,Q1070,1,3,1
+,Nord,1,Q1075,1,3,1
+,Dabola,1,Q1092,1,3,1
+,Kankan,1,Q1092,1,3,1
+,Aichi,1,Q1109,1,3,1
+,Kagawa,1,Q1109,1,3,1
+,Salavan,1,Q1118,1,3,1
+,Bong,1,Q1122,1,3,1
+,Toamasina,1,Q1128,1,3,1
+,Toliara,1,Q1128,1,3,1
+,Manica,1,Q1148,1,3,1
+,Netherlands Antilles,1,Q1153,1,3,1
+,North-West Frontier,1,Q1166,1,3,1
+,Isabela,1,Q1173,1,3,1
+,Kareliya,1,Q1181,1,3,1
+,Tuva,1,Q1181,1,3,1
+,G�vleborg,1,Q1213,1,3,1
+,Montserrat,1,Q1234,1,3,1
+,MI,1,Q1235,1,3,1
+,Son La Province,1,Q1242,1,3,1
+,Southern,1,Q1248,1,3,1
+,Kondoz [Kunduz],1,Q1000,1,2,1
+,Korce,1,Q1002,1,2,1
+,Zaire,1,Q1006,1,2,1
+,San Juan,1,Q1010,1,2,1
+,Niederosterreich,1,Q1014,1,2,1
+,Oberosterreich,1,Q1014,1,2,1
+,Brabant,1,Q1020,1,2,1
+,York County,1,Q1038,1,2,1
+,Banska Bystricka Region,1,Q1041,1,2,1
+,Hong Kong Special Administrative Region,1,Q1044,1,2,1
+,Oriente,1,Q1054,1,2,1
+,Limassol,1,Q1056,1,2,1
+,Azua,1,Q1062,1,2,1
+,Al Bahr Al Ahmar,1,Q1064,1,2,1
+,San Miguel,1,Q1065,1,2,1
+,Welega [Walaga],1,Q1070,1,2,1
+,Viti Levu Island,1,Q1073,1,2,1
+,Eastern Finland,1,Q1074,1,2,1
+,Turku,1,Q1074,1,2,1
+,Central,1,Q1083,1,2,1
+,Khalkidhiki,1,Q1085,1,2,1
+,Boke,1,Q1092,1,2,1
+,Fria,1,Q1092,1,2,1
+,Kindia,1,Q1092,1,2,1
+,Nograd,1,Q1099,1,2,1
+,Pest,1,Q1099,1,2,1
+,Chiba,1,Q1109,1,2,1
+,Mie,1,Q1109,1,2,1
+,Shimane,1,Q1109,1,2,1
+,Semipalatinsk,1,Q1112,1,2,1
+,Tov,1,Q1144,1,2,1
+,Agadir,1,Q1147,1,2,1
+,Buller,1,Q1155,1,2,1
+,Atlantico Nort,1,Q1156,1,2,1
+,Hamgyong-Namdo,1,Q1161,1,2,1
+,Zufar,1,Q1165,1,2,1
+,Agusan del Norte Province,1,Q1173,1,2,1
+,Rapu-Rapu Island,1,Q1173,1,2,1
+,Surigao*,1,Q1173,1,2,1
+,Caminha,1,Q1176,1,2,1
+,Setúbal District,1,Q1176,1,2,1
+,Vila Nova De Cerveira,1,Q1176,1,2,1
+,Bihor,1,Q1180,1,2,1
+,Gorj,1,Q1180,1,2,1
+,Mures,1,Q1180,1,2,1
+,Irkutskaya Oblast',1,Q1181,1,2,1
+,North-West,1,Q1204,1,2,1
+,Gangwon-do,1,Q1206,1,2,1
+,Cordoba Province,1,Q1208,1,2,1
+,Para,1,Q1211,1,2,1
+,Al Kaf,1,Q1226,1,2,1
+,British Virgin Islands,1,Q1234,1,2,1
+,Thai Nguyen Province,1,Q1242,1,2,1
+,Western,1,Q1248,1,2,1
+,Ghowr [Ghor],1,Q1000,1,1,1
+,Puke,1,Q1002,1,1,1
+,Luanda,1,Q1006,1,1,1
+,Uige,1,Q1006,1,1,1
+,Rio Negro Province,1,Q1010,1,1,1
+,Bad Bleiberg,1,Q1014,1,1,1
+,Guarayos,1,Q1025,1,1,1
+,Central district,1,Q1028,1,1,1
+,Burgas,1,Q1033,1,1,1
+,Montana,1,Q1033,1,1,1
+,Varna,1,Q1033,1,1,1
+,Alaska,1,Q1038,1,1,1
+,Labrador,1,Q1038,1,1,1
+,Liard Mining Division,1,Q1038,1,1,1
+,Nevada,1,Q1038,1,1,1
+,Western Churchill Province,1,Q1038,1,1,1
+,Araucania,1,Q1043,1,1,1
+,Copiapó,1,Q1043,1,1,1
+,Nei Mongol,1,Q1044,1,1,1
+,Shandong [Shantung],1,Q1044,1,1,1
+,District of Niari,1,Q1049,1,1,1
+,Côte d’Ivoire,1,Q1052,1,1,1
+,"Bayern [Bavaria, Germany]",1,Q1057,1,1,1
+,Ch'Ungch'Ong-Bukto,1,Q1058,1,1,1
+,Ch'Ungch'Ong-Namdo,1,Q1058,1,1,1
+,Haut -Katanga Province,1,Q1058,1,1,1
+,Al Buhayrah,1,Q1064,1,1,1
+,Cabanas,1,Q1065,1,1,1
+,Cuscatlan,1,Q1065,1,1,1
+,La Union,1,Q1065,1,1,1
+,Usulutan,1,Q1065,1,1,1
+,Mirab Gojam,1,Q1070,1,1,1
+,Mirab Harerge,1,Q1070,1,1,1
+,British Columbia,1,Q1074,1,1,1
+,Oulu,1,Q1074,1,1,1
+,Limousin,1,Q1075,1,1,1
+,Kommune Kujalleq,1,Q1086,1,1,1
+,Kujalleq,1,Q1086,1,1,1
+,Qaasuitsup,1,Q1086,1,1,1
+,Qaqortoq District,1,Q1086,1,1,1
+,Beyla,1,Q1092,1,1,1
+,Boffa,1,Q1092,1,1,1
+,Eastern Guinea,1,Q1092,1,1,1
+,Siguiri,1,Q1092,1,1,1
+,Tougue,1,Q1092,1,1,1
+,Halmahera Island,1,Q1102,1,1,1
+,Irian Jaya,1,Q1102,1,1,1
+,Timor Island,1,Q1102,1,1,1
+,County Tipperary,1,Q1105,1,1,1
+,Valle D'Aosta,1,Q1107,1,1,1
+,Gumma,1,Q1109,1,1,1
+,Saitama,1,Q1109,1,1,1
+,Shiga,1,Q1109,1,1,1
+,Al Balqa',1,Q1111,1,1,1
+,Kostenay Oblast,1,Q1112,1,1,1
+,Zhitigara District,1,Q1112,1,1,1
+,Chui,1,Q1117,1,1,1
+,Moramanga,1,Q1128,1,1,1
+,Central,1,Q1129,1,1,1
+,Dowa,1,Q1129,1,1,1
+,Lilongwe,1,Q1129,1,1,1
+,BN,1,Q1140,1,1,1
+,BS,1,Q1140,1,1,1
+,CO,1,Q1140,1,1,1
+,Distrito Federal*,1,Q1140,1,1,1
+,Michoacan,1,Q1140,1,1,1
+,SB,1,Q1140,1,1,1
+,SI,1,Q1140,1,1,1
+,Bulgan,1,Q1144,1,1,1
+,Dornod,1,Q1144,1,1,1
+,Hovsgol,1,Q1144,1,1,1
+,Suhbaatar,1,Q1144,1,1,1
+,Sukhbaatar,1,Q1144,1,1,1
+,Niassa,1,Q1148,1,1,1
+,Tete,1,Q1148,1,1,1
+,Erongo,1,Q1150,1,1,1
+,Gauteng Province,1,Q1150,1,1,1
+,Karas,1,Q1150,1,1,1
+,Karibib District,1,Q1150,1,1,1
+,Otjozondijupa,1,Q1150,1,1,1
+,Aiwo,1,Q1151,1,1,1
+,REGIÓN AUTÓNOMA DE LA COSTA CARIBE NORTE,1,Q1156,1,1,1
+,Nasarawa State,1,Q1158,1,1,1
+,Ch'Ungch'Ong-Namdo,1,Q1161,1,1,1
+,Hwanghae-Bukto,1,Q1161,1,1,1
+,Hwanghae-Namdo,1,Q1161,1,1,1
+,Ostfold,1,Q1164,1,1,1
+,Troms,1,Q1164,1,1,1
+,Eastern Highland,1,Q1170,1,1,1
+,Kainantu,1,Q1170,1,1,1
+,Chicha,1,Q1172,1,1,1
+,Surigao,1,Q1173,1,1,1
+,Alto Alentejo,1,Q1176,1,1,1
+,Bacau,1,Q1180,1,1,1
+,Calarasi,1,Q1180,1,1,1
+,Constanta,1,Q1180,1,1,1
+,Galati,1,Q1180,1,1,1
+,Olt,1,Q1180,1,1,1
+,Buryatia,1,Q1181,1,1,1
+,Chitinskaya Oblast',1,Q1181,1,1,1
+,Kamchatskaya Oblast',1,Q1181,1,1,1
+,Khakassia,1,Q1181,1,1,1
+,Kola Peninsula,1,Q1181,1,1,1
+,Kuril Islands,1,Q1181,1,1,1
+,Moskovskaya Oblast',1,Q1181,1,1,1
+,Sakhalinskaya Oblast',1,Q1181,1,1,1
+,Yakutia,1,Q1181,1,1,1
+,Muhanga,1,Q1182,1,1,1
+,Thies,1,Q1194,1,1,1
+,Northern,1,Q1197,1,1,1
+,Banská Bystrica,1,Q1200,1,1,1
+,Eastern Slovakia,1,Q1200,1,1,1
+,Mpumalanga Province,1,Q1204,1,1,1
+,Chungcheongnam-do,1,Q1206,1,1,1
+,Kangwon-Do,1,Q1206,1,1,1
+,Andalucía,1,Q1208,1,1,1
+,Andalusia,1,Q1208,1,1,1
+,Castilla y León,1,Q1208,1,1,1
+,Cordoba,1,Q1208,1,1,1
+,Extremadura,1,Q1208,1,1,1
+,Melsiripura,1,Q1209,1,1,1
+,An Nil Al Azra,1,Q1210,1,1,1
+,Lapland,1,Q1213,1,1,1
+,Norrbotten,1,Q1213,1,1,1
+,Smaland,1,Q1213,1,1,1
+,Östergötlands Län,1,Q1213,1,1,1
+,Adana Province,1,Q1227,1,1,1
+,Hakkari Province,1,Q1227,1,1,1
+,Kutahya Province,1,Q1227,1,1,1
+,Sirnak Province,1,Q1227,1,1,1
+,Usak,1,Q1227,1,1,1
+,Cayman Islands,1,Q1234,1,1,1
+,Cleveland,1,Q1234,1,1,1
+,CT,1,Q1235,1,1,1
+,Elko County,1,Q1235,1,1,1
+,Esmeralda County,1,Q1235,1,1,1
+,Humboldt County,1,Q1235,1,1,1
+,Nye,1,Q1235,1,1,1
+,Southeast Alaska,1,Q1235,1,1,1
+,Stevens County,1,Q1235,1,1,1
+,Rio Negro,1,Q1237,1,1,1
+,Son La,1,Q1242,1,1,1
+,Northwest Region,1,Q1247,1,1,1
+,North-Western Province,1,Q1248,1,1,1
+,Harare,1,Q1249,1,1,1

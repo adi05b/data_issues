@@ -1,0 +1,14 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT
+  (COUNT(DISTINCT ?site) AS ?sites_total)
+  (COUNT(DISTINCT ?s_loc) AS ?sites_with_locinfo)
+  (COUNT(DISTINCT ?s_wkt) AS ?sites_with_wkt)
+  (COUNT(DISTINCT ?s_crs) AS ?sites_with_crs_node)
+  (COUNT(DISTINCT ?s_obs) AS ?sites_with_observed_name)
+WHERE {
+  ?site a :MineralSite .
+  OPTIONAL { ?site :location_info ?li . BIND(?site AS ?s_loc)
+             OPTIONAL { ?li :location ?w . BIND(?site AS ?s_wkt) }
+             OPTIONAL { ?li :crs ?c . BIND(?site AS ?s_crs)
+                        OPTIONAL { ?c :observed_name ?o . BIND(?site AS ?s_obs) } } }
+}

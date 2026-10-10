@@ -1,0 +1,11 @@
+{
+  "id": "p6-v1-kg-version",
+  "sent_at": "2026-10-08T00:48:47.278880+00:00",
+  "http_status": 200,
+  "elapsed_ms": 102,
+  "bytes": 954,
+  "curl_exit": 0,
+  "row_count": 3,
+  "truncated_by_limit": false,
+  "error": null
+}

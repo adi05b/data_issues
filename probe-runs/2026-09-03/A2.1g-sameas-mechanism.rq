@@ -1,0 +1,13 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?same_record_id ?same_source (COUNT(*) AS ?pairs)
+WHERE {
+  ?s owl:sameAs ?o .
+  ?s :record_id ?rs ; :source_id ?ss .
+  ?o :record_id ?ro ; :source_id ?so .
+  BIND(IF(STR(?rs) = STR(?ro), "same_record_id", "different_record_id") AS ?same_record_id)
+  BIND(IF(STR(?ss) = STR(?so), "same_source", "different_source") AS ?same_source)
+}
+GROUP BY ?same_record_id ?same_source
+ORDER BY DESC(?pairs)

@@ -1,0 +1,28 @@
+{ "head": {
+    "vars": [ "metric" , "n" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "metric": { "type": "literal" , "value": "a_sameAs_triples" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "260698" }
+      } ,
+      { 
+        "metric": { "type": "literal" , "value": "b_distinct_subjects" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "198132" }
+      } ,
+      { 
+        "metric": { "type": "literal" , "value": "c_distinct_objects" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "260698" }
+      } ,
+      { 
+        "metric": { "type": "literal" , "value": "d_objects_that_are_MineralSite" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "260697" }
+      } ,
+      { 
+        "metric": { "type": "literal" , "value": "e_sites_as_object_only" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "260696" }
+      }
+    ]
+  }
+}

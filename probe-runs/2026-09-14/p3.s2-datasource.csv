@@ -1,0 +1,325 @@
+ds,p,o
+http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024,https://minmod.isi.edu/ontology/description,Jowitt's compiled Lithium data
+http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024,https://minmod.isi.edu/ontology/title,Lithium in Nevada. Simon Jowitt (2024)
+http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024,https://minmod.isi.edu/ontology/type,article
+http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024,https://minmod.isi.edu/ontology/uri,http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024
+http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/sand
+http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024,http://www.w3.org/2000/01/rdf-schema#label,jowitt-unpublished-lithium-data
+http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024,https://minmod.isi.edu/ontology/score,0.8
+http://www.oregongeology.org,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+http://www.oregongeology.org,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+http://www.oregongeology.org,https://minmod.isi.edu/ontology/description,Oregon Department of Geology and Mineral Industries
+http://www.oregongeology.org,https://minmod.isi.edu/ontology/type,database
+http://www.oregongeology.org,https://minmod.isi.edu/ontology/uri,http://www.oregongeology.org
+http://www.oregongeology.org,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+http://www.oregongeology.org,http://www.w3.org/2000/01/rdf-schema#label,oregon-department-geology-mineral-industries
+https://api.cdr.land/v1/docs/documents,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://api.cdr.land/v1/docs/documents,https://minmod.isi.edu/ontology/description,Mining Report storing in CDR
+https://api.cdr.land/v1/docs/documents,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/inferlink
+https://api.cdr.land/v1/docs/documents,http://www.w3.org/2000/01/rdf-schema#label,mining-report
+https://api.cdr.land/v1/docs/documents,https://minmod.isi.edu/ontology/type,mining-report
+https://api.cdr.land/v1/docs/documents,https://minmod.isi.edu/ontology/score,0.8
+https://doi.org/10.1016/j.oregeorev.2016.08.010,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://doi.org/10.1016/j.oregeorev.2016.08.010,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://doi.org/10.1016/j.oregeorev.2016.08.010,https://minmod.isi.edu/ontology/doi,10.1016/j.oregeorev.2016.08.010
+https://doi.org/10.1016/j.oregeorev.2016.08.010,https://minmod.isi.edu/ontology/description,Mudd & Jowitt Zinc Lead data
+https://doi.org/10.1016/j.oregeorev.2016.08.010,https://minmod.isi.edu/ontology/title,"The world's lead-zinc mineral resources: Scarcity, data, issues and opportunities"
+https://doi.org/10.1016/j.oregeorev.2016.08.010,https://minmod.isi.edu/ontology/type,article
+https://doi.org/10.1016/j.oregeorev.2016.08.010,https://minmod.isi.edu/ontology/uri,https://doi.org/10.1016/j.oregeorev.2016.08.010
+https://doi.org/10.1016/j.oregeorev.2016.08.010,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/sand
+https://doi.org/10.1016/j.oregeorev.2016.08.010,http://www.w3.org/2000/01/rdf-schema#label,mudd-jowitt-2017-zinc-lead
+https://doi.org/10.1016/j.oregeorev.2016.08.010,https://minmod.isi.edu/ontology/score,0.8
+https://doi.org/10.2113/econgeo.110.8.1925,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://doi.org/10.2113/econgeo.110.8.1925,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://doi.org/10.2113/econgeo.110.8.1925,https://minmod.isi.edu/ontology/doi,10.2113/econgeo.110.8.1925
+https://doi.org/10.2113/econgeo.110.8.1925,https://minmod.isi.edu/ontology/title,A Detailed Assessment of Global Rare Earth Element Resources: Opportunities and Challenges
+https://doi.org/10.2113/econgeo.110.8.1925,https://minmod.isi.edu/ontology/description,Jowitt REE data
+https://doi.org/10.2113/econgeo.110.8.1925,https://minmod.isi.edu/ontology/type,article
+https://doi.org/10.2113/econgeo.110.8.1925,https://minmod.isi.edu/ontology/uri,https://doi.org/10.2113/econgeo.110.8.1925
+https://doi.org/10.2113/econgeo.110.8.1925,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/sand
+https://doi.org/10.2113/econgeo.110.8.1925,http://www.w3.org/2000/01/rdf-schema#label,jowitt-ree
+https://doi.org/10.2113/econgeo.110.8.1925,https://minmod.isi.edu/ontology/score,0.8
+https://doi.org/10.34191/OFR-757,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://doi.org/10.34191/OFR-757,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://doi.org/10.34191/OFR-757,https://minmod.isi.edu/ontology/description,"Utah Mineral Occurrence System (UMOS) Database, 2023 Update"
+https://doi.org/10.34191/OFR-757,https://minmod.isi.edu/ontology/type,database
+https://doi.org/10.34191/OFR-757,https://minmod.isi.edu/ontology/uri,https://doi.org/10.34191/OFR-757
+https://doi.org/10.34191/OFR-757,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://doi.org/10.34191/OFR-757,http://www.w3.org/2000/01/rdf-schema#label,utah-mineral-occurrence-system
+https://doi.org/10.4095/295581,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://doi.org/10.4095/295581,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://doi.org/10.4095/295581,https://minmod.isi.edu/ontology/doi,10.4095/295581
+https://doi.org/10.4095/295581,https://minmod.isi.edu/ontology/description,World Tin Tungsten Deposit
+https://doi.org/10.4095/295581,https://minmod.isi.edu/ontology/title,World tin and tungsten deposit database
+https://doi.org/10.4095/295581,https://minmod.isi.edu/ontology/type,database
+https://doi.org/10.4095/295581,https://minmod.isi.edu/ontology/uri,https://doi.org/10.4095/295581
+https://doi.org/10.4095/295581,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://doi.org/10.4095/295581,http://www.w3.org/2000/01/rdf-schema#label,world-tin-tungsten-deposit
+https://doi.org/10.4095/295581,https://minmod.isi.edu/ontology/score,0.8
+https://doi.org/10.5066/P96MMRFD,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://doi.org/10.5066/P96MMRFD,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://doi.org/10.5066/P96MMRFD,https://minmod.isi.edu/ontology/description,Alaska Resource Data File
+https://doi.org/10.5066/P96MMRFD,http://www.w3.org/2000/01/rdf-schema#label,ardf
+https://doi.org/10.5066/P96MMRFD,https://minmod.isi.edu/ontology/type,database
+https://doi.org/10.5066/P96MMRFD,https://minmod.isi.edu/ontology/uri,https://doi.org/10.5066/P96MMRFD
+https://doi.org/10.5066/P96MMRFD,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://doi.org/10.5066/P96MMRFD,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/ardf/show-ardf.php?ardf_num={record_id}
+https://doi.org/10.5066/P96MMRFD,https://minmod.isi.edu/ontology/score,0.5
+https://doi.org/10.5066/P970GDD5,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://doi.org/10.5066/P970GDD5,https://minmod.isi.edu/ontology/description,"National-Scale Geophysical, Geologic, and Mineral Resource Data and Grids for the United States, Canada, and Australia"
+https://doi.org/10.5066/P970GDD5,https://minmod.isi.edu/ontology/type,database
+https://doi.org/10.5066/P970GDD5,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://doi.org/10.5066/P970GDD5,http://www.w3.org/2000/01/rdf-schema#label,tri-national-cmmi
+https://doi.org/10.5066/P970GDD5,https://minmod.isi.edu/ontology/score,0.5
+https://doi.org/10.5066/P9HTERGK,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://doi.org/10.5066/P9HTERGK,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://doi.org/10.5066/P9HTERGK,https://minmod.isi.edu/ontology/description,USGS Mineral Resources Data System (MRDS) for the State of California
+https://doi.org/10.5066/P9HTERGK,https://minmod.isi.edu/ontology/type,database
+https://doi.org/10.5066/P9HTERGK,https://minmod.isi.edu/ontology/uri,https://doi.org/10.5066/P9HTERGK
+https://doi.org/10.5066/P9HTERGK,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://doi.org/10.5066/P9HTERGK,http://www.w3.org/2000/01/rdf-schema#label,usgs-mrds-california
+https://doi.org/10.5066/P9K1HBNT,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://doi.org/10.5066/P9K1HBNT,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://doi.org/10.5066/P9K1HBNT,https://minmod.isi.edu/ontology/description,Critical mineral deposits of the United States
+https://doi.org/10.5066/P9K1HBNT,https://minmod.isi.edu/ontology/type,database
+https://doi.org/10.5066/P9K1HBNT,http://www.w3.org/2000/01/rdf-schema#label,earth-mri-usa
+https://doi.org/10.5066/P9K1HBNT,https://minmod.isi.edu/ontology/uri,https://doi.org/10.5066/P9K1HBNT
+https://doi.org/10.5066/P9K1HBNT,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://doi.org/10.5066/P9K1HBNT,https://minmod.isi.edu/ontology/score,0.5
+https://doi.org/10.5382/econgeo.2018.4590,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://doi.org/10.5382/econgeo.2018.4590,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://doi.org/10.5382/econgeo.2018.4590,https://minmod.isi.edu/ontology/doi,10.5382/econgeo.2018.4590
+https://doi.org/10.5382/econgeo.2018.4590,https://minmod.isi.edu/ontology/title,"Growing Global Copper Resources, Reserves and Production: Discovery Is Not the Only Control on Supply"
+https://doi.org/10.5382/econgeo.2018.4590,https://minmod.isi.edu/ontology/description,Mudd & Jowitt Copper Data
+https://doi.org/10.5382/econgeo.2018.4590,https://minmod.isi.edu/ontology/type,article
+https://doi.org/10.5382/econgeo.2018.4590,https://minmod.isi.edu/ontology/uri,https://doi.org/10.5382/econgeo.2018.4590
+https://doi.org/10.5382/econgeo.2018.4590,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/sand
+https://doi.org/10.5382/econgeo.2018.4590,http://www.w3.org/2000/01/rdf-schema#label,mudd-jowitt-copper
+https://doi.org/10.5382/econgeo.2018.4590,https://minmod.isi.edu/ontology/score,0.8
+https://doi.org/10.5382/econgeo.4950,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://doi.org/10.5382/econgeo.4950,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://doi.org/10.5382/econgeo.4950,https://minmod.isi.edu/ontology/doi,10.5382/econgeo.4950
+https://doi.org/10.5382/econgeo.4950,https://minmod.isi.edu/ontology/description,Mudd & Jowitt Nickel Data
+https://doi.org/10.5382/econgeo.4950,https://minmod.isi.edu/ontology/title,"The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+https://doi.org/10.5382/econgeo.4950,https://minmod.isi.edu/ontology/type,article
+https://doi.org/10.5382/econgeo.4950,https://minmod.isi.edu/ontology/uri,https://doi.org/10.5382/econgeo.4950
+https://doi.org/10.5382/econgeo.4950,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/sand
+https://doi.org/10.5382/econgeo.4950,http://www.w3.org/2000/01/rdf-schema#label,mudd-jowitt-nickel
+https://doi.org/10.5382/econgeo.4950,https://minmod.isi.edu/ontology/score,0.8
+https://mrdata.usgs.gov/asbestos,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/asbestos,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/asbestos,https://minmod.isi.edu/ontology/description,"Asbestos mines, prospects, and occurrences in the US"
+https://mrdata.usgs.gov/asbestos,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/asbestos,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/asbestos,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/asbestos
+https://mrdata.usgs.gov/asbestos,http://www.w3.org/2000/01/rdf-schema#label,mrdata-asbestos
+https://mrdata.usgs.gov/asbestos,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/asbestos/show-asbestos.php?rec_id={record_id}
+https://mrdata.usgs.gov/asbestos,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/carbonatite,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/carbonatite,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/carbonatite,https://minmod.isi.edu/ontology/description,"Carbonatites of the world, explored deposits of Nb and REE"
+https://mrdata.usgs.gov/carbonatite,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/carbonatite,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/carbonatite,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/carbonatite
+https://mrdata.usgs.gov/carbonatite,http://www.w3.org/2000/01/rdf-schema#label,mrdata-carbonatite
+https://mrdata.usgs.gov/carbonatite,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/carbonatite/show-carbonatite.php?rec_id={record_id}
+https://mrdata.usgs.gov/carbonatite,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/deposit,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/deposit,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/deposit,https://minmod.isi.edu/ontology/description,USMIN Mineral Deposit Database
+https://mrdata.usgs.gov/deposit,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/deposit,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/deposit,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/deposit
+https://mrdata.usgs.gov/deposit,http://www.w3.org/2000/01/rdf-schema#label,mrdata-deposit
+https://mrdata.usgs.gov/deposit,https://minmod.isi.edu/ontology/score,0.7
+https://mrdata.usgs.gov/laterite,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/laterite,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/laterite,https://minmod.isi.edu/ontology/description,Ni-Co laterite deposits of the world
+https://mrdata.usgs.gov/laterite,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/laterite,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/laterite,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/laterite
+https://mrdata.usgs.gov/laterite,http://www.w3.org/2000/01/rdf-schema#label,mrdata-laterite
+https://mrdata.usgs.gov/laterite,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/laterite/show-laterite.php?rec_id={record_id}
+https://mrdata.usgs.gov/laterite,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/major-deposits,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/major-deposits,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/major-deposits,https://minmod.isi.edu/ontology/description,Major mineral deposits of the world
+https://mrdata.usgs.gov/major-deposits,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/major-deposits,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/major-deposits,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/major-deposits
+https://mrdata.usgs.gov/major-deposits,http://www.w3.org/2000/01/rdf-schema#label,mrdata-major-deposits
+https://mrdata.usgs.gov/major-deposits,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/major-deposits/show-ofr20051294.php?rec_id={record_id}
+https://mrdata.usgs.gov/major-deposits,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/mrds,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/mrds,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/mrds,https://minmod.isi.edu/ontology/description,Mineral Resources Data System (MRDS)
+https://mrdata.usgs.gov/mrds,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/mrds,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/mrds,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/mrds
+https://mrdata.usgs.gov/mrds,http://www.w3.org/2000/01/rdf-schema#label,mrdata-mrds
+https://mrdata.usgs.gov/mrds,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id={record_id}
+https://mrdata.usgs.gov/mrds,https://minmod.isi.edu/ontology/score,0.1
+https://mrdata.usgs.gov/nicrpge,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/nicrpge,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/nicrpge,https://minmod.isi.edu/ontology/description,PGE-Ni-Cr deposit and occurrence bibliographic database
+https://mrdata.usgs.gov/nicrpge,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/nicrpge,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/nicrpge,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/nicrpge
+https://mrdata.usgs.gov/nicrpge,http://www.w3.org/2000/01/rdf-schema#label,mrdata-nicrpge
+https://mrdata.usgs.gov/nicrpge,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/nicrpge/show-nicrpge.php?site_id={record_id}
+https://mrdata.usgs.gov/nicrpge,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/ofr20151121,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/ofr20151121,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/ofr20151121,https://minmod.isi.edu/ontology/description,Phosphate occurrence and potential of south Asia
+https://mrdata.usgs.gov/ofr20151121,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/ofr20151121,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/ofr20151121,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/ofr20151121
+https://mrdata.usgs.gov/ofr20151121,http://www.w3.org/2000/01/rdf-schema#label,mrdata-ofr20151121
+https://mrdata.usgs.gov/ofr20151121,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/phosphate,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/phosphate,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/phosphate,https://minmod.isi.edu/ontology/description,"World phosphate mines, deposits, and occurrences"
+https://mrdata.usgs.gov/phosphate,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/phosphate,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/phosphate,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/phosphate
+https://mrdata.usgs.gov/phosphate,http://www.w3.org/2000/01/rdf-schema#label,mrdata-phosphate
+https://mrdata.usgs.gov/phosphate,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/phosphate/show-phosphate.php?rec_no={record_id}
+https://mrdata.usgs.gov/phosphate,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/podchrome,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/podchrome,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/podchrome,https://minmod.isi.edu/ontology/description,Podiform chromite deposits
+https://mrdata.usgs.gov/podchrome,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/podchrome,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/podchrome,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/podchrome
+https://mrdata.usgs.gov/podchrome,http://www.w3.org/2000/01/rdf-schema#label,mrdata-podchrome
+https://mrdata.usgs.gov/podchrome,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/podchrome/show-podchrome.php?rec_id={record_id}
+https://mrdata.usgs.gov/podchrome,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/porcu,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/porcu,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/porcu,https://minmod.isi.edu/ontology/description,Porphyry copper deposits of the world
+https://mrdata.usgs.gov/porcu,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/porcu,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/porcu,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/porcu
+https://mrdata.usgs.gov/porcu,http://www.w3.org/2000/01/rdf-schema#label,mrdata-porcu
+https://mrdata.usgs.gov/porcu,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/porcu/show-porcu.php?rec_id={record_id}
+https://mrdata.usgs.gov/porcu,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/potash,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/potash,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/potash,https://minmod.isi.edu/ontology/description,Evaporite-related potash resources worldwide
+https://mrdata.usgs.gov/potash,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/potash,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/potash,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/potash
+https://mrdata.usgs.gov/potash,http://www.w3.org/2000/01/rdf-schema#label,mrdata-potash
+https://mrdata.usgs.gov/potash,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/potash/show-potash.php?rec_no={record_id}
+https://mrdata.usgs.gov/potash,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/pp1802,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/pp1802,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/pp1802,https://minmod.isi.edu/ontology/description,"Global distribution of selected mines, deposits, and districts of critical minerals"
+https://mrdata.usgs.gov/pp1802,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/pp1802,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/pp1802,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/pp1802
+https://mrdata.usgs.gov/pp1802,http://www.w3.org/2000/01/rdf-schema#label,mrdata-pp1802
+https://mrdata.usgs.gov/pp1802,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/pp1802/show-pp1802.php?rec_id={record_id}
+https://mrdata.usgs.gov/pp1802,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/pp577,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/pp577,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/pp577,https://minmod.isi.edu/ontology/description,Mica deposits of the Blue Ridge in North Carolina
+https://mrdata.usgs.gov/pp577,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/pp577,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/pp577,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/pp577
+https://mrdata.usgs.gov/pp577,http://www.w3.org/2000/01/rdf-schema#label,mrdata-pp577
+https://mrdata.usgs.gov/pp577,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/pp577/show-pp577.php?id={record_id}
+https://mrdata.usgs.gov/pp577,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/ree,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/ree,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/ree,https://minmod.isi.edu/ontology/description,"Rare earth element mines, deposits, and occurrences"
+https://mrdata.usgs.gov/ree,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/ree,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/ree,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/ree
+https://mrdata.usgs.gov/ree,http://www.w3.org/2000/01/rdf-schema#label,mrdata-ree
+https://mrdata.usgs.gov/ree,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/ree/show-ree.php?rec_id={record_id}
+https://mrdata.usgs.gov/ree,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/sedau,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/sedau,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/sedau,https://minmod.isi.edu/ontology/description,Sediment-hosted gold deposits
+https://mrdata.usgs.gov/sedau,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/sedau,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/sedau,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/sedau
+https://mrdata.usgs.gov/sedau,http://www.w3.org/2000/01/rdf-schema#label,mrdata-sedau
+https://mrdata.usgs.gov/sedau,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/sedau/show-sedau.php?recno={record_id}
+https://mrdata.usgs.gov/sedau,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/sedcu,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/sedcu,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/sedcu,https://minmod.isi.edu/ontology/description,Sediment-hosted copper deposits of the world
+https://mrdata.usgs.gov/sedcu,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/sedcu,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/sedcu,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/sedcu
+https://mrdata.usgs.gov/sedcu,http://www.w3.org/2000/01/rdf-schema#label,mrdata-sedcu
+https://mrdata.usgs.gov/sedcu,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/sedcu/show-sedcu.php?rec_id={record_id}
+https://mrdata.usgs.gov/sedcu,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/sedexmvt,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/sedexmvt,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/sedexmvt,https://minmod.isi.edu/ontology/description,Mineral resource data for Mississippi Valley-Type and clastic-dominated sediment-hosted lead-zinc deposits
+https://mrdata.usgs.gov/sedexmvt,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/sedexmvt,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/sedexmvt,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/sedexmvt
+https://mrdata.usgs.gov/sedexmvt,http://www.w3.org/2000/01/rdf-schema#label,mrdata-sedexmvt
+https://mrdata.usgs.gov/sedexmvt,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/sedexmvt/show-sedexmvt.php?rec_id={record_id}
+https://mrdata.usgs.gov/sedexmvt,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/sedznpb,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/sedznpb,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/sedznpb,https://minmod.isi.edu/ontology/description,Sediment-hosted zinc-lead deposits of the world
+https://mrdata.usgs.gov/sedznpb,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/sedznpb,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/sedznpb,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/sedznpb
+https://mrdata.usgs.gov/sedznpb,http://www.w3.org/2000/01/rdf-schema#label,mrdata-sedznpb
+https://mrdata.usgs.gov/sedznpb,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/sedznpb/show-sedznpb.php?rec_id={record_id}
+https://mrdata.usgs.gov/sedznpb,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/sir20105090z,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/sir20105090z,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/sir20105090z,https://minmod.isi.edu/ontology/description,Global assessment of undiscovered copper resources
+https://mrdata.usgs.gov/sir20105090z,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/sir20105090z,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/sir20105090z,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/sir20105090z
+https://mrdata.usgs.gov/sir20105090z,http://www.w3.org/2000/01/rdf-schema#label,mrdata-sir20105090z
+https://mrdata.usgs.gov/sir20105090z,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/sir20105090z/show-sir20105090z.php?id={record_id}
+https://mrdata.usgs.gov/sir20105090z,https://minmod.isi.edu/ontology/score,0.5
+https://mrdata.usgs.gov/vms,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://mrdata.usgs.gov/vms,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://mrdata.usgs.gov/vms,https://minmod.isi.edu/ontology/description,Volcanogenic massive sulfide deposits
+https://mrdata.usgs.gov/vms,https://minmod.isi.edu/ontology/type,database
+https://mrdata.usgs.gov/vms,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://mrdata.usgs.gov/vms,https://minmod.isi.edu/ontology/uri,https://mrdata.usgs.gov/vms
+https://mrdata.usgs.gov/vms,http://www.w3.org/2000/01/rdf-schema#label,mrdata-vms
+https://mrdata.usgs.gov/vms,https://minmod.isi.edu/ontology/connection,webpage:::https://mrdata.usgs.gov/vms/show-vms.php?rec_id={record_id}
+https://mrdata.usgs.gov/vms,https://minmod.isi.edu/ontology/score,0.5
+https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,https://minmod.isi.edu/ontology/description,NC Geological Survey
+https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,https://minmod.isi.edu/ontology/type,database
+https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,https://minmod.isi.edu/ontology/uri,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey
+https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,http://www.w3.org/2000/01/rdf-schema#label,nc-geological-survey
+https://www.energy.virginia.gov/geology/geologymineralresources.shtml,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://www.energy.virginia.gov/geology/geologymineralresources.shtml,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://www.energy.virginia.gov/geology/geologymineralresources.shtml,https://minmod.isi.edu/ontology/description,Geology and Mineral Resources
+https://www.energy.virginia.gov/geology/geologymineralresources.shtml,https://minmod.isi.edu/ontology/type,database
+https://www.energy.virginia.gov/geology/geologymineralresources.shtml,http://www.w3.org/2000/01/rdf-schema#label,geology-and-mineral-resources
+https://www.energy.virginia.gov/geology/geologymineralresources.shtml,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://www.energy.virginia.gov/geology/geologymineralresources.shtml,https://minmod.isi.edu/ontology/uri,https://www.energy.virginia.gov/geology/geologymineralresources.shtml
+https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource,https://minmod.isi.edu/ontology/description,Geological Survey of Alabama
+https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource,https://minmod.isi.edu/ontology/type,database
+https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource,http://www.w3.org/2000/01/rdf-schema#label,geological-survey-of-alabama
+https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource,https://minmod.isi.edu/ontology/uri,https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource
+https://www.idahogeology.org,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/DataSource
+https://www.idahogeology.org,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/Document
+https://www.idahogeology.org,https://minmod.isi.edu/ontology/description,Idaho Geology Survey
+https://www.idahogeology.org,https://minmod.isi.edu/ontology/type,database
+https://www.idahogeology.org,https://minmod.isi.edu/ontology/created_by,https://minmod.isi.edu/users/s/umn
+https://www.idahogeology.org,https://minmod.isi.edu/ontology/uri,https://www.idahogeology.org
+https://www.idahogeology.org,http://www.w3.org/2000/01/rdf-schema#label,idaho-geology-survey

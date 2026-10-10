@@ -1,0 +1,11 @@
+{ "head": {
+    "vars": [ "sites_in_clusters_with_4326_coords" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "sites_in_clusters_with_4326_coords": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7835" }
+      }
+    ]
+  }
+}

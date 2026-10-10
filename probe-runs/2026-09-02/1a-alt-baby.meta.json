@@ -1,0 +1,11 @@
+{
+  "id": "1a-alt-baby",
+  "sent_at": "2026-09-02T21:54:28.335232+00:00",
+  "http_status": 200,
+  "elapsed_ms": 4110,
+  "bytes": 2772,
+  "curl_exit": 0,
+  "row_count": 3,
+  "truncated_by_limit": false,
+  "error": null
+}

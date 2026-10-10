@@ -1,0 +1,11 @@
+{
+  "id": "P0.4-datatype",
+  "sent_at": "2026-09-02T21:52:39.727627+00:00",
+  "http_status": 400,
+  "elapsed_ms": 171,
+  "bytes": 82,
+  "curl_exit": 0,
+  "row_count": null,
+  "truncated_by_limit": null,
+  "error": "Parse error: Non-group key variable in SELECT: ?wkt in expression (datatype ?wkt)\n"
+}

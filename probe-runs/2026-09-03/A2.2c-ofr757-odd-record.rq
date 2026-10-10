@@ -1,0 +1,13 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?site ?label ?record_id ?country_obs ?state_obs
+WHERE {
+  ?site a :MineralSite ; :source_id ?source ; :location_info ?li .
+  FILTER(CONTAINS(STR(?source), "OFR-757"))
+  FILTER NOT EXISTS { ?li :location ?w }
+  OPTIONAL { ?site rdfs:label ?label }
+  OPTIONAL { ?site :record_id ?record_id }
+  OPTIONAL { ?li :country ?cc . ?cc :observed_name ?country_obs }
+  OPTIONAL { ?li :state_or_province ?sc . ?sc :observed_name ?state_obs }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "P2-pairclass-by-source",
+  "sent_at": "2026-09-08T09:55:32.607978+00:00",
+  "http_status": 200,
+  "elapsed_ms": 16895,
+  "bytes": 21443,
+  "curl_exit": 0,
+  "row_count": 72,
+  "truncated_by_limit": false,
+  "error": null
+}

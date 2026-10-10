@@ -1,0 +1,13 @@
+{ "head": {
+    "vars": [ "p" , "n" , "example" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/value" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" } ,
+        "example": { "type": "literal" , "value": "5e-05" }
+      }
+    ]
+  }
+}

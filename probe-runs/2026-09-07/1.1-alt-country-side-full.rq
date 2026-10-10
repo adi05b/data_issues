@@ -1,0 +1,21 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?country_obs ?country_label ?state_obs ?state_label (COUNT(DISTINCT ?site) AS ?sites)
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :state_or_province ?sc ; :country ?cc .
+  ?sc :normalized_uri ?state_ent .
+  ?cc :normalized_uri ?country_ent .
+  ?state_ent :country ?state_country_raw .
+  BIND(REPLACE(STR(?state_country_raw), "^.*/", "") AS ?state_country_id)
+  BIND(REPLACE(STR(?country_ent), "^.*/", "") AS ?country_id)
+  FILTER(?state_country_id != ?country_id)
+  OPTIONAL { ?cc :observed_name ?country_obs }
+  OPTIONAL { ?sc :observed_name ?state_obs }
+  OPTIONAL { ?country_ent rdfs:label ?country_label }
+  OPTIONAL { ?state_ent rdfs:label ?state_label }
+}
+GROUP BY ?country_obs ?country_label ?state_obs ?state_label
+ORDER BY DESC(?sites)
+

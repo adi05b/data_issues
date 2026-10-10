@@ -1,0 +1,11 @@
+{
+  "id": "g1c-no-observed-name",
+  "sent_at": "2026-09-21T23:25:21.249859+00:00",
+  "http_status": 200,
+  "elapsed_ms": 13723,
+  "bytes": 6497,
+  "curl_exit": 0,
+  "row_count": 20,
+  "truncated_by_limit": false,
+  "error": null
+}

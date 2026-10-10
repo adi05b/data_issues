@@ -1,0 +1,11 @@
+{
+  "id": "p3.2a-popA-pull",
+  "sent_at": "2026-09-14T20:41:07.684449+00:00",
+  "http_status": 200,
+  "elapsed_ms": 11310,
+  "bytes": 3057089,
+  "curl_exit": 0,
+  "row_count": 6046,
+  "truncated_by_limit": false,
+  "error": null
+}

@@ -1,0 +1,11 @@
+{
+  "id": "p6-c1-decimal-control",
+  "sent_at": "2026-10-08T00:47:10.573673+00:00",
+  "http_status": 200,
+  "elapsed_ms": 91,
+  "bytes": 2356,
+  "curl_exit": 0,
+  "row_count": 5,
+  "truncated_by_limit": true,
+  "error": null
+}

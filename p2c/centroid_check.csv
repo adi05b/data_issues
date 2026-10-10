@@ -1,0 +1,2926 @@
+minmod_id,country_code,name,match_tier,shapeName,minmod_lat,minmod_lon,inside_matched_shape
+Q2001,AF,Badakhshan,name,Badakhshan,36.7347725,70.8119953,True
+Q2002,AF,Badghis,iso,Badghis,35.1671339,63.7695384,True
+Q2003,AF,Baghlan,iso,Baghlan,36.1789026,68.7453064,True
+Q2004,AF,Balkh,iso,Balkh,36.7550603,66.8975372,True
+Q2005,AF,Bamyan,iso,Bamyan,34.8100067,67.8212104,True
+Q2006,AF,Daykundi,iso,Daykundi,33.669495,66.0463534,True
+Q2007,AF,Farah,iso,Farah,32.495328,62.2626627,True
+Q2008,AF,Faryab,iso,Faryab,36.0795613,64.905955,True
+Q2009,AF,Ghazni,iso,Ghanzi,33.5450587,68.4173972,True
+Q2010,AF,Ghōr,iso,Ghor,34.0995776,64.905955,True
+Q2011,AF,Helmand,iso,Helmand,39.2989361,-76.6160472,False
+Q2012,AF,Herat,iso,Herat,34.352865,62.2040287,True
+Q2013,AF,Jowzjan,iso,Jowzjan,36.8969692,65.6658568,True
+Q2014,AF,Kabul,iso,Kabul,34.5553494,69.207486,True
+Q2015,AF,Kandahar,name,Kandahar,31.628871,65.7371749,True
+Q2016,AF,Kapisa,iso,Kapisa,34.9810572,69.6214562,True
+Q2017,AF,Khost,iso,Khost,33.3338472,69.9371673,True
+Q2018,AF,Kunar,iso,Kunar,34.8465893,71.097317,True
+Q2019,AF,Kunduz Province,iso,Kunduz,36.7285511,68.8678982,True
+Q2020,AF,Laghman,iso,Laghman,34.6897687,70.1455805,True
+Q2021,AF,Logar,iso,Logar,34.0145518,69.1923916,True
+Q2022,AF,Nangarhar,iso,Nangarhar,34.1718313,70.6216794,True
+Q2023,AF,Nimruz,iso,Nimruz,31.0261488,62.4504154,True
+Q2024,AF,Nuristan,iso,Nuristan,35.3250223,70.9071236,True
+Q2025,AF,Paktia,iso,Paktia,33.706199,69.3831079,True
+Q2026,AF,Paktika,iso,Paktika,32.2645386,68.5247149,True
+Q2027,AF,Panjshir,iso,Panjshir,38.8802391,-77.1717238,False
+Q2028,AF,Parwan,iso,Parwan,34.9630977,68.8108849,True
+Q2029,AF,Samangan,iso,Samangan,36.3155506,67.9642863,True
+Q2030,AF,Sar-e Pol,iso,Sar-e Pol,36.216628,65.93336,True
+Q2031,AF,Takhar,iso,Takhar,36.6698013,69.4784541,True
+Q2032,AF,Urozgan,iso,Uruzgan,32.9271287,66.1415263,True
+Q2033,AF,Zabul,iso,Zabul,32.1918782,67.1894488,True
+Q2043,AL,Elbasan County,iso,Elbasan,41.1266672,20.2355647,True
+Q2076,AL,Tirana County,iso,Tiranë,41.2427598,19.8067916,True
+Q2081,DZ,Adrar,iso,Adrar,26.418131,-0.6014717,True
+Q2082,DZ,Aïn Defla,iso,Aïn Defla,36.2509429,1.9393815,True
+Q2083,DZ,Aïn Témouchent,iso,Aïn Témouchent,35.2992698,-1.1392792,True
+Q2084,DZ,Algiers,iso,Algiers,36.6997294,3.0576199,True
+Q2085,DZ,Annaba,iso,Annaba,36.8020508,7.5247243,True
+Q2086,DZ,Batna,iso,Batna,35.5965954,5.8987139,True
+Q2087,DZ,Béchar,iso,Béchar,31.6238098,-2.2162443,True
+Q2088,DZ,Béjaïa,iso,Bejaia,36.7515258,5.0556837,True
+Q2090,DZ,Biskra,iso,Biskra,34.8449437,5.7248567,True
+Q2091,DZ,Blida,iso,Blida,36.531123,2.8976254,True
+Q2093,DZ,Bordj Bou Arréridj,iso,Bordj Bou Arreridj‎,36.0739925,4.7630271,True
+Q2094,DZ,Bouïra,iso,Bouira,36.3691846,3.9006194,True
+Q2095,DZ,Boumerdès,iso,Boumerdès,36.6839559,3.6217802,True
+Q2096,DZ,Chlef,iso,Chlef,36.1693515,1.2891036,True
+Q2097,DZ,Constantine,iso,Constantine,36.3373911,6.663812,True
+Q2099,DZ,Djelfa,iso,Djelfa,34.6703956,3.2503761,True
+Q2100,DZ,El Bayadh,iso,El Bayadh,32.7148824,0.9056623,True
+Q2103,DZ,El Oued,iso,El Oued,33.367811,6.8516511,True
+Q2104,DZ,El Tarf,iso,El Tarf,36.7576678,8.3076343,True
+Q2105,DZ,Ghardaïa,iso,Ghardaia,32.4943741,3.64446,True
+Q2106,DZ,Guelma,iso,Guelma,36.4627444,7.4330833,True
+Q2107,DZ,Illizi,iso,Illizi,26.1690005,8.4842465,True
+Q2110,DZ,Jijel,iso,Jijel,36.7179681,5.9832577,True
+Q2111,DZ,Khenchela,iso,Khenchela,35.4269404,7.1460155,True
+Q2112,DZ,Laghouat,iso,Laghouat,33.8078341,2.8628294,True
+Q2113,DZ,M'Sila,iso,M'Sila,35.7186646,4.5233423,True
+Q2114,DZ,Mascara,iso,Mascara,35.3904125,0.1494988,True
+Q2115,DZ,Médéa,iso,Médéa,36.2637078,2.7587857,True
+Q2116,DZ,Mila,iso,Mila,36.3647957,6.1526985,True
+Q2117,DZ,Mostaganem,iso,Mostaganem,35.9583054,0.3371889,True
+Q2118,DZ,Naama,iso,Naâma,33.2667317,-0.3128659,True
+Q2119,DZ,Oran,iso,Oran,35.6082351,-0.563609,True
+Q2120,DZ,Ouargla,iso,Ouargla,32.2264863,5.7299821,True
+Q2122,DZ,Oum El Bouaghi,iso,Oum El Bouaghi,35.8688789,7.1108266,True
+Q2123,DZ,Relizane,iso,Relizane,35.7383405,0.7532809,True
+Q2124,DZ,Saïda,iso,Saïda,34.8415207,0.1456055,True
+Q2125,DZ,Sétif,iso,Sétif,36.3073389,5.5617279,True
+Q2126,DZ,Sidi Bel Abbès,iso,Sidi Bel Abbès,34.6806024,-1.0999495,False
+Q2127,DZ,Skikda,iso,Skikda,36.6721198,6.8350999,True
+Q2128,DZ,Souk Ahras,iso,Souk Ahras,36.2801062,7.9384033,True
+Q2129,DZ,Tamanghasset,iso,Tamanrasset,22.7902972,5.5193268,True
+Q2130,DZ,Tébessa,iso,Tébessa,35.1290691,7.9592863,True
+Q2131,DZ,Tiaret,iso,Tiaret,35.3708689,1.3217852,True
+Q2133,DZ,Tindouf,iso,Tindouf,27.8063119,-5.7299821,True
+Q2134,DZ,Tipasa,iso,Tipaza,36.546265,2.1843285,True
+Q2135,DZ,Tissemsilt,iso,Tissemsilt,35.6053781,1.813098,True
+Q2136,DZ,Tizi Ouzou,iso,Tizi Ouzou,36.706911,4.2333355,True
+Q2137,DZ,Tlemcen,iso,Tlemcen,34.6780284,-1.366216,True
+Q2139,AD,Andorra la Vella,iso,Andorra la Vella,42.5063174,1.5218355,True
+Q2140,AD,Canillo,iso,Canillo,42.5978249,1.6566377,True
+Q2141,AD,Encamp,iso,Encamp,42.5359764,1.5836773,True
+Q2142,AD,Escaldes-Engordany,iso,Escaldes-Engordany,42.4909379,1.5886966,True
+Q2143,AD,La Massana,iso,La Massana,42.545625,1.5147392,True
+Q2144,AD,Ordino,iso,Ordino,42.5994433,1.5402327,True
+Q2145,AD,Sant Julià de Lòria,iso,Sant Julia de Loria,42.4529631,1.4918235,True
+Q2146,AO,Bengo Province,iso,Bengo,-9.1042257,13.7289167,False
+Q2147,AO,Benguela Province,iso,Benguela,-12.8003744,13.914399,True
+Q2148,AO,Bié Province,iso,Bié,-12.5727907,17.668887,True
+Q2149,AO,Cabinda Province,iso,Cabinda,-5.0248749,12.3463875,True
+Q2150,AO,Cuando Cubango Province,iso,Cuando Cubango,-16.4180824,18.8076195,True
+Q2151,AO,Cuanza Norte Province,iso,Cuanza Norte,-9.2398513,14.6587821,True
+Q2152,AO,Cuanza Sul,iso,Cuanza Sul,-10.595191,15.4068079,True
+Q2153,AO,Cunene Province,iso,Cunene,-16.2802221,16.1580937,True
+Q2154,AO,Huambo Province,iso,Huambo,-12.5268221,15.5943388,True
+Q2155,AO,Huíla Province,iso,Huíla,-14.9280553,14.6587821,True
+Q2156,AO,Luanda Province,iso,Luanda,-9.035088,13.2663479,True
+Q2157,AO,Lunda Norte Province,iso,Lunda Norte,-8.3525022,19.1880047,True
+Q2158,AO,Lunda Sul Province,iso,Lunda Sul,-10.2866578,20.7122465,True
+Q2159,AO,Malanje Province,iso,Malanje,-9.8251183,16.912251,True
+Q2160,AO,Moxico Province,iso,Moxico,-13.4293579,20.3308814,True
+Q2161,AO,Uíge Province,iso,Uíge,-7.1736732,15.4068079,True
+Q2162,AO,Zaire Province,iso,Zaire,-6.5733458,13.1740348,True
+Q2163,AG,Barbuda,iso,Barbuda,17.6266242,-61.7713028,True
+Q2164,AG,Redonda,iso,Redonda,16.938416,-62.3455148,True
+Q2170,AG,Saint Philip Parish,iso,Saint Philip,40.4368258,-80.0685532,False
+Q2171,AR,Buenos Aires,iso,Buenos Aires,-37.2017285,-59.8410697,True
+Q2172,AR,Catamarca,iso,Catamarca,-28.4715877,-65.7877209,True
+Q2173,AR,Chaco,iso,Chaco,-27.4257175,-59.0243784,True
+Q2174,AR,Chubut,iso,Chubut,-43.2934246,-65.1114818,True
+Q2175,AR,Ciudad Autónoma de Buenos Aires,iso,Ciudad Autónoma de Buenos Aires,-34.6036844,-58.3815591,False
+Q2176,AR,Córdoba,iso,Córdoba,-31.3992876,-64.2643842,True
+Q2177,AR,Corrientes,iso,Corrientes,-27.4692131,-58.8306349,True
+Q2179,AR,Formosa,iso,Formosa,-26.1894804,-58.2242806,True
+Q2180,AR,Jujuy,iso,Jujuy,-24.1843397,-65.302177,True
+Q2181,AR,La Pampa,iso,La Pampa,-36.6147573,-64.2839209,True
+Q2182,AR,La Rioja,iso,La Roja,-29.4193793,-66.8559932,True
+Q2183,AR,Mendoza,iso,Mendoza,-32.8894587,-68.8458386,True
+Q2184,AR,Misiones,iso,Misiones,-27.4269255,-55.9467076,True
+Q2185,AR,Neuquén,iso,Neuquén,-38.94587,-68.0730925,False
+Q2186,AR,Río Negro,iso,Río Negro,-40.8261434,-63.0266339,True
+Q2187,AR,Salta,iso,Salta,-24.7997688,-65.4150367,True
+Q2188,AR,San Juan,iso,San Juan,-31.5316976,-68.5676962,True
+Q2189,AR,San Luis,iso,San Luis,-33.2962042,-66.3294948,True
+Q2190,AR,Santa Cruz,iso,Santa Cruz,-51.6352821,-69.2474353,True
+Q2191,AR,Santa Fe,iso,Santa Fe,-31.5855109,-60.7238016,True
+Q2192,AR,Santiago del Estero,iso,Santiago del Estero,-27.7833574,-64.264167,True
+Q2193,AR,Tierra del Fuego,iso,Tierra del Fuego,-54.8053998,-68.3242061,False
+Q2194,AR,Tucumán,iso,Tucumán,-26.8221127,-65.2192903,True
+Q2195,AM,Aragatsotn Region,iso,Aragatsotn,40.3347301,44.3748296,True
+Q2196,AM,Ararat Province,iso,Ararat,39.9139415,44.7200004,True
+Q2197,AM,Armavir Region,iso,Armavir,40.1554631,44.0372446,True
+Q2198,AM,Gegharkunik Province,iso,Gegharkunik,40.3526426,45.1260414,True
+Q2199,AM,Kotayk Region,iso,Kotayk,40.5410214,44.7690148,True
+Q2200,AM,Lori Region,iso,Lori,40.9698452,44.4900138,True
+Q2201,AM,Shirak Region,iso,Shirak,40.9630814,43.8102461,True
+Q2202,AM,Syunik Province,iso,Syunik,39.5133112,46.3393234,True
+Q2203,AM,Tavush Region,iso,Tavush,40.8866296,45.339349,True
+Q2204,AM,Vayots Dzor Region,iso,Vayots Dzor,39.7641996,45.3337528,True
+Q2205,AM,Yerevan,iso,Yerevan,40.1872023,44.515209,True
+Q2206,AU,Australian Capital Territory,iso,Australian Capital Territory,-35.4734679,149.0123679,True
+Q2207,AU,New South Wales,iso,New South Wales,-31.2532183,146.921099,True
+Q2208,AU,Northern Territory,iso,Northern Territory,-19.4914108,132.5509603,True
+Q2209,AU,Queensland,iso,Queensland,-20.9175738,142.7027956,True
+Q2210,AU,South Australia,iso,South Australia,-30.0002315,136.2091547,True
+Q2211,AU,Tasmania,iso,Tasmania,-41.4545196,145.9706647,True
+Q2212,AU,Victoria,iso,Victoria,-36.4856423,140.9779425,True
+Q2213,AU,Western Australia,iso,Western Australia,-27.6728168,121.6283098,True
+Q2214,AT,Burgenland,iso,Burgenland,47.1537165,16.2688797,True
+Q2215,AT,Carinthia,iso,Kärnten,46.722203,14.1805882,True
+Q2216,AT,Lower Austria,iso,Niederösterreich,48.108077,15.8049558,True
+Q2217,AT,Salzburg,iso,Salzburg,47.80949,13.05501,True
+Q2218,AT,Styria,iso,Steiermark,47.3593442,14.4699827,True
+Q2219,AT,Tyrol,iso,Tirol,47.2537414,11.601487,True
+Q2220,AT,Upper Austria,iso,Oberösterreich,48.025854,13.9723665,True
+Q2221,AT,Vienna,iso,Wien,48.2081743,16.3738189,True
+Q2222,AT,Vorarlberg,iso,Vorarlberg,47.2497427,9.9797373,True
+Q2263,AZ,Nakhchivan Autonomous Republic,name,Nakhchivan Autonomous Republic,39.3256814,45.4912648,True
+Q2300,BH,Muharraq,iso,Muharraq Governorate,26.2685653,50.6482517,True
+Q2301,BH,Northern,iso,Northern Governorate,26.1551914,50.4825173,True
+Q2302,BH,Southern,iso,Southern Governorate,25.9381018,50.5756887,True
+Q2360,BD,Rajshahi Division,iso,Rajshani,24.7105776,88.9413865,True
+Q2373,BB,Christ Church,iso,Christ Church,36.0060407,-95.921121,False
+Q2375,BB,Saint George,iso,Saint George,37.0965278,-113.5684164,False
+Q2376,BB,Saint James,iso,Saint James,48.523566,-1.3237885,False
+Q2377,BB,Saint John,iso,Saint John,45.2733153,-66.063308,False
+Q2378,BB,Saint Joseph,iso,Saint Joseph,39.7674578,-94.846681,False
+Q2379,BB,Saint Lucy,iso,Saint Lucy,38.7614625,-77.4491439,False
+Q2380,BB,Saint Michael,iso,Saint Michael,36.035977,-95.849052,False
+Q2381,BB,Saint Peter,iso,Saint Peter,37.0827119,-94.517125,False
+Q2382,BB,Saint Philip,iso,Saint Philip,35.233114,-89.4364042,False
+Q2383,BB,Saint Thomas,iso,Saint Thomas,18.3380965,-64.8940946,False
+Q2384,BY,Brest Region,iso,Brest,52.5296641,25.460648,True
+Q2385,BY,Gomel Region,iso,Gomel,52.1648754,29.1333251,True
+Q2386,BY,Grodno Region,iso,Grodno,53.6599945,25.3448571,True
+Q2387,BY,Minsk,iso,Minsk City,53.9006011,27.558972,True
+Q2388,BY,Minsk Region,iso,Minsk,54.1067889,27.4129245,True
+Q2389,BY,Mogilev Region,iso,Mogilev,53.5101791,30.4006444,True
+Q2390,BY,Vitebsk Region,iso,Vitebsk,55.2959833,28.7583627,True
+Q2404,BZ,Belize District,iso,Belize,17.5677679,-88.4016041,True
+Q2405,BZ,Cayo District,iso,Cayo,17.0984445,-88.9413865,True
+Q2406,BZ,Corozal District,iso,Corozal,18.1349238,-88.2461183,True
+Q2407,BZ,Orange Walk District,iso,Orange Walk,17.760353,-88.864698,True
+Q2408,BZ,Stann Creek District,iso,Stann Creek,16.8116631,-88.4016041,True
+Q2409,BZ,Toledo District,iso,Toledo,16.2491923,-88.864698,True
+Q2410,BJ,Alibori Department,iso,Alibori,10.9681093,2.7779813,True
+Q2411,BJ,Atakora Department,iso,Atakora,10.7954931,1.6760691,True
+Q2412,BJ,Atlantique Department,iso,Atlanique,6.6588391,2.2236667,True
+Q2413,BJ,Borgou Department,iso,Borgou,9.5340864,2.7779813,True
+Q2414,BJ,Collines Department,iso,Collines,8.3022297,2.302446,True
+Q2415,BJ,Donga Department,iso,Donga,9.7191867,1.6760691,True
+Q2416,BJ,Kouffo Department,name,Kouffo,7.0035894,1.7538817,True
+Q2417,BJ,Littoral Department,iso,Littoral,6.3806973,2.4406387,True
+Q2418,BJ,Mono Department,iso,Mono,37.9218608,-118.9528645,False
+Q2419,BJ,Ouémé Department,iso,Oueme,6.6148152,2.4999918,True
+Q2420,BJ,Plateau Department,iso,Plateau,7.3445141,2.539603,True
+Q2421,BJ,Zou Department,iso,Zou,7.3469268,2.0665197,True
+Q2431,BT,Bumthang District,iso,Bumthang,27.641839,90.6773046,True
+Q2432,BT,Chukha District,iso,Chukha,27.0784304,89.4742177,True
+Q2433,BT,Dagana District,iso,Dagana,27.0322861,89.8879304,True
+Q2434,BT,Gasa District,iso,Gasa,28.0185886,89.9253233,True
+Q2435,BT,Haa District,iso,Haa,27.2651669,89.1705998,True
+Q2436,BT,Lhuntse District,iso,Lhuntse,27.8264989,91.135302,True
+Q2437,BT,Mongar District,iso,Mongar,27.2617059,91.2891036,True
+Q2438,BT,Paro District,iso,Paro,27.4285949,89.4166516,True
+Q2439,BT,Pemagatshel District,iso,Pemagatshel,27.002382,91.3469247,True
+Q2440,BT,Punakha District,iso,Punakha,27.6903716,89.8879304,True
+Q2441,BT,Samdrup Jongkhar District,iso,Samdrup Jongkhar,26.8035682,91.5039207,True
+Q2442,BT,Samtse District,iso,Samtse,27.0291832,89.0561532,True
+Q2443,BT,Sarpang District,iso,Sarpang,26.9373041,90.4879916,True
+Q2444,BT,Thimphu District,iso,Thimpu,27.4712216,89.6339041,True
+Q2445,BT,Trashigang District,iso,Trashigang,27.2566795,91.7538817,True
+Q2446,BT,Trongsa District,iso,Trongsa,27.5002269,90.5080634,True
+Q2447,BT,Tsirang District,iso,Tsirang,27.032207,90.1869644,True
+Q2448,BT,Wangdue Phodrang District,iso,Wangdue Phodrang,27.4526046,90.0674928,True
+Q2449,BT,Zhemgang District,iso,Zhemgang,27.076975,90.8294002,True
+Q2450,BO,Beni Department,iso,Beni,-14.3782747,-65.0957792,True
+Q2451,BO,Chuquisaca Department,iso,Chuquisaca,-20.0249144,-64.1478236,True
+Q2452,BO,Cochabamba Department,iso,Cochabamba,-17.5681675,-65.475736,True
+Q2454,BO,Oruro Department,iso,Oruro,-18.5711579,-67.7615983,True
+Q2455,BO,Pando Department,iso,Pando,-10.7988901,-66.9988011,True
+Q2456,BO,Potosí Department,iso,Potosí,-20.624713,-66.9988011,True
+Q2457,BO,Santa Cruz Department,iso,Santa Cruz,-16.7476037,-62.0750998,True
+Q2458,BO,Tarija Department,iso,Tarija,-21.5831595,-63.9586111,True
+Q2463,BA,Brčko District,name,Brčko District,44.8405944,18.742153,True
+Q2466,BA,Federation of Bosnia and Herzegovina,name,Federation of Bosnia and Herzegovina,43.8874897,17.842793,True
+Q2469,BA,Republika Srpska,name,Republika Srpska,44.7280186,17.3148136,True
+Q2476,BW,Ghanzi District,iso,Ghanzi District,-21.8652314,21.8568586,True
+Q2477,BW,Kgalagadi District,iso,Kgalagadi District,-24.7550285,21.8568586,True
+Q2478,BW,Kgatleng District,iso,Kgatleng District,-24.1970445,26.2304616,True
+Q2479,BW,Kweneng District,iso,Kweneng District,-23.8367249,25.2837585,True
+Q2481,BW,North-East District,iso,North-East District,37.5884461,-94.6863782,False
+Q2482,BW,North-West District,iso,North-West District,39.3446307,-76.6854283,False
+Q2483,BW,South-East District,iso,South-East District,31.2163798,-82.3527044,False
+Q2485,BR,Acre,iso,Acre,-9.023796,-70.811995,True
+Q2486,BR,Alagoas,iso,Alagoas,-9.5713058,-36.7819505,True
+Q2487,BR,Amapá,iso,Amapa,0.9019925,-52.0029565,True
+Q2488,BR,Amazonas,iso,Amazonas,-3.07,-61.66,True
+Q2489,BR,Bahia,iso,Bahia,-11.409874,-41.280857,True
+Q2490,BR,Ceará,iso,Ceara,-5.4983977,-39.3206241,True
+Q2491,BR,Distrito Federal,iso,Distrito Federal,-15.7997654,-47.8644715,True
+Q2492,BR,Espírito Santo,iso,Espirito Santo,-19.1834229,-40.3088626,True
+Q2493,BR,Goiás,iso,Goias,-15.8270369,-49.8362237,True
+Q2494,BR,Maranhão,iso,Maranhao,-4.9609498,-45.2744159,True
+Q2495,BR,Mato Grosso,iso,Mato Grosso,-12.6818712,-56.921099,True
+Q2496,BR,Mato Grosso do Sul,iso,Mato Grosso do Sul,-20.7722295,-54.7851531,True
+Q2497,BR,Minas Gerais,iso,Minas Gerais,-18.512178,-44.5550308,True
+Q2498,BR,Pará,iso,Para,-1.9981271,-54.9306152,True
+Q2499,BR,Paraíba,iso,Paraiba,-7.2399609,-36.7819505,True
+Q2500,BR,Paraná,iso,Parana,-25.2520888,-52.0215415,True
+Q2501,BR,Pernambuco,iso,Pernambuco,-8.8137173,-36.954107,True
+Q2502,BR,Piauí,iso,Piaui,-7.7183401,-42.7289236,True
+Q2503,BR,Rio de Janeiro,iso,Rio de Jeneiro,-22.9068467,-43.1728965,True
+Q2504,BR,Rio Grande do Norte,iso,Rio Granda do Norte,-5.4025803,-36.954107,True
+Q2505,BR,Rio Grande do Sul,iso,Rio Grande do Sul,-30.0346316,-51.2176986,True
+Q2506,BR,Rondônia,iso,Rondonia,-11.5057341,-63.580611,True
+Q2507,BR,Roraima,iso,Roraima,2.7375971,-62.0750998,True
+Q2508,BR,Santa Catarina,iso,Santa Catarina,-27.33,-49.44,True
+Q2509,BR,São Paulo,iso,Sao Paulo,-23.5505199,-46.6333094,True
+Q2510,BR,Sergipe,iso,Sergipe,-10.5740934,-37.3856581,True
+Q2511,BR,Tocantins,iso,Tocantins,-10.17528,-48.2982474,True
+Q2512,BN,Belait District,iso,Belait,4.3750749,114.6192899,True
+Q2513,BN,Brunei-Muara District,iso,Brunei-Muara,4.9311206,114.9516869,True
+Q2514,BN,Temburong District,iso,Temburong,4.6204128,115.141484,True
+Q2515,BN,Tutong District,iso,Tutong,4.7140373,114.6667939,True
+Q2516,BG,Blagoevgrad Province,iso,Blagoevgrad,42.0208614,23.0943356,True
+Q2517,BG,Burgas Province,iso,Burgas,42.5048,27.4626079,True
+Q2518,BG,Dobrich Province,iso,Dobrich,43.572786,27.8272802,True
+Q2519,BG,Gabrovo Province,iso,Gabrovo,42.86847,25.316889,True
+Q2520,BG,Haskovo Province,iso,Haskovo,41.9344178,25.5554672,True
+Q2521,BG,Kardzhali Province,iso,Kardzhali,41.6338416,25.3776687,True
+Q2522,BG,Kyustendil Province,iso,Kyustendil,42.2868799,22.6939635,True
+Q2523,BG,Lovech Province,iso,Lovech,43.1367798,24.7139335,True
+Q2524,BG,Montana Province,iso,Montana,43.4085148,23.2257589,True
+Q2525,BG,Pazardzhik Province,iso,Pazardzhik,42.1927567,24.3336226,True
+Q2526,BG,Pernik Province,iso,Pernik,42.605199,23.0377916,True
+Q2527,BG,Pleven Province,iso,Pleven,43.4170169,24.6066708,True
+Q2528,BG,Plovdiv Province,iso,Plovdiv,42.1354079,24.7452904,True
+Q2529,BG,Razgrad Province,iso,Razgrad,43.5271705,26.5241228,True
+Q2530,BG,Ruse Province,iso,Ruse,43.8355964,25.9656144,True
+Q2531,BG,Shumen,iso,Shumen,43.2712398,26.9361286,True
+Q2532,BG,Silistra Province,iso,Silistra,44.1147101,27.2671454,True
+Q2533,BG,Sliven Province,iso,Sliven,42.6816702,26.3228569,True
+Q2534,BG,Smolyan Province,iso,Smolyan,41.5774148,24.7010871,True
+Q2535,BG,Sofia City Province,iso,Sofia City,42.7570109,23.4504683,True
+Q2536,BG,Sofia Province,iso,Sofia,42.67344,23.8334937,True
+Q2537,BG,Stara Zagora Province,iso,Stara Zagora,42.4257709,25.6344855,True
+Q2538,BG,Targovishte Province,iso,Targovishte,43.2462349,26.5691251,True
+Q2539,BG,Varna Province,iso,Varna,43.2046477,27.9105488,True
+Q2540,BG,Veliko Tarnovo Province,iso,Veliko Tarnovo,43.0756539,25.61715,True
+Q2541,BG,Vidin Province,iso,Vidin,43.9961739,22.8679515,True
+Q2542,BG,Vratsa Province,iso,Vratsa,43.2101806,23.552921,True
+Q2543,BG,Yambol Province,iso,Yambol,42.4841494,26.5035296,True
+Q2548,BF,Boucle du Mouhoun Region,iso,Boucle du Mouhoun,12.4166,-3.4195527,True
+Q2551,BF,Cascades Region,iso,Cascades,10.4072992,-4.5624426,True
+Q2553,BF,Centre-Est Region,iso,Centre-Est,11.5247674,-0.1494988,True
+Q2554,BF,Centre-Nord Region,iso,Centre-Nord,13.1724464,-0.9056623,True
+Q2555,BF,Centre-Ouest Region,iso,Centre-Ouest,11.8798466,-2.302446,True
+Q2556,BF,Centre-Sud Region,iso,Centre-Sud,11.5228911,-1.0586135,True
+Q2558,BF,Est Region,iso,Est,12.4365526,0.9056623,True
+Q2562,BF,Hauts-Bassins Region,iso,Hauts-Bassins,11.4942003,-4.2333355,True
+Q2579,BF,"Nord Region, Burkina Faso",iso,Nord,13.718252,-2.302446,True
+Q2584,BF,Plateau-Central Region,iso,Plateau Central,12.2537648,-0.7532809,True
+Q2586,BF,Sahel Region,iso,Sahel,14.1000865,-0.1494988,True
+Q2593,BF,Sud-Ouest Region,iso,Sud-Ouest,10.4231493,-3.2583626,True
+Q2601,BI,Bubanza Province,iso,Bubanza,-3.1572403,29.3714909,True
+Q2602,BI,Bujumbura Mairie Province,iso,Bujumbura Mairie,-3.3884141,29.3482646,True
+Q2603,BI,Bujumbura Rural Province,iso,Bujumbura Rural,-3.5090144,29.464359,True
+Q2604,BI,Bururi Province,iso,Bururi,-3.9006851,29.5107708,True
+Q2605,BI,Cankuzo Province,iso,Cankuzo,-3.1527788,30.6199895,True
+Q2606,BI,Cibitoke Province,iso,Cibitoke,-2.8102897,29.1855785,True
+Q2607,BI,Gitega Province,iso,Gitega,-3.4929051,29.9277947,True
+Q2608,BI,Karuzi Province,iso,Karuzi,-3.1340347,30.112735,True
+Q2609,BI,Kayanza Province,iso,Kayanza,-3.0077981,29.6499162,True
+Q2610,BI,Kirundo Province,iso,Kirundo,-2.5762882,30.112735,True
+Q2611,BI,Makamba Province,iso,Makamba,-4.3257062,29.6962677,True
+Q2612,BI,Muramvya Province,iso,Muramvya,-3.2898398,29.6499162,True
+Q2613,BI,Muyinga Province,iso,Muyinga,-2.7793511,30.2974199,True
+Q2614,BI,Mwaro Province,iso,Mwaro,-3.5025918,29.6499162,True
+Q2615,BI,Ngozi Province,iso,Ngozi,-2.8958243,29.8815203,True
+Q2616,BI,Rumonge Province,iso,Rumonge,-3.9754049,29.4388014,True
+Q2617,BI,Rutana Province,iso,Rutana,-3.8791523,30.0665236,True
+Q2618,BI,Ruyigi Province,iso,Ruyigi,-3.446207,30.2512728,True
+Q2619,KH,Banteay Meanchey,iso,Bantey Meanchey,13.7531914,102.989615,True
+Q2620,KH,Battambang,iso,Battambang,13.0286971,102.989615,True
+Q2621,KH,Kampong Cham,iso,Kampong Cham,12.0982918,105.3131185,True
+Q2622,KH,Kampong Chhnang,iso,Kampong Chhnang,12.1392352,104.5655273,True
+Q2623,KH,Kampong Speu,iso,Kampong Speu,11.6155109,104.3791912,True
+Q2624,KH,Kampong Thom,iso,Kampong Thom,12.8167485,103.8413104,False
+Q2625,KH,Kampot,iso,Kampot,10.7325351,104.3791912,True
+Q2626,KH,Kandal,iso,Kandal,11.2237383,105.1258955,True
+Q2627,KH,Kep,iso,Kep,10.536089,104.3559158,True
+Q2628,KH,Koh Kong,iso,Koh Kong,11.5762804,103.3587288,True
+Q2629,KH,Kratie,iso,Kratie,12.5043608,105.9699878,True
+Q2630,KH,Mondulkiri,iso,Mondulkiri,12.7879427,107.1011931,True
+Q2631,KH,Oddar Meanchey,iso,Oddar Meanchey,14.1609738,103.8216261,True
+Q2632,KH,Pailin,iso,Pailin,12.9092962,102.6675575,True
+Q2633,KH,Phnom Penh,iso,Phnom Penh,11.5563738,104.9282099,True
+Q2634,KH,Preah Vihear,iso,Preah Vihear,14.0085797,104.8454619,True
+Q2635,KH,Prey Veng,iso,Prey Veng,11.3802442,105.5005483,True
+Q2636,KH,Pursat,iso,Pursat,12.2720956,103.7289167,True
+Q2637,KH,Ratanakiri,iso,Ratanakiri Province,13.8576607,107.1011931,True
+Q2638,KH,Siem Reap,iso,Siem Reap,13.330266,104.1001326,True
+Q2639,KH,Sihanoukville,iso,Preah Sihanouk,10.7581899,103.8216261,True
+Q2640,KH,Stung Treng,iso,Stung Treng,13.576473,105.9699878,True
+Q2641,KH,Svay Rieng,iso,Svay Rieng,11.142722,105.8290298,True
+Q2642,KH,Takeo,iso,Takeo,10.9321519,104.798771,True
+Q2643,CM,Adamawa,iso,Adamaoua,9.3264751,12.3983853,False
+Q2645,CM,East,iso,East,39.0185336,-94.2792411,False
+Q2646,CM,Far North,iso,Far North,66.7613451,124.123753,False
+Q2647,CM,Littoral,iso,Littoral,48.4622757,-68.5178071,False
+Q2648,CM,North,iso,North,37.09024,-95.712891,False
+Q2649,CM,Northwest,iso,North-West,36.3711857,-94.1934606,False
+Q2650,CM,South,iso,South,37.631595,-97.3458409,False
+Q2651,CM,Southwest,iso,South-West,36.1908813,-95.8897448,False
+Q2652,CM,West,iso,West,37.0364989,-95.6705987,False
+Q2653,CA,Alberta,iso,Alberta,53.9332706,-116.5765035,True
+Q2654,CA,British Columbia,iso,British Columbia,53.7266683,-127.6476205,True
+Q2655,CA,Manitoba,iso,Manitoba,53.7608608,-98.8138762,True
+Q2656,CA,New Brunswick,iso,New Brunswick,46.5653163,-66.4619164,True
+Q2657,CA,Newfoundland and Labrador,iso,Newfoundland and Labrador,53.1355091,-57.6604364,True
+Q2658,CA,Northwest Territories,iso,Northwest Territories,64.8255441,-124.8457334,True
+Q2659,CA,Nova Scotia,iso,Nova Scotia,44.6819866,-63.744311,True
+Q2660,CA,Nunavut,iso,Nunavut,70.2997711,-83.107577,True
+Q2661,CA,Ontario,iso,Ontario,51.253775,-85.323214,True
+Q2662,CA,Prince Edward Island,iso,Prince Edward Island,46.510712,-63.4168136,True
+Q2663,CA,Quebec,name,Quebec,52.9399159,-73.5491361,True
+Q2664,CA,Saskatchewan,iso,Saskatchewan,52.9399159,-106.4508639,True
+Q2665,CA,Yukon,iso,Yukon,35.5067215,-97.7625441,False
+Q2667,CV,Boa Vista,iso,Boa Vista,38.743466,-120.7304297,False
+Q2668,CV,Brava,iso,Brava,40.9897778,-73.6835715,False
+Q2669,CV,Maio Municipality,iso,Maio,15.2003098,-23.1679793,True
+Q2670,CV,Mosteiros,iso,Mosteiros,37.8904348,-25.8207556,False
+Q2671,CV,Paul,iso,Paul,37.0625,-95.677068,False
+Q2672,CV,Porto Novo,iso,Porto Novo,6.4968574,2.6288523,False
+Q2673,CV,Praia,iso,Praia,14.93305,-23.5133267,True
+Q2674,CV,Ribeira Brava Municipality,iso,Ribeira Brava,16.6070739,-24.2033843,True
+Q2675,CV,Ribeira Grande,iso,Ribeira Grande,37.8210369,-25.5148137,False
+Q2676,CV,Ribeira Grande de Santiago,iso,Ribeira Grande de Santiago,14.9830298,-23.6561725,True
+Q2677,CV,Sal,iso,Sal,26.5958122,-80.2045083,False
+Q2678,CV,Santa Catarina,iso,Santa Catarina,-27.2423392,-50.2188556,False
+Q2679,CV,Santa Catarina do Fogo,iso,Santa Catarina do Fogo,14.9309104,-24.3222577,True
+Q2680,CV,Santa Cruz,iso,Santa Cruz,36.9741171,-122.0307963,False
+Q2681,CV,São Domingos,iso,São Domingos,15.0286165,-23.563922,True
+Q2682,CV,São Filipe,iso,São Filipe,14.8951679,-24.4945636,True
+Q2683,CV,São Lourenço dos Órgãos,name,São Lourenço dos Órgãos,15.0537841,-23.6085612,True
+Q2684,CV,São Miguel,iso,São Miguel,37.780411,-25.4970466,False
+Q2685,CV,São Vicente,iso,São Vicente,-23.9607157,-46.3962022,False
+Q2687,CV,Tarrafal,iso,Tarrafal,15.2760578,-23.7484077,True
+Q2688,CV,Tarrafal de São Nicolau,iso,Tarrafal de São Nicolau,16.5636498,-24.354942,True
+Q2689,CF,Bamingui-Bangoran Prefecture,iso,Bamingui-Bangoran,8.2733455,20.7122465,True
+Q2690,CF,Bangui,iso,Bangui,4.3946735,18.5581899,True
+Q2691,CF,Basse-Kotto Prefecture,iso,Basse-Kotto,4.8719319,21.2845025,True
+Q2692,CF,Haut-Mbomou Prefecture,iso,Haut-Mbomou,6.2537134,25.4733554,True
+Q2693,CF,Haute-Kotto Prefecture,iso,Haute-Kotto,7.7964379,23.3823545,True
+Q2694,CF,Kémo Prefecture,iso,Kémo,5.8867794,19.3783206,True
+Q2695,CF,Lobaye Prefecture,iso,Lobaye,4.3525981,17.4795173,True
+Q2697,CF,Mbomou Prefecture,iso,Mbomou,5.556837,23.7632828,True
+Q2698,CF,Nana-Grébizi Economic Prefecture,iso,Nana-Grébizi,7.1848607,19.3783206,True
+Q2699,CF,Nana-Mambéré Prefecture,iso,Nana-Mambéré,5.6932135,15.2194808,True
+Q2700,CF,Ombella-M'Poko Prefecture,iso,Ombella-M'Poko,5.1188825,18.4276047,True
+Q2701,CF,Ouaka Prefecture,iso,Ouaka,6.3168216,20.7122465,True
+Q2702,CF,Ouham Prefecture,iso,Ouham,7.090911,17.668887,True
+Q2703,CF,Ouham-Pendé Prefecture,name,Ouham-Pendé,6.4850984,16.1580937,True
+Q2704,CF,Sangha-Mbaéré,name,Sangha-Mbaéré,3.4368607,16.3463791,True
+Q2705,CF,Vakaga Prefecture,iso,Vakaga,9.5113296,22.2384017,True
+Q2706,TD,Bahr el Gazel,iso,Bahr el Gazel,14.7702266,16.912251,True
+Q2707,TD,Batha,iso,Batha,13.9371775,18.4276047,True
+Q2708,TD,Borkou,iso,Borkou,17.8688845,18.8076195,True
+Q2709,TD,Chari-Baguirmi,iso,Chari-Baguirmi,11.4618626,15.2446394,True
+Q2710,TD,Ennedi-Est,iso,Ennedi-Est,16.3420496,23.0011989,True
+Q2711,TD,Ennedi-Ouest,iso,Ennedi-Ouest,18.977563,21.8568586,True
+Q2712,TD,Guéra,iso,Guéra,11.1219015,18.4276047,True
+Q2713,TD,Hadjer-Lamis,iso,Hadjer-Lamis,12.4577273,16.7234639,True
+Q2714,TD,Kanem,iso,Kanem,14.8781262,15.4068079,True
+Q2715,TD,Lac,iso,Lac,13.6915377,14.1001326,True
+Q2716,TD,Logone Occidental,iso,Logone Occidental,8.759676,15.876004,True
+Q2717,TD,Logone Oriental,iso,Logone Oriental,8.3149949,16.3463791,True
+Q2718,TD,Mandoul,iso,Mandoul,8.603091,17.4795173,True
+Q2719,TD,Mayo-Kebbi Est,iso,Mayo-Kebbi Est,9.4046039,14.8454619,False
+Q2720,TD,Mayo-Kebbi Ouest,iso,Mayo-Kebbi Ouest,10.4113014,15.5943388,False
+Q2721,TD,Moyen-Chari,iso,Moyen-Chari,9.0639998,18.4276047,True
+Q2722,TD,N'Djamena,iso,N'Djamena Region,12.1348457,15.0557415,True
+Q2723,TD,Ouaddaï,iso,Ouaddaï,13.748476,20.7122465,True
+Q2724,TD,Salamat,iso,Salamat,10.9691601,20.7122465,True
+Q2725,TD,Sila,iso,Sila,12.13074,21.2845025,True
+Q2726,TD,Tandjilé,iso,Tandjilé,9.6625729,16.7234639,True
+Q2727,TD,Tibesti,iso,Tibesti,21.3650031,16.912251,True
+Q2728,TD,Wadi Fira,iso,Wadi Fira,15.0892416,21.4752851,True
+Q2730,CL,Antofagasta,name,RegiÃ³n de Antofagasta,-23.8369104,-69.2877535,True
+Q2731,CL,Arica y Parinacota,name,RegiÃ³n de Arica y Parinacota,-18.5940485,-69.4784541,True
+Q2732,CL,Atacama,name,RegiÃ³n de Atacama,-27.5660558,-70.050314,True
+Q2734,CL,Coquimbo,name,RegiÃ³n de Coquimbo,-30.540181,-70.8119953,True
+Q2735,CL,La Araucanía,name,RegiÃ³n de La AraucanÃ­a,-38.948921,-72.331113,True
+Q2737,CL,Los Lagos,name,RegiÃ³n de Los Lagos,-41.9197779,-72.1416132,True
+Q2738,CL,Los Ríos,name,RegiÃ³n de Los RÃ­os,-40.2310217,-72.331113,True
+Q2740,CL,Maule,name,RegiÃ³n del Maule,-35.5163603,-71.5723953,True
+Q2741,CL,Ñuble,name,RegiÃ³n de Ãuble,-36.7225743,-71.7622481,True
+Q2742,CL,Región Metropolitana de Santiago,name,RegiÃ³n Metropolitana de Santiago,-33.4375545,-70.6504896,True
+Q2743,CL,Tarapacá,name,RegiÃ³n de TarapacÃ¡,-20.2028799,-69.2877535,True
+Q2744,CL,Valparaíso,name,RegiÃ³n de ValparaÃ­so,-33.047238,-71.6126885,True
+Q2745,CN,Anhui,name,Anhui Province,30.6006773,117.9249002,True
+Q2746,CN,Beijing,name,Beijing Municipality,39.9041999,116.4073963,True
+Q2747,CN,Chongqing,name,Chongqing Municipality,29.4315861,106.912251,True
+Q2748,CN,Fujian,name,Fujian Province,26.4836842,117.9249002,True
+Q2749,CN,Gansu,name,Gansu Province,35.7518326,104.2861116,True
+Q2751,CN,Guangxi Zhuang,name,Guangxi Zhuang Autonomous Region,23.7247599,108.8076195,True
+Q2752,CN,Guizhou,name,Guizhou Province,26.8429645,107.2902839,True
+Q2753,CN,Hainan,name,Hainan Province,19.5663947,109.949686,True
+Q2754,CN,Hebei,name,Hebei Province,37.8956594,114.9042208,True
+Q2755,CN,Heilongjiang,name,Heilongjiang Province,47.1216472,128.738231,True
+Q2756,CN,Henan,name,Henan Province,34.2904302,113.3823545,True
+Q2757,CN,Hong Kong SAR,alt name,Hong Kong Special Administrative Region,22.3193039,114.1693611,True
+Q2758,CN,Hubei,name,Hubei Province,30.7378118,112.2384017,True
+Q2759,CN,Hunan,name,Hunan Province,27.3683009,109.2819347,True
+Q2760,CN,Inner Mongolia,name,Inner Mongolia Autonomous Region,43.37822,115.0594815,True
+Q2761,CN,Jiangsu,name,Jiangsu Province,33.1401715,119.7889248,True
+Q2762,CN,Jiangxi,name,Jiangxi Province,27.0874564,114.9042208,True
+Q2763,CN,Jilin,name,Jilin Province,43.837883,126.549572,True
+Q2764,CN,Liaoning,name,Liaoning Province,41.9436543,122.5290376,True
+Q2767,CN,Qinghai,name,Qinghai Province,35.744798,96.4077358,True
+Q2768,CN,Shaanxi,name,Shaanxi Province,35.3939908,109.1880047,True
+Q2769,CN,Shandong,name,Shandong Province,37.8006064,-122.2699918,False
+Q2770,CN,Shanghai,name,Shanghai Municipality,31.230416,121.473701,True
+Q2771,CN,Shanxi,name,Shanxi Province,37.2425649,111.8568586,True
+Q2772,CN,Sichuan,name,Sichuan Province,30.2638032,102.8054753,True
+Q2773,CN,Taiwan,name,Taiwan Province,23.69781,120.960515,True
+Q2774,CN,Tianjin,name,Tianjin Municipality,39.1252291,117.0153435,True
+Q2777,CN,Yunnan,name,Yunnan Province,24.4752847,101.3431058,True
+Q2778,CN,Zhejiang,name,Zhejiang Province,29.1416432,119.7889248,True
+Q2779,CO,Amazonas,iso,Amazonas,-1.4429123,-71.5723953,True
+Q2780,CO,Antioquia,iso,Antioquia,7.1986064,-75.3412179,True
+Q2781,CO,Arauca,iso,Arauca,6.547306,-71.0022311,True
+Q2782,CO,"Archipiélago de San Andrés, Providencia y Santa Catalina",iso,"Archipiélago de San Andrés, Providencia y Santa Catalina",12.5567324,-81.7185253,True
+Q2783,CO,Atlántico,iso,Atlántico,10.6966159,-74.8741045,True
+Q2784,CO,Bogotá D.C.,iso,Bogota Capital District,4.2820415,-74.5027042,False
+Q2785,CO,Bolívar,iso,Bolívar,8.6704382,-74.0300122,True
+Q2786,CO,Boyacá,iso,Boyacá,5.454511,-73.362003,True
+Q2787,CO,Caldas,iso,Caldas,5.29826,-75.2479061,True
+Q2788,CO,Caquetá,iso,Caquetá,0.869892,-73.8419063,True
+Q2789,CO,Casanare,iso,Casanare,5.7589269,-71.5723953,True
+Q2790,CO,Cauca,iso,Cauca,2.7049813,-76.8259652,True
+Q2791,CO,Cesar,iso,Cesar,9.3372948,-73.6536209,True
+Q2792,CO,Chocó,iso,Chocó,5.2528033,-76.8259652,True
+Q2793,CO,Córdoba,iso,Córdoba,8.049293,-75.57405,True
+Q2794,CO,Cundinamarca,iso,Cundinamarca,5.026003,-74.0300122,True
+Q2795,CO,Guainía,iso,Guainía,2.585393,-68.5247149,True
+Q2796,CO,Guaviare,iso,Guaviare,2.043924,-72.331113,True
+Q2797,CO,Huila,iso,Huila,2.5359349,-75.5276699,True
+Q2798,CO,La Guajira,iso,La Guajira,11.3547743,-72.5204827,True
+Q2799,CO,Magdalena,iso,Magdalena,10.4113014,-74.4056612,True
+Q2800,CO,Meta,iso,Meta,39.7673258,-104.9753595,False
+Q2801,CO,Nariño,iso,Nariño,1.289151,-77.35794,True
+Q2802,CO,Norte de Santander,iso,Norte de Santander,7.9462831,-72.8988069,True
+Q2803,CO,Putumayo,iso,Putumayo,0.4359506,-75.5276699,True
+Q2804,CO,Quindío,iso,Quindío,4.4610191,-75.667356,True
+Q2805,CO,Risaralda,iso,Risaralda,5.3158475,-75.9927652,True
+Q2806,CO,Santander,iso,Santander,6.6437076,-73.6536209,True
+Q2807,CO,Sucre,iso,Sucre,8.813977,-74.723283,True
+Q2808,CO,Tolima,iso,Tolima,4.0925168,-75.1545381,True
+Q2809,CO,Valle del Cauca,iso,Valle del Cauca,3.8008893,-76.6412712,True
+Q2810,CO,Vaupés,iso,Vaupés,0.8553561,-70.8119953,True
+Q2811,CO,Vichada,iso,Vichada,4.4234452,-69.2877535,True
+Q2812,KM,Anjouan,iso,Anjouan,-12.2138145,44.4370606,True
+Q2813,KM,Grande Comore,iso,Grande Comore,-11.7167338,43.3680788,True
+Q2814,KM,Mohéli,iso,Moheli,-12.3377376,43.7334089,True
+Q2815,CG,Bouenza Department,iso,Bouenza,-4.1128079,13.7289167,True
+Q2816,CG,Brazzaville,iso,Brazzaville,-4.2633597,15.2428853,True
+Q2817,CG,Cuvette Department,iso,Cuvette,-0.2877446,16.1580937,True
+Q2818,CG,Cuvette-Ouest Department,iso,Cuvette-Ouest,0.144755,14.4723301,True
+Q2819,CG,Kouilou Department,iso,Kouilou,-4.1428413,11.8891721,True
+Q2820,CG,Lékoumou Department,iso,Likouala,-3.170382,13.3587288,False
+Q2821,CG,Likouala Department,iso,Lékoumou,2.043924,17.668887,False
+Q2822,CG,Niari Department,iso,Niari,-3.18427,12.2547919,True
+Q2823,CG,Plateaux Department,iso,Plateaux,-2.0680088,15.4068079,True
+Q2824,CG,Pointe-Noire,iso,Pointe-Noire,-4.7691623,11.866362,True
+Q2825,CG,Pool Department,iso,Pool,-3.7762628,14.8454619,True
+Q2826,CG,Sangha Department,iso,Sangha,1.4662328,15.4068079,True
+Q2827,CR,Alajuela Province,iso,Provincia Alajuela,10.391583,-84.4382721,True
+Q2828,CR,Guanacaste Province,iso,Provincia Guanacaste,10.6267399,-85.4436706,True
+Q2829,CR,Heredia Province,iso,Provincia Heredia,10.473523,-84.0167423,True
+Q2830,CR,Limón Province,iso,Provincia Limón,9.9896398,-83.0332417,True
+Q2831,CR,Provincia de Cartago,iso,Provincia Cartago,9.8622311,-83.9214187,True
+Q2832,CR,Puntarenas Province,iso,Provincia Puntarenas,9.2169531,-83.336188,True
+Q2833,CR,San José Province,iso,Provincia San José,9.9129727,-84.0768294,True
+Q2839,CI,Comoé District,name,Comoe,5.552793,-3.2583626,True
+Q2844,CI,Gôh-Djiboua District,name,Goh-Djiboua,5.8711393,-5.5617279,True
+Q2851,CI,Montagnes District,name,Montagnes,7.3762373,-7.4381355,True
+Q2855,CI,Sassandra-Marahoué District,name,Sassandra-Marahoue,6.8803348,-6.2375947,True
+Q2861,CI,Woroba District,name,Woroba,8.2491372,-6.9209135,True
+Q2864,CI,Zanzan Region,name,Zanzan,8.8207904,-3.4195527,True
+Q2865,HR,Bjelovar-Bilogora,iso,Bjelovar-Bilogora,45.8987972,16.8423093,True
+Q2866,HR,Brod-Posavina,iso,Brod-Posavina,45.2637951,17.3264562,True
+Q2867,HR,Dubrovnik-Neretva,iso,Dubrovnik-Neretva,43.0766588,17.5268471,True
+Q2868,HR,Istria,iso,Istria,45.1286455,13.901542,True
+Q2869,HR,Karlovac,iso,Karlovac,45.2613352,15.52542016,True
+Q2870,HR,Koprivnica-Križevci,iso,Koprivnica-Križevci,46.1568919,16.8390826,True
+Q2871,HR,Krapina-Zagorje,iso,Krapina-Zagorje,46.1013393,15.8809693,True
+Q2872,HR,Lika-Senj,iso,Lika-Senj,44.6192218,15.4701608,True
+Q2873,HR,Međimurje,iso,Međimurje,46.3766644,16.4213298,True
+Q2874,HR,Osijek-Baranja,iso,Osijek-Baranja,45.5576428,18.3942141,True
+Q2875,HR,Požega-Slavonia,iso,Požega-Slavonia,45.3417868,17.8114359,True
+Q2876,HR,Primorje-Gorski Kotar,iso,Primorje-Gorski Kotar,45.3173996,14.8167466,True
+Q2877,HR,Šibenik-Knin,iso,Šibenik-Knin,43.9281485,16.1037694,True
+Q2878,HR,Sisak-Moslavina,iso,Sisak-Moslavina,45.3837926,16.5380994,True
+Q2879,HR,Split-Dalmatia,iso,Split-Dalmatia,43.5240328,16.8178377,True
+Q2880,HR,Varaždin,iso,Varaždin,46.2317473,16.3360559,True
+Q2881,HR,Virovitica-Podravina,iso,Virovitica-Podravina,45.6557985,17.7932472,True
+Q2882,HR,Vukovar-Syrmia,iso,Vukovar-Syrmia,45.1773552,18.8053527,True
+Q2883,HR,Zadar,iso,Zadar County,44.146939,15.6164943,True
+Q2884,HR,Zagreb,iso,Zagreb County,45.8706612,16.395491,True
+Q2885,HR,Zagreb,iso,City of Zagreb,45.8150108,15.9819189,True
+Q2886,CU,Artemisa Province,iso,Artemisa,22.7522903,-82.9931607,True
+Q2887,CU,Camagüey Province,iso,Camagüey,21.2167247,-77.7452081,True
+Q2888,CU,Ciego de Ávila Province,iso,Ciego de Avila,21.9329515,-78.5660852,True
+Q2889,CU,Cienfuegos Province,iso,Cienfuegos,22.2379783,-80.365865,True
+Q2890,CU,Granma Province,iso,Granma,20.3844902,-76.6412712,True
+Q2891,CU,Guantánamo Province,iso,Guantánamo,20.1455917,-74.8741045,True
+Q2892,CU,Havana Province,iso,Havana,23.0540698,-82.345189,True
+Q2893,CU,Holguín Province,iso,Holguín,20.7837893,-75.8069082,True
+Q2894,CU,Isla de la Juventud,iso,Isle of Youth,21.7084737,-82.8220232,True
+Q2895,CU,Las Tunas Province,iso,Las Tunas,21.0605162,-76.9182097,True
+Q2896,CU,Matanzas Province,iso,Matanzas,22.5767123,-81.3399414,True
+Q2897,CU,Mayabeque Province,iso,Mayabeque,22.8926529,-81.9534815,True
+Q2898,CU,Pinar del Río Province,iso,Pinar del Rio,22.4076256,-83.8473015,True
+Q2899,CU,Sancti Spíritus Province,iso,Sancti Spiritus,21.9938214,-79.4703885,True
+Q2900,CU,Santiago de Cuba Province,iso,Santiago de Cuba,20.2397682,-75.9927652,True
+Q2901,CU,Villa Clara Province,iso,Villa Clara,22.4937204,-79.9192702,True
+Q2902,CY,Famagusta District (Mağusa),iso,Famagusta,35.2857023,33.8411288,True
+Q2903,CY,Kyrenia District (Keryneia),iso,Kyrenia,35.299194,33.2363246,True
+Q2904,CY,Larnaca District (Larnaka),iso,Larnaca,34.8507206,33.4831906,True
+Q2905,CY,Limassol District (Leymasun),iso,Limassol,34.7071301,33.0226174,True
+Q2906,CY,Nicosia District (Lefkoşa),iso,Nicosia,35.1855659,33.3822764,True
+Q2907,CY,Paphos District (Pafos),iso,Paphos,34.9164594,32.4920088,True
+Q2931,CZ,Jihočeský kraj,iso,Jihočeský kraj,48.9457789,14.4416055,True
+Q2932,CZ,Jihomoravský kraj,iso,Jihomoravský kraj,48.9544528,16.7676899,True
+Q2934,CZ,Karlovarský kraj,iso,Karlovarský kraj,50.1435,12.7501899,True
+Q2940,CZ,Kraj Vysočina,iso,Kraj Vysočina,49.4490052,15.6405934,True
+Q2941,CZ,Královéhradecký kraj,iso,Královéhradecký kraj,50.3512484,15.7976459,True
+Q2945,CZ,Liberecký kraj,iso,Liberecký kraj,50.659424,14.7632424,True
+Q2950,CZ,Moravskoslezský kraj,iso,Moravskoslezský kraj,49.7305327,18.2332637,True
+Q2956,CZ,Olomoucký kraj,iso,Olomoucký kraj,49.6586549,17.0811406,True
+Q2960,CZ,Pardubický kraj,iso,Pardubický kraj,49.9444479,16.2856916,True
+Q2966,CZ,Plzeňský kraj,iso,Plzeňský kraj,49.4134812,13.3157246,True
+Q2970,CZ,"Praha, Hlavní město",iso,Hlavní město Praha,50.0755381,14.4378005,True
+Q2980,CZ,Středočeský kraj,iso,Středočeský kraj,49.8782223,14.9362955,True
+Q2989,CZ,Ústecký kraj,iso,Ústecký kraj,50.6119037,13.7870086,True
+Q2996,CZ,Zlínský kraj,iso,Zlínský kraj,49.2162296,17.7720353,True
+Q2998,CD,Bas-Uélé,iso,Lower Uele,3.9901009,24.9042208,True
+Q2999,CD,Équateur,iso,Équateur,-1.831239,-78.183406,False
+Q3000,CD,Haut-Katanga,iso,Haut-Katanga,-10.4102075,27.5495846,True
+Q3001,CD,Haut-Lomami,iso,Haut-Lomami,-7.7052752,24.9042208,True
+Q3002,CD,Haut-Uélé,iso,Upper Uele,3.5845154,28.299435,True
+Q3003,CD,Ituri,iso,Ituri,1.5957682,29.4179324,True
+Q3004,CD,Kasaï,iso,Kasai,-5.0471979,20.7122465,True
+Q3005,CD,Kasaï Central,iso,Central Kasai,-8.4404591,20.4165934,False
+Q3006,CD,Kasaï Oriental,iso,Kasai-Oriental,-6.033623,23.5728501,True
+Q3007,CD,Kinshasa,iso,Kinshasa,-4.4419311,15.2662931,True
+Q3008,CD,Kongo Central,iso,Kongo-Central,-5.2365685,13.914399,True
+Q3009,CD,Kwango,iso,Kwango,-6.4337409,17.668887,True
+Q3010,CD,Kwilu,iso,Kwilu,-5.1188825,18.4276047,True
+Q3011,CD,Lomami,iso,Lomami,-6.1453931,24.524264,True
+Q3012,CD,Lualaba,iso,Lualaba,-10.4808698,25.6297816,True
+Q3013,CD,Mai-Ndombe,iso,Mai-Ndombe,-2.6357434,18.4276047,True
+Q3014,CD,Maniema,iso,Maniema,-3.0730929,26.0413889,True
+Q3015,CD,Mongala,iso,Mongala,1.9962324,21.4752851,True
+Q3016,CD,Nord-Kivu,iso,North Kivu,-0.7917729,29.0459927,True
+Q3017,CD,Nord-Ubangi,iso,Nord-Ubangi,3.7878726,21.4752851,True
+Q3018,CD,Sankuru,iso,Sankuru,-2.8437453,23.3823545,True
+Q3019,CD,Sud-Kivu,iso,South Kivu,-3.011658,28.299435,True
+Q3020,CD,Sud-Ubangi,iso,Sud-Ubangi,3.2299942,19.1880047,True
+Q3021,CD,Tanganyika,iso,Tanganyika,-6.2740118,27.9249002,True
+Q3022,CD,Tshopo,iso,Tshopo,0.5455462,24.9042208,True
+Q3023,CD,Tshuapa,iso,Tshuapa,-0.9903023,23.0288844,True
+Q3024,DK,Capital Region of Denmark,iso,Hovedstaden,55.6751812,12.5493261,True
+Q3025,DK,Central Denmark Region,iso,Midtjylland,56.302139,9.302777,True
+Q3026,DK,North Denmark Region,iso,Nordjylland,56.8307416,9.4930527,True
+Q3027,DK,Region of Southern Denmark,iso,Syddanmark,55.3307714,9.0924903,True
+Q3028,DK,Region Zealand,iso,Sjælland,55.4632518,11.7214979,True
+Q3029,DJ,Ali Sabieh Region,iso,Ali Sabieh,11.1928973,42.941698,True
+Q3030,DJ,Arta Region,iso,Arta,11.5255528,42.8479474,True
+Q3031,DJ,Dikhil Region,iso,Dikhil,11.1054336,42.3704744,True
+Q3032,DJ,Djibouti,iso,Djibouti,11.825138,42.590275,False
+Q3033,DJ,Obock Region,iso,Obock,12.3895691,43.0194897,True
+Q3034,DJ,Tadjourah Region,iso,Tadjourah,11.9338885,42.3938375,True
+Q3039,DM,Saint Joseph Parish,iso,Saint Joseph,39.0222712,-94.7176504,False
+Q3040,DM,Saint Luke Parish,iso,Saint Luke,42.1051363,-80.0570722,False
+Q3043,DM,Saint Paul Parish,iso,Saint Paul,38.86146,-90.7435619,False
+Q3044,DM,Saint Peter Parish,iso,Saint Peter,40.4524194,-80.0085056,False
+Q3045,DO,Azua Province,iso,Azua,18.4552709,-70.7380928,True
+Q3046,DO,Baoruco Province,iso,Bahoruco,18.4879898,-71.4182249,True
+Q3047,DO,Barahona Province,iso,Barahona,18.2139066,-71.1043759,True
+Q3048,DO,Dajabón Province,iso,Dajabón,19.5499241,-71.7086514,True
+Q3049,DO,Distrito Nacional,iso,Distrito Nacional,18.4860575,-69.9312117,True
+Q3050,DO,Duarte Province,iso,Duarte,19.2090823,-70.0270004,True
+Q3051,DO,El Seibo Province,iso,El Seybo,18.7658496,-69.040668,True
+Q3052,DO,Espaillat Province,iso,Espaillat,19.6277658,-70.2786775,True
+Q3053,DO,Hato Mayor Province,iso,Hato Mayor,18.7635799,-69.2557637,True
+Q3054,DO,Hermanas Mirabal Province,iso,Hermanas,19.3747559,-70.3513235,True
+Q3055,DO,Independencia,iso,Independencia,32.6335748,-115.4289294,False
+Q3056,DO,La Altagracia Province,iso,La Altagracia,18.5850236,-68.6201072,True
+Q3057,DO,La Romana Province,iso,La Romana,18.4310271,-68.9837373,True
+Q3058,DO,La Vega Province,iso,La Vega,19.2211554,-70.5288753,True
+Q3059,DO,María Trinidad Sánchez Province,iso,María Trinidad Sánchez,19.3734597,-69.8514439,True
+Q3060,DO,Monseñor Nouel Province,iso,Monseñor Nouel,18.9215234,-70.3836815,True
+Q3061,DO,Monte Cristi Province,iso,Monte Cristi,19.7396899,-71.4433984,True
+Q3062,DO,Monte Plata Province,iso,Monte Plata,18.8080878,-69.7869146,True
+Q3063,DO,Pedernales Province,iso,Pedernales,17.8537626,-71.3303209,True
+Q3064,DO,Peravia Province,iso,Peravia,18.2786594,-70.3335887,True
+Q3065,DO,Puerto Plata Province,iso,Puerto Plata,19.7543225,-70.8332847,True
+Q3066,DO,Samaná Province,iso,Samaná,19.2058371,-69.3362949,True
+Q3067,DO,San Cristóbal Province,iso,San Cristóbal,18.4180414,-70.1065849,True
+Q3068,DO,San José de Ocoa Province,iso,San José de Ocoa,18.543858,-70.5041816,True
+Q3069,DO,San Juan Province,iso,San Juan,-31.5287127,-68.5360403,False
+Q3070,DO,San Pedro de Macorís,iso,San Pedro de Macorís,18.46266,-69.3051234,True
+Q3071,DO,Sánchez Ramírez Province,iso,Sánchez Ramírez,19.052706,-70.1492264,True
+Q3072,DO,Santiago Province,iso,Santiago,-33.45,-70.6667,False
+Q3073,DO,Santiago Rodríguez Province,iso,Santiago Rodríguez,19.4713181,-71.3395801,True
+Q3074,DO,Santo Domingo Province,iso,Santo Domingo,18.5104253,-69.8404054,True
+Q3075,DO,Valverde Province,iso,Valverde,19.5881221,-70.980331,True
+Q3076,EC,Azuay,iso,Azuay,-2.8943068,-78.9968344,True
+Q3077,EC,Bolívar,iso,Bolívar,-1.7095828,-79.0450429,True
+Q3078,EC,Cañar,iso,Cañar,-2.5589315,-78.9388191,True
+Q3079,EC,Carchi,iso,Carchi,0.5026912,-77.9042521,True
+Q3081,EC,Cotopaxi,name,Cotopaxi,-0.8384206,-78.6662678,True
+Q3082,EC,El Oro,iso,El Oro,-3.2592413,-79.9583541,True
+Q3083,EC,Esmeraldas,iso,Esmeraldas,0.9681789,-79.6517202,True
+Q3084,EC,Galápagos,iso,Galápagos,-0.9537691,-90.9656019,True
+Q3085,EC,Guayas,iso,Guayas,-1.9574839,-79.9192702,True
+Q3086,EC,Imbabura,iso,Imbabura,0.3499768,-78.1260129,True
+Q3087,EC,Loja,iso,Loja,-3.99313,-79.20422,True
+Q3088,EC,Los Ríos,iso,Los Ríos,-1.0230607,-79.4608897,True
+Q3089,EC,Manabí,iso,Manabi,-1.0543434,-80.452644,True
+Q3090,EC,Morona-Santiago,iso,Morona Santiago,-2.3051062,-78.1146866,True
+Q3091,EC,Napo,iso,Napo,-0.9955964,-77.8129684,True
+Q3092,EC,Orellana,name,Orellana,-0.4545163,-76.9950286,True
+Q3093,EC,Pastaza,iso,Pastaza,-1.4882265,-78.0031057,True
+Q3094,EC,Pichincha,iso,Pichincha,-0.1464847,-78.4751945,True
+Q3095,EC,Santa Elena,name,Santa Elena,-2.2267105,-80.859499,True
+Q3096,EC,Santo Domingo de los Tsáchilas,name,Santo Domingo de los Tsáchilas,-0.2521882,-79.1879383,True
+Q3097,EC,Sucumbíos,iso,Sucumbios,0.0889231,-76.8897557,True
+Q3098,EC,Tungurahua,iso,Tungurahua,-1.2635284,-78.5660852,True
+Q3099,EC,Zamora Chinchipe,iso,Zamora Chinchipe,-4.0655892,-78.9503525,True
+Q3100,EG,Alexandria,iso,Alexandria Governorate,30.8760568,29.742604,True
+Q3101,EG,Aswan,iso,Aswan Governorate,23.6966498,32.7181375,True
+Q3102,EG,Asyut,iso,Asyut Governorate,27.2133831,31.4456179,True
+Q3103,EG,Beheira,iso,Beheira Governorate,30.8480986,30.3435506,True
+Q3104,EG,Beni Suef,iso,Beni Suef Governorate,28.8938837,31.4456179,True
+Q3105,EG,Cairo,iso,Cairo Governorate,29.9537564,31.5370003,True
+Q3106,EG,Dakahlia,iso,Dakahlia Governorate,31.1656044,31.4913182,True
+Q3107,EG,Damietta,iso,Damietta Governorate,31.3625799,31.6739371,True
+Q3108,EG,Faiyum,iso,Faiyum Governorate,29.3084021,30.8428497,True
+Q3109,EG,Gharbia,iso,Gharbiyya Governorate,30.8753556,31.03351,True
+Q3110,EG,Giza,iso,Giza Governorate,28.7666216,29.2320784,True
+Q3111,EG,Ismailia,iso,Ismailia Governorate,30.5830934,32.2653887,True
+Q3112,EG,Kafr el-Sheikh,iso,Kafr el-Sheikh Governorate,31.3085444,30.8039474,True
+Q3113,EG,Luxor,iso,Luxor Governate,25.3944444,32.4920088,True
+Q3114,EG,Matrouh,iso,Matrouh Governorate,29.569635,26.419389,True
+Q3115,EG,Minya,iso,Minya Governate,28.284729,30.5279096,True
+Q3116,EG,Monufia,iso,Monufia Governorate,30.5972455,30.9876321,True
+Q3117,EG,New Valley,iso,New Valley Governorate,24.5455638,27.1735316,True
+Q3118,EG,North Sinai,iso,North Sinai Governorate,30.282365,33.617577,True
+Q3119,EG,Port Said,iso,Port Said Governorate,31.0758606,32.2653887,True
+Q3120,EG,Qalyubia,iso,Qalyubia Governorate,30.3292368,31.2168466,True
+Q3121,EG,Qena,iso,Qena Governorate,26.2346033,32.9888319,True
+Q3122,EG,Red Sea,iso,Red Sea Governorate,24.6826316,34.1531947,True
+Q3123,EG,Sharqia,iso,Al Sharqia Governorate,30.6730545,31.1593247,False
+Q3124,EG,Sohag,iso,Sohag Governorate,26.693834,32.174605,True
+Q3125,EG,South Sinai,iso,South Sinai Governorate,29.3101828,34.1531947,True
+Q3126,EG,Suez,iso,Suez Governorate,29.3682255,32.174605,True
+Q3127,SV,Ahuachapán Department,name,Departamento de Ahuachapán,13.8216148,-89.9253233,True
+Q3128,SV,Cabañas Department,name,Departamento de Cabañas,13.8648288,-88.7493998,True
+Q3129,SV,Chalatenango Department,name,Departamento de Chalatenango,14.1916648,-89.1705998,True
+Q3130,SV,Cuscatlán Department,name,Departamento de Cuscatlán,13.8661957,-89.0561532,True
+Q3131,SV,La Libertad Department,name,La Libertad,13.6817661,-89.3606298,True
+Q3133,SV,La Unión Department,name,Departamento de La Unión,13.4886443,-87.8942451,True
+Q3134,SV,Morazán Department,name,Departamento de Morazán,13.7682,-88.1291387,True
+Q3135,SV,San Miguel Department,name,Departamento de San Miguel,13.4451041,-88.2461183,True
+Q3136,SV,San Salvador Department,name,Departamento de San Salvador,13.7739997,-89.2086773,True
+Q3137,SV,San Vicente Department,name,San Vicente,13.5868561,-88.7493998,True
+Q3138,SV,Santa Ana Department,name,Departamento de Santa Ana,14.1461121,-89.5120084,True
+Q3139,SV,Sonsonate Department,name,Departamento de Sonsonate,13.682358,-89.6628111,True
+Q3140,SV,Usulután Department,name,Departamento de Usulután,13.4470634,-88.556531,True
+Q3141,GQ,Annobón Province,iso,Annobón,-1.4268782,5.6352801,True
+Q3142,GQ,Bioko Norte Province,iso,Bioko Norte,3.6595072,8.7921836,True
+Q3143,GQ,Bioko Sur Province,iso,Bioko Sur,3.4209785,8.6160674,True
+Q3144,GQ,Centro Sur Province,iso,Centro Sur Province,1.3436084,10.439656,True
+Q3146,GQ,Kié-Ntem Province,iso,Kié-Ntem Province,2.028093,11.0711758,True
+Q3147,GQ,Litoral Province,iso,Litoral Province,1.5750244,9.8124935,True
+Q3149,GQ,Wele-Nzas Province,iso,Wele-Nzas Province,1.4166162,11.0711758,True
+Q3150,ER,Anseba Region,iso,Anseba Region,16.4745531,37.8087693,True
+Q3151,ER,Debub Region,iso,Debub Region,14.9478692,39.1543677,True
+Q3152,ER,Gash-Barka Region,iso,Gash-Barka Region,15.4068825,37.6386622,True
+Q3153,ER,Maekel Region,iso,Maekel Region,15.3551409,38.8623683,True
+Q3154,ER,Northern Red Sea Region,iso,Northen Red Sea Region,16.2583997,38.8205454,True
+Q3155,ER,Southern Red Sea Region,iso,Southern Red Sea Region,13.5137103,41.7606472,True
+Q3156,EE,Harju County,iso,Harju maakond,59.3334239,25.2466974,True
+Q3157,EE,Hiiu County,iso,Hiiu maakond,58.9239553,22.5919468,True
+Q3158,EE,Ida-Viru County,iso,Ida-Viru maakond,59.2592663,27.4136535,True
+Q3159,EE,Järva County,iso,Järva maakond,58.8866713,25.5000624,True
+Q3160,EE,Jõgeva County,iso,Jõgeva maakond,58.7506143,26.3604878,True
+Q3161,EE,Lääne County,iso,Lääne maakond,58.9722742,23.8740834,True
+Q3162,EE,Lääne-Viru County,iso,Lääne-Viru maakond,59.3018816,26.3280312,True
+Q3163,EE,Pärnu County,iso,Pärnu maakond,58.5261952,24.4020159,True
+Q3164,EE,Põlva County,iso,Põlva maakond,58.1160622,27.2066394,True
+Q3165,EE,Rapla County,iso,Rapla maakond,58.8492625,24.7346569,True
+Q3166,EE,Saare County,iso,Saare maakond,58.4849721,22.6136408,True
+Q3167,EE,Tartu County,iso,Tartu maakond,58.4057128,26.801576,True
+Q3168,EE,Valga County,iso,Valga maakond,57.9103441,26.1601819,True
+Q3169,EE,Viljandi County,iso,Viljandi maakond,58.2821746,25.5752233,True
+Q3170,EE,Võru County,iso,Võru maakond,57.7377372,27.1398938,True
+Q3171,SZ,Hhohho District,iso,Hhohho,-26.1365662,31.3541631,True
+Q3172,SZ,Lubombo District,iso,Lubombo,-26.7851773,31.8107079,True
+Q3173,SZ,Manzini District,iso,Manzini,-26.5081999,31.3713164,True
+Q3174,SZ,Shiselweni District,iso,Shiselweni,-26.9827577,31.3541631,True
+Q3175,ET,Addis Ababa,iso,Addis Ababa,8.9806034,38.7577605,True
+Q3176,ET,Afar Region,iso,Afar,11.7559388,40.958688,True
+Q3177,ET,Amhara Region,iso,Amhara,11.3494247,37.9784585,True
+Q3178,ET,Benishangul-Gumuz Region,iso,Beneshangul Gumu,10.7802889,35.5657862,True
+Q3179,ET,Dire Dawa,iso,Dire Dawa,9.6008747,41.850142,True
+Q3180,ET,Gambela Region,iso,Gambela,7.9219687,34.1531947,True
+Q3181,ET,Harari Region,iso,Hareri,9.314866,42.1967716,True
+Q3182,ET,Oromia Region,iso,Oromia,7.5460377,40.6346851,True
+Q3183,ET,Somali Region,iso,Somali,6.6612293,43.7908453,True
+Q3184,ET,"Southern Nations, Nationalities, and Peoples' Region",iso,SNNPR,6.5156911,36.954107,True
+Q3185,ET,Tigray Region,iso,Tigray,14.0323336,38.3165725,True
+Q3189,FJ,Central Division,iso,Central,34.0440066,-118.2472738,False
+Q3190,FJ,Eastern Division,iso,Eastern,32.8094305,-117.1289937,False
+Q3198,FJ,Northern Division,iso,Northern,32.8768766,-117.2156345,False
+Q3204,FJ,Western Division,iso,Western,42.9662198,-78.7021134,False
+Q3205,FI,Åland Islands,iso,Åland Islands,60.1785247,19.9156105,True
+Q3206,FI,Central Finland,iso,Central Finland,62.5666743,25.5549445,True
+Q3207,FI,Central Ostrobothnia,iso,Keski-Pohjanmaa,63.5621735,24.0013631,True
+Q3208,FI,Finland Proper,iso,Finland Proper,60.3627914,22.4439369,True
+Q3209,FI,Kainuu,iso,Kainuu,64.3736564,28.7437475,True
+Q3210,FI,Kymenlaakso,iso,Kymenlaakso,60.780512,26.8829336,True
+Q3211,FI,Lapland,iso,Lapland,67.9222304,26.5046438,True
+Q3212,FI,North Karelia,iso,North Karelia,62.8062078,30.1553887,True
+Q3213,FI,Northern Ostrobothnia,iso,Northern Ostrobothnia,65.279493,26.2890417,True
+Q3214,FI,Northern Savonia,iso,Northern Savonia,63.08448,27.0253504,True
+Q3215,FI,Ostrobothnia,iso,Ostrobothnia,63.1181757,21.9061062,True
+Q3216,FI,Päijänne Tavastia,iso,Päijät-Häme,61.3230041,25.7322496,True
+Q3217,FI,Pirkanmaa,iso,Pirkanmaa,61.6986918,23.7895598,True
+Q3218,FI,Satakunta,iso,Satakunta,61.5932758,22.1483081,True
+Q3219,FI,South Karelia,iso,South Karelia,61.1181949,28.1024372,True
+Q3220,FI,Southern Ostrobothnia,iso,South Ostrobothnia,62.9433099,23.5285267,True
+Q3221,FI,Southern Savonia,iso,Southern Savonia,61.6945148,27.8005015,True
+Q3222,FI,Tavastia Proper,iso,Tavastia Proper,60.907015,24.3005498,True
+Q3223,FI,Uusimaa,iso,Uusimaa,60.21872,25.271621,True
+Q3235,FR,Auvergne-Rhône-Alpes,iso,Auvergne-Rhône-Alpes,45.4471431,4.3852507,True
+Q3239,FR,Bourgogne-Franche-Comté,iso,Bourgogne-Franche-Comté,47.2805127,4.9994372,True
+Q3240,FR,Bretagne,iso,Bretagne,48.2020471,-2.9326435,True
+Q3243,FR,Centre-Val de Loire,iso,Centre-Val de Loire,47.7515686,1.6750631,True
+Q3249,FR,Corse,iso,Corse,42.0396042,9.0128926,True
+Q3268,FR,Grand-Est,iso,Grand Est,48.699803,6.1878074,True
+Q3280,FR,Hauts-de-France,iso,Hauts-de-France,50.4801153,2.7937265,True
+Q3283,FR,Île-de-France,iso,Île-de-France,48.8499198,2.6370411,True
+Q3311,FR,Normandie,iso,Normandie,48.8798704,0.1712529,True
+Q3312,FR,Nouvelle-Aquitaine,iso,Nouvelle-Aquitaine,45.7087182,0.626891,True
+Q3313,FR,Occitanie,iso,Occitanie,43.8927232,3.2827625,True
+Q3318,FR,Pays-de-la-Loire,iso,Pays de la Loire,47.7632836,-0.3299687,True
+Q3319,FR,Provence-Alpes-Côte-d’Azur,iso,Provence-Alpes-Côte d'Azur,43.9351691,6.0679194,True
+Q3347,GA,Estuaire Province,iso,Estuaire,0.4432864,10.0807298,True
+Q3348,GA,Haut-Ogooué Province,iso,Haut-Ogooué,-1.4762544,13.914399,True
+Q3349,GA,Moyen-Ogooué Province,iso,Moyen-Ogooué,-0.442784,10.439656,True
+Q3350,GA,Ngounié Province,iso,Ngounié,-1.4930303,10.9807003,True
+Q3351,GA,Nyanga Province,iso,Nyanga,-2.8821033,11.1617356,True
+Q3352,GA,Ogooué-Ivindo Province,iso,Ogooué-Ivindo	,0.8818311,13.1740348,True
+Q3353,GA,Ogooué-Lolo Province,iso,Ogooué-Lolo,-0.8844093,12.4380581,True
+Q3354,GA,Ogooué-Maritime Province,iso,Ogooué-Maritime,-1.3465975,9.7232673,True
+Q3355,GA,Woleu-Ntem Province,iso,Woleu-Ntem,2.2989827,11.4466914,True
+Q3356,GM,Banjul,iso,Banjul,13.4548761,-16.5790323,True
+Q3358,GM,Lower River Division,iso,Mansakonko,13.3553306,-15.92299,True
+Q3359,GM,North Bank Division,iso,Kerewan,13.5285436,-16.0169971,True
+Q3360,GM,Upper River Division,iso,Basse,13.4257366,-14.0072348,True
+Q3362,GE,Abkhazia,iso,Abkhazia,43.0015544,41.023407,True
+Q3363,GE,Adjara,iso,Adjara,41.6005626,42.0688383,True
+Q3364,GE,Guria,iso,Guria,41.9442736,42.0458091,True
+Q3365,GE,Imereti,iso,Imereti,42.230108,42.9008664,True
+Q3366,GE,Kakheti,iso,Kakheti,41.6481602,45.6905554,True
+Q3368,GE,Kvemo Kartli,iso,Kvemo Kartli,41.4791833,44.6560451,True
+Q3369,GE,Mtskheta-Mtianeti,iso,Mtskheta-Mtianeti,42.1682185,44.6506058,True
+Q3370,GE,Racha-Lechkhumi and Kvemo Svaneti,iso,Racha-Lechkhumi and Kvemo Svaneti,42.6718873,43.0562836,True
+Q3371,GE,Samegrelo-Zemo Svaneti,iso,Samegrelo-Zemo Svaneti,42.7352247,42.1689362,True
+Q3372,GE,Samtskhe-Javakheti,iso,Samtskhe–Javakheti,41.5479296,43.27764,True
+Q3374,GE,Shida Kartli,iso,Shida Kartli,42.0756944,43.9540462,True
+Q3375,GE,Tbilisi,iso,Tbilisi,41.7151377,44.827096,True
+Q3376,DE,Baden-Württemberg,iso,Baden-Württemberg,48.6616037,9.3501336,True
+Q3377,DE,Bavaria,iso,Bayern,48.7904472,11.4978895,True
+Q3378,DE,Berlin,iso,Berlin,52.5200066,13.404954,True
+Q3379,DE,Brandenburg,iso,Brandenburg,52.4125287,12.5316444,True
+Q3380,DE,Bremen,iso,Bremen,53.0792962,8.8016936,True
+Q3381,DE,Hamburg,iso,Hamburg,53.5510846,9.9936819,True
+Q3382,DE,Hesse,iso,Hessen,50.6520515,9.1624376,True
+Q3383,DE,Lower Saxony,iso,Niedersachsen,52.6367036,9.8450766,True
+Q3384,DE,Mecklenburg-Vorpommern,iso,Mecklenburg-Vorpommern,53.6126505,12.4295953,True
+Q3385,DE,North Rhine-Westphalia,iso,Nordrhein-Westfalen,51.4332367,7.6615938,True
+Q3386,DE,Rhineland-Palatinate,iso,Rheinland-Pfalz,50.118346,7.3089527,True
+Q3387,DE,Saarland,iso,Saarland,49.3964234,7.0229607,True
+Q3388,DE,Saxony,iso,Sachsen,51.1045407,13.2017384,True
+Q3389,DE,Saxony-Anhalt,iso,Sachsen-Anhalt,51.9502649,11.6922734,True
+Q3390,DE,Schleswig-Holstein,iso,Schleswig-Holstein,54.2193672,9.6961167,True
+Q3391,DE,Thuringia,iso,Thüringen,51.0109892,10.845346,True
+Q3392,GH,Ahafo,iso,Ahafo Region,7.5821372,-2.5497463,False
+Q3393,GH,Ashanti,iso,Ashanti Region,6.7470436,-1.5208624,True
+Q3394,GH,Bono,iso,Bono Region,7.65,-2.5,True
+Q3395,GH,Bono East,iso,Bono East Region,7.75,-1.05,True
+Q3396,GH,Central,iso,Central Region,5.5,-1,True
+Q3397,GH,Eastern,iso,Eastern Region,6.5,-0.5,True
+Q3398,GH,Greater Accra,iso,Greater Accra Region,5.8142836,0.0746767,True
+Q3399,GH,North East,iso,North East Region,10.516667,-0.366667,True
+Q3400,GH,Northern,iso,Northern Region,9.5,-1,True
+Q3401,GH,Oti,iso,Oti Region,7.9,0.3,True
+Q3402,GH,Savannah,iso,Savannah Region,9.083333,-1.816667,True
+Q3403,GH,Upper East,iso,Upper East Region,10.7082499,-0.9820668,True
+Q3404,GH,Upper West,iso,Upper West Region,10.2529757,-2.1450245,True
+Q3405,GH,Volta,iso,Volta Region,6.5781373,0.4502368,True
+Q3406,GH,Western,iso,Western Region,5.5,-2.5,True
+Q3407,GH,Western North,iso,Western North Region,6.3,-2.8,True
+Q3412,GR,Attica Region,name,Attica,38.0457568,23.8584737,True
+Q3419,GR,Crete Region,name,Crete,35.240117,24.8092691,True
+Q3446,GD,Carriacou and Petite Martinique,iso,Southern Grenadine Islands,12.4785888,-61.4493842,True
+Q3450,GD,Saint John Parish,iso,Saint John,30.1118331,-90.4879916,False
+Q3451,GD,Saint Mark Parish,iso,Saint Mark,40.5881863,-73.9495701,False
+Q3453,GT,Alta Verapaz Department,iso,Alta Verapaz,15.5942883,-90.1494988,True
+Q3454,GT,Baja Verapaz Department,iso,Baja Verapaz,15.1255867,-90.3748354,True
+Q3455,GT,Chimaltenango Department,iso,Chimaltenango,14.5634787,-90.9820668,True
+Q3456,GT,Chiquimula Department,iso,Chiquimula,14.7514999,-89.4742177,True
+Q3457,GT,El Progreso Department,iso,El Progreso,14.9388732,-90.0746767,True
+Q3458,GT,Escuintla Department,iso,Escuintla,14.1910912,-90.9820668,True
+Q3459,GT,Guatemala Department,iso,Guatemala,14.5649401,-90.5257823,True
+Q3460,GT,Huehuetenango Department,iso,Huehuetenango,15.5879914,-91.6760691,True
+Q3461,GT,Izabal Department,iso,Izabal,15.4976517,-88.864698,True
+Q3462,GT,Jalapa Department,iso,Jalapa,14.6121446,-89.9626799,True
+Q3463,GT,Jutiapa Department,iso,Jutiapa,14.1930802,-89.9253233,True
+Q3464,GT,Petén Department,iso,Petén,16.912033,-90.2995785,True
+Q3465,GT,Quetzaltenango Department,iso,Quetzaltenango,14.792433,-91.714958,True
+Q3466,GT,Quiché Department,iso,Quiché,15.4983808,-90.9820668,True
+Q3467,GT,Retalhuleu Department,iso,Retalhuleu,14.5245485,-91.685788,True
+Q3468,GT,Sacatepéquez Department,iso,Sacatepéquez,14.5178379,-90.7152749,True
+Q3469,GT,San Marcos Department,iso,San Marcos,14.9309569,-91.9099238,True
+Q3470,GT,Santa Rosa Department,iso,Santa Rosa,38.4405759,-122.7037543,False
+Q3471,GT,Sololá Department,iso,Sololá,14.748523,-91.2891036,True
+Q3472,GT,Suchitepéquez Department,iso,Suchitepéquez,14.4215982,-91.4048249,True
+Q3473,GT,Totonicapán Department,iso,Totonicapán,14.9173402,-91.3613923,True
+Q3478,GN,Conakry,iso,Conakry,9.6411855,-13.5784012,True
+Q3484,GN,Faranah Prefecture,name,Faranah,9.9057399,-10.8000051,True
+Q3514,GW,Bafatá,iso,Bafatá,12.1735243,-14.652952,True
+Q3515,GW,Biombo Region,iso,Biombo,11.8529061,-15.7351171,True
+Q3516,GW,Bolama Region,iso,Bolama,11.1480591,-16.1345705,True
+Q3517,GW,Cacheu Region,iso,Cacheu,12.0551416,-16.0640179,True
+Q3518,GW,Gabú Region,iso,Gabu,11.8962488,-14.1001326,True
+Q3521,GW,Oio Region,iso,Oio,12.2760709,-15.3131185,True
+Q3522,GW,Quinara Region,iso,Quinara,11.795562,-15.1726816,True
+Q3524,GW,Tombali Region,iso,Tombali,11.3632696,-14.9856176,True
+Q3525,GY,Barima-Waini,iso,Barina-Waini,7.4882419,-59.6564494,True
+Q3526,GY,Cuyuni-Mazaruni,iso,Cuyuni-Mazaruni,6.4642141,-60.2110752,True
+Q3527,GY,Demerara-Mahaica,iso,Demerara-Mahaica,6.546426,-58.0982046,True
+Q3528,GY,East Berbice-Corentyne,iso,East Berbice-Corentyne,2.7477922,-57.4627259,True
+Q3529,GY,Essequibo Islands-West Demerara,iso,Essequibo Islands-West Demerara,6.5720132,-58.4629997,True
+Q3530,GY,Mahaica-Berbice,iso,Mahaica-Berbice,6.238496,-57.9162555,True
+Q3531,GY,Pomeroon-Supenaam,iso,Pomeroon-Supenaam,7.1294166,-58.9206295,True
+Q3532,GY,Potaro-Siparuni,iso,Potaro-Siparuni,4.7855853,-59.2879977,True
+Q3533,GY,Upper Demerara-Berbice,iso,Upper Demerara-Berbice,5.3064879,-58.1892921,True
+Q3534,GY,Upper Takutu-Upper Essequibo,iso,Upper Takutu-Upper Essequibo,2.9239595,-58.7373634,True
+Q3535,HT,Artibonite,iso,Artibonite Department,19.362902,-72.4258145,True
+Q3536,HT,Centre,iso,Centre Department,32.8370251,-96.7773882,False
+Q3537,HT,Grand'Anse,iso,Département de la Grande-Anse,12.0166667,-61.7666667,False
+Q3538,HT,Nippes,iso,Département des Nippes,18.3990735,-73.4180211,True
+Q3539,HT,Nord,iso,Département du Nord,43.190526,-89.437921,False
+Q3540,HT,Nord-Est,iso,Nord-Est Department,19.4889723,-71.8571331,True
+Q3541,HT,Nord-Ouest,iso,Nord-Ouest Department,19.8374009,-73.0405277,True
+Q3542,HT,Ouest,iso,Département de l'Ouest,45.4547249,-73.6502365,False
+Q3543,HT,Sud,iso,Sud Department,29.9213248,-90.0973772,False
+Q3544,HT,Sud-Est,iso,Département du Sud-Est,18.2783598,-72.3547915,True
+Q3545,HN,Atlántida Department,iso,Atlántida,15.6696283,-87.1422895,True
+Q3546,HN,Bay Islands Department,iso,Bay Islands,16.4826614,-85.8793252,True
+Q3547,HN,Choluteca Department,iso,Choluteca,13.2504325,-87.1422895,True
+Q3548,HN,Colón Department,iso,Colón,15.6425965,-85.520024,True
+Q3549,HN,Comayagua Department,iso,Comayagua,14.5534828,-87.6186379,True
+Q3550,HN,Copán Department,iso,Copán,14.9360838,-88.864698,True
+Q3551,HN,Cortés Department,iso,Cortés,15.4923508,-88.0900762,True
+Q3552,HN,El Paraíso Department,iso,El Paraíso,13.9821294,-86.4996546,True
+Q3553,HN,Francisco Morazán Department,iso,Francisco Morazán,14.45411,-87.0624261,True
+Q3554,HN,Gracias a Dios Department,iso,Gracias a Dios,15.341806,-84.6060449,True
+Q3555,HN,Intibucá Department,iso,Intibucá,14.372734,-88.2461183,True
+Q3556,HN,La Paz Department,iso,La Paz,-15.0892416,-68.5247149,False
+Q3557,HN,Lempira Department,iso,Lempira,14.1887698,-88.556531,True
+Q3558,HN,Ocotepeque Department,iso,Ocotepeque,14.5170347,-89.0561532,True
+Q3559,HN,Olancho Department,iso,Olancho,14.8067406,-85.7666645,True
+Q3560,HN,Santa Bárbara Department,iso,Santa Bárbara,15.1202795,-88.4016041,True
+Q3561,HN,Valle Department,iso,Valle,13.5782936,-87.5791287,True
+Q3562,HN,Yoro Department,iso,Yoro,15.2949679,-87.1422895,True
+Q3581,HU,Bács-Kiskun,iso,Bács-Kiskun,46.5661437,19.4272464,True
+Q3582,HU,Baranya,iso,Baranya,46.0484585,18.2719173,True
+Q3583,HU,Békés,iso,Békés,46.6704899,21.0434996,True
+Q3585,HU,Borsod-Abaúj-Zemplén,iso,Borsod-Abaúj-Zemplén,48.2939401,20.6934112,True
+Q3587,HU,Csongrád County,iso,Csongrád-Csanád,46.416705,20.2566161,True
+Q3592,HU,Fejér County,iso,Fejér,47.1217932,18.5294815,True
+Q3594,HU,Győr-Moson-Sopron County,iso,Győr-Moson-Sopron,47.6509285,17.2505883,True
+Q3595,HU,Hajdú-Bihar County,iso,Hajdú-Bihar,47.4688355,21.5453227,True
+Q3596,HU,Heves County,iso,Heves,47.8057617,20.2038559,True
+Q3598,HU,Jász-Nagykun-Szolnok County,iso,Jász-Nagykun-Szolnok,47.2555579,20.5232456,True
+Q3601,HU,Komárom-Esztergom,iso,Komárom-Esztergom,47.5779786,18.1256855,True
+Q3604,HU,Nógrád County,iso,Nógrád,47.9041031,19.0498504,True
+Q3607,HU,Pest County,iso,Pest,47.4480001,19.4618128,True
+Q3609,HU,Somogy County,iso,Somogy,46.554859,17.5866732,True
+Q3611,HU,Szabolcs-Szatmár-Bereg County,iso,Szabolcs-Szatmár-Bereg,48.0394954,22.00333,True
+Q3618,HU,Tolna County,iso,Tolna,46.4762754,18.5570627,True
+Q3619,HU,Vas County,iso,Vas,47.0929111,16.6812183,True
+Q3622,HU,Zala County,iso,Zala,46.7384404,16.9152252,True
+Q3624,IS,Capital Region,iso,Capital Region,38.5656957,-92.1816949,False
+Q3626,IS,Northeastern Region,iso,Northeastern Region,43.2994285,-74.2179326,False
+Q3627,IS,Northwestern Region,iso,Northwestern Region,41.9133932,-73.0471688,False
+Q3628,IS,Southern Peninsula Region,iso,Southern Peninsula,63.9154803,-22.3649667,True
+Q3631,IS,Westfjords,iso,Westfjords,65.919615,-21.8811764,True
+Q3632,IN,Andaman and Nicobar Islands,iso,Andaman and Nicobar Islands,11.7400867,92.6586401,True
+Q3633,IN,Andhra Pradesh,iso,Andhra Pradesh,15.9128998,79.7399875,True
+Q3634,IN,Arunachal Pradesh,iso,Arunāchal Pradesh,28.2179994,94.7277528,True
+Q3635,IN,Assam,iso,Assam,26.2006043,92.9375739,True
+Q3636,IN,Bihar,iso,Bihār,25.0960742,85.3131194,True
+Q3637,IN,Chandigarh,iso,Chandīgarh,30.7333148,76.7794179,True
+Q3638,IN,Chhattisgarh,iso,Chhattīsgarh,21.2786567,81.8661442,True
+Q3639,IN,Dadra and Nagar Haveli and Daman and Diu,iso,Dādra and Nagar Haveli and Damān and Diu,20.3973736,72.8327991,True
+Q3640,IN,Delhi,iso,Delhi,28.7040592,77.1024902,True
+Q3641,IN,Goa,iso,Goa,15.2993265,74.123996,True
+Q3642,IN,Gujarat,iso,Gujarāt,22.258652,71.1923805,True
+Q3643,IN,Haryana,iso,Haryāna,29.0587757,76.085601,True
+Q3644,IN,Himachal Pradesh,iso,Himāchal Pradesh,31.1048294,77.1733901,True
+Q3645,IN,Jammu and Kashmir,iso,Jammu and Kashmīr,33.277839,75.3412179,True
+Q3646,IN,Jharkhand,iso,Jhārkhand,23.6101808,85.2799354,True
+Q3647,IN,Karnataka,iso,Karnātaka,15.3172775,75.7138884,True
+Q3648,IN,Kerala,iso,Kerala,10.8505159,76.2710833,True
+Q3649,IN,Ladakh,iso,Ladākh,34.2268475,77.5619419,True
+Q3650,IN,Lakshadweep,iso,Lakshadweep,10.3280265,72.7846336,False
+Q3651,IN,Madhya Pradesh,iso,Madhya Pradesh,22.9734229,78.6568942,True
+Q3652,IN,Maharashtra,iso,Mahārāshtra,19.7514798,75.7138884,True
+Q3653,IN,Manipur,iso,Manipur,24.6637173,93.9062688,True
+Q3654,IN,Meghalaya,iso,Meghālaya,25.4670308,91.366216,True
+Q3655,IN,Mizoram,iso,Mizoram,23.164543,92.9375739,True
+Q3656,IN,Nagaland,iso,Nāgāland,26.1584354,94.5624426,True
+Q3657,IN,Odisha,iso,Odisha,20.9516658,85.0985236,True
+Q3658,IN,Puducherry,iso,Puducherry,11.9415915,79.8083133,True
+Q3659,IN,Punjab,iso,Punjab,31.1471305,75.3412179,True
+Q3660,IN,Rajasthan,iso,Rājasthān,27.0238036,74.2179326,True
+Q3661,IN,Sikkim,iso,Sikkim,27.5329718,88.5122178,True
+Q3662,IN,Tamil Nadu,iso,Tamil Nādu,11.1271225,78.6568942,True
+Q3663,IN,Telangana,iso,Telangāna,18.1124372,79.0192997,True
+Q3664,IN,Tripura,iso,Tripura,23.9408482,91.9881527,True
+Q3665,IN,Uttar Pradesh,iso,Uttar Pradesh,26.8467088,80.9461592,True
+Q3666,IN,Uttarakhand,name,Uttarākhand,30.066753,79.0192997,True
+Q3667,IN,West Bengal,iso,West Bengal,22.9867569,87.8549755,True
+Q3668,ID,Aceh,iso,Aceh,4.695135,96.7493993,True
+Q3669,ID,Bali,iso,Bali,-8.3405389,115.0919509,True
+Q3670,ID,Banten,iso,Banten,-6.4058172,106.0640179,True
+Q3671,ID,Bengkulu,iso,Bengkulu,-3.7928451,102.2607641,True
+Q3672,ID,DI Yogyakarta,iso,Special Region of Yogyakarta,-7.8753849,110.4262088,True
+Q3673,ID,DKI Jakarta,iso,Jakarta Special Capital Region,-6.2087634,106.845599,True
+Q3674,ID,Gorontalo,iso,Gorontalo,0.5435442,123.0567693,True
+Q3675,ID,Jambi,iso,Jambi,-1.6101229,103.6131203,True
+Q3676,ID,Jawa Barat,iso,West Java,-7.090911,107.668887,True
+Q3677,ID,Jawa Tengah,iso,Central Java,-7.150975,110.1402594,True
+Q3678,ID,Jawa Timur,iso,East Java,-7.5360639,112.2384017,True
+Q3679,ID,Kalimantan Barat,iso,West Kalimantan,0.4773475,106.6131405,False
+Q3680,ID,Kalimantan Selatan,iso,South Kalimantan,-3.0926415,115.2837585,True
+Q3681,ID,Kalimantan Tengah,iso,Central Kalimantan,-1.6814878,113.3823545,True
+Q3682,ID,Kalimantan Timur,iso,East Kalimantan,0.5386586,116.419389,True
+Q3683,ID,Kalimantan Utara,iso,North Kalimantan,3.0730929,116.0413889,True
+Q3684,ID,Kepulauan Bangka Belitung,iso,Bangka-Belitung Islands,-2.7410513,106.4405872,True
+Q3685,ID,Kepulauan Riau,iso,Riau Islands,3.9456514,108.1428669,True
+Q3686,ID,Lampung,iso,Lampung,-4.5585849,105.4068079,True
+Q3687,ID,Maluku,iso,Maluku,-3.2384616,130.1452734,True
+Q3688,ID,Maluku Utara,iso,North Maluku,1.5709993,127.8087693,True
+Q3689,ID,Nusa Tenggara Barat,iso,West Nusa Tenggara,-8.6529334,117.3616476,True
+Q3690,ID,Nusa Tenggara Timur,iso,East Nusa Tenggara,-8.6573819,121.0793705,True
+Q3691,ID,Papua,iso,Papua,-5.0122202,141.3470159,False
+Q3692,ID,Papua Barat,iso,West Papua,-1.3361154,133.1747162,True
+Q3693,ID,Riau,iso,Riau,0.2933469,101.7068294,True
+Q3694,ID,Sulawesi Barat,iso,West Sulawesi,-2.8441371,119.2320784,True
+Q3695,ID,Sulawesi Selatan,iso,South Sulawesi,-3.6687994,119.9740534,True
+Q3696,ID,Sulawesi Tengah,iso,Central Sulawesi,-1.4300254,121.4456179,True
+Q3697,ID,Sulawesi Tenggara,iso,Southeast Sulawesi,-4.14491,122.174605,True
+Q3698,ID,Sulawesi Utara,iso,North Sulawesi,0.6246932,123.9750018,True
+Q3699,ID,Sumatera Barat,iso,West Sumatra,-0.7399397,100.8000051,True
+Q3700,ID,Sumatera Selatan,iso,South Sumatra,-3.3194374,103.914399,True
+Q3701,ID,Sumatera Utara,iso,North Sumatra,2.1153547,99.5450974,True
+Q3702,IR,Alborz,iso,Razavi Khorasan,35.9960467,50.9289246,False
+Q3703,IR,Ardabil,iso,Hamadan,38.4853276,47.8911209,False
+Q3704,IR,Bushehr,iso,Kohgiluyeh and Boyer-Ahmad,28.7620739,51.5150077,False
+Q3706,IR,East Azerbaijan,iso,Ardabil,37.9035733,46.2682109,False
+Q3708,IR,Gilan,iso,East Azerbaijan,37.2809455,49.5924134,False
+Q3709,IR,Golestan,iso,Golestan,37.2898123,55.1375834,True
+Q3710,IR,Hamadan,iso,Sistan and Baluchestan,34.9193607,47.4832925,False
+Q3712,IR,Ilam,iso,Kurdistan,33.2957618,46.670534,False
+Q3713,IR,Isfahan,iso,Khuzestan,33.2771073,52.3613378,False
+Q3714,IR,Kerman,iso,Chaharmahal and Bakhtiari,29.4850089,57.6439048,False
+Q3715,IR,Kermanshah,iso,Ilam,34.4576233,46.670534,False
+Q3716,IR,Khuzestan,iso,Bushehr,31.4360149,49.041312,False
+Q3717,IR,Kohgiluyeh and Boyer-Ahmad,iso,Kermanshah,30.724586,50.8456323,False
+Q3718,IR,Kurdistan,iso,Semnan,35.9553579,47.1362125,False
+Q3719,IR,Lorestan,iso,Kerman,33.5818394,48.3988186,False
+Q3721,IR,Mazandaran,iso,West Azerbaijan,36.2262393,52.5318604,False
+Q3722,IR,North Khorasan,iso,Qazvin,37.4710353,57.1013188,False
+Q3723,IR,Qazvin,iso,Qom,36.0881317,49.8547266,False
+Q3724,IR,Qom,iso,Yazd,34.6415764,50.8746035,False
+Q3725,IR,Razavi Khorasan,iso,Alborz,35.1020253,59.1041758,False
+Q3726,IR,Semnan,iso,Lorestan,35.2255585,54.4342138,False
+Q3727,IR,Sistan and Baluchestan,iso,Zanjan,27.5299906,60.5820676,False
+Q3728,IR,South Khorasan,iso,South Khorasan,32.5175643,59.1041758,True
+Q3729,IR,Tehran,iso,Hormozgan,35.7248416,51.381653,False
+Q3730,IR,West Azarbaijan,iso,Isfahan,37.4550062,45,False
+Q3732,IR,Zanjan,iso,Gilan,36.5018185,48.3988186,False
+Q3733,IQ,Al Anbar,iso,Al-Anbar,32.5597614,41.9196471,True
+Q3734,IQ,Al Muthanna,iso,Al-Muthanna,29.9133171,45.2993862,True
+Q3735,IQ,Al-Qādisiyyah,iso,Al-Qadisiyah,32.043691,45.1494505,True
+Q3736,IQ,Babylon,iso,Babil,32.468191,44.5501935,True
+Q3737,IQ,Baghdad,iso,Baghdad,33.3152618,44.3660653,True
+Q3738,IQ,Basra,iso,Al-Basrah,30.5114252,47.8296253,True
+Q3739,IQ,Dhi Qar,iso,Dhi Qar,31.1042292,46.3624686,True
+Q3740,IQ,Diyala,iso,Diyala,33.7733487,45.1494505,True
+Q3741,IQ,Dohuk,iso,Dohuk,36.9077252,43.0631689,True
+Q3742,IQ,Erbil,iso,Erbil,36.5570628,44.3851263,True
+Q3743,IQ,Karbala,iso,Karbala,32.4045493,43.8673222,True
+Q3744,IQ,Kirkuk,iso,Kirkuk,35.3292014,43.9436788,True
+Q3745,IQ,Maysan,iso,Maysan,31.8734002,47.1362125,True
+Q3746,IQ,Najaf,iso,An-Najaf,31.3517486,44.0960311,True
+Q3747,IQ,Nineveh,iso,Ninawa,36.229574,42.2362435,True
+Q3748,IQ,Saladin,iso,Salah al-Din,34.5337527,43.483738,True
+Q3749,IQ,Sulaymaniyah,iso,Al-Sulaimaniyah,35.5466348,45.3003683,True
+Q3750,IQ,Wasit,iso,Wasit,32.6024094,45.7520985,True
+Q3754,IE,Connacht,iso,Connacht,53.8376243,-8.9584481,True
+Q3763,IE,Leinster,iso,Leinster,53.3271538,-7.5140841,True
+Q3770,IE,Munster,iso,Munster,51.9471197,7.584532,False
+Q3775,IE,Ulster,iso,Ulster,54.7616555,-6.9612273,False
+Q3780,IL,Central District,iso,Central District,47.6087583,-122.2964235,False
+Q3781,IL,Haifa District,iso,Haifa,32.4814111,34.994751,True
+Q3782,IL,Jerusalem District,iso,Jerusalem District,31.7648243,34.994751,True
+Q3783,IL,Northern District,iso,Northern District,36.1511864,-95.9951763,False
+Q3784,IL,Southern District,iso,Southern District,40.7137586,-74.0009059,False
+Q3785,IL,Tel Aviv District,iso,Tel Aviv,32.0929075,34.8072165,True
+Q3897,JM,Clarendon Parish,iso,Clarendon,17.9557183,-77.2405153,True
+Q3898,JM,Hanover Parish,iso,Hanover,18.4097707,-78.133638,True
+Q3899,JM,Kingston Parish,iso,Kingston,17.9683271,-76.782702,True
+Q3900,JM,Manchester Parish,iso,Manchester,18.0669654,-77.5160788,True
+Q3901,JM,Portland Parish,iso,Portland,18.0844274,-76.4100267,True
+Q3902,JM,Saint Andrew,iso,Saint Andrew,37.2245103,-95.7021189,False
+Q3903,JM,Saint Ann Parish,iso,Saint Ann,37.2871452,-77.4103533,False
+Q3904,JM,Saint Catherine Parish,iso,Saint Catherine,18.0364134,-77.0564464,True
+Q3905,JM,Saint Elizabeth Parish,iso,Saint Elizabeth,38.9925308,-94.58992,False
+Q3906,JM,Saint James Parish,iso,Saint James,30.0179292,-90.7913227,False
+Q3907,JM,Saint Mary Parish,iso,Saint Mary,36.092522,-95.973844,False
+Q3908,JM,Saint Thomas Parish,iso,Saint Thomas,41.4425389,-81.7402218,False
+Q3909,JM,Trelawny Parish,iso,Trelawny,18.3526143,-77.6077865,True
+Q3910,JM,Westmoreland Parish,iso,Westmoreland,18.2944378,-78.1564432,True
+Q3911,JP,Aichi Prefecture,iso,Aichi Prefecture,35.0182505,137.2923893,True
+Q3912,JP,Akita Prefecture,iso,Akita,40.1376293,140.334341,True
+Q3913,JP,Aomori Prefecture,iso,Aomori,40.7657077,140.9175879,True
+Q3914,JP,Chiba Prefecture,iso,Chiba,35.3354155,140.1832516,True
+Q3915,JP,Ehime Prefecture,iso,Ehime Prefecture,33.6025306,132.7857583,True
+Q3916,JP,Fukui Prefecture,iso,Fukui Prefecture,35.896227,136.2111579,True
+Q3917,JP,Fukuoka Prefecture,iso,Fukuoka Prefecture,33.5662559,130.715857,True
+Q3918,JP,Fukushima Prefecture,iso,Fukushima,37.3834373,140.1832516,True
+Q3919,JP,Gifu Prefecture,iso,Gifu Prefecture,35.7437491,136.9805103,True
+Q3920,JP,Gunma Prefecture,iso,Gunma,36.5605388,138.8799972,True
+Q3921,JP,Hiroshima Prefecture,iso,Hiroshima,34.8823408,133.0194897,True
+Q3922,JP,Hokkaidō Prefecture,iso,Hokkaido,43.2203266,142.8634737,True
+Q3923,JP,Hyōgo Prefecture,iso,Hyogo Prefecture,34.8579518,134.5453787,True
+Q3924,JP,Ibaraki Prefecture,iso,Ibaraki,36.2193571,140.1832516,True
+Q3925,JP,Ishikawa Prefecture,iso,Ishikawa Prefecture,36.3260317,136.5289653,True
+Q3926,JP,Iwate Prefecture,iso,Iwate,39.5832989,141.2534574,True
+Q3927,JP,Kagawa Prefecture,iso,Kagawa Prefecture,34.2225915,134.0199152,True
+Q3928,JP,Kagoshima Prefecture,iso,Kagoshima Prefecture,31.3911958,130.8778586,True
+Q3929,JP,Kanagawa Prefecture,iso,Kanagawa,35.4913535,139.284143,True
+Q3930,JP,Kōchi Prefecture,iso,Kochi Prefecture,33.2879161,132.2759262,False
+Q3931,JP,Kumamoto Prefecture,iso,Kumamoto,32.8594427,130.7969149,True
+Q3932,JP,Kyōto Prefecture,iso,Kyoto Prefecture,35.1566609,135.5251982,True
+Q3933,JP,Mie Prefecture,iso,Mie Prefecture,33.8143901,136.0487047,True
+Q3934,JP,Miyagi Prefecture,iso,Miyagi,38.630612,141.1193048,True
+Q3935,JP,Miyazaki Prefecture,iso,Miyazaki Prefecture,32.6036022,131.441251,True
+Q3936,JP,Nagano Prefecture,iso,Nagano,36.1543941,137.9218204,True
+Q3937,JP,Nagasaki Prefecture,iso,Nagasaki Prefecture,33.2488525,129.6930912,True
+Q3938,JP,Nara Prefecture,iso,Nara Prefecture,34.2975528,135.8279734,True
+Q3939,JP,Niigata Prefecture,iso,Niigata,37.5178386,138.9269794,True
+Q3940,JP,Ōita Prefecture,iso,Oita,33.1589299,131.3611121,True
+Q3941,JP,Okayama Prefecture,iso,Okayama Prefecture,34.8963407,133.6375314,True
+Q3942,JP,Okinawa Prefecture,iso,Okinawa Prefecture,26.1201911,127.7025012,True
+Q3943,JP,Ōsaka Prefecture,iso,Osaka Prefecture,34.6413315,135.5629394,True
+Q3944,JP,Saga Prefecture,iso,Saga Prefecture,33.3078371,130.2271243,True
+Q3945,JP,Saitama Prefecture,iso,Saitama,35.9962513,139.4466005,True
+Q3946,JP,Shiga Prefecture,iso,Shiga,35.3292014,136.0563212,True
+Q3947,JP,Shimane Prefecture,iso,Shimane,35.1244094,132.6293446,True
+Q3948,JP,Shizuoka Prefecture,iso,Shizuoka,35.0929397,138.3190276,True
+Q3949,JP,Tochigi Prefecture,iso,Tochigi,36.6714739,139.8547266,True
+Q3950,JP,Tokushima Prefecture,iso,Tokushima Prefecture,33.9419655,134.3236557,True
+Q3951,JP,Tokyo,iso,Tokyo,35.6761919,139.6503106,True
+Q3952,JP,Tottori Prefecture,iso,Tottori Prefecture,35.3573161,133.4066618,True
+Q3953,JP,Toyama Prefecture,iso,Toyama,36.6958266,137.2137071,True
+Q3954,JP,Wakayama Prefecture,iso,Wakayama Prefecture,33.9480914,135.3745358,True
+Q3955,JP,Yamagata Prefecture,iso,Yamagata,38.5370564,140.1435198,True
+Q3956,JP,Yamaguchi Prefecture,iso,Yamaguchi,34.2796769,131.5212742,True
+Q3957,JP,Yamanashi Prefecture,iso,Yamanashi,35.6635113,138.6388879,True
+Q3958,JO,Ajloun,iso,Ajloun,32.3325584,35.7516844,True
+Q3959,JO,Amman,iso,Amman,31.9453633,35.9283895,True
+Q3960,JO,Aqaba,iso,Aqaba,29.532086,35.0062821,True
+Q3961,JO,Balqa,iso,Balqa,32.0366806,35.728848,True
+Q3962,JO,Irbid,iso,Irbid,32.5569636,35.8478965,True
+Q3963,JO,Jerash,iso,Jerash,32.2747237,35.8960954,True
+Q3964,JO,Karak,iso,Karak,31.1853527,35.7047682,True
+Q3965,JO,Ma'an,iso,Ma'an,30.1926789,35.7249319,True
+Q3966,JO,Madaba,iso,Madaba,31.7196097,35.7932754,True
+Q3967,JO,Mafraq,iso,Mafraq,32.3416923,36.2020175,True
+Q3968,JO,Tafilah,iso,Tafilah,30.8338063,35.6160513,True
+Q3969,JO,Zarqa,iso,Zarqa,32.0608505,36.0942121,True
+Q3970,KZ,Akmola Region,iso,Akmola Region,51.916532,69.4110494,True
+Q3971,KZ,Aktobe Region,iso,Aktobe Region,48.7797078,57.9974378,True
+Q3972,KZ,Almaty,iso,Almaty,43.2220146,76.8512485,True
+Q3973,KZ,Almaty Region,iso,Almaty Region,45.0119227,78.4229392,True
+Q3974,KZ,Atyrau Region,iso,Atyrau Region,47.1076188,51.914133,True
+Q3976,KZ,East Kazakhstan Region,iso,East Kazakhstan Region,48.7062687,80.7922534,True
+Q3977,KZ,Jambyl Region,iso,Jambyl Region,44.2220308,72.3657967,True
+Q3978,KZ,Karaganda Region,iso,Karaganda Region,47.9022182,71.7706807,True
+Q3979,KZ,Kostanay Region,iso,Kostanay Region,51.5077096,64.0479073,True
+Q3980,KZ,Kyzylorda Region,iso,Kyzylorda Region,44.6922613,62.6571885,True
+Q3981,KZ,Mangystau Region,iso,Mangystau Region,44.590802,53.8499508,True
+Q3982,KZ,North Kazakhstan Region,iso,North Kazakhstan Region,54.1622066,69.9387071,True
+Q3983,KZ,Nur-Sultan,iso,Astana,51.1605227,71.4703558,True
+Q3984,KZ,Pavlodar Region,iso,Pavlodar Region,52.2878444,76.9733453,True
+Q3985,KZ,Turkestan Region,iso,South Kazakhstan Region,43.3666958,68.4094405,True
+Q3986,KZ,West Kazakhstan Province,iso,West Kazakhstan Region,49.5679727,50.8066616,True
+Q3987,KE,Baringo,iso,Baringo,0.8554988,36.0893406,True
+Q3988,KE,Bomet,iso,Bomet,-0.8015009,35.3027226,True
+Q3989,KE,Bungoma,iso,Bungoma,0.5695252,34.5583766,True
+Q3990,KE,Busia,iso,Busia,0.4346506,34.2421597,True
+Q3991,KE,Elgeyo-Marakwet,iso,Elgeyo-Marakwet,1.0498237,35.4781926,True
+Q3992,KE,Embu,iso,Embu,-0.6560477,37.7237678,True
+Q3993,KE,Garissa,iso,Garissa,-0.4532293,39.6460988,True
+Q3994,KE,Homa Bay,iso,Homa Bay,-0.6220655,34.3310364,True
+Q3995,KE,Isiolo,iso,Isiolo,0.3524352,38.4849923,True
+Q3996,KE,Kajiado,iso,Kajiado,-2.0980751,36.7819505,True
+Q3997,KE,Kakamega,iso,Kakamega,0.307894,34.7740793,True
+Q3998,KE,Kericho,iso,Kericho,-0.1827913,35.4781926,True
+Q3999,KE,Kiambu,iso,Kiambu,-1.0313701,36.8680791,True
+Q4000,KE,Kilifi,iso,Kilifi,-3.5106508,39.9093269,True
+Q4001,KE,Kirinyaga,iso,Kirinyaga,-0.6590565,37.3827234,True
+Q4002,KE,Kisii,iso,Kisii,-0.677334,34.779603,True
+Q4003,KE,Kisumu,iso,Kisumu,-0.0917016,34.7679568,True
+Q4004,KE,Kitui,iso,Kitui,-1.6832822,38.3165725,True
+Q4005,KE,Kwale,iso,Kwale,-4.1816115,39.4605612,True
+Q4006,KE,Laikipia,iso,Laikipia,0.3606063,36.7819505,True
+Q4007,KE,Lamu,iso,Lamu,-2.2355058,40.4720004,True
+Q4008,KE,Machakos,iso,Machakos,-1.5176837,37.2634146,True
+Q4009,KE,Makueni,iso,Makueni,-2.2558734,37.8936663,True
+Q4010,KE,Mandera,iso,Mandera,3.5737991,40.958688,True
+Q4011,KE,Marsabit,iso,Marsabit,2.4426403,37.9784585,True
+Q4012,KE,Meru,iso,Meru,0.3557174,37.8087693,True
+Q4013,KE,Migori,iso,Migori,-0.9365702,34.4198243,True
+Q4014,KE,Mombasa,iso,Mombasa,-3.9768291,39.7137181,True
+Q4015,KE,Murang'a,iso,Murang'a,-0.7839281,37.0400339,True
+Q4016,KE,Nairobi City,iso,Nairobi,-1.2920659,36.8219462,True
+Q4017,KE,Nakuru,iso,Nakuru,-0.3030988,36.080026,True
+Q4018,KE,Nandi,iso,Nandi,0.1835867,35.1268781,True
+Q4019,KE,Narok,iso,Narok,-1.104111,36.0893406,True
+Q4020,KE,Nyamira,iso,Nyamira,-0.5669405,34.9341234,True
+Q4021,KE,Nyandarua,iso,Nyandarua,-0.1803855,36.5229641,True
+Q4022,KE,Nyeri,iso,Nyeri,-0.4196915,37.0400339,True
+Q4023,KE,Samburu,iso,Samburu,1.2154506,36.954107,True
+Q4024,KE,Siaya,iso,Siaya,-0.0617328,34.2421597,True
+Q4025,KE,Taita–Taveta,iso,Taita Taveta,-3.3160687,38.4849923,True
+Q4026,KE,Tana River,iso,Tana River,-1.6518468,39.6518165,True
+Q4027,KE,Tharaka-Nithi,iso,Tharaka,-0.2964851,37.7237678,True
+Q4028,KE,Trans Nzoia,iso,Trans Nzoia,1.0566667,34.9506625,True
+Q4029,KE,Turkana,iso,Turkana,3.3122477,35.5657862,True
+Q4030,KE,Uasin Gishu,iso,Uasin Gishu,0.5527638,35.3027226,True
+Q4031,KE,Vihiga,iso,Vihiga,0.0767553,34.7077665,True
+Q4032,KE,Wajir,iso,Wajir,1.6360475,40.3088626,True
+Q4033,KE,West Pokot,iso,West Pokot,1.6210076,35.3905046,True
+Q4034,KI,Gilbert Islands,iso,Gilbert Islands,0.3524262,174.7552634,False
+Q4035,KI,Line Islands,iso,Line Islands,1.7429439,-157.2132826,True
+Q4036,KI,Phoenix Islands,iso,Phoenix Islands,33.3284369,-111.9824774,False
+Q4038,XK,Gjilan District,name,District of Gjilan,42.4635206,21.4694011,True
+Q4042,XK,Prizren District,name,District of Prizren,42.2152522,20.7414772,True
+Q4044,KW,Al Ahmadi,iso,Ahmadi,28.5745125,48.1024743,True
+Q4045,KW,Al Farwaniyah,iso,Farwaniya,29.273357,47.9400154,True
+Q4046,KW,Al Jahra,iso,Jahra,29.9931831,47.7634731,True
+Q4047,KW,Capital,iso,Al Asimah,26.2285161,50.5860497,False
+Q4048,KW,Hawalli,iso,Hawalli,29.3056716,48.0307613,True
+Q4049,KW,Mubarak Al-Kabeer,iso,Mubarak Al-Kabeer,29.21224,48.0605108,True
+Q4050,KG,Batken Region,iso,Batken Region,39.9721425,69.8597406,True
+Q4052,KG,Chuy Region,iso,Chuy Region,42.5655,74.4056612,True
+Q4053,KG,Issyk-Kul Region,iso,Issyk-Kul Region,42.1859428,77.5619419,True
+Q4054,KG,Jalal-Abad Region,iso,Jalal-Abad Region,41.106808,72.8988069,True
+Q4055,KG,Naryn Region,iso,Naryn Region,41.2943227,75.3412179,True
+Q4058,KG,Talas Region,iso,Talas Region,42.2867339,72.5204827,True
+Q4059,LA,Attapeu Province,iso,Attapeu,14.93634,107.1011931,True
+Q4060,LA,Bokeo Province,iso,Bokeo,20.2872662,100.7097867,True
+Q4061,LA,Bolikhamsai Province,iso,Bolikhamsai,18.4362924,104.4723301,True
+Q4062,LA,Champasak Province,iso,Champasak,14.6578664,105.9699878,True
+Q4063,LA,Houaphanh Province,iso,Houaphan,20.3254175,104.1001326,True
+Q4064,LA,Khammouane Province,iso,Khammouane,17.6384066,105.2194808,True
+Q4065,LA,Luang Namtha Province,iso,Luang Namtha,20.9170187,101.1617356,True
+Q4066,LA,Luang Prabang Province,iso,Luang Prabang,20.0656229,102.6216211,True
+Q4067,LA,Oudomxay Province,iso,Oudomxay,20.4921929,101.8891721,True
+Q4068,LA,Phongsaly Province,iso,Phongsaly,21.5919377,102.2547919,True
+Q4069,LA,Sainyabuli Province,iso,Xaignabouli,19.3907886,101.5248055,True
+Q4070,LA,Salavan Province,iso,Salavan,15.8171073,106.2522143,True
+Q4071,LA,Savannakhet Province,iso,Savannakhet,16.5065381,105.5943388,True
+Q4072,LA,Sekong Province,iso,Xekong,15.5767446,107.0067031,True
+Q4073,LA,Vientiane Prefecture,iso,Vientiane Capital,18.110541,102.5298028,True
+Q4074,LA,Vientiane Province,iso,Vientiane,18.5705063,102.6216211,True
+Q4077,LA,Xiangkhouang Province,iso,Xiangkhouang,19.6093003,103.7289167,True
+Q4079,LV,Aizkraukle Municipality,iso,Aizkraukles novads,56.646108,25.2370854,True
+Q4084,LV,Alūksne Municipality,iso,Alūksnes novads,57.4254485,27.0424968,True
+Q4091,LV,Balvi Municipality,iso,Balvu novads,57.132624,27.2646685,True
+Q4092,LV,Bauska Municipality,iso,Bauskas novads,56.4101868,24.2000689,True
+Q4097,LV,Cēsis Municipality,iso,Cēsu novads,57.3102897,25.2676125,True
+Q4103,LV,Dobele Municipality,iso,Dobeles novads,56.626305,23.2809066,True
+Q4110,LV,Gulbene Municipality,iso,Gulbenes novads,57.2155645,26.6452955,True
+Q4119,LV,Jēkabpils Municipality,iso,Jēkabpils novads,56.291932,25.9812017,True
+Q4120,LV,Jelgava,iso,Jelgavas,56.6511091,23.7213541,True
+Q4121,LV,Jelgava Municipality,iso,Jelgavas novads,56.5895689,23.6610481,True
+Q4122,LV,Jūrmala,iso,Jūrmalas,56.947079,23.6168485,True
+Q4126,LV,Ķekava Municipality,iso,Ķekavas novads,56.8064351,24.1939493,True
+Q4129,LV,Krāslava Municipality,iso,Krāslavas novads,55.8951464,27.1814577,True
+Q4132,LV,Kuldīga Municipality,iso,Kuldīgas novads,56.9687257,21.9613739,True
+Q4134,LV,Liepāja,iso,Liepājas,56.5046678,21.010806,True
+Q4136,LV,Limbaži Municipality,iso,Limbažu novads,57.5403227,24.7134451,True
+Q4137,LV,Līvāni Municipality,iso,Līvānu novads,56.3550942,26.172519,True
+Q4139,LV,Ludza Municipality,iso,Ludzas novads,56.545959,27.7143199,True
+Q4140,LV,Madona Municipality,iso,Madonas novads,56.8598923,26.2276201,True
+Q4142,LV,Mārupe Municipality,iso,Mārupes novads,56.8965717,24.0460049,True
+Q4148,LV,Ogre Municipality,iso,Ogres novads,56.8147355,24.6044555,True
+Q4149,LV,Olaine Municipality,iso,Olaines novads,56.7952353,24.0153589,True
+Q4158,LV,Rēzekne,iso,Rēzeknes,56.5099223,27.3331357,True
+Q4161,LV,Riga,iso,Rīga,56.9496487,24.1051865,True
+Q4163,LV,Ropaži Municipality,iso,Ropažu novads,56.9615786,24.6010476,True
+Q4170,LV,Salaspils Municipality,iso,Salaspils novads,56.8608152,24.3497881,True
+Q4171,LV,Saldus Municipality,iso,Saldus novads,56.6665088,22.4935493,True
+Q4172,LV,Saulkrasti Municipality,iso,Saulkrastu novads,57.2579418,24.4183146,True
+Q4174,LV,Sigulda Municipality,iso,Siguldas novads,57.1055092,24.8314259,True
+Q4177,LV,Smiltene Municipality,iso,Smiltenes novads,57.4230332,25.900278,True
+Q4180,LV,Talsi Municipality,iso,Talsu novads,57.3415208,22.5713125,True
+Q4182,LV,Tukums Municipality,iso,Tukuma novads,56.9672868,23.1524379,True
+Q4184,LV,Valka Municipality,iso,Valkas novads,57.77439,26.017005,True
+Q4186,LV,Varakļāni Municipality,iso,Varakļānu novads,56.6688006,26.5636414,True
+Q4190,LV,Ventspils,iso,Ventspils,57.3937216,21.5647066,True
+Q4191,LV,Ventspils Municipality,iso,Ventspils novads,57.2833682,21.8587558,True
+Q4196,LB,Akkar,iso,Aakkâr,34.5328763,36.1328132,True
+Q4197,LB,Baalbek-Hermel,iso,Baalbek-Hermel,34.2658556,36.3498097,True
+Q4198,LB,Beirut,iso,Beyrouth,33.8886106,35.4954772,True
+Q4199,LB,Beqaa,iso,Béqaa,33.8462662,35.9019489,True
+Q4200,LB,Mount Lebanon,iso,Mont-Liban,33.8100858,35.5973139,True
+Q4201,LB,Nabatieh,iso,Nabatîyé,33.3771693,35.4838293,True
+Q4202,LB,North,iso,Liban-Nord,34.4380625,35.8308233,True
+Q4203,LB,South,iso,Liban-Sud,33.2721479,35.2032778,True
+Q4204,LS,Berea District,iso,Berea District,41.3661614,-81.8543026,False
+Q4205,LS,Butha-Buthe District,iso,Butha-Buthe District,-28.7653754,28.2468148,True
+Q4206,LS,Leribe District,iso,Leribe District,-28.8638065,28.0478826,True
+Q4207,LS,Mafeteng District,iso,Mafeteng District,-29.8041008,27.5026174,True
+Q4208,LS,Maseru District,iso,Maseru District,-29.516565,27.8311428,True
+Q4209,LS,Mohale's Hoek District,iso,Mohale's Hoek District,-30.1425917,27.4673845,True
+Q4210,LS,Mokhotlong District,iso,Mokhotlong District,-29.2573193,28.9528645,True
+Q4211,LS,Qacha's Nek District,iso,Qacha's Nek District,-30.1114565,28.678979,True
+Q4212,LS,Quthing District,iso,Quthing District,-30.4015687,27.7080133,True
+Q4213,LS,Thaba-Tseka District,iso,Thaba-Tseka District,-29.5238975,28.6089752,True
+Q4214,LR,Bomi County,iso,Bomi,6.7562926,-10.8451467,True
+Q4215,LR,Bong County,iso,Bong,6.8295019,-9.3673084,True
+Q4216,LR,Gbarpolu County,iso,Gbarpolu,7.4952637,-10.0807298,True
+Q4217,LR,Grand Bassa County,iso,Grand Bassa,6.2308452,-9.8124935,True
+Q4218,LR,Grand Cape Mount County,iso,Grand Cape Mount,7.0467758,-11.0711758,True
+Q4219,LR,Grand Gedeh County,iso,Grand Gedeh,5.9222078,-8.2212979,True
+Q4220,LR,Grand Kru County,iso,Grand Kru,4.7613862,-8.2212979,True
+Q4221,LR,Lofa County,iso,Lofa,8.1911184,-9.7232673,True
+Q4222,LR,Margibi County,iso,Margibi,6.5151875,-10.3048897,True
+Q4223,LR,Maryland County,iso,Maryland,39.0457549,-76.6412712,False
+Q4224,LR,Montserrado County,iso,Montserrado,6.5525815,-10.5296115,True
+Q4225,LR,Nimba,iso,Nimba,7.6166667,-8.4166667,False
+Q4226,LR,River Cess County,iso,River Gee,5.9025328,-9.456155,False
+Q4227,LR,River Gee County,iso,Rivercess,5.2604894,-7.87216,False
+Q4228,LR,Sinoe County,iso,Sinoe,5.49871,-8.6600586,True
+Q4229,LY,Al Wahat District,iso,Ajdabiya,29.0466808,21.8568586,True
+Q4230,LY,Benghazi,iso,Benghazi,32.1194242,20.0867909,True
+Q4231,LY,Derna District,iso,Al Qubbah,32.755613,22.6377432,True
+Q4232,LY,Ghat District,iso,Ghat,24.9640371,10.1759285,True
+Q4233,LY,Jabal al Akhdar,iso,Al Jabal al Akhdar,23.1856081,57.3713879,False
+Q4234,LY,Jabal al Gharbi District,iso,Mizdah,30.2638032,12.8054753,True
+Q4235,LY,Jafara,iso,Al Jifarah,32.4525904,12.9435536,True
+Q4237,LY,Kufra District,iso,Al Kufrah,23.3112389,21.8568586,True
+Q4238,LY,Marj District,iso,Al Marj,32.0550363,21.1891151,True
+Q4239,LY,Misrata District,iso,Misratah,32.3255884,15.0992556,True
+Q4240,LY,Murqub,iso,Al Marqab,32.4599677,14.1001326,True
+Q4241,LY,Murzuq District,iso,Murzuq,25.9182262,13.9260001,True
+Q4242,LY,Nalut District,iso,Ghadamis,31.8742348,10.9750484,True
+Q4243,LY,Nuqat al Khams,iso,An Nuqat al Khams,32.6914909,11.8891721,True
+Q4244,LY,Sabha District,iso,Sabha,27.0365406,14.4290236,True
+Q4245,LY,Sirte District,iso,Surt,31.189689,16.5701927,True
+Q4246,LY,Tripoli District,iso,Tajura' wa an Nawahi al Arba,32.6408021,13.2663479,True
+Q4247,LY,Wadi al Hayaa District,iso,Wadi al Hayaa,26.4225926,12.6216211,True
+Q4248,LY,Wadi al Shatii District,iso,Ash Shati',27.7351468,12.4380581,True
+Q4249,LY,Zawiya District,iso,Az Zawiyah,32.7630282,12.7364962,True
+Q4250,LI,Balzers,iso,Balzers,42.0528357,-88.0366848,False
+Q4251,LI,Eschen,iso,Eschen,40.7669574,-73.9522821,False
+Q4252,LI,Gamprin,iso,Gamprin,47.213249,9.5025195,True
+Q4253,LI,Mauren,iso,Mauren,47.2189285,9.541735,True
+Q4254,LI,Planken,iso,Planken,40.6650576,-73.504798,False
+Q4255,LI,Ruggell,iso,Ruggell,47.2529222,9.5402127,True
+Q4256,LI,Schaan,iso,Schaan,47.120434,9.5941602,True
+Q4257,LI,Schellenberg,iso,Schellenberg,47.230966,9.5467843,True
+Q4258,LI,Triesen,iso,Triesen,47.1097988,9.5248296,True
+Q4259,LI,Triesenberg,iso,Triesenberg,47.1224511,9.5701985,True
+Q4260,LI,Vaduz,iso,Vaduz,47.1410303,9.5209277,True
+Q4330,LU,Canton of Capellen,iso,Canton Capellen,49.6403931,5.9553846,True
+Q4331,LU,Canton of Clervaux,iso,Canton Clervaux,50.0546313,6.0285875,True
+Q4333,LU,Canton of Echternach,iso,Canton Echternach,49.8114133,6.4175635,True
+Q4334,LU,Canton of Esch-sur-Alzette,iso,Canton Esch-sur-Alzette,49.5008805,5.9860925,True
+Q4337,LU,Canton of Mersch,iso,Canton Mersch,49.7542906,6.1292185,True
+Q4338,LU,Canton of Redange,iso,Canton Redange,49.76455,5.88948,True
+Q4339,LU,Canton of Remich,iso,Canton Remich,49.545017,6.3674222,True
+Q4340,LU,Canton of Vianden,iso,Canton Vianden,49.9341924,6.2019917,True
+Q4341,LU,Canton of Wiltz,iso,Canton Wiltz,49.96622,5.9324306,True
+Q4378,MW,Southern Region,iso,Southern Region,32.7504957,-97.3315476,False
+Q4381,MY,Johor,iso,Johor,1.4853682,103.7618154,True
+Q4382,MY,Kedah,iso,Kedah,6.1183964,100.3684595,True
+Q4383,MY,Kelantan,iso,Kelantan,6.1253969,102.238071,True
+Q4384,MY,Kuala Lumpur,iso,Kuala Lumpur,3.139003,101.686855,True
+Q4385,MY,Labuan,iso,Labuan,5.2831456,115.230825,True
+Q4386,MY,Malacca,iso,Malacca,2.189594,102.2500868,True
+Q4387,MY,Negeri Sembilan,iso,Negeri Sembilan,2.7258058,101.9423782,True
+Q4388,MY,Pahang,iso,Pahang,3.8126318,103.3256204,True
+Q4389,MY,Penang,iso,Penang,5.4163935,100.3326786,True
+Q4390,MY,Perak,iso,Perak,4.5921126,101.090109,True
+Q4391,MY,Perlis,iso,Perlis,29.9227094,-90.1228559,False
+Q4392,MY,Putrajaya,iso,Putrajaya,2.926361,101.696445,True
+Q4393,MY,Sabah,iso,Sabah,5.9788398,116.0753199,True
+Q4394,MY,Sarawak,iso,Sarawak,1.5532783,110.3592127,True
+Q4395,MY,Selangor,iso,Selangor,3.0738379,101.5183469,True
+Q4396,MY,Terengganu,iso,Terengganu,5.3116916,103.1324154,True
+Q4397,MV,Addu Atoll,iso,Addu,-0.6300995,73.1585626,False
+Q4398,MV,Alif Alif Atoll,iso,Alif Alif,4.085,72.8515479,False
+Q4399,MV,Alif Dhaal Atoll,iso,Alif Dhaalu,3.6543302,72.8042797,False
+Q4401,MV,Dhaalu Atoll,iso,Dhaalu,2.8468502,72.9460566,True
+Q4402,MV,Faafu Atoll,iso,Faafu,3.2309409,72.9460566,True
+Q4403,MV,Gaafu Alif Atoll,iso,Gaafu Alif,0.6124813,73.323708,False
+Q4404,MV,Gaafu Dhaalu Atoll,iso,Gaafu Dhaalu,0.358804,73.1821623,False
+Q4405,MV,Gnaviyani Atoll,iso,Gnaviyani,-0.3006425,73.4239143,True
+Q4406,MV,Haa Alif Atoll,iso,Haa Alif,6.9903488,72.9460566,False
+Q4407,MV,Haa Dhaalu Atoll,iso,Haa Dhaalu,6.5782717,72.9460566,True
+Q4408,MV,Kaafu Atoll,iso,Kaafu,4.4558979,73.5594128,False
+Q4409,MV,Laamu Atoll,iso,Laamu,1.9430737,73.4180211,False
+Q4410,MV,Lhaviyani Atoll,iso,Lhaviyani,5.3747021,73.5122928,True
+Q4411,MV,Malé,iso,Malé,46.3488867,10.9072489,False
+Q4412,MV,Meemu Atoll,iso,Meemu,3.0090345,73.5122928,False
+Q4413,MV,Noonu Atoll,iso,Noonu,5.8551276,73.323708,False
+Q4416,MV,Raa Atoll,iso,Raa,5.6006457,72.9460566,True
+Q4417,MV,Shaviyani Atoll,iso,Shaviyani,6.17511,73.1349605,False
+Q4420,MV,Thaa Atoll,iso,Thaa,2.4311161,73.1821623,True
+Q4422,MV,Vaavu Atoll,iso,Vaavu,3.3955438,73.5122928,True
+Q4423,ML,Bamako,iso,Bamako,12.6392316,-8.0028892,True
+Q4424,ML,Gao Region,iso,Gao,16.9066332,1.5208624,True
+Q4425,ML,Kayes Region,iso,Kayes,14.0818308,-9.9018131,True
+Q4426,ML,Kidal Region,iso,Kidal,18.7986832,1.8318334,True
+Q4427,ML,Koulikoro Region,iso,Koulikouro,13.8018074,-7.4381355,True
+Q4429,ML,Mopti Region,iso,Mopti,14.6338039,-3.4195527,True
+Q4430,ML,Ségou Region,iso,Segou,13.8394456,-6.0679194,True
+Q4431,ML,Sikasso Region,iso,Sikasso,10.8905186,-7.4381355,True
+Q4433,ML,Tombouctou Region,iso,Tombouctou,21.0526706,-3.743509,True
+Q4434,MT,Attard,iso,Attard,35.8904967,14.4199322,True
+Q4435,MT,Balzan,iso,Balzan,35.8957414,14.4534065,True
+Q4436,MT,Birgu,iso,Birgu,35.8879214,14.522562,True
+Q4437,MT,Birkirkara,iso,Birkirkara,35.8954706,14.4665072,True
+Q4438,MT,Birżebbuġa,iso,Birżebbuġa,35.8135989,14.5247463,True
+Q4439,MT,Cospicua,iso,Bormla,35.8806753,14.5218338,True
+Q4440,MT,Dingli,iso,Dingli,35.8627309,14.3850107,True
+Q4441,MT,Fgura,iso,Fgura,35.8738269,14.5232901,True
+Q4442,MT,Floriana,iso,Floriana,45.4952185,-73.7139576,False
+Q4443,MT,Fontana,iso,Fontana,34.0922335,-117.435048,False
+Q4444,MT,Għajnsielem,iso,Ghajnsielem,36.0247966,14.2802961,True
+Q4445,MT,Għarb,iso,Gharb,36.068909,14.2018098,True
+Q4446,MT,Għargħur,iso,Għargħur,35.9220569,14.4563176,True
+Q4447,MT,Għasri,iso,Ghasri,36.0668075,14.2192475,True
+Q4448,MT,Għaxaq,iso,Għaxaq,35.8440359,14.516009,True
+Q4449,MT,Gudja,iso,Gudja,35.8469803,14.502904,True
+Q4450,MT,Gżira,iso,Gżira,35.905897,14.4953338,True
+Q4451,MT,Ħamrun,iso,Ħamrun,35.8861237,14.4883442,True
+Q4452,MT,Iklin,iso,Iklin,35.9098774,14.4577732,True
+Q4453,MT,Kalkara,iso,Kalkara,35.8914242,14.5320278,True
+Q4454,MT,Kerċem,iso,Kerċem,36.0447939,14.2250605,True
+Q4455,MT,Kirkop,iso,Kirkop,35.8437862,14.4854324,True
+Q4456,MT,Lija,iso,Lija,49.180076,-123.103317,False
+Q4457,MT,Luqa,iso,Luqa,35.8582865,14.4868883,True
+Q4458,MT,Marsa,iso,Marsa,34.0319587,-118.4455535,False
+Q4459,MT,Marsaskala,iso,Marsaskala,35.860364,14.5567876,True
+Q4460,MT,Marsaxlokk,iso,Marsaxlokk,35.8411699,14.5393097,True
+Q4461,MT,Mdina,iso,Mdina,35.888093,14.4068357,True
+Q4463,MT,Mġarr,name,Mġarr,35.9189327,14.3617343,True
+Q4464,MT,Mosta,iso,Mosta,35.9141504,14.4228427,True
+Q4465,MT,Mqabba,iso,Mqabba,35.8444143,14.4694186,True
+Q4466,MT,Msida,iso,Msida,35.8956388,14.4868883,True
+Q4467,MT,Mtarfa,iso,Mtarfa,35.8895125,14.3951953,True
+Q4468,MT,Munxar,iso,Munxar,36.0288058,14.2250605,True
+Q4469,MT,Nadur,iso,Nadur,36.0447019,14.2919273,True
+Q4470,MT,Naxxar,iso,Naxxar,35.9317518,14.4315746,True
+Q4471,MT,Paola,iso,Paola,38.5722353,-94.8791294,False
+Q4472,MT,Pembroke,iso,Pembroke,34.6801626,-79.1950373,False
+Q4473,MT,Pietà,iso,Pietà,42.21862,-83.734647,False
+Q4474,MT,Qala,iso,Qala,36.0388628,14.318101,True
+Q4475,MT,Qormi,iso,Qormi,35.8764388,14.4694186,True
+Q4476,MT,Qrendi,iso,Qrendi,35.8328488,14.4548621,True
+Q4477,MT,Rabat,iso,Rabat Malta,33.9715904,-6.8498129,False
+Q4478,MT,Saint Lawrence,iso,Saint Lawerence,38.9578056,-95.2565689,False
+Q4479,MT,San Ġwann,iso,Saint John,35.9077365,14.4752416,True
+Q4480,MT,Sannat,iso,Sannat,36.0192643,14.2599437,True
+Q4481,MT,Santa Luċija,iso,Saint Lucia's,35.856142,14.50436,True
+Q4482,MT,Santa Venera,iso,Santa Venera,35.8902201,14.4766974,True
+Q4483,MT,Senglea,iso,Isla,35.8873041,14.5167371,True
+Q4484,MT,Siġġiewi,iso,Siġġiewi,35.8463742,14.4315746,True
+Q4485,MT,Sliema,iso,Sliema,35.9110081,14.502904,True
+Q4486,MT,St. Julian's,iso,Saint Julian's,42.2122513,-85.8917127,False
+Q4487,MT,St. Paul's Bay,iso,Saint Paul's Bay,35.936017,14.3966503,True
+Q4488,MT,Swieqi,iso,Swieqi,35.9191182,14.4694186,True
+Q4489,MT,Ta' Xbiex,iso,Ta' Xbiex,35.8991448,14.4963519,True
+Q4490,MT,Tarxien,iso,Tarxien,35.8672552,14.5116405,True
+Q4491,MT,Valletta,iso,Valletta,35.8989085,14.5145528,True
+Q4492,MT,Victoria,iso,Rabat Gozo,28.8052674,-97.0035982,False
+Q4493,MT,Xagħra,iso,Xagħra,36.050845,14.267482,False
+Q4494,MT,Xewkija,iso,Xewkija,36.0299236,14.2599437,True
+Q4495,MT,Xgħajra,iso,Xgħajra,35.8868282,14.5472391,False
+Q4496,MT,Żabbar,iso,Żabbar,35.8724715,14.5451354,True
+Q4497,MT,Żebbuġ Gozo,iso,Żebbuġ Gozo,36.0716403,14.245408,True
+Q4498,MT,Żebbuġ Malta,iso,Żebbuġ Malta,35.8764648,14.439084,True
+Q4499,MT,Żejtun,iso,Żejtun,35.8548714,14.5363969,True
+Q4500,MT,Żurrieq,iso,Żurrieq,35.8216306,14.4810648,True
+Q4503,MR,Adrar,name,Adrar,19.8652176,-12.8054753,True
+Q4504,MR,Assaba,name,Assaba,16.7759558,-11.5248055,True
+Q4505,MR,Brakna,name,Brakna,17.2317561,-13.1740348,True
+Q4506,MR,Dakhlet Nouadhibou,name,Dakhlet Nouadhibou,20.5985588,-16.2522143,True
+Q4507,MR,Gorgol,name,Gorgol,15.9717357,-12.6216211,True
+Q4508,MR,Guidimaka,name,Guidimaka,15.2557331,-12.2547919,True
+Q4509,MR,Hodh Ech Chargui,name,Hodh ech Chargui,18.6737026,-7.092877,True
+Q4510,MR,Hodh El Gharbi,name,Hodh el Gharbi,16.6912149,-9.5450974,True
+Q4511,MR,Inchiri,name,Inchiri,20.0280561,-15.4068079,True
+Q4515,MR,Tagant,name,Tagant,18.5467527,-9.9018131,True
+Q4516,MR,Tiris Zemmour,name,Tiris Zemmour,24.5773764,-9.9018131,True
+Q4517,MR,Trarza,name,Trarza,17.8664964,-14.6587821,True
+Q4518,MU,Agalega Islands,iso,Agaléga,-10.4,56.6166667,True
+Q4519,MU,Black River,iso,Black River,-20.3708492,57.3948649,True
+Q4520,MU,Flacq,iso,Flacq,-20.2257836,57.7119274,True
+Q4521,MU,Grand Port,iso,Grand Port,-20.3851546,57.6665742,True
+Q4522,MU,Moka,iso,Moka,-20.2399782,57.575926,True
+Q4523,MU,Pamplemousses,iso,Pamplemousses,-20.1136008,57.575926,True
+Q4524,MU,Plaines Wilhems,iso,Plaines Wilhems,-20.3054872,57.4853561,True
+Q4525,MU,Port Louis,name,Port Louis,-20.1608912,57.5012222,True
+Q4526,MU,Rivière du Rempart,iso,Rivière du Rempart,-20.0560983,57.6552389,True
+Q4527,MU,Rodrigues Island,iso,Rodrigues,-19.7245385,63.4272185,True
+Q4528,MU,Saint Brandon Islands,iso,St. Brandon,-16.583333,59.616667,False
+Q4529,MU,Savanne,iso,Savanne,-20.473953,57.4853561,True
+Q4530,MX,Aguascalientes,iso,Aguascalientes,21.8852562,-102.2915677,True
+Q4531,MX,Baja California,iso,Baja California,30.8406338,-115.2837585,True
+Q4532,MX,Baja California Sur,iso,Baja California Sur,26.0444446,-111.6660725,True
+Q4533,MX,Campeche,iso,Campeche,19.8301251,-90.5349087,True
+Q4534,MX,Chiapas,iso,Chiapas,16.7569318,-93.1292353,True
+Q4535,MX,Chihuahua,iso,Chihuahua,28.6329957,-106.0691004,True
+Q4536,MX,Ciudad de México,alt name,Distrito Federal,19.4326077,-99.133208,True
+Q4537,MX,Coahuila de Zaragoza,iso,Coahuila de Zaragoza,27.058676,-101.7068294,True
+Q4538,MX,Colima,iso,Colima,19.2452342,-103.7240868,True
+Q4539,MX,Durango,iso,Durango,37.27528,-107.8800667,False
+Q4541,MX,Guanajuato,iso,Guanajuato,21.0190145,-101.2573586,True
+Q4542,MX,Guerrero,iso,Guerrero,17.4391926,-99.5450974,True
+Q4543,MX,Hidalgo,iso,Hidalgo,26.1003547,-98.2630684,False
+Q4544,MX,Jalisco,iso,Jalisco,20.6595382,-103.3494376,True
+Q4545,MX,Michoacán de Ocampo,iso,Michoacan de Ocampo,19.5665192,-101.7068294,True
+Q4546,MX,Morelos,iso,Morelos,18.6813049,-99.1013498,True
+Q4547,MX,Nayarit,iso,Nayarit,21.7513844,-104.8454619,True
+Q4548,MX,Nuevo León,iso,Nuevo Leon,25.592172,-99.9961947,True
+Q4549,MX,Oaxaca,iso,Oaxaca,17.0731842,-96.7265889,True
+Q4550,MX,Puebla,iso,Puebla,19.0414398,-98.2062727,True
+Q4551,MX,Querétaro,iso,Queretaro de Arteaga,20.5887932,-100.3898881,True
+Q4552,MX,Quintana Roo,iso,Quintana Roo,19.1817393,-88.4791376,True
+Q4553,MX,San Luis Potosí,iso,San Luis Potosi,22.1564699,-100.9855409,True
+Q4554,MX,Sinaloa,iso,Sinaloa,25.1721091,-107.4795173,True
+Q4555,MX,Sonora,iso,Sonora,37.9829496,-120.3821724,False
+Q4556,MX,Tabasco,iso,Tabasco,17.8409173,-92.6189273,True
+Q4557,MX,Tamaulipas,iso,Tamaulipas,24.26694,-98.8362755,True
+Q4558,MX,Tlaxcala,iso,Tlaxcala,19.318154,-98.2374954,True
+Q4559,MX,Veracruz de Ignacio de la Llave,iso,Veracruz de Ignacio de la Llave,19.173773,-96.1342241,True
+Q4560,MX,Yucatán,iso,Yucatan,20.7098786,-89.0943377,True
+Q4561,MX,Zacatecas,iso,Zacatecas,22.7708555,-102.5832426,True
+Q4562,FM,Chuuk State,iso,Chuuk,7.1386759,151.5593065,False
+Q4563,FM,Kosrae State,iso,Kosrae,5.3095618,162.9814877,True
+Q4564,FM,Pohnpei State,iso,Pohnpei,6.8541254,158.2623822,True
+Q4565,FM,Yap State,iso,Yap,8.671649,142.8439335,False
+Q4566,MD,Anenii Noi District,iso,Anenii Noi,46.8795663,29.2312175,True
+Q4567,MD,Bălți Municipality,iso,Balti,47.7539947,27.9184148,True
+Q4568,MD,Basarabeasca District,iso,Basarabeasca,46.423706,28.8935492,True
+Q4569,MD,Bender Municipality,iso,Bender,46.8227551,29.4620101,True
+Q4570,MD,Briceni District,iso,Briceni,48.3632022,27.0750398,True
+Q4571,MD,Cahul District,iso,Cahul,45.8939404,28.1890275,True
+Q4572,MD,Călărași District,iso,Calarasi,47.286946,28.274531,True
+Q4573,MD,Cantemir District,iso,Cantemir,46.2771742,28.2009653,True
+Q4574,MD,Căușeni District,iso,Causeni,46.6554715,29.4091222,True
+Q4575,MD,Chișinău Municipality,iso,Chisinau,47.0104529,28.8638102,True
+Q4576,MD,Cimișlia District,iso,Cimislia,46.5250851,28.7721835,True
+Q4577,MD,Criuleni District,iso,Criuleni,47.2136114,29.1557519,True
+Q4578,MD,Dondușeni District,iso,Donduseni,48.2338305,27.5998087,True
+Q4579,MD,Drochia District,iso,Drochia,48.0797788,27.8604114,True
+Q4580,MD,Dubăsari District,iso,Dubasari,47.2643942,29.1550348,True
+Q4581,MD,Edineț District,iso,Edinet,48.1678991,27.2936143,True
+Q4582,MD,Fălești District,iso,Falesti,47.5647725,27.7265593,True
+Q4583,MD,Florești District,iso,Floresti,47.8667849,28.3391864,True
+Q4584,MD,Gagauzia,iso,Gagauzia,46.0979435,28.6384645,True
+Q4585,MD,Glodeni District,iso,Glodeni,47.7790156,27.516801,True
+Q4586,MD,Hîncești District,iso,Hincesti,46.8281147,28.5850889,True
+Q4587,MD,Ialoveni District,iso,Ialoveni,46.863086,28.8234218,True
+Q4588,MD,Nisporeni District,iso,Nisporeni,47.0751349,28.1768155,True
+Q4589,MD,Ocnița District,iso,Ocnita,48.4110435,27.4768092,True
+Q4590,MD,Orhei District,iso,Orhei,47.38604,28.8303082,True
+Q4591,MD,Rezina District,iso,Rezina,47.7180447,28.8871024,True
+Q4592,MD,Rîșcani District,iso,RIscani,47.9070153,27.5374996,True
+Q4593,MD,Sîngerei District,iso,SIngerei,47.6389134,28.1371816,True
+Q4594,MD,Șoldănești District,iso,Soldanesti,47.8147389,28.7889586,True
+Q4595,MD,Soroca District,iso,Soroca,48.1549743,28.2870783,True
+Q4596,MD,Ștefan Vodă District,iso,Stefan Voda,46.5540488,29.702242,True
+Q4597,MD,Strășeni District,iso,Straseni,47.1450267,28.6136736,True
+Q4598,MD,Taraclia District,iso,Taraclia,45.898651,28.6671644,True
+Q4599,MD,Telenești District,iso,Telenesti,47.4983962,28.3676019,True
+Q4600,MD,Transnistria autonomous territorial unit,iso,Transnistria,47.2152972,29.4638054,True
+Q4601,MD,Ungheni District,iso,Ungheni,47.2305767,27.7892661,True
+Q4605,MN,Arkhangai Province,iso,Arkhangai,47.8971101,100.7240165,True
+Q4606,MN,Bayan-Ölgii Province,iso,Bayan-Ölgii,48.3983254,89.6625915,True
+Q4607,MN,Bayankhongor Province,iso,Bayankhongor,45.1526707,100.1073667,True
+Q4608,MN,Bulgan Province,iso,Bulgan,48.9690913,102.8831723,True
+Q4609,MN,Darkhan-Uul Province,iso,Darkhan-Uul,49.4648434,105.9745919,True
+Q4610,MN,Dornod Province,iso,Dornod,47.4658154,115.392712,True
+Q4611,MN,Dornogovi Province,iso,Dornogovi,43.9653889,109.1773459,True
+Q4612,MN,Dundgovi Province,iso,Dundgovi,45.5822786,106.7644209,True
+Q4613,MN,Govi-Altai Province,iso,Govi-Altai,45.4511227,95.8505766,True
+Q4614,MN,Govisümber Province,iso,Govisumber,46.4762754,108.5570627,True
+Q4615,MN,Khentii Province,iso,Khentii,47.6081209,109.9372856,True
+Q4616,MN,Khovd Province,iso,Khovd,47.1129654,92.3110752,True
+Q4617,MN,Khövsgöl Province,iso,Hovsgel,50.2204484,100.3213768,True
+Q4618,MN,Ömnögovi Province,iso,Ömnögovi,43.500024,104.2861116,True
+Q4619,MN,Orkhon Province,iso,Orkhon,49.004705,104.3016527,True
+Q4620,MN,Övörkhangai Province,iso,Övörkhangai,45.7624392,103.0917032,True
+Q4621,MN,Selenge Province,iso,Selenge,50.0059273,106.4434108,True
+Q4622,MN,Sükhbaatar Province,iso,Sükhbaatar,46.5653163,113.5380836,True
+Q4623,MN,Töv Province,iso,Töv,47.2124056,106.41541,True
+Q4624,MN,Uvs Province,iso,Uvs,49.6449707,93.2736576,True
+Q4625,MN,Zavkhan Province,iso,Zavkhan,48.2388147,96.0703019,True
+Q4626,ME,Andrijevica Municipality,iso,Andrijevica Municipality,42.7362477,19.7859556,True
+Q4627,ME,Bar Municipality,iso,Bar Municipality,42.1278119,19.140438,True
+Q4628,ME,Berane Municipality,iso,Berane Municipality,42.8257289,19.9020509,True
+Q4629,ME,Bijelo Polje Municipality,iso,Bijelo Polje Municipality,43.0846526,19.7115472,True
+Q4630,ME,Budva Municipality,iso,Budva Municipality,42.314072,18.8313832,True
+Q4631,ME,Danilovgrad Municipality,iso,Danilovgrad Municipality,42.58357,19.140438,True
+Q4632,ME,Gusinje Municipality,iso,Gusinje Municipality,42.5563455,19.8306051,True
+Q4633,ME,Kolašin Municipality,iso,Kolašin Municipality,42.7601916,19.4259114,True
+Q4634,ME,Kotor Municipality,iso,Kotor Municipality,42.5740261,18.6413145,True
+Q4635,ME,Mojkovac Municipality,iso,Mojkovac Municipality,42.9688018,19.5211063,True
+Q4636,ME,Nikšić Municipality,iso,Nikšić Municipality,42.7997184,18.7600963,True
+Q4637,ME,Old Royal Capital Cetinje,iso,Cetinje Municipality,42.3930959,18.9115964,True
+Q4638,ME,Petnjica Municipality,iso,Petnjica Municipality,42.935348,20.0211449,True
+Q4639,ME,Plav Municipality,iso,Plav Municipality,42.6001337,19.9407541,True
+Q4640,ME,Pljevlja Municipality,iso,Pljevlja Municipality,43.2723383,19.2831531,True
+Q4641,ME,Plužine Municipality,iso,Plužine Municipality,43.1593384,18.8551484,True
+Q4642,ME,Podgorica Municipality,iso,Podgorica Municipality,42.3693834,19.2831531,True
+Q4643,ME,Rožaje Municipality,iso,Rožaje Municipality,42.8408389,20.1670628,True
+Q4644,ME,Šavnik Municipality,iso,Šavnik Municipality,42.9603756,19.140438,True
+Q4645,ME,Tivat Municipality,iso,Tivat Municipality,42.42348,18.7185184,True
+Q4646,ME,Ulcinj Municipality,iso,Ulcinj Municipality,41.9652795,19.3069432,True
+Q4647,ME,Žabljak Municipality,iso,Žabljak Municipality,43.1555152,19.1226018,True
+Q4655,MA,Béni Mellal-Khénifra,iso,Béni Mellal-Khénifra,32.5719184,-6.0679194,True
+Q4662,MA,Casablanca-Settat,iso,Casablanca-Settat,33.2160872,-7.4381355,True
+Q4666,MA,Dakhla-Oued Ed-Dahab (EH),iso,Dakhla-Oued Ed-Dahab,22.7337892,-14.2861116,True
+Q4667,MA,Drâa-Tafilalet,iso,Drâa-Tafilalet,31.1499538,-5.3939551,True
+Q4677,MA,Fès-Meknès,iso,Fez-Meknes,34.062529,-4.7277528,True
+Q4681,MA,Guelmim-Oued Noun (EH-partial),iso,Guelmim-Oued Noun,28.4844281,-10.0807298,True
+Q4690,MA,L'Oriental,iso,Oriental,37.069683,-94.512277,False
+Q4692,MA,Laâyoune-Sakia El Hamra (EH-partial),iso,Laâyoune-Sakia El Hamra,27.8683194,-11.9804613,True
+Q4696,MA,Marrakesh-Safi,iso,Marrakech-Safi,31.7330833,-8.1338558,True
+Q4709,MA,Rabat-Salé-Kénitra,iso,Rabat-Salé-Kenitra,34.076864,-7.3454476,False
+Q4720,MA,Souss-Massa,iso,Souss-Massa,30.2750611,-8.1338558,True
+Q4723,MA,Tanger-Tétouan-Al Hoceïma,iso,Tangier-Tetouan-Al Hoceima,35.2629558,-5.5617279,True
+Q4735,MZ,Cabo Delgado Province,iso,Cabo Delgado,-12.3335474,39.3206241,True
+Q4736,MZ,Gaza Province,iso,Gaza,-23.0221928,32.7181375,True
+Q4737,MZ,Inhambane Province,iso,Inhambane,-22.8527997,34.5508758,True
+Q4738,MZ,Manica Province,iso,Manica,-19.5059787,33.438353,True
+Q4741,MZ,Nampula Province,iso,Nampula,-14.7604931,39.3206241,True
+Q4742,MZ,Niassa Province,iso,Niassa,-12.7826202,36.6093926,True
+Q4743,MZ,Sofala Province,iso,Sofala,-19.2039073,34.8624166,True
+Q4744,MZ,Tete Province,iso,Tete,-15.6596056,32.7181375,True
+Q4745,MZ,Zambezia Province,iso,Zambézia,-16.5638987,36.6093926,True
+Q4746,MM,Ayeyarwady Region,iso,Ayeyarwady,17.0342125,95.2266675,True
+Q4747,MM,Bago,iso,Bago,17.3220711,96.4663286,True
+Q4748,MM,Chin State,iso,Chin,22.0086978,93.5812692,True
+Q4749,MM,Kachin State,iso,Kachin,25.850904,97.4381355,True
+Q4750,MM,Kayah State,iso,Kayah,19.2342061,97.2652858,True
+Q4751,MM,Kayin State,iso,Kayin,16.9459346,97.9592863,True
+Q4752,MM,Magway Region,iso,Magway,19.8871386,94.7277528,True
+Q4753,MM,Mandalay Region,iso,Mandalay,21.5619058,95.8987139,True
+Q4754,MM,Mon State,iso,Mon,16.3003133,97.6982272,True
+Q4756,MM,Rakhine State,iso,Rakhine,20.1040818,93.5812692,True
+Q4757,MM,Sagaing Region,iso,Saigang,24.428381,95.3939551,True
+Q4758,MM,Shan State,iso,Shan,22.0361985,98.1338558,True
+Q4759,MM,Tanintharyi Region,iso,Tanitharyi,12.4706876,99.0128926,True
+Q4760,MM,Yangon Region,iso,Yangon,16.9143488,96.1526985,True
+Q4761,NA,Erongo Region,iso,Erongo,-22.2565682,15.4068079,True
+Q4762,NA,Hardap Region,iso,Hardap,-24.2310134,17.668887,True
+Q4763,NA,Karas Region,iso,Karas,-26.8429645,17.2902839,True
+Q4766,NA,Khomas Region,iso,Khomas,-22.6377854,17.1011931,True
+Q4767,NA,Kunene Region,iso,Kunene,-19.4086317,13.914399,True
+Q4768,NA,Ohangwena Region,iso,Ohangwena,-17.5979291,16.8178377,True
+Q4769,NA,Omaheke Region,iso,Omaheke,-21.8466651,19.1880047,True
+Q4770,NA,Omusati Region,iso,Omusati,-18.4070294,14.8454619,True
+Q4771,NA,Oshana Region,iso,Oshana,-18.4305064,15.6881788,True
+Q4772,NA,Oshikoto Region,iso,Oshikoto,-18.4152575,16.912251,True
+Q4773,NA,Otjozondjupa Region,iso,Otjozondjupa,-20.5486916,17.668887,True
+Q4774,NA,Zambezi Region,iso,Caprivi,-17.8193419,23.9536466,True
+Q4775,NR,Aiwo District,iso,Aiwo,-0.5340012,166.9138873,True
+Q4776,NR,Anabar District,iso,Anabar,-0.5133517,166.9484624,True
+Q4777,NR,Anetan District,iso,Anetan,-0.5064343,166.9427006,True
+Q4778,NR,Anibare District,iso,Anibare,-0.5294758,166.9513432,True
+Q4779,NR,Baiti District,iso,Baiti,-0.510431,166.9275744,True
+Q4780,NR,Boe District,iso,Boe,39.0732776,-94.5710498,False
+Q4781,NR,Buada District,iso,Buada,-0.5328777,166.9268541,True
+Q4782,NR,Denigomodu District,iso,Denigomodu,-0.5247964,166.9167689,True
+Q4783,NR,Ewa District,iso,Ewa,-0.5087241,166.9369384,True
+Q4784,NR,Ijuw District,iso,Ijuw,-0.5202767,166.9571046,True
+Q4785,NR,Meneng District,iso,Meneng,-0.546724,166.938379,True
+Q4786,NR,Nibok District,iso,Nibok,-0.5196208,166.9189301,True
+Q4787,NR,Uaboe District,iso,Uaboe,-0.5202222,166.9311761,True
+Q4788,NR,Yaren District,iso,Yaren,-0.5466857,166.9210913,True
+Q4789,NP,Bagmati Zone,name,Bagmati,28.0367577,85.4375574,True
+Q4795,NP,Gandaki Zone,name,Gandaki,28.3732037,84.4382721,True
+Q4797,NP,Karnali Zone,name,Karnali,29.3862555,82.3885783,True
+Q4799,NP,Lumbini Zone,name,Lumbini,27.45,83.25,True
+Q4809,NL,Drenthe,iso,Drenthe,52.9476012,6.6230586,True
+Q4810,NL,Flevoland,iso,Flevoland,52.5279781,5.5953508,True
+Q4811,NL,Friesland,iso,Fryslân,53.1641642,5.7817542,True
+Q4812,NL,Gelderland,iso,Gelderland,52.045155,5.8718235,True
+Q4813,NL,Groningen,iso,Groningen,53.2193835,6.5665017,True
+Q4814,NL,Limburg,iso,Limburg,51.4427238,6.0608726,True
+Q4815,NL,North Brabant,iso,Noord-Brabant,51.4826537,5.2321687,True
+Q4816,NL,North Holland,iso,Noord-Holland,52.5205869,4.788474,True
+Q4817,NL,Overijssel,iso,Overijssel,52.4387814,6.5016411,True
+Q4820,NL,South Holland,iso,Zuid-Holland,51.9966792,4.5597397,True
+Q4821,NL,Utrecht,iso,Utrecht,52.0907374,5.1214201,True
+Q4822,NL,Zeeland,iso,Zeeland,51.4940309,3.8496815,True
+Q4826,NZ,Auckland Region,iso,Auckland Region,-36.6675328,174.7733325,True
+Q4827,NZ,Bay of Plenty Region,iso,Bay of Plenty Region,-37.4233917,176.7416374,False
+Q4828,NZ,Canterbury Region,iso,Canterbury Region,-43.7542275,171.1637245,True
+Q4829,NZ,Chatham Islands,iso,Chatham Islands Territory,-44.0057523,-176.5400674,True
+Q4830,NZ,Gisborne District,iso,Gisborne Region,-38.1358174,178.3239309,True
+Q4831,NZ,Hawke's Bay Region,iso,Hawke's Bay Region,-39.6016597,176.5804473,True
+Q4832,NZ,Manawatu-Wanganui Region,iso,Manawatu-Wanganui Region,-39.7273356,175.4375574,True
+Q4833,NZ,Marlborough Region,iso,Marlborough Region,-41.5916883,173.7624053,True
+Q4834,NZ,Nelson Region,name,Nelson Region,-41.2985397,173.2441491,True
+Q4835,NZ,Northland Region,iso,Northland Region,-35.4136172,173.9320806,True
+Q4836,NZ,Otago Region,iso,Otago Region,-45.4790671,170.1547567,True
+Q4837,NZ,Southland Region,iso,Southland Region,-45.8489159,167.6755387,True
+Q4838,NZ,Taranaki Region,iso,Taranaki Region,-39.3538149,174.4382721,True
+Q4839,NZ,Tasman District,iso,Tasman Region,-41.4571184,172.820974,True
+Q4840,NZ,Waikato Region,iso,Waikato Region,-37.6190862,175.023346,True
+Q4841,NZ,Wellington Region,iso,Wellington Region,-41.0299323,175.4375574,True
+Q4842,NZ,West Coast Region,iso,West Coast Region,62.4113634,-149.0729714,False
+Q4843,NI,Boaco,iso,Boaco,12.469284,-85.6614682,True
+Q4844,NI,Carazo,iso,Carazo,11.7274729,-86.2158497,True
+Q4845,NI,Chinandega,iso,Chinandega,12.8820062,-87.1422895,True
+Q4846,NI,Chontales,iso,Chontales,11.9394717,-85.1894045,True
+Q4847,NI,Estelí,iso,Estelí,13.0851139,-86.3630197,True
+Q4848,NI,Granada,iso,Granada,11.9344073,-85.9560005,True
+Q4849,NI,Jinotega,iso,Jinotega (Departamento),13.0883907,-85.9993997,True
+Q4850,NI,León,iso,Leon,12.5092037,-86.6611083,True
+Q4851,NI,Madriz,iso,Madriz,13.4726005,-86.4592091,True
+Q4852,NI,Managua,iso,Managua,12.1391699,-86.3376761,True
+Q4853,NI,Masaya,iso,Masaya,11.9759328,-86.0733498,True
+Q4854,NI,Matagalpa,iso,Matagalpa (Departemento),12.9498436,-85.4375574,True
+Q4855,NI,North Caribbean Coast,iso,North Carribean Coast Autonomous Region,13.8394456,-83.9320806,True
+Q4856,NI,Nueva Segovia,iso,Nueva Segovia,13.7657061,-86.5370039,True
+Q4857,NI,Río San Juan,iso,Rio San Juan,11.478161,-84.7733325,True
+Q4858,NI,Rivas,iso,Rivas,11.402349,-85.684578,True
+Q4859,NI,South Caribbean Coast,iso,South Atlantic Autonomous Region,12.1918502,-84.1012861,True
+Q4860,NE,Agadez Region,iso,Tahoua/Agadez,20.6670752,12.0718281,True
+Q4861,NE,Diffa Region,iso,Zinder/Diffa,13.6768647,12.7135121,True
+Q4862,NE,Dosso Region,iso,Dossa,13.1513947,3.4195527,True
+Q4863,NE,Maradi Region,iso,Maradi,13.8018074,7.4381355,True
+Q4864,NE,Tahoua Region,iso,Tillaberi,16.0902543,5.3939551,False
+Q4867,NG,Abia,iso,Abia,5.4527354,7.5248414,True
+Q4868,NG,Abuja Federal Capital Territory,iso,Abuja Federal Capital Territory,8.8940691,7.1860402,True
+Q4869,NG,Adamawa,iso,Adamawa,9.3264751,12.3983853,True
+Q4870,NG,Akwa Ibom,iso,Akwa Ibom,4.9057371,7.8536675,True
+Q4871,NG,Anambra,iso,Anambra,6.2208997,6.9369559,True
+Q4872,NG,Bauchi,iso,Bauchi,10.7760624,9.9991943,True
+Q4873,NG,Bayelsa,iso,Bayelsa,4.7719071,6.0698526,True
+Q4874,NG,Benue,iso,Benue,7.3369024,8.7403687,True
+Q4875,NG,Borno,iso,Borno,11.8846356,13.1519665,True
+Q4876,NG,Cross River,iso,Cross River,5.8701724,8.5988014,True
+Q4877,NG,Delta,iso,Delta,33.7453784,-90.7354508,False
+Q4878,NG,Ebonyi,iso,Ebonyi,6.2649232,8.0137302,True
+Q4879,NG,Edo,iso,Edo,6.6341831,5.9304056,True
+Q4880,NG,Ekiti,iso,Ekiti,7.7189862,5.3109505,True
+Q4881,NG,Enugu,iso,Enugu,6.536353,7.4356194,True
+Q4882,NG,Gombe,iso,Gombe,10.3637795,11.1927587,True
+Q4883,NG,Imo,iso,Imo,5.5720122,7.0588219,True
+Q4884,NG,Jigawa,iso,Jigawa,12.228012,9.5615867,True
+Q4885,NG,Kaduna,iso,Kaduna,10.3764006,7.7094537,True
+Q4886,NG,Kano,iso,Kano,11.7470698,8.5247107,True
+Q4887,NG,Katsina,iso,Katsina,12.3796707,7.6305748,True
+Q4888,NG,Kebbi,iso,Kebbi,11.4942003,4.2333355,True
+Q4889,NG,Kogi,iso,Kogi,7.7337325,6.6905836,True
+Q4890,NG,Kwara,iso,Kwara,8.9668961,4.3874051,True
+Q4891,NG,Lagos,iso,Lagos,6.5243793,3.3792057,True
+Q4892,NG,Nasarawa,iso,Nasarawa,8.4997908,8.1996937,True
+Q4893,NG,Niger,iso,Niger,9.9309224,5.598321,True
+Q4894,NG,Ogun,iso,Ogun,6.9979747,3.4737378,True
+Q4895,NG,Ondo,iso,Ondo,6.9148682,5.1478144,True
+Q4896,NG,Osun,iso,Osun,7.5628964,4.5199593,True
+Q4897,NG,Oyo,iso,Oyo,8.1573809,3.6146534,True
+Q4898,NG,Plateau,iso,Plateau,9.2182093,9.5179488,True
+Q4899,NG,Rivers,iso,Rivers,5.021342,6.4376022,True
+Q4900,NG,Sokoto,iso,Sokoto,13.0533143,5.3222722,True
+Q4901,NG,Taraba,iso,Taraba,7.9993616,10.7739863,True
+Q4902,NG,Yobe,iso,Yobe,12.293876,11.4390411,True
+Q4903,NG,Zamfara,iso,Zamfara,12.1221805,6.2235819,True
+Q4905,KP,Kangwon Province,name,Kangwon,38.8432393,127.5597067,True
+Q4906,KP,North Hamgyong Province,name,North Hamgyong,41.8148758,129.4581955,True
+Q4907,KP,North Hwanghae Province,name,North Hwanghae,38.3786085,126.4364363,True
+Q4908,KP,North Pyongan Province,name,North Pyongan,39.9255618,125.3928025,True
+Q4909,KP,Pyongyang,name,Pyongyang,39.0392193,125.7625241,True
+Q4911,KP,Ryanggang Province,name,Ryanggang,41.2318921,128.5076359,True
+Q4912,KP,South Hamgyong Province,name,South Hamgyong,40.3725339,128.298884,True
+Q4913,KP,South Hwanghae Province,name,South Hwanghae,38.2007215,125.4781926,True
+Q4914,KP,South Pyongan Province,name,South Pyongan,39.3539178,126.168271,True
+Q4999,NO,Agder,iso,Agder,58.7406934,6.7531521,True
+Q5000,NO,Innlandet,iso,Innlandet,61.1935787,5.5083266,False
+Q5002,NO,Møre og Romsdal,iso,Møre og Romsdal,62.8406833,7.007143,True
+Q5003,NO,Nordland,iso,Nordland,67.693058,12.7073936,True
+Q5004,NO,Oslo,iso,Oslo,59.9138688,10.7522454,True
+Q5005,NO,Rogaland,iso,Rogaland,59.1489544,6.0143432,True
+Q5007,NO,Troms og Finnmark,iso,Troms og Finnmark,69.7789067,18.9940184,True
+Q5008,NO,Trøndelag,iso,Trøndelag,63.5420125,10.9369267,True
+Q5009,NO,Vestfold og Telemark,iso,Vestfold og Telemark,59.4117482,7.7647175,True
+Q5010,NO,Vestland,iso,Vestland,60.9069442,3.9627081,False
+Q5011,NO,Viken,iso,Viken,59.9653005,7.4505144,False
+Q5012,OM,Ad Dakhiliyah,name,Ad Dakhiliyah,22.8588758,57.5394356,True
+Q5015,OM,Al Batinah Region,name,Al Batinah,24.3419846,56.7298904,True
+Q5018,OM,Al Wusta,name,Al Wusta,19.9571078,56.2756846,True
+Q5020,OM,Ash Sharqiyah Region,name,Ash Sharqiyah,22.7141196,58.5308064,True
+Q5022,OM,Dhofar,name,Dhofar,17.0322121,54.1425214,True
+Q5024,OM,Muscat,name,Muscat,23.5880307,58.3828717,True
+Q5025,PK,Azad Kashmir,iso,Azad Kashmir,33.9259055,73.7810334,True
+Q5026,PK,Balochistan,iso,Balochistan,28.4907332,65.0957792,True
+Q5028,PK,Gilgit-Baltistan,iso,Gilgit-Baltistan,35.8025667,74.9831808,True
+Q5029,PK,Islamabad Capital Territory,iso,Islamabad Capital Territory,33.7204997,73.0405277,True
+Q5030,PK,Khyber Pakhtunkhwa,iso,Khyber Pakhtunkhwa,34.9526205,72.331113,True
+Q5031,PK,Punjab,iso,Punjab,31.1471305,75.3412179,False
+Q5032,PK,Sindh,iso,Sindh,25.8943018,68.5247149,True
+Q5033,PW,Aimeliik,iso,Aimeliik,7.4455859,134.5030878,True
+Q5034,PW,Airai,iso,Airai,7.3966118,134.5690225,True
+Q5035,PW,Angaur,iso,Angaur,6.909223,134.1387934,True
+Q5036,PW,Hatohobei,iso,Hatohobei,3.0070658,131.1237781,True
+Q5037,PW,Kayangel,iso,Kayangel,8.07,134.702778,True
+Q5038,PW,Koror,iso,Koror,7.3375646,134.4889469,True
+Q5039,PW,Melekeok,iso,Melekeok,7.5150286,134.5972518,True
+Q5040,PW,Ngaraard,iso,Ngaraard,7.60794,134.6348645,True
+Q5041,PW,Ngarchelong,iso,Ngarchelong,7.7105469,134.6301646,True
+Q5042,PW,Ngardmau,iso,Ngardmau,7.5850486,134.5596089,True
+Q5043,PW,Ngatpang,iso,Ngatpang,7.4710994,134.5266466,True
+Q5044,PW,Ngchesar,iso,Ngchesar,7.452328,134.5784342,True
+Q5045,PW,Ngeremlengui,iso,Ngeremlengui,7.5198397,134.5596089,True
+Q5046,PW,Ngiwal,iso,Ngiwal,7.5614764,134.6160619,True
+Q5047,PW,Peleliu,iso,Peleliu,7.0022906,134.2431628,True
+Q5048,PW,Sonsorol,iso,Sonsorol,5.3268119,132.2239117,True
+Q5065,PA,Bocas del Toro Province,iso,Provincia de Bocas del Toro,9.4165521,-82.5207787,True
+Q5066,PA,Chiriquí Province,iso,Provincia de Chiriquí,8.584898,-82.3885783,True
+Q5067,PA,Coclé Province,iso,Provincia de Coclé,8.6266068,-80.365865,True
+Q5068,PA,Colón Province,iso,Colón Province,9.1851989,-80.0534923,True
+Q5069,PA,Darién Province,iso,Provincia de Darién,7.8681713,-77.8367282,True
+Q5070,PA,Emberá-Wounaan Comarca,iso,Comarca Emberá-Wounaan,8.3766983,-77.6536125,True
+Q5071,PA,Guna Yala,iso,Comarca Guna Yala,9.2344395,-78.192625,True
+Q5072,PA,Herrera Province,iso,Provincia de Herrera,7.7704282,-80.7214417,True
+Q5073,PA,Los Santos Province,iso,Provincia de Los Santos,7.5909302,-80.365865,True
+Q5074,PA,Ngöbe-Buglé Comarca,iso,Comarca Ngäbe-Buglé,8.6595833,-81.7787021,True
+Q5075,PA,Panamá Oeste Province,iso,Provincia de Panamá Oeste,9.1196751,-79.2902133,False
+Q5076,PA,Panamá Province,iso,Provincia de Panamá,9.1196751,-79.2902133,True
+Q5077,PA,Veraguas Province,iso,Provincia de Veraguas,8.1231033,-81.0754657,True
+Q5078,PG,Bougainville,iso,Autonomous Region of Bougainville,-6.3753919,155.3807101,True
+Q5080,PG,Chimbu Province,iso,Chimbu (Simbu) Province,-6.3087682,144.8731219,True
+Q5081,PG,East New Britain,iso,East New Britain Province,-4.6128943,151.8877321,True
+Q5082,PG,Eastern Highlands Province,iso,Eastern Highlands Province,-6.5861674,145.6689636,True
+Q5083,PG,Enga Province,iso,Enga Province,-5.3005849,143.5635637,True
+Q5084,PG,Gulf,iso,Gulf Province,37.0548315,-94.4370419,False
+Q5085,PG,Hela,name,Hela Province,42.3329516,-83.0482618,False
+Q5086,PG,Jiwaka Province,name,Jiwaka Province,-5.8691154,144.6972774,True
+Q5087,PG,Madang Province,iso,Madang Province,-4.9849733,145.1375834,True
+Q5088,PG,Manus Province,iso,Manus Province,-2.0941169,146.8760951,True
+Q5089,PG,Milne Bay Province,iso,Milne Bay Province,-9.5221451,150.6749653,True
+Q5090,PG,Morobe Province,iso,Morobe Province,-6.8013737,146.561647,True
+Q5091,PG,New Ireland Province,iso,New Ireland Province,-4.2853256,152.9205918,True
+Q5092,PG,Oro Province,iso,Northern (Oro) Province,-8.8988063,148.1892921,True
+Q5093,PG,Port Moresby,iso,National Capital District,-9.4438004,147.1802671,True
+Q5094,PG,Sandaun Province,iso,West Sepik (Sandaun) Province,-3.7126179,141.6834275,True
+Q5095,PG,Southern Highlands Province,iso,Southern Highlands Province,-6.4179083,143.5635637,True
+Q5096,PG,West New Britain Province,iso,West New Britain Province,-5.7047432,150.0259466,True
+Q5097,PG,Western Highlands Province,iso,Western Province,-5.6268128,144.2593118,False
+Q5099,PY,Alto Paraguay Department,iso,ALTO PARAGUAY,-20.0852508,-59.4720904,True
+Q5100,PY,Alto Paraná Department,iso,ALTO PARANA,-25.6075546,-54.9611836,True
+Q5101,PY,Amambay Department,iso,AMAMBAY,-22.5590272,-56.0249982,True
+Q5102,PY,Asuncion,iso,ASUNCION,-25.2968297,-57.6806623,True
+Q5103,PY,Boquerón Department,iso,BOQUERON,-21.7449254,-60.9540073,True
+Q5104,PY,Caaguazú,iso,CAAGUAZU,-25.4645818,-56.013851,True
+Q5105,PY,Caazapá,iso,CAAZAPA,-26.1827713,-56.3712327,True
+Q5106,PY,Canindeyú,iso,CANINDEYU,-24.1378735,-55.6689636,True
+Q5107,PY,Central Department,iso,CENTRAL,36.1559229,-95.9662075,False
+Q5108,PY,Concepción Department,iso,CONCEPCION,-23.4214264,-57.4344451,True
+Q5109,PY,Cordillera Department,iso,CORDILLERA,-25.2289491,-57.0111681,True
+Q5110,PY,Guairá Department,iso,GUAIRA,-25.8810932,-56.2929381,True
+Q5111,PY,Itapúa,iso,ITAPUA,-26.7923623,-55.6689636,True
+Q5112,PY,Misiones Department,iso,MISIONES,-26.8433512,-57.1013188,True
+Q5113,PY,Ñeembucú Department,iso,ÑEEMBUCU,-27.0299114,-57.825395,True
+Q5114,PY,Paraguarí Department,iso,PARAGUARI,-25.6262174,-57.1520642,True
+Q5115,PY,Presidente Hayes Department,iso,PRESIDENTE HAYES,-23.3512605,-58.7373634,True
+Q5116,PY,San Pedro Department,iso,SAN PEDRO,-24.1948668,-56.561647,True
+Q5118,PE,Áncash,iso,Ancash,-9.3250497,-77.5619419,True
+Q5119,PE,Apurímac,iso,Apurímac,-14.0504533,-73.087749,True
+Q5120,PE,Arequipa,iso,Arequipa,-16.4090474,-71.537451,True
+Q5121,PE,Ayacucho,iso,Ayacucho,-13.1638737,-74.2235641,True
+Q5122,PE,Cajamarca,iso,Cajamarca,-7.1617465,-78.5127855,True
+Q5123,PE,Callao,iso,El Callao,-12.0508491,-77.1259843,True
+Q5124,PE,Cusco,iso,Cusco,-13.53195,-71.9674626,True
+Q5125,PE,Huancavelica,iso,Huancavelica,-12.7861978,-74.9764024,True
+Q5126,PE,Huanuco,iso,Huánuco,-9.9207648,-76.2410843,True
+Q5127,PE,Ica,iso,Ica,42.3528832,-71.0430097,False
+Q5128,PE,Junín,iso,Junín,-11.1581925,-75.9926306,True
+Q5129,PE,La Libertad,iso,La Libertad,13.490697,-89.3084607,False
+Q5130,PE,Lambayeque,iso,Lambayeque,-6.7197666,-79.9080757,True
+Q5131,PE,Lima,iso,Lima,-12.0463731,-77.042754,False
+Q5132,PE,Loreto,iso,Loreto,-4.3741643,-76.1304264,True
+Q5133,PE,Madre de Dios,iso,Madre de Dios,-11.7668705,-70.8119953,True
+Q5134,PE,Moquegua,iso,Moquegua,-17.1927361,-70.9328138,True
+Q5135,PE,Pasco,iso,Pasco,46.2305049,-119.0922316,False
+Q5136,PE,Piura,iso,Piura,-5.1782884,-80.6548882,True
+Q5137,PE,Puno,iso,Puno,-15.8402218,-70.0218805,True
+Q5138,PE,San Martín,iso,San Martín,37.0849464,-121.6102216,False
+Q5139,PE,Tacna,iso,Tacna,-18.0065679,-70.2462741,True
+Q5140,PE,Tumbes,iso,Tumbes,-3.5564921,-80.4270885,True
+Q5141,PE,Ucayali,iso,Ucayali,-9.8251183,-73.087749,True
+Q5150,PH,Autonomous Region in Muslim Mindanao,iso,ARMM,6.9568313,124.2421597,True
+Q5156,PH,Bicol,iso,Bicol Region,13.4209885,123.4136736,True
+Q5162,PH,Cagayan Valley,iso,Cagayan Valley,16.9753758,121.8107079,True
+Q5163,PH,Calabarzon,iso,Calabarzon,14.1007803,121.0793705,True
+Q5168,PH,Caraga,iso,Caraga,8.8014562,125.7406882,True
+Q5172,PH,Central Luzon,iso,Central Luzon,15.4827722,120.7120023,True
+Q5173,PH,Central Visayas,iso,Central Visayas,9.816875,124.0641419,True
+Q5175,PH,Cordillera Administrative,iso,CAR,17.3512542,121.1718851,True
+Q5177,PH,Davao,iso,Davao Region,7.3041622,126.0893406,True
+Q5184,PH,Eastern Visayas,iso,Eastern Visayas,12.2445533,125.0388164,True
+Q5187,PH,Ilocos,iso,Ilocos Region,16.0832144,120.6199895,True
+Q5202,PH,Mimaropa,iso,Mimaropa,9.8432065,118.7364783,True
+Q5208,PH,Northern Mindanao,iso,Northern Mindanao,8.0201635,124.6856509,True
+Q5223,PH,Soccsksargen,iso,Soccsksargen,6.2706918,124.6856509,True
+Q5234,PH,Western Visayas,iso,Western Visayas,11.0049836,122.5372741,True
+Q5238,PH,Zamboanga Peninsula,iso,Zamboanga Peninsula,8.154077,123.258793,True
+Q5240,PL,Greater Poland Voivodeship,iso,Greater Poland Voivodeship,52.279986,17.3522939,True
+Q5241,PL,Kuyavian-Pomeranian Voivodeship,iso,Kuyavian-Pomeranian Voivodeship,53.1648363,18.4834224,True
+Q5242,PL,Lesser Poland Voivodeship,iso,Lesser Poland Voivodeship,49.7225306,20.2503358,True
+Q5243,PL,Lower Silesian Voivodeship,iso,Lower Silesian Voivodeship,51.1339861,16.8841961,True
+Q5244,PL,Lublin Voivodeship,iso,Lublin Voivodeship,51.2493519,23.1011392,True
+Q5245,PL,Lubusz Voivodeship,iso,Lubusz Voivodeship,52.2274612,15.2559103,True
+Q5246,PL,Łódź Voivodeship,iso,Łódź Voivodeship,51.4634771,19.1726974,True
+Q5247,PL,Masovian Voivodeship,iso,Masovian Voivodeship,51.8927182,21.0021679,True
+Q5248,PL,Opole Voivodeship,iso,Opole Voivodeship,50.8003761,17.937989,True
+Q5249,PL,Podkarpackie Voivodeship,iso,Subcarpathian Voivodeship,50.0574749,22.0895691,True
+Q5250,PL,Podlaskie Voivodeship,iso,Podlaskie Voivodeship,53.0697159,22.9674639,True
+Q5251,PL,Pomeranian Voivodeship,iso,Pomeranian Voivodeship,54.2944252,18.1531164,True
+Q5252,PL,Silesian Voivodeship,iso,Silesian Voivodeship,50.5716595,19.3219768,True
+Q5253,PL,Świętokrzyskie Voivodeship,iso,Świętokrzyskie Voivodeship,50.6261041,20.9406279,True
+Q5254,PL,Warmian-Masurian Voivodeship,iso,Warmian-Masurian Voivodeship,53.8671117,20.7027861,True
+Q5255,PL,West Pomeranian Voivodeship,iso,West Pomeranian Voivodeship,53.4657891,15.1822581,True
+Q5256,PT,Açores,iso,RegiÃ£o AutÃ³noma dos AÃ§ores,37.7412488,-25.6755944,True
+Q5257,PT,Aveiro,iso,AVEIRO,40.7209023,-8.5721016,True
+Q5258,PT,Beja,iso,BEJA,37.9687786,-7.87216,True
+Q5259,PT,Braga,iso,BRAGA,41.550388,-8.4261301,True
+Q5260,PT,Bragança,iso,BRAGANÃA,41.8061652,-6.7567427,True
+Q5261,PT,Castelo Branco,iso,CASTELO BRANCO,39.8631323,-7.4814163,True
+Q5262,PT,Coimbra,iso,COIMBRA,40.2057994,-8.41369,True
+Q5263,PT,Évora,iso,ÃVORA,38.5744468,-7.9076553,True
+Q5264,PT,Faro,iso,FARO,37.0193548,-7.9304397,True
+Q5265,PT,Guarda,iso,GUARDA,40.5385972,-7.2675772,True
+Q5266,PT,Leiria,iso,LEIRIA,39.7709532,-8.7921836,True
+Q5267,PT,Lisbon,iso,LISBOA,38.7223263,-9.1392714,True
+Q5268,PT,Madeira,iso,RegiÃ£o AutÃ³noma da Madeira,32.7607074,-16.9594723,True
+Q5269,PT,Portalegre,iso,PORTALEGRE,39.2967086,-7.4284755,True
+Q5270,PT,Porto,iso,PORTO,41.1476629,-8.6078973,True
+Q5271,PT,Santarém,iso,SANTARÃM,39.2366687,-8.6859944,True
+Q5272,PT,Setúbal,iso,SETÃBAL,38.5240933,-8.8925876,True
+Q5273,PT,Viana do Castelo,iso,VIANA DO CASTELO,41.6918046,-8.834451,True
+Q5274,PT,Vila Real,iso,VILA REAL,41.3003527,-7.7457274,True
+Q5275,PT,Viseu,iso,VISEU,40.6588424,-7.914756,True
+Q5364,QA,Al Daayen,iso,Al Daayen,25.5784559,51.4821387,True
+Q5365,QA,Al Khor,iso,Al Khor and Al Thakhira,25.6804078,51.4968502,True
+Q5366,QA,Al Rayyan Municipality,iso,Al Rayyan,25.2522551,51.4388713,True
+Q5367,QA,Al Wakrah,iso,Al Wakra,25.1659314,51.5975524,True
+Q5368,QA,Al-Shahaniya,iso,Al Sheehaniya,25.4106386,51.1846025,True
+Q5369,QA,Doha,iso,Doha,25.2854473,51.5310398,True
+Q5370,QA,Madinat ash Shamal,iso,Al Shamal,26.1182743,51.2157265,True
+Q5371,QA,Umm Salal Municipality,iso,Umm Slal,25.4875242,51.396568,True
+Q5372,RO,Alba,iso,ALBA,44.7009153,8.0356911,False
+Q5373,RO,Arad County,iso,ARAD,46.2283651,21.6597819,True
+Q5374,RO,Arges,iso,ARGES,45.0722527,24.8142726,True
+Q5375,RO,Bacău County,iso,BACAU,46.3258184,26.662378,True
+Q5376,RO,Bihor County,iso,BIHOR,47.0157516,22.172266,True
+Q5377,RO,Bistrița-Năsăud County,iso,BISTRITA-NASAUD,47.2486107,24.5322814,True
+Q5378,RO,Botoșani County,iso,BOTOSANI,47.8924042,26.7591781,True
+Q5379,RO,Braila,iso,BRAILA,45.2652463,27.9594714,True
+Q5380,RO,Brașov County,iso,BRASOV,45.7781844,25.22258,True
+Q5381,RO,Bucharest,iso,BUCURESTI,44.4267674,26.1025384,True
+Q5382,RO,Buzău County,iso,BUZAU,45.3350912,26.7107578,True
+Q5383,RO,Călărași County,iso,CALARASI,44.3658715,26.7548607,True
+Q5384,RO,Caraș-Severin County,iso,CARAS-SEVERIN,45.1139646,22.0740993,True
+Q5385,RO,Cluj County,iso,CLUJ,46.7941797,23.6121492,True
+Q5386,RO,Constanța County,iso,CONSTANTA,44.212987,28.2550055,True
+Q5387,RO,Covasna County,iso,COVASNA,45.9426347,25.8918984,True
+Q5388,RO,Dâmbovița County,iso,DAMBOVITA,44.9289893,25.425385,True
+Q5389,RO,Dolj County,iso,DOLJ,44.1623022,23.6325054,True
+Q5390,RO,Galați County,iso,GALATI,45.7800569,27.8251576,True
+Q5391,RO,Giurgiu County,iso,GIURGIU,43.9037076,25.9699265,True
+Q5392,RO,Gorj County,iso,GORJ,44.9485595,23.2427079,True
+Q5393,RO,Harghita County,iso,HARGHITA,46.4928507,25.6456696,True
+Q5394,RO,Hunedoara County,iso,HUNEDOARA,45.793638,22.9975993,True
+Q5395,RO,Ialomița County,iso,IALOMITA,44.603133,27.3789914,True
+Q5396,RO,Iași County,iso,IASI,47.2679653,27.2185662,True
+Q5397,RO,Ilfov County,iso,ILFOV,44.535548,26.2324886,True
+Q5398,RO,Maramureș County,iso,MARAMURES,46.5569904,24.6723215,False
+Q5399,RO,Mehedinți County,iso,MEHEDINTI,44.5515053,22.9044157,True
+Q5400,RO,Mureș County,iso,MURES,46.5569904,24.6723215,True
+Q5401,RO,Neamț County,iso,NEAMT,46.9758685,26.3818764,True
+Q5402,RO,Olt County,iso,OLT,44.200797,24.5022981,True
+Q5403,RO,Prahova County,iso,PRAHOVA,45.0891906,26.0829313,True
+Q5404,RO,Sălaj County,iso,SALAJ,47.2090813,23.2121901,True
+Q5405,RO,Satu Mare County,iso,SATU MARE,47.7668905,22.9241377,True
+Q5406,RO,Sibiu County,iso,SIBIU,45.9269106,24.2254807,True
+Q5407,RO,Suceava County,iso,SUCEAVA,47.5505548,25.741062,True
+Q5408,RO,Teleorman County,iso,TELEORMAN,44.0160491,25.2986628,True
+Q5409,RO,Timiș County,iso,TIMIS,45.8138902,21.3331055,True
+Q5410,RO,Tulcea County,iso,TULCEA,45.0450565,29.0324912,True
+Q5411,RO,Vâlcea County,iso,VALCEA,45.0798051,24.0835283,True
+Q5412,RO,Vaslui County,iso,VASLUI,46.4631059,27.7398031,True
+Q5413,RO,Vrancea County,iso,VRANCEA,45.8134876,27.0657531,True
+Q5414,RU,Altai Krai,iso,Altai Krai,51.7936298,82.6758596,True
+Q5415,RU,Altai Republic,iso,Altai Republic,50.6181924,86.2199308,True
+Q5416,RU,Amur Oblast,iso,Amur Oblast,54.6035065,127.4801721,True
+Q5417,RU,Arkhangelsk,iso,Arkhangelsk Oblast,64.5458549,40.5505769,True
+Q5418,RU,Astrakhan Oblast,iso,Astrakhan Oblast,46.1321166,48.0610115,True
+Q5419,RU,Belgorod Oblast,iso,Belgorod Oblast,50.7106926,37.7533377,True
+Q5420,RU,Bryansk Oblast,iso,Bryansk Oblast,53.0408599,33.26909,True
+Q5421,RU,Chechen Republic,iso,Chechnya,43.4023301,45.7187468,True
+Q5422,RU,Chelyabinsk Oblast,iso,Chelyabinsk Oblast,54.4319422,60.8788963,True
+Q5423,RU,Chukotka Autonomous Okrug,iso,Chukotka Autonomous Okrug,65.6298355,171.6952159,True
+Q5424,RU,Chuvash Republic,iso,Chuvashia,55.5595992,46.9283535,True
+Q5425,RU,Irkutsk,iso,Irkutsk Oblast,52.2854834,104.2890222,True
+Q5426,RU,Ivanovo Oblast,iso,Ivanovo Oblast,57.1056854,41.4830084,True
+Q5427,RU,Jewish Autonomous Oblast,iso,Jewish Autonomous Oblast,48.4808147,131.7657367,True
+Q5428,RU,Kabardino-Balkar Republic,iso,Kabardino-Balkaria,43.3932469,43.5628498,True
+Q5429,RU,Kaliningrad,iso,Kaliningrad,54.7104264,20.4522144,True
+Q5430,RU,Kaluga Oblast,iso,Kaluga Oblast,54.3872666,35.1889094,True
+Q5431,RU,Kamchatka Krai,iso,Kamchatka Krai,61.4343981,166.7884131,True
+Q5432,RU,Karachay-Cherkess Republic,iso,Karachay-Cherkessia,43.8845143,41.7303939,True
+Q5433,RU,Kemerovo Oblast,iso,Kemerovo Oblast,54.7574648,87.4055288,True
+Q5434,RU,Khabarovsk Krai,iso,Khabarovsk Krai,50.5888431,135,True
+Q5435,RU,Khanty-Mansi Autonomous Okrug,iso,Khanty-Mansiysk Autonomous Okrug – Ugra,62.2287062,70.6410057,True
+Q5436,RU,Kirov Oblast,iso,Kirov Oblast,58.4198529,50.2097248,True
+Q5437,RU,Komi Republic,iso,Komi Republic,63.8630539,54.831269,True
+Q5438,RU,Kostroma Oblast,iso,Kostroma Oblast,58.5501069,43.9541102,True
+Q5439,RU,Krasnodar Krai,iso,Krasnodar Krai,45.6415289,39.7055977,True
+Q5440,RU,Krasnoyarsk Krai,iso,Krasnoyarsk Krai,64.2479758,95.1104176,True
+Q5441,RU,Kurgan Oblast,iso,Kurgan Oblast,55.4481548,65.1180975,True
+Q5442,RU,Kursk Oblast,iso,Kursk Oblast,51.7634026,35.3811812,True
+Q5443,RU,Leningrad Oblast,iso,Leningrad oblast,60.0793208,31.8926645,True
+Q5444,RU,Lipetsk Oblast,iso,Lipetsk Oblast,52.5264702,39.2032269,True
+Q5445,RU,Magadan Oblast,iso,Magadan Oblast,62.6643417,153.914991,True
+Q5446,RU,Mari El Republic,iso,Mari El,56.438457,47.9607758,True
+Q5447,RU,Moscow,iso,Moscow,55.755826,37.6172999,True
+Q5448,RU,Moscow Oblast,iso,Moscow Oblast,55.340396,38.2917651,True
+Q5449,RU,Murmansk Oblast,iso,Murmansk Oblast,67.8442674,35.0884102,True
+Q5450,RU,Nenets Autonomous Okrug,iso,Nenets Autonomous Okrug,67.6078337,57.6338331,True
+Q5451,RU,Nizhny Novgorod Oblast,iso,Nizhny Novgorod Oblast,55.7995159,44.0296769,True
+Q5452,RU,Novgorod Oblast,iso,Novgorod Oblast,58.2427552,32.566519,True
+Q5453,RU,Novosibirsk,iso,Novosibirsk Oblast,54.9832693,82.8963831,True
+Q5454,RU,Omsk Oblast,iso,Omsk Oblast,55.0554669,73.3167342,True
+Q5455,RU,Orenburg Oblast,iso,Orenburg Oblast,51.7634026,54.6188188,True
+Q5456,RU,Oryol Oblast,iso,Oryol Oblast,52.7856414,36.9242344,True
+Q5457,RU,Penza Oblast,iso,Penza Oblast,53.1412105,44.0940048,True
+Q5458,RU,Perm Krai,iso,Perm Krai,58.8231929,56.5872481,True
+Q5459,RU,Primorsky Krai,iso,Primorsky Krai,45.0525641,135,True
+Q5460,RU,Pskov Oblast,iso,Pskov Oblast,56.7708599,29.094009,True
+Q5461,RU,Republic of Adygea,iso,Adygea,44.8229155,40.1754463,True
+Q5462,RU,Republic of Bashkortostan,iso,Bashkortostan,54.2312172,56.1645257,True
+Q5463,RU,Republic of Buryatia,iso,Buryatia,54.8331146,112.406053,True
+Q5464,RU,Republic of Dagestan,iso,Dagestan,42.1431886,47.0949799,True
+Q5465,RU,Republic of Ingushetia,iso,Ingushetia,43.4051698,44.8202999,True
+Q5466,RU,Republic of Kalmykia,iso,Kalmykia,46.1867176,45,True
+Q5467,RU,Republic of Karelia,iso,Republic of Karelia,63.1558702,32.9905552,True
+Q5468,RU,Republic of Khakassia,iso,Khakassia,53.0452281,90.3982145,True
+Q5469,RU,Republic of Mordovia,iso,Republic of Mordovia,54.2369441,44.068397,True
+Q5470,RU,Republic of North Ossetia-Alania,iso,North Ossetia–Alania,43.0451302,44.2870972,True
+Q5471,RU,Republic of Tatarstan,iso,Tatarstan,55.1802364,50.7263945,True
+Q5472,RU,Rostov Oblast,iso,Rostov Oblast,47.6853247,41.8258952,True
+Q5473,RU,Ryazan Oblast,iso,Ryazan Oblast,54.3875964,41.2595661,True
+Q5474,RU,Saint Petersburg,iso,Saint Petersburg,59.9310584,30.3609096,True
+Q5475,RU,Sakha Republic,iso,Sakha Republic,66.7613451,124.123753,True
+Q5476,RU,Sakhalin,iso,Sakhalin Oblast,50.6909848,142.9505689,True
+Q5477,RU,Samara Oblast,iso,Samara Oblast,53.4183839,50.4725528,True
+Q5478,RU,Saratov Oblast,iso,Saratov Oblast,51.8369263,46.7539397,True
+Q5479,RU,Smolensk Oblast,iso,Smolensk Oblast,54.9882994,32.6677378,True
+Q5480,RU,Stavropol Krai,iso,Stavropol Krai,44.6680993,43.520214,True
+Q5481,RU,Sverdlovsk,iso,Sverdlovsk Oblast,56.8430993,60.6454086,True
+Q5482,RU,Tambov Oblast,iso,Tambov Oblast,52.6416589,41.4216451,True
+Q5483,RU,Tomsk Oblast,iso,Tomsk Oblast,58.8969882,82.67655,True
+Q5484,RU,Tula Oblast,iso,Tula Oblast,54.163768,37.5649507,True
+Q5485,RU,Tuva Republic,iso,Tuva,51.8872669,95.6260172,True
+Q5486,RU,Tver Oblast,iso,Tver Oblast,57.0021654,33.9853142,True
+Q5487,RU,Tyumen Oblast,iso,Tyumen Oblast,56.9634387,66.948278,True
+Q5488,RU,Udmurt Republic,iso,Udmurtia,57.0670218,53.0277948,True
+Q5489,RU,Ulyanovsk Oblast,iso,Ulyanovsk Oblast,53.9793357,47.7762425,True
+Q5490,RU,Vladimir Oblast,iso,Vladimir Oblast,56.1553465,40.5926685,True
+Q5491,RU,Volgograd Oblast,iso,Volgograd Oblast,49.2587393,39.8154463,False
+Q5492,RU,Vologda Oblast,iso,Vologda Oblast,59.8706711,40.6555411,True
+Q5493,RU,Voronezh Oblast,iso,Voronezh Oblast,50.8589713,39.8644374,True
+Q5494,RU,Yamalo-Nenets Autonomous Okrug,iso,Yamalo-Nenets Autonomous Okrug,66.0653057,76.9345193,True
+Q5495,RU,Yaroslavl Oblast,iso,Yaroslavl Oblast,57.8991523,38.8388633,True
+Q5496,RU,Zabaykalsky Krai,iso,Zabaykalsky Krai,53.0928771,116.9676561,True
+Q5498,RW,Kigali district,iso,City of Kigali,-1.9440727,30.0618851,True
+Q5502,KN,Christ Church Nichola Town Parish,iso,Christ Church Nichola Town,17.3604812,-62.7617837,True
+Q5504,KN,Saint Anne Sandy Point Parish,iso,Saint Anne Sandy Point,17.3725333,-62.8441133,True
+Q5505,KN,Saint George Gingerland Parish,iso,Saint George Gingerland,17.1257759,-62.5619811,True
+Q5506,KN,Saint James Windward Parish,iso,Saint James Windward,17.1769633,-62.5796026,True
+Q5507,KN,Saint John Capisterre Parish,iso,Saint John Capisterre,17.3810341,-62.7911833,True
+Q5508,KN,Saint John Figtree Parish,iso,Saint John Figtree,17.1155748,-62.6031004,True
+Q5510,KN,Saint Mary Cayon Parish,iso,Saint Mary Cayon,17.3462071,-62.7382671,True
+Q5511,KN,Saint Paul Capisterre Parish,iso,Saint Paul Capisterre,17.4016683,-62.8257332,True
+Q5512,KN,Saint Paul Charlestown Parish,iso,Saint Paul Charlestown,17.1346297,-62.6133816,True
+Q5513,KN,Saint Peter Basseterre Parish,iso,Saint Peter Basseterre,17.3102911,-62.7147533,True
+Q5514,KN,Saint Thomas Lowland Parish,iso,Saint Thomas Lowland,17.1650513,-62.6089753,True
+Q5515,KN,Saint Thomas Middle Island Parish,iso,Saint Thomas Middle Island,17.3348813,-62.8088251,True
+Q5516,KN,Trinity Palmetto Point Parish,iso,Trinity Palmetto Point,17.3063519,-62.7617837,True
+Q5517,LC,Anse la Raye Quarter,iso,Anse la Raya,13.9459424,-61.0369468,True
+Q5518,LC,Canaries,iso,Canaries,28.2915637,-16.6291304,False
+Q5519,LC,Castries Quarter,iso,Castries,14.0101094,-60.9874687,True
+Q5520,LC,Choiseul Quarter,iso,Choiseul,13.7750154,-61.048591,True
+Q5522,LC,Dennery Quarter,iso,Dennery,13.9267393,-60.9190988,True
+Q5523,LC,Gros Islet Quarter,iso,Gros Islet,14.0843578,-60.9452794,True
+Q5524,LC,Laborie Quarter,iso,Laborie,13.7522783,-60.9932889,True
+Q5525,LC,Micoud Quarter,iso,Micoud,13.8211871,-60.9001934,True
+Q5527,LC,Soufrière Quarter,iso,Soufrière,13.8570986,-61.0573248,True
+Q5528,LC,Vieux Fort Quarter,iso,Vieux Fort,13.720608,-60.9496433,True
+Q5529,VC,Charlotte Parish,iso,Charlotte,13.2175451,-61.1636244,True
+Q5530,VC,Grenadines Parish,iso,Grenadines,13.0122965,-61.2277301,True
+Q5531,VC,Saint Andrew Parish,iso,Saint Andrew,43.0242999,-81.2025,False
+Q5532,VC,Saint David Parish,iso,Saint David,43.8523095,-79.5236654,False
+Q5533,VC,Saint George Parish,iso,Saint George,42.957609,-81.326705,False
+Q5534,VC,Saint Patrick Parish,iso,Saint Patrick,39.7509186,-94.8450556,False
+Q5535,WS,A'ana,name,A'ana,-13.898418,-171.9752995,True
+Q5536,WS,Aiga-i-le-Tai,name,Aiga-i-le-Tai,-13.8513791,-172.0325401,True
+Q5537,WS,Atua,name,Atua,-13.9787053,-171.6254283,True
+Q5539,WS,Gaga'emauga,name,Gaga'emauga,-13.5428666,-172.366887,True
+Q5540,WS,Gaga'ifomauga,name,Gaga'ifomauga,-13.5468007,-172.4969331,True
+Q5541,WS,Palauli,name,Palauli,-13.7294579,-172.4536115,True
+Q5542,WS,Satupa'itea,name,Satupa'itea,-13.6538214,-172.6159271,True
+Q5543,WS,Tuamasaga,name,Tuamasaga,-13.9163592,-171.8224362,True
+Q5544,WS,Va'a-o-Fonoti,name,Va'a-o-Fonoti,-13.9470903,-171.5431872,True
+Q5545,WS,Vaisigano,name,Vaisigano,-13.5413827,-172.7023383,True
+Q5546,SM,Acquaviva,iso,Acquaviva,41.8671597,14.7469479,False
+Q5547,SM,Borgo Maggiore,iso,Borgo Maggiore,43.9574882,12.4552546,True
+Q5548,SM,Chiesanuova,iso,Chiesanuova,45.4226172,7.6503854,False
+Q5549,SM,Domagnano,iso,Domagnano,43.9501929,12.4681537,True
+Q5550,SM,Faetano,iso,Faetano,43.9348967,12.4896554,True
+Q5551,SM,Fiorentino,iso,Fiorentino,43.9078337,12.4581209,True
+Q5552,SM,Montegiardino,iso,Montegiardino,43.9052999,12.4810542,True
+Q5553,SM,San Marino,iso,Città di San Marino,43.94236,12.457777,True
+Q5554,SM,Serravalle,iso,Serravalle,44.7232084,8.8574005,False
+Q5555,ST,Príncipe Province,iso,Príncipe Province,1.6139381,7.4056928,True
+Q5556,ST,São Tomé Province,iso,São Tomé Province,0.3301924,6.733343,True
+Q5557,SA,'Asir,iso,'Asir Region,19.0969062,42.8637875,True
+Q5558,SA,Al Bahah,iso,Al Bahah Region,20.2722739,41.441251,True
+Q5559,SA,Al Jawf,iso,Al Jawf Region,29.887356,39.3206241,True
+Q5560,SA,Al Madinah,iso,Al Madinah Region,24.8403977,39.3206241,True
+Q5561,SA,Al-Qassim,iso,Al-Qassim Region,26.207826,43.483738,True
+Q5562,SA,Eastern Province,iso,Eastern Region,24.0439932,45.6589225,False
+Q5563,SA,Ha'il,iso,Hayel Region,27.7076143,41.9196471,True
+Q5564,SA,Jizan,iso,Jazan Region,17.1738176,42.7076107,True
+Q5565,SA,Makkah,iso,Makkah Region,21.5235584,41.9196471,True
+Q5566,SA,Najran,iso,Najran Region,18.3514664,45.6007108,True
+Q5567,SA,Northern Borders,iso,Northern Borders Region,30.0799162,42.8637875,True
+Q5568,SA,Riyadh,iso,Riyadh Region,22.7554385,46.2091547,True
+Q5569,SA,Tabuk,iso,Tabuk Region,28.2453335,37.6386622,True
+Q5570,SN,Dakar,iso,Dakar,14.716677,-17.4676861,True
+Q5571,SN,Diourbel Region,iso,Diourbel,14.7283085,-16.2522143,True
+Q5572,SN,Fatick,iso,Fatick,14.3390167,-16.4111425,True
+Q5573,SN,Kaffrine,iso,Kaffrine,14.105202,-15.5415755,True
+Q5574,SN,Kaolack,iso,Kaolack,14.1652083,-16.0757749,True
+Q5575,SN,Kédougou,iso,Kedougou,12.5604607,-12.1747077,True
+Q5576,SN,Kolda,iso,Kolda,12.9107495,-14.9505671,True
+Q5577,SN,Louga,iso,Louga,15.6141768,-16.22868,True
+Q5578,SN,Matam,iso,Matam,15.6600225,-13.2576906,True
+Q5579,SN,Saint-Louis,iso,Saint Louis,38.6270025,-90.1994042,False
+Q5580,SN,Sédhiou,iso,Sedhiou,12.704604,-15.5562304,True
+Q5581,SN,Tambacounda Region,iso,Tambacounda,13.5619011,-13.1740348,True
+Q5582,SN,Thiès Region,iso,Thies,14.7910052,-16.9358604,True
+Q5583,SN,Ziguinchor,iso,Ziguinchor,12.5641479,-16.2639825,True
+Q5584,RS,Belgrade,iso,Belgrade,44.786568,20.4489216,True
+Q5585,RS,Bor District,iso,Bor District,44.0698918,22.0985086,True
+Q5586,RS,Braničevo District,iso,Branicevo District,44.6982246,21.5446775,True
+Q5587,RS,Central Banat District,iso,Central Banat District,45.4788485,20.6082522,True
+Q5588,RS,Jablanica District,iso,Jablanica District,42.948156,21.8129321,True
+Q5589,RS,Kolubara District,iso,Kolubara District,44.3509811,20.0004305,True
+Q5590,RS,Mačva District,iso,Macva District,44.5925314,19.5082246,True
+Q5591,RS,Moravica District,iso,Moravica District,43.84147,20.2904987,True
+Q5592,RS,Nišava District,iso,Nisava District,43.3738902,21.9322331,True
+Q5593,RS,North Bačka District,iso,North Backa District,45.9803394,19.5907001,True
+Q5594,RS,North Banat District,iso,North Banat District,45.906839,19.9993417,True
+Q5595,RS,Pčinja District,iso,Pcinja District,42.5836362,22.1430215,True
+Q5596,RS,Pirot District,iso,Pirot District,43.0874036,22.5983044,True
+Q5597,RS,Podunavlje District,iso,Podunavlje District,44.4729156,20.9901426,True
+Q5598,RS,Pomoravlje District,iso,Pomoravlje District,43.9591379,21.271353,True
+Q5599,RS,Rasina District,iso,Rasina District,43.5263525,21.1588178,True
+Q5600,RS,Raška District,iso,Raska District,43.3373461,20.5734005,True
+Q5601,RS,South Bačka District,iso,South Backa District,45.4890344,19.6976187,True
+Q5602,RS,South Banat District,iso,South Banat District,45.0027457,21.0542509,True
+Q5603,RS,Srem District,iso,Syrmia District,45.0029171,19.8013773,True
+Q5604,RS,Šumadija District,iso,Sumadija District,44.2050678,20.7856565,True
+Q5605,RS,Toplica District,iso,Toplica District,43.1906592,21.3407762,True
+Q5607,RS,West Bačka District,iso,West Backa District,45.7355385,19.1897364,True
+Q5608,RS,Zaječar District,iso,Zajecar District,43.9015048,22.2738011,True
+Q5609,RS,Zlatibor District,iso,Zlatibor District,43.645417,19.7101455,True
+Q5613,SC,Au Cap,name,Au Cap,-4.7059723,55.5081012,True
+Q5617,SC,Bel Air,name,Bel Air,34.1002455,-118.459463,False
+Q5618,SC,Bel Ombre,name,Bel Ombre,-20.5010095,57.4259624,False
+Q5619,SC,Cascade,name,Cascade,44.5162821,-116.0417983,False
+Q5620,SC,Glacis,name,Glacis,47.1157303,-70.3028183,False
+Q5628,SC,Plaisance,name,Plaisance,45.607095,-75.1142745,False
+Q5630,SC,Port Glaud,name,Port Glaud,-4.6488523,55.4194753,True
+Q5633,SC,Takamaka,name,Takamaka,37.9645917,-1.2217727,False
+Q5637,SL,Western Area,iso,Western Area,40.2545969,-80.2455444,False
+Q5639,SG,North East,name,NORTH-EAST REGION,1.3824,103.8972,True
+Q5643,SK,Banská Bystrica Region,iso,Region of Banská Bystrica,48.5312499,19.382874,True
+Q5644,SK,Bratislava Region,iso,Region of Bratislava,48.3118304,17.1973299,True
+Q5645,SK,Košice Region,iso,Region of Košice,48.6375737,21.0834225,True
+Q5646,SK,Nitra Region,iso,Region of Nitra,48.0143765,18.5416504,True
+Q5647,SK,Prešov Region,iso,Region of Prešov,49.1716773,21.3742001,True
+Q5648,SK,Trenčín Region,iso,Region of Trenčín,48.8086758,18.2324026,True
+Q5649,SK,Trnava Region,iso,Region of Trnava,48.3943898,17.7216205,True
+Q5650,SK,Žilina Region,iso,Region of Žilina,49.2031435,19.3645733,True
+Q5863,SB,Choiseul Province,iso,Choiseul,-7.0501494,156.9511459,True
+Q5864,SB,Guadalcanal Province,iso,Guadalcanal,-9.5773284,160.1455805,True
+Q5865,SB,Honiara,iso,Capital Territory (Honiara),-9.4456381,159.9728999,True
+Q5866,SB,Isabel Province,iso,Isabel,-8.0592353,159.1447081,True
+Q5867,SB,Makira-Ulawa Province,iso,Makira,-10.5737447,161.8096941,True
+Q5868,SB,Malaita Province,iso,Malaita,-8.9446168,160.9071236,True
+Q5869,SB,Rennell and Bellona Province,iso,Rennell and Bellona,-11.6131435,160.1693949,True
+Q5870,SB,Temotu Province,iso,Temotu,-10.686929,166.0623979,True
+Q5872,SO,Awdal Region,iso,Awdal,10.6334285,43.329466,True
+Q5873,SO,Bakool,iso,Bakool,4.3657221,44.0960311,True
+Q5874,SO,Banaadir,iso,Banadir,2.1187375,45.3369459,True
+Q5875,SO,Bari,iso,Bari,41.1171432,16.8718715,False
+Q5876,SO,Bay,iso,Bay,37.0365534,-95.6174767,False
+Q5877,SO,Galguduud,iso,Galgaduud,5.1850128,46.8252838,True
+Q5878,SO,Gedo,iso,Gedo,3.5039227,42.2362435,True
+Q5879,SO,Hiran,iso,Hiiraan,4.321015,45.2993862,True
+Q5880,SO,Lower Juba,iso,Lower Juba,0.224021,41.6011814,True
+Q5881,SO,Lower Shebelle,iso,Lower Shebelle,1.8766458,44.2479015,True
+Q5882,SO,Middle Juba,iso,Middle Juba,2.0780488,41.6011814,False
+Q5883,SO,Middle Shebelle,iso,Middle Shebelle,2.9250247,45.9039689,True
+Q5884,SO,Mudug,iso,Mudug,6.5656726,47.7637565,True
+Q5885,SO,Nugal,iso,Nugaal,43.2793861,17.0339205,False
+Q5886,SO,Sanaag Region,iso,Sanaag,10.3938218,47.7637565,True
+Q5887,SO,Togdheer Region,iso,Togdheer,9.4460587,45.2993862,True
+Q5888,ZA,Eastern Cape,name,Eastern Cape,-32.2968402,26.419389,True
+Q5889,ZA,Free State,name,Free State,37.6858525,-97.2811256,False
+Q5890,ZA,Gauteng,name,Gauteng,-26.2707593,28.1122679,True
+Q5891,ZA,KwaZulu-Natal,name,KwaZulu-Natal,-28.5305539,30.8958242,True
+Q5892,ZA,Limpopo,name,Limpopo,-23.4012946,29.4179324,True
+Q5893,ZA,Mpumalanga,name,Mpumalanga,-25.565336,30.5279096,True
+Q5894,ZA,North West,name,North West,32.758852,-97.328806,False
+Q5896,ZA,Western Cape,name,Western Cape,-33.2277918,21.8568586,True
+Q5897,KR,Busan,iso,Busan,35.1795543,129.0756416,True
+Q5898,KR,Daegu,iso,Daegu,35.8714354,128.601445,True
+Q5899,KR,Daejeon,iso,Daejeon,36.3504119,127.3845475,True
+Q5900,KR,Gangwon Province,iso,Gangwon,37.8228,128.1555,True
+Q5901,KR,Gwangju,iso,Gwangju,35.1595454,126.8526012,True
+Q5902,KR,Gyeonggi Province,iso,Gyeonggi,37.4138,127.5183,True
+Q5903,KR,Incheon,iso,Incheon,37.4562557,126.7052062,True
+Q5904,KR,Jeju,iso,Jeju,33.9568278,-84.13135,False
+Q5905,KR,North Chungcheong Province,iso,North Chungcheong,36.8,127.7,True
+Q5906,KR,North Gyeongsang Province,iso,North Gyeongsang,36.4919,128.8889,True
+Q5907,KR,North Jeolla Province,iso,North Jeolla,35.7175,127.153,True
+Q5908,KR,Sejong City,iso,Sejong,34.0523323,-118.3084897,False
+Q5909,KR,Seoul,iso,Seoul,37.566535,126.9779692,True
+Q5910,KR,South Chungcheong Province,iso,South Chungcheong,36.5184,126.8,True
+Q5911,KR,South Gyeongsang Province,iso,South Gyeongsang,35.4606,128.2132,True
+Q5912,KR,South Jeolla Province,iso,South Jeolla,34.8679,126.991,True
+Q5913,KR,Ulsan,iso,Ulsan,35.5383773,129.3113596,True
+Q5914,SS,Central Equatoria,iso,Central Equatoria,4.6144063,31.2626366,True
+Q5915,SS,Eastern Equatoria,iso,Eastern Equatoria,5.0692995,33.438353,True
+Q5916,SS,Jonglei State,iso,Jonglei,7.1819619,32.3560952,True
+Q5917,SS,Lakes,iso,Lakes,37.1628255,-95.6911623,False
+Q5918,SS,Northern Bahr el Ghazal,iso,Northern Bahr el Ghazal,8.5360449,26.7967849,True
+Q5919,SS,Unity,iso,Unity,37.7871276,-122.4034079,False
+Q5920,SS,Upper Nile,iso,Upper Nile,9.8894202,32.7181375,True
+Q5921,SS,Warrap,iso,Warrap,8.0886238,28.6410641,True
+Q5922,SS,Western Bahr el Ghazal,iso,Western Bahr el Ghazal,8.6452399,25.2837585,True
+Q5923,SS,Western Equatoria,iso,Western Equatoria,5.3471799,28.299435,True
+Q5937,ES,Canarias,name,Canarias,28.2916,16.6291,False
+Q5938,ES,Cantabria,name,Cantabria,43.1828396,-3.9878427,True
+Q5952,ES,La Rioja,name,La Rioja,42.2870733,-2.539603,True
+Q5960,ES,Murcia,name,Región de Murcia,38.1398141,-1.366216,True
+Q5997,LK,North Central Province,iso,North Central Province,8.1995638,80.6326916,True
+Q5998,LK,North Western Province,iso,North Western Province,7.7584091,80.1875065,True
+Q6004,LK,Sabaragamuwa Province,iso,Sabaragamuwa Province,6.7395941,80.365865,True
+Q6007,LK,Uva Province,iso,Uva Province,6.8427612,81.3399414,True
+Q6010,SD,Al Jazirah,iso,Gezira,14.8859611,33.438353,True
+Q6011,SD,Al Qadarif,iso,Gedaref,14.024307,35.3685679,True
+Q6012,SD,Blue Nile,iso,Blue Nile,47.598673,-122.334419,False
+Q6013,SD,Central Darfur,iso,Central Darfur,14.3782747,24.9042208,False
+Q6014,SD,East Darfur,iso,East Darfur,14.3782747,24.9042208,False
+Q6015,SD,Kassala,iso,Kassala,15.4581332,36.4039629,True
+Q6016,SD,Khartoum,iso,Khartoum,15.5006544,32.5598994,True
+Q6017,SD,North Darfur,iso,North Darfur,15.7661969,24.9042208,True
+Q6018,SD,North Kordofan,iso,North Kordofan,13.8306441,29.4179324,True
+Q6019,SD,Northern,iso,Northern,38.063817,-84.4628648,False
+Q6020,SD,Red Sea,iso,Red Sea,20.280232,38.512573,False
+Q6021,SD,River Nile,iso,River Nile,23.9727595,32.8749206,False
+Q6022,SD,Sennar,iso,Sennar,13.567469,33.5672045,True
+Q6023,SD,South Darfur,iso,South Darfur,11.6488639,24.9042208,True
+Q6024,SD,South Kordofan,iso,South Kordofan,11.1990192,29.4179324,True
+Q6025,SD,West Darfur,iso,West Darfur,12.8463561,23.0011989,False
+Q6026,SD,West Kordofan,iso,West Kordofan,11.1990192,29.4179324,True
+Q6027,SD,White Nile,iso,White Nile,9.3321516,31.46153,False
+Q6028,SR,Brokopondo District,iso,Brokopondo,4.7710247,-55.0493375,True
+Q6029,SR,Commewijne District,iso,Commewijne,5.740211,-54.8731219,True
+Q6030,SR,Coronie District,iso,Coronie,5.6943271,-56.2929381,True
+Q6031,SR,Marowijne District,iso,Marowijne,5.6268128,-54.2593118,True
+Q6032,SR,Nickerie District,iso,Nickerie,5.5855469,-56.8311117,True
+Q6033,SR,Para District,iso,Para,5.4817318,-55.2259207,True
+Q6034,SR,Paramaribo District,iso,Paramaribo,5.8520355,-55.2038278,True
+Q6035,SR,Saramacca District,iso,Saramacca,5.7240813,-55.6689636,True
+Q6036,SR,Sipaliwini District,iso,Sipaliwini,3.6567382,-56.2035387,True
+Q6037,SR,Wanica District,iso,Wanica,5.7323762,-55.2701235,True
+Q6038,SE,Blekinge County,iso,Blekinge län,56.28333333,15.11666666,True
+Q6039,SE,Dalarna County,iso,Dalarnas län,61.0917012,14.6663653,True
+Q6040,SE,Gävleborg County,iso,Gävleborgs län,61.3011993,16.1534214,True
+Q6041,SE,Gotland County,iso,Gotlands län,57.4684121,18.4867447,True
+Q6042,SE,Halland County,iso,Hallands län,56.8966805,12.8033993,True
+Q6044,SE,Jönköping County,iso,Jönköpings län,57.3708434,14.3439174,True
+Q6045,SE,Kalmar County,iso,Kalmar län,57.2350156,16.1849349,True
+Q6046,SE,Kronoberg County,iso,Kronobergs län,56.7183403,14.4114673,True
+Q6047,SE,Norrbotten County,iso,Norrbottens län,66.8309216,20.3991966,True
+Q6048,SE,Örebro County,iso,Örebro län,59.535036,15.0065731,True
+Q6049,SE,Östergötland County,iso,Östergötlands län,58.3453635,15.5197844,True
+Q6050,SE,Skåne County,iso,Skåne län,55.9902572,13.5957692,True
+Q6051,SE,Södermanland County,iso,Södermanlands län,59.0336349,16.7518899,True
+Q6052,SE,Stockholm County,iso,Stockholms län,59.6024958,18.1384383,True
+Q6053,SE,Uppsala County,iso,Uppsala län,60.0092262,17.2714588,True
+Q6054,SE,Värmland County,iso,Värmlands län,59.7294065,13.2354024,True
+Q6055,SE,Västerbotten County,iso,Västerbottens län,65.3337311,16.5161694,True
+Q6056,SE,Västernorrland County,iso,Västernorrlands län,63.4276473,17.7292444,True
+Q6057,SE,Västmanland County,iso,Västmanlands län,59.6713879,16.2158953,True
+Q6058,SE,Västra Götaland County,iso,Västra Götalands län,58.2527926,13.0596425,True
+Q6059,CH,Aargau,iso,Aargau,47.3876664,8.2554295,True
+Q6060,CH,Appenzell Ausserrhoden,iso,Appenzell Ausserrhoden,47.366481,9.3000916,True
+Q6061,CH,Appenzell Innerrhoden,iso,Appenzell Innerrhoden,47.3161925,9.4316573,True
+Q6062,CH,Basel-Land,iso,Basel-Landschaft,47.4418122,7.7644002,True
+Q6063,CH,Basel-Stadt,iso,Basel-Stadt,47.566667,7.6,True
+Q6064,CH,Bern,iso,Bern,46.7988621,7.7080701,True
+Q6065,CH,Fribourg,iso,Fribourg,46.6816748,7.1172635,True
+Q6066,CH,Geneva,iso,Genève,46.2180073,6.1216925,True
+Q6067,CH,Glarus,iso,Glarus,47.0411232,9.0679,True
+Q6068,CH,Graubünden,iso,Graubünden,46.6569871,9.5780257,True
+Q6069,CH,Jura,iso,Jura,47.3444474,7.1430608,True
+Q6070,CH,Lucerne,iso,Luzern,47.0795671,8.1662445,True
+Q6071,CH,Neuchâtel,iso,Neuchâtel,46.9899874,6.9292732,True
+Q6072,CH,Nidwalden,iso,Nidwalden,46.9267016,8.3849982,True
+Q6073,CH,Obwalden,iso,Obwalden,46.877858,8.251249,True
+Q6074,CH,Schaffhausen,iso,Schaffhausen,47.7009364,8.568004,True
+Q6075,CH,Schwyz,iso,Schwyz,47.0207138,8.6529884,True
+Q6076,CH,Solothurn,iso,Solothurn,47.3320717,7.6388385,True
+Q6077,CH,St. Gallen,iso,St. Gallen,47.1456254,9.3504332,True
+Q6078,CH,Thurgau,iso,Thurgau,47.6037856,9.0557371,True
+Q6079,CH,Ticino,iso,Ticino,46.331734,8.8004529,True
+Q6080,CH,Uri,iso,Uri,41.4860647,-71.5308537,False
+Q6081,CH,Valais,iso,Valais,46.1904614,7.5449226,True
+Q6082,CH,Vaud,iso,Vaud,46.5613135,6.536765,True
+Q6083,CH,Zug,iso,Zug,47.1661505,8.5154749,True
+Q6084,CH,Zürich,iso,Zürich,47.359536,8.6356452,True
+Q6087,SY,Aleppo,name,Aleppo,36.2262393,37.4681396,True
+Q6089,SY,Damascus,name,Damascus,33.5151444,36.3931354,True
+Q6091,SY,Deir ez-Zor,name,Deir-ez-Zor,35.2879798,40.3088626,True
+Q6092,SY,Hama,name,Hama,35.1887865,37.2115829,True
+Q6093,SY,Homs,name,Homs,34.2567123,38.3165725,True
+Q6096,SY,Quneitra,name,Quneitra,33.0776318,35.8934136,True
+Q6099,TW,Changhua,iso,Changhua County,24.0517963,120.5161352,True
+Q6100,TW,Chiayi,iso,Chiayi,23.4518428,120.2554615,False
+Q6101,TW,Chiayi,iso,Chiayi County,23.4800751,120.4491113,True
+Q6102,TW,Hsinchu,iso,Hsinchu,24.8138287,120.9674798,True
+Q6103,TW,Hsinchu,iso,Hsinchu County,24.8387226,121.0177246,True
+Q6104,TW,Hualien,iso,Hualien County,23.9871589,121.6015714,True
+Q6105,TW,Kaohsiung,iso,Kaohsiung,22.6272784,120.3014353,True
+Q6106,TW,Keelung,iso,Keelung,25.1241862,121.6475834,True
+Q6107,TW,Kinmen,iso,Kinmen,24.3487792,118.3285644,True
+Q6108,TW,Lienchiang,iso,Matsu Islands,26.1505556,119.9288889,True
+Q6109,TW,Miaoli,iso,Miaoli County,24.560159,120.8214265,True
+Q6110,TW,Nantou,iso,Nantou County,23.9609981,120.9718638,True
+Q6111,TW,New Taipei,iso,New Taipei,24.9875278,121.3645947,True
+Q6112,TW,Penghu,iso,Penghu,23.5711899,119.5793157,True
+Q6113,TW,Pingtung,iso,Pingtung County,22.5519759,120.5487597,True
+Q6114,TW,Taichung,iso,Taichung,24.1477358,120.6736482,True
+Q6115,TW,Tainan,iso,Tainan,22.9997281,120.2270277,True
+Q6116,TW,Taipei,iso,Taipei,25.0329694,121.5654177,True
+Q6117,TW,Taitung,iso,Taitung County,22.7972447,121.0713702,True
+Q6118,TW,Taoyuan,iso,Taoyuan,24.9936281,121.3009798,True
+Q6119,TW,Yilan,iso,Yilan County,24.7021073,121.7377502,True
+Q6120,TW,Yunlin,iso,Yunlin County,23.7092033,120.4313373,True
+Q6121,TJ,districts of Republican Subordination,iso,Districts of Republican Subordination,39.0857902,70.2408325,True
+Q6122,TJ,Gorno-Badakhshan Autonomous Province,iso,Gorno-Badakhshan Autonomous Region,38.412732,73.087749,True
+Q6123,TJ,Khatlon Province,iso,Khatlon Region,37.9113562,69.097023,True
+Q6124,TJ,Sughd Province,iso,Sughd Region,39.5155326,69.097023,True
+Q6125,TZ,Arusha,iso,Arusha,-3.3869254,36.6829927,True
+Q6126,TZ,Dar es Salaam,iso,Dar es Salaam,-6.792354,39.2083284,True
+Q6127,TZ,Dodoma,iso,Dodoma,-6.5738228,36.2630846,True
+Q6128,TZ,Geita,iso,Geita,-2.8242257,32.2653887,True
+Q6129,TZ,Iringa,iso,Iringa,-7.7887442,35.5657862,True
+Q6130,TZ,Kagera,iso,Kagera,-1.3001115,31.2626366,True
+Q6131,TZ,Katavi,iso,Katavi,-6.3677125,31.2626366,True
+Q6132,TZ,Kigoma,iso,Kigoma,-4.8824092,29.6615055,True
+Q6133,TZ,Kilimanjaro,iso,Kilimanjaro,-4.1336927,37.8087693,True
+Q6134,TZ,Lindi,iso,Lindi,-9.2343394,38.3165725,True
+Q6135,TZ,Manyara,iso,Manyara,-4.3150058,36.954107,True
+Q6136,TZ,Mara,iso,Mara,-1.7753538,34.1531947,True
+Q6137,TZ,Mbeya,iso,Mbeya,-8.2866112,32.8132537,True
+Q6138,TZ,Morogoro,iso,Morogoro,-8.8137173,36.954107,True
+Q6139,TZ,Mtwara,iso,Mtwara,-10.3398455,40.1657466,True
+Q6140,TZ,Mwanza,iso,Mwanza,-2.4671197,32.8986812,True
+Q6141,TZ,Njombe,iso,Njombe,-9.2422632,35.1268781,True
+Q6142,TZ,Pemba North,iso,North Pemba,-5.0319352,39.7755571,True
+Q6143,TZ,Pemba South,iso,South Pemba,-5.3146961,39.7549511,True
+Q6144,TZ,Pwani,iso,Pwani,-7.3237714,38.8205454,True
+Q6145,TZ,Rukwa,iso,Rukwa,-8.0109444,31.4456179,True
+Q6146,TZ,Ruvuma,iso,Ruvuma,-10.6878717,36.2630846,True
+Q6147,TZ,Shinyanga,iso,Shinyanga,-3.6809961,33.4271403,True
+Q6148,TZ,Simiyu,iso,Simiyu,-2.8308738,34.1531947,True
+Q6149,TZ,Singida,iso,Singida,-6.7453352,34.1531947,True
+Q6151,TZ,Tabora,iso,Tabora,-5.0342138,32.8084496,True
+Q6152,TZ,Tanga,iso,Tanga,-5.3049789,38.3165725,True
+Q6153,TZ,Zanzibar North,iso,Zanzibar North,-5.9395093,39.2791011,True
+Q6154,TZ,Zanzibar South,iso,Zanzibar South & Central,-6.2642851,39.4450281,True
+Q6155,TZ,Zanzibar West,iso,Zanzibar Urban/West,-6.2298136,39.2583293,True
+Q6156,TH,Amnat Charoen,iso,Amnat Charoen Province,15.8656783,104.6257774,True
+Q6157,TH,Ang Thong,iso,Ang Thong Province,14.5896054,100.455052,True
+Q6158,TH,Bangkok,iso,Bangkok,13.7563309,100.5017651,True
+Q6159,TH,Bueng Kan,iso,Bueng Kan Province,18.3609104,103.6464463,True
+Q6160,TH,Buri Ram,iso,Buri Ram Province,14.9951003,103.1115915,True
+Q6161,TH,Chachoengsao,iso,Chachoengsao Province,13.6904194,101.0779596,True
+Q6162,TH,Chai Nat,iso,Chai Nat Province,15.1851971,100.125125,True
+Q6163,TH,Chaiyaphum,iso,Chaiyaphum Province,16.0074974,101.6129172,True
+Q6164,TH,Chanthaburi,iso,Chanthaburi Province,12.6112485,102.1037806,True
+Q6165,TH,Chiang Mai,iso,Chiang Mai Province,18.7883439,98.9853008,True
+Q6166,TH,Chiang Rai,iso,Chiang Rai Province,19.9104798,99.840576,True
+Q6167,TH,Chon Buri,iso,Chon Buri Province,13.3611431,100.9846717,True
+Q6168,TH,Chumphon,iso,Chumphon Province,10.4930496,99.1800199,True
+Q6169,TH,Kalasin,iso,Kalasin,16.438508,103.5060994,True
+Q6170,TH,Kamphaeng Phet,iso,Kamphaeng Phet Province,16.4827798,99.5226618,True
+Q6171,TH,Kanchanaburi,iso,Kanchanaburi Province,14.1011393,99.4179431,True
+Q6172,TH,Khon Kaen,iso,Khon Kaen Province,16.4321938,102.8236214,True
+Q6173,TH,Krabi,iso,Krabi Province,8.0862997,98.9062835,True
+Q6174,TH,Lampang,iso,Lampang Province,18.2855395,99.5127895,True
+Q6175,TH,Lamphun,iso,Lamphun Province,18.5744606,99.0087221,True
+Q6176,TH,Loei,iso,Loei Province,17.4860232,101.7223002,True
+Q6177,TH,Lop Buri,iso,Lopburi Province,14.7995081,100.6533706,True
+Q6178,TH,Mae Hong Son,iso,Mae Hong Son Province,19.3020296,97.9654368,True
+Q6179,TH,Maha Sarakham,iso,Maha Sarakham Province,16.0132015,103.1615169,True
+Q6180,TH,Mukdahan,iso,Mukdahan Province,16.5435914,104.7024121,True
+Q6181,TH,Nakhon Nayok,iso,Nakhon Nayok Province,14.2069466,101.2130511,True
+Q6182,TH,Nakhon Pathom,iso,Nakhon Pathom Province,13.8140293,100.0372929,True
+Q6183,TH,Nakhon Phanom,iso,Nakhon Phanom Province,17.392039,104.7695508,True
+Q6184,TH,Nakhon Ratchasima,iso,Nakhon Ratchasima Province,14.9738493,102.083652,True
+Q6185,TH,Nakhon Sawan,iso,Nakhon Sawan Province,15.6987382,100.11996,True
+Q6186,TH,Nakhon Si Thammarat,iso,Nakhon Si Thammarat Province,8.4324831,99.9599033,True
+Q6187,TH,Nan,iso,Nan Province,45.522208,-122.9863281,False
+Q6188,TH,Narathiwat,iso,Narathiwat Province,6.4254607,101.8253143,True
+Q6189,TH,Nong Bua Lam Phu,iso,Nong Bua Lam Phu Province,17.2218247,102.4260368,True
+Q6190,TH,Nong Khai,iso,Nong Khai Province,17.8782803,102.7412638,True
+Q6191,TH,Nonthaburi,iso,Nonthaburi Province,13.8591084,100.5216508,True
+Q6192,TH,Pathum Thani,iso,Pathum Thani Province,14.0208391,100.5250276,True
+Q6193,TH,Pattani,iso,Pattani Province,6.7618308,101.3232549,True
+Q6195,TH,Phangnga,iso,Phangnga Province,8.4501414,98.5255317,True
+Q6196,TH,Phatthalung,iso,Phatthalung Province,7.6166823,100.0740231,True
+Q6197,TH,Phayao,iso,Phayao Province,19.2154367,100.2023692,True
+Q6198,TH,Phetchabun,iso,Phetchabun Province,16.301669,101.1192804,True
+Q6199,TH,Phetchaburi,iso,Phetchaburi Province,12.9649215,99.6425883,True
+Q6200,TH,Phichit,iso,Phichit Province,16.2740876,100.3346991,True
+Q6201,TH,Phitsanulok,iso,Phitsanulok Province,16.8211238,100.2658516,True
+Q6202,TH,Phra Nakhon Si Ayutthaya,iso,Phra Nakhon Si Ayutthaya Province,14.3692325,100.5876634,True
+Q6203,TH,Phrae,iso,Phrae Province,18.1445774,100.1402831,True
+Q6204,TH,Phuket,iso,Phuket Province,7.8804479,98.3922504,True
+Q6205,TH,Prachin Buri,iso,Prachin Buri Province,14.0420699,101.6600874,True
+Q6206,TH,Prachuap Khiri Khan,iso,Prachuap Khiri Khan Province,11.7938389,99.7957564,True
+Q6207,TH,Ranong,iso,Ranong Province,9.9528702,98.6084641,True
+Q6208,TH,Ratchaburi,iso,Ratchaburi Province,13.5282893,99.8134211,True
+Q6209,TH,Rayong,iso,Rayong Province,12.6813957,101.2816261,True
+Q6210,TH,Roi Et,iso,Roi Et Province,16.0538196,103.6520036,True
+Q6211,TH,Sa Kaeo,iso,Sa Kaeo Province,13.824038,102.0645839,True
+Q6212,TH,Sakon Nakhon,iso,Sakon Nakhon Province,17.1664211,104.1486055,True
+Q6213,TH,Samut Prakan,iso,Samut Prakan Province,13.5990961,100.5998319,True
+Q6214,TH,Samut Sakhon,iso,Samut Sakhon Province,13.5475216,100.2743956,True
+Q6215,TH,Samut Songkhram,iso,Samut Songkhram Province,13.4098217,100.0022645,True
+Q6216,TH,Saraburi,iso,Saraburi Province,14.5289154,100.9101421,True
+Q6217,TH,Satun,iso,Satun Province,6.6238158,100.0673744,True
+Q6218,TH,Si Sa Ket,iso,Si Sa Ket Province,15.1186009,104.3220095,True
+Q6219,TH,Sing Buri,iso,Sing Buri Province,14.8936253,100.3967314,True
+Q6220,TH,Songkhla,iso,Songkhla Province,7.1897659,100.5953813,True
+Q6221,TH,Sukhothai,iso,Sukhothai Province,43.6485556,-79.3746639,False
+Q6222,TH,Suphan Buri,iso,Suphan Buri Province,14.4744892,100.1177128,True
+Q6223,TH,Surat Thani,iso,Surat Thani Province,9.1341949,99.3334198,True
+Q6224,TH,Surin,iso,Surin Province,37.0358271,-95.6276367,False
+Q6225,TH,Tak,iso,Tak Province,45.0299646,-93.1049815,False
+Q6226,TH,Trang,iso,Trang Province,7.5644833,99.6239334,True
+Q6227,TH,Trat,iso,Trat Province,12.2427563,102.5174734,True
+Q6228,TH,Ubon Ratchathani,iso,Ubon Ratchathani Province,15.2448453,104.8472995,True
+Q6229,TH,Udon Thani,iso,Udon Thani Province,17.3646969,102.8158924,True
+Q6230,TH,Uthai Thani,iso,Uthai Thani Province,15.3835001,100.0245527,True
+Q6231,TH,Uttaradit,iso,Uttaradit Province,17.6200886,100.0992942,True
+Q6232,TH,Yala,iso,Yala Province,44.0579117,-123.1653848,False
+Q6233,TH,Yasothon,iso,Yasothon Province,15.792641,104.1452827,True
+Q6234,BS,Acklins,iso,Acklins,22.3657708,-74.0535126,True
+Q6236,BS,Berry Islands,iso,Berry Islands,25.6250042,-77.8252203,True
+Q6237,BS,Bimini,iso,Biminis,24.6415325,-79.8506226,False
+Q6238,BS,Black Point,iso,Black Point,41.3951024,-71.4650556,False
+Q6239,BS,Cat Island,iso,Cat Island,30.2280136,-89.1014933,False
+Q6240,BS,Central Abaco,iso,Central Abaco,26.3555029,-77.1485163,True
+Q6241,BS,Central Andros,iso,Central Andros,24.4688482,-77.973865,True
+Q6242,BS,Central Eleuthera,iso,Central Eleuthera,25.1362037,-76.1435915,True
+Q6243,BS,Crooked Island,iso,Crooked Island,22.6390982,-74.006509,False
+Q6244,BS,East Grand Bahama,iso,East Grand Bahama,26.6582823,-78.2248291,True
+Q6245,BS,Exuma,iso,Exuma,23.6192598,-75.9695465,True
+Q6246,BS,Freeport,iso,City of Freeport,42.2966861,-89.6212271,False
+Q6249,BS,Grand Cay,iso,Grand Cay,27.2162615,-78.3230559,True
+Q6251,BS,Harbour Island,iso,Harbour Island,25.50011,-76.6340511,False
+Q6253,BS,Hope Town,iso,Hope Town,26.5009504,-76.9959872,True
+Q6254,BS,Inagua,iso,Inagua,21.0656066,-73.323708,True
+Q6256,BS,Long Island,iso,Long Island,40.789142,-73.134961,False
+Q6257,BS,Mangrove Cay,iso,Mangrove Cay,24.1481425,-77.7680952,True
+Q6259,BS,Mayaguana District,iso,Mayaguana,22.4017714,-73.0641396,True
+Q6260,BS,New Providence,iso,New Providence,40.6984348,-74.4015405,False
+Q6262,BS,North Abaco,iso,North Abaco,26.7871697,-77.4357739,True
+Q6263,BS,North Andros,iso,North Andros,24.7063805,-78.0195387,True
+Q6264,BS,North Eleuthera,iso,North Eleuthera,25.4647517,-76.675922,True
+Q6265,BS,Ragged Island,iso,Ragged Island,41.597431,-71.260202,False
+Q6267,BS,Rum Cay District,iso,Rum Cay,23.6854676,-74.8390162,True
+Q6269,BS,San Salvador Island,iso,San Salvador,24.0775546,-74.4760088,True
+Q6271,BS,South Abaco,iso,South Abaco,26.0640591,-77.2635038,True
+Q6272,BS,South Andros,iso,South Andros,23.9713556,-77.6077865,True
+Q6273,BS,South Eleuthera,iso,South Eleuthera,24.7708562,-76.2131474,True
+Q6274,BS,Spanish Wells,iso,Spanish Wells,26.3250599,-81.7980328,False
+Q6275,BS,West Grand Bahama,iso,West Grand Bahama,26.659447,-78.52065,True
+Q6276,TL,Aileu municipality,iso,Aileu,-8.7043994,125.6095474,True
+Q6277,TL,Ainaro Municipality,iso,Ainaro,-9.0113171,125.5220012,True
+Q6278,TL,Baucau Municipality,iso,Baucau,-8.4714308,126.4575991,True
+Q6279,TL,Bobonaro Municipality,iso,Bobonaro,-8.9655406,125.2587964,True
+Q6280,TL,Cova Lima Municipality,iso,Cova Lima,-9.2650375,125.2587964,True
+Q6281,TL,Dili municipality,iso,Dili,-8.2449613,125.5876697,True
+Q6282,TL,Ermera District,iso,Ermera,-8.7524802,125.3987294,True
+Q6283,TL,Lautém Municipality,iso,Lautém,-8.3642307,126.9043845,True
+Q6284,TL,Liquiçá Municipality,iso,Liquiçá,-8.6674095,125.2587964,True
+Q6285,TL,Manatuto District,iso,Manatuto,-8.5155608,126.0159255,True
+Q6286,TL,Manufahi Municipality,iso,Manufahi,-9.0145495,125.8279959,True
+Q6287,TL,Viqueque Municipality,iso,Viqueque,-8.8597918,126.3633516,True
+Q6288,TG,Centrale Region,iso,Centrale Region,8.6586029,1.0586135,True
+Q6289,TG,Kara Region,iso,Kara Region,9.7216393,1.0586135,True
+Q6290,TG,Maritime,iso,Maritime Region,41.6551493,-83.5278467,False
+Q6291,TG,Plateaux Region,iso,Plateaux Region,7.6101378,1.0586135,True
+Q6292,TG,Savanes Region,iso,Savanes Region,10.5291781,0.5257823,True
+Q6293,TO,Haʻapai,iso,Ha'apai,-19.75,-174.366667,True
+Q6294,TO,ʻEua,iso,'Eua,37.09024,-95.712891,False
+Q6295,TO,Niuas,iso,Niuas,-15.9594,-173.783,True
+Q6296,TO,Tongatapu,iso,Tongatapu,-21.1465968,-175.2515482,True
+Q6297,TO,Vavaʻu,iso,Vava'u,-18.622756,-173.9902982,True
+Q6299,TT,Chaguanas,iso,Chaguanas,10.5168387,-61.4114482,True
+Q6300,TT,Couva-Tabaquite-Talparo Regional Corporation,iso,Couva-Tabaquite-Talparo,10.4297145,-61.373521,True
+Q6301,TT,Diego Martin Regional Corporation,iso,Diego Martin,10.7362286,-61.5544836,True
+Q6303,TT,Penal-Debe Regional Corporation,iso,Penal-Debe,10.1337402,-61.4435474,True
+Q6304,TT,Point Fortin,iso,Point Fortin,10.1702737,-61.6713386,True
+Q6305,TT,Port of Spain,iso,Port of Spain,10.6603196,-61.5085625,True
+Q6306,TT,Princes Town Regional Corporation,iso,Princes Town,10.1786746,-61.2801996,True
+Q6307,TT,Rio Claro-Mayaro Regional Corporation,iso,Rio Claro-Mayaro,10.2412832,-61.0937206,True
+Q6308,TT,San Fernando,iso,San Fernando,34.2819461,-118.4389719,False
+Q6309,TT,San Juan-Laventille Regional Corporation,iso,San Juan-Laventille,10.6908578,-61.4552213,True
+Q6310,TT,Sangre Grande Regional Corporation,iso,Sangre Grande,10.5852939,-61.1315813,True
+Q6311,TT,Siparia Regional Corporation,iso,Siparia,10.1245626,-61.5603244,True
+Q6312,TT,Tunapuna-Piarco Regional Corporation,iso,Tunapuna-Piarco,10.6859096,-61.3035248,True
+Q6314,TN,Ariana,iso,Ariana,36.9922751,10.1255164,True
+Q6315,TN,Béja,iso,Béja,35.1722716,8.8307626,False
+Q6316,TN,Ben Arous,iso,Ben Arous,36.6435606,10.2151578,True
+Q6317,TN,Bizerte,iso,Bizerte,37.1609397,9.634135,True
+Q6318,TN,Gabès,iso,Gabès,33.9459648,9.7232673,True
+Q6319,TN,Gafsa,iso,Gafsa,34.3788505,8.6600586,True
+Q6320,TN,Jendouba,iso,Jendouba,36.7181862,8.7481167,True
+Q6321,TN,Kairouan,iso,Kairouan,35.6711663,10.1005469,True
+Q6322,TN,Kasserine,iso,Kasserine,35.0809148,8.6600586,True
+Q6323,TN,Kebili,iso,Kébili,33.7071551,8.9714623,True
+Q6324,TN,Kef,iso,El Kef,36.1230512,8.6600586,True
+Q6325,TN,Mahdia,iso,Mahdia,35.3352558,10.8903099,True
+Q6326,TN,Manouba,iso,Manouba,36.8446504,9.8571416,True
+Q6327,TN,Medenine,iso,Médenine,33.2280565,10.8903099,True
+Q6328,TN,Monastir,iso,Monastir,35.7642515,10.8112885,True
+Q6329,TN,Nabeul,iso,Nabeul,36.4524591,10.6803222,True
+Q6330,TN,Sfax,iso,Sfax,34.8606581,10.3497895,True
+Q6331,TN,Sidi Bouzid,iso,Sidi Bouzid,35.0354386,9.4839392,True
+Q6332,TN,Siliana,iso,Siliana,36.0887208,9.3645335,True
+Q6333,TN,Sousse,iso,Sousse,35.9022267,10.3497895,True
+Q6334,TN,Tataouine,iso,Tataouine,32.1344122,10.0807298,True
+Q6335,TN,Tozeur,iso,Tozeur,33.9789491,8.0465185,True
+Q6336,TN,Tunis,iso,Tunis,36.8374946,10.1927389,True
+Q6337,TN,Zaghouan,iso,Zaghouan,36.4091188,10.1423172,True
+Q6338,TR,Adana,iso,Adana,37.2612315,35.3905046,True
+Q6339,TR,Adıyaman,iso,Adıyaman,37.9078291,38.4849923,True
+Q6340,TR,Afyonkarahisar,iso,Afyonkarahisar,38.7391099,30.7120023,True
+Q6341,TR,Ağrı,iso,Ağrı,39.6269218,43.0215965,True
+Q6342,TR,Aksaray,iso,Aksaray,38.3352043,33.9750018,True
+Q6343,TR,Amasya,iso,Amasya,40.6516608,35.9037966,True
+Q6344,TR,Ankara,iso,Ankara,39.7805245,32.7181375,True
+Q6345,TR,Antalya,iso,Antalya,37.0951672,31.0793705,True
+Q6346,TR,Ardahan,iso,Ardahan,41.1112964,42.7831674,True
+Q6347,TR,Artvin,iso,Artvin,41.078664,41.7628223,True
+Q6348,TR,Aydın,iso,Aydın,37.8117033,28.4863963,True
+Q6349,TR,Balıkesir,iso,Balıkesir,39.7616782,28.1122679,True
+Q6350,TR,Bartın,iso,Bartın,41.5810509,32.4609794,True
+Q6351,TR,Batman,iso,Batman,37.8362496,41.3605739,True
+Q6352,TR,Bayburt,iso,Bayburt,40.26032,40.228048,True
+Q6353,TR,Bilecik,iso,Bilecik,40.0566555,30.0665236,True
+Q6354,TR,Bingöl,iso,Bingöl,39.0626354,40.7696095,True
+Q6355,TR,Bitlis,iso,Bitlis,38.6523133,42.4202028,True
+Q6356,TR,Bolu,iso,Bolu,40.5759766,31.5788086,True
+Q6357,TR,Burdur,iso,Burdur,37.4612669,30.0665236,True
+Q6358,TR,Bursa,iso,Bursa,40.0655459,29.2320784,True
+Q6359,TR,Çanakkale,iso,Çanakkale,40.0510104,26.9852422,True
+Q6360,TR,Çankırı,iso,Çankırı,40.5369073,33.5883893,True
+Q6361,TR,Çorum,iso,Çorum,40.4998211,34.5986263,True
+Q6362,TR,Denizli,iso,Denizli,37.6128395,29.2320784,True
+Q6363,TR,Diyarbakır,iso,Diyarbakır,38.1066372,40.5426896,True
+Q6364,TR,Düzce,iso,Düzce,40.8770531,31.3192713,True
+Q6365,TR,Edirne,iso,Edirne,41.1517222,26.5137964,True
+Q6366,TR,Elazığ,iso,Elazığ,38.4964804,39.2199029,True
+Q6367,TR,Erzincan,iso,Erzincan,39.7681914,39.0501306,True
+Q6368,TR,Erzurum,iso,Erzurum,40.0746799,41.6694562,True
+Q6369,TR,Eskişehir,iso,Eskişehir,39.6329657,31.2626366,True
+Q6370,TR,Gaziantep,iso,Gaziantep,37.0763882,37.3827234,True
+Q6371,TR,Giresun,iso,Giresun,40.6461672,38.5935511,True
+Q6372,TR,Gümüşhane,iso,Gümüşhane,40.2803673,39.3143253,True
+Q6373,TR,Hakkâri,iso,Hakkâri,37.4459319,43.7449841,True
+Q6374,TR,Hatay,iso,Hatay,36.4018488,36.3498097,True
+Q6375,TR,Iğdır,iso,Iğdır,39.8879841,44.0048365,True
+Q6376,TR,Isparta,iso,Isparta,38.0211464,31.0793705,True
+Q6377,TR,İstanbul,iso,İstanbul,41.1634302,28.7664408,True
+Q6378,TR,İzmir,iso,İzmir,38.3591693,27.2676116,True
+Q6379,TR,Kahramanmaraş,iso,Kahramanmaraş,37.7503036,36.954107,True
+Q6380,TR,Karabük,iso,Karabük,41.187489,32.7417419,True
+Q6381,TR,Karaman,iso,Karaman,37.2436336,33.617577,True
+Q6382,TR,Kars,iso,Kars,40.2807636,42.9919527,True
+Q6383,TR,Kastamonu,iso,Kastamonu,41.4103863,33.6998334,True
+Q6384,TR,Kayseri,iso,Kayseri,38.6256854,35.7406882,True
+Q6385,TR,Kilis,iso,Kilis,36.8204775,37.1687339,True
+Q6386,TR,Kırıkkale,iso,Kırıkkale,39.8876878,33.7555248,True
+Q6387,TR,Kırklareli,iso,Kırklareli,41.7259795,27.483839,True
+Q6388,TR,Kırşehir,iso,Kırşehir,39.2268905,33.9750018,True
+Q6389,TR,Kocaeli,iso,Kocaeli,40.8532704,29.8815203,True
+Q6390,TR,Konya,iso,Konya,37.9838134,32.7181375,True
+Q6391,TR,Kütahya,iso,Kütahya,39.358137,29.6035495,True
+Q6392,TR,Malatya,iso,Malatya,38.4015057,37.9536298,True
+Q6393,TR,Manisa,iso,Manisa,38.8419373,28.1122679,True
+Q6394,TR,Mardin,iso,Mardin,37.3442929,40.6196487,True
+Q6395,TR,Mersin,iso,Mersin,36.8120858,34.641475,True
+Q6396,TR,Muğla,iso,Muğla,37.1835819,28.4863963,True
+Q6397,TR,Muş,iso,Muş,38.9461888,41.7538931,True
+Q6398,TR,Nevşehir,iso,Nevşehir,38.6939399,34.6856509,True
+Q6399,TR,Niğde,iso,Niğde,38.0993086,34.6856509,True
+Q6400,TR,Ordu,iso,Ordu,40.799058,37.3899005,True
+Q6401,TR,Osmaniye,iso,Osmaniye,37.2130258,36.1762615,True
+Q6402,TR,Rize,iso,Rize,40.9581497,40.9226985,True
+Q6403,TR,Sakarya,iso,Sakarya,40.788855,30.405954,True
+Q6404,TR,Samsun,iso,Samsun,41.1864859,36.1322678,True
+Q6405,TR,Şanlıurfa,iso,Şanlıurfa,37.3569102,39.1543677,True
+Q6406,TR,Siirt,iso,Siirt,37.8658862,42.1494523,True
+Q6407,TR,Sinop,iso,Sinop,41.5594749,34.8580532,True
+Q6408,TR,Sivas,iso,Sivas,39.4488039,37.1294497,True
+Q6409,TR,Şırnak,iso,Şırnak,37.4187481,42.4918338,True
+Q6410,TR,Tekirdağ,iso,Tekirdağ,41.1121227,27.2676116,True
+Q6411,TR,Tokat,iso,Tokat,40.3902713,36.6251863,True
+Q6412,TR,Trabzon,iso,Trabzon,40.799241,39.5847944,True
+Q6413,TR,Tunceli,iso,Tunceli,39.3073554,39.4387778,True
+Q6414,TR,Uşak,iso,Uşak,38.5431319,29.2320784,True
+Q6415,TR,Van,iso,Van,38.3679417,43.7182787,True
+Q6416,TR,Yalova,iso,Yalova,40.5775986,29.2088303,True
+Q6417,TR,Yozgat,iso,Yozgat,39.7271979,35.1077858,True
+Q6418,TR,Zonguldak,iso,Zonguldak,41.3124917,31.8598251,True
+Q6419,TM,Ahal Region,iso,Ahai,38.6399398,59.4720904,True
+Q6421,TM,Balkan Region,iso,Balkan,41.8101472,21.0937311,False
+Q6422,TM,Daşoguz Region,iso,Dasoguz,41.8368737,59.9651904,True
+Q6423,TM,Lebap Region,iso,Lebap,38.1272462,64.7162415,True
+Q6424,TM,Mary Region,iso,Mary,36.9481623,62.4504154,True
+Q6425,TV,Funafuti,iso,Funafuti,-8.5211471,179.1961926,True
+Q6426,TV,Nanumanga,iso,Nanumanga,-6.2858019,176.319928,True
+Q6427,TV,Nanumea,iso,Nanumea,-5.6881617,176.1370148,True
+Q6428,TV,Niutao Island Council,iso,Niutao,-6.1064258,177.3438429,True
+Q6429,TV,Nui,iso,Nui,-7.2388768,177.1485232,True
+Q6430,TV,Nukufetau,iso,Nukufetau,-8,178.5,False
+Q6431,TV,Nukulaelae,iso,Nukulaelae,-9.381111,179.852222,True
+Q6432,TV,Vaitupu,iso,Vaitupu,-7.4767327,178.6747675,True
+Q6462,UG,Central Region,iso,Central Region,44.296875,-94.7401733,False
+Q6464,UG,Eastern Region,iso,Eastern Region,6.2374036,-0.4502368,False
+Q6533,UG,Northern Region,iso,Northern Region,9.5439269,-0.9056623,False
+Q6555,UG,Western Region,iso,Western Region,40.7667215,-111.8877203,False
+Q6558,UA,Autonomous Republic of Crimea,iso,Autonomous Republic of Crimea,44.952117,34.102417,True
+Q6559,UA,Cherkaska oblast,iso,Cherkasy Oblast,49.444433,32.059767,True
+Q6560,UA,Chernihivska oblast,iso,Chernihiv Oblast,51.4982,31.2893499,True
+Q6561,UA,Chernivetska oblast,iso,Chernivtsi Oblast,48.291683,25.935217,True
+Q6562,UA,Dnipropetrovska oblast,iso,Dnipropetrovsk Oblast,48.464717,35.046183,True
+Q6563,UA,Donetska oblast,iso,Donetsk Oblast,48.015883,37.80285,True
+Q6564,UA,Ivano-Frankivska oblast,iso,Ivano-Frankivsk Oblast,48.922633,24.711117,True
+Q6565,UA,Kharkivska oblast,iso,Kharkiv Oblast,49.9935,36.230383,True
+Q6566,UA,Khersonska oblast,iso,Kherson Oblast,46.635417,32.616867,True
+Q6567,UA,Khmelnytska oblast,iso,Khmelnytskyi Oblast,49.422983,26.9871331,True
+Q6568,UA,Kirovohradska oblast,iso,Kirovohrad Oblast,48.507933,32.262317,True
+Q6569,UA,Kyiv,iso,Kyiv,50.4501,30.5234,True
+Q6570,UA,Kyivska oblast,iso,Kyiv Oblast,50.0529506,30.7667134,True
+Q6571,UA,Luhanska oblast,iso,Luhansk Oblast,48.574041,39.307815,True
+Q6572,UA,Lvivska oblast,iso,Lviv Oblast,49.839683,24.029717,True
+Q6573,UA,Mykolaivska oblast,iso,Mykolaiv Oblast,46.975033,31.9945829,True
+Q6574,UA,Odeska oblast,iso,Odessa Oblast,46.484583,30.7326,True
+Q6575,UA,Poltavska oblast,iso,Poltava Oblast,49.6429196,32.6675339,True
+Q6576,UA,Rivnenska oblast,iso,Rivne Oblast,50.6199,26.251617,True
+Q6577,UA,Sevastopol,iso,Sevastopol,44.61665,33.5253671,True
+Q6578,UA,Sumska oblast,iso,Sumy Oblast,50.9077,34.7981,True
+Q6579,UA,Ternopilska oblast,iso,Ternopil Oblast,49.553517,25.594767,True
+Q6580,UA,Vinnytska oblast,iso,Vinnytsia Oblast,49.233083,28.4682169,True
+Q6581,UA,Volynska oblast,iso,Volyn Oblast,50.747233,25.325383,True
+Q6582,UA,Zakarpatska Oblast,iso,Zakarpattia Oblast,48.6208,22.287883,True
+Q6583,UA,Zaporizka oblast,iso,Zaporizhia Oblast,47.8388,35.139567,True
+Q6584,UA,Zhytomyrska oblast,iso,Zhytomyr Oblast,50.25465,28.6586669,True
+Q6585,AE,Abu Dhabi Emirate,iso,Abu Dhabi,24.453884,54.3773438,True
+Q6586,AE,Ajman Emirate,iso,Ajman,25.4052165,55.5136433,True
+Q6587,AE,Dubai,iso,Dubai,25.2048493,55.2707828,True
+Q6588,AE,Fujairah,iso,Fujairah,25.1288099,56.3264849,True
+Q6589,AE,Ras al-Khaimah,iso,Ras al-Khaimah,25.6741343,55.9804173,True
+Q6590,AE,Sharjah Emirate,iso,Sharjah,25.0753974,55.7578403,True
+Q6591,AE,Umm al-Quwain,iso,Umm al-Quwain,25.5426324,55.5475348,True
+Q6679,GB,England,iso,England,52.3555177,-1.1743197,True
+Q6768,GB,Northern Ireland,iso,Northern Ireland,54.7877149,-6.4923145,True
+Q6793,GB,Scotland,iso,Scotland,56.4906712,-4.2026458,True
+Q6825,GB,Wales,iso,Wales,52.1306607,-3.7837117,True
+Q6839,US,Alabama,iso,Alabama,32.3182314,-86.902298,True
+Q6840,US,Alaska,iso,Alaska,64.2008413,-149.4936733,True
+Q6841,US,American Samoa,iso,American Samoa,-14.270972,-170.132217,False
+Q6842,US,Arizona,iso,Arizona,34.0489281,-111.0937311,True
+Q6843,US,Arkansas,iso,Arkansas,35.20105,-91.8318334,True
+Q6845,US,California,iso,California,36.778261,-119.4179324,True
+Q6846,US,Colorado,iso,Colorado,39.5500507,-105.7820674,True
+Q6847,US,Connecticut,iso,Connecticut,41.6032207,-73.087749,True
+Q6848,US,Delaware,iso,Delaware,38.9108325,-75.5276699,True
+Q6849,US,District of Columbia,iso,District of Columbia,38.9071923,-77.0368707,True
+Q6850,US,Florida,iso,Florida,27.6648274,-81.5157535,True
+Q6851,US,Georgia,iso,Georgia,32.1656221,-82.9000751,True
+Q6852,US,Guam,iso,Guam,13.444304,144.793731,True
+Q6853,US,Hawaii,iso,Hawaii,19.8967662,-155.5827818,True
+Q6855,US,Idaho,iso,Idaho,44.0682019,-114.7420408,True
+Q6856,US,Illinois,iso,Illinois,40.6331249,-89.3985283,True
+Q6857,US,Indiana,iso,Indiana,40.2671941,-86.1349019,True
+Q6858,US,Iowa,iso,Iowa,41.8780025,-93.097702,True
+Q6861,US,Kansas,iso,Kansas,39.011902,-98.4842465,True
+Q6862,US,Kentucky,iso,Kentucky,37.8393332,-84.2700179,True
+Q6864,US,Louisiana,iso,Louisiana,30.9842977,-91.9623327,True
+Q6865,US,Maine,iso,Maine,45.253783,-69.4454689,True
+Q6866,US,Maryland,iso,Maryland,39.0457549,-76.6412712,True
+Q6867,US,Massachusetts,iso,Massachusetts,42.4072107,-71.3824374,True
+Q6868,US,Michigan,iso,Michigan,44.3148443,-85.6023643,True
+Q6870,US,Minnesota,iso,Minnesota,46.729553,-94.6858998,True
+Q6871,US,Mississippi,iso,Mississippi,32.3546679,-89.3985283,True
+Q6872,US,Missouri,iso,Missouri,37.9642529,-91.8318334,True
+Q6873,US,Montana,iso,Montana,46.8796822,-110.3625658,True
+Q6875,US,Nebraska,iso,Nebraska,41.4925374,-99.9018131,True
+Q6876,US,Nevada,iso,Nevada,38.8026097,-116.419389,True
+Q6877,US,New Hampshire,iso,New Hampshire,43.1938516,-71.5723953,True
+Q6878,US,New Jersey,iso,New Jersey,40.0583238,-74.4056612,True
+Q6879,US,New Mexico,iso,New Mexico,34.5199402,-105.8700901,True
+Q6880,US,New York,iso,New York,40.7127753,-74.0059728,True
+Q6881,US,North Carolina,iso,North Carolina,35.7595731,-79.0192997,True
+Q6882,US,North Dakota,iso,North Dakota,47.5514926,-101.0020119,True
+Q6883,US,Northern Mariana Islands,iso,Commonwealth of the Northern Mariana Islands,15.0979,145.6739,True
+Q6884,US,Ohio,iso,Ohio,40.4172871,-82.907123,True
+Q6885,US,Oklahoma,iso,Oklahoma,35.4675602,-97.5164276,True
+Q6886,US,Oregon,iso,Oregon,43.8041334,-120.5542012,True
+Q6888,US,Pennsylvania,iso,Pennsylvania,41.2033216,-77.1945247,True
+Q6889,US,Puerto Rico,iso,Puerto Rico,18.220833,-66.590149,True
+Q6890,US,Rhode Island,iso,Rhode Island,41.5800945,-71.4774291,True
+Q6891,US,South Carolina,iso,South Carolina,33.836081,-81.1637245,True
+Q6892,US,South Dakota,name,South Dakota,43.9695148,-99.9018131,True
+Q6893,US,Tennessee,iso,Tennessee,35.5174913,-86.5804473,True
+Q6894,US,Texas,iso,Texas,31.9685988,-99.9018131,True
+Q6896,US,United States Virgin Islands,iso,United States Virgin Islands,18.335765,-64.896335,True
+Q6897,US,Utah,iso,Utah,39.3209801,-111.0937311,True
+Q6898,US,Vermont,iso,Vermont,44.5588028,-72.5778415,True
+Q6899,US,Virginia,iso,Virginia,37.4315734,-78.6568942,True
+Q6901,US,Washington,iso,Washington,47.7510741,-120.7401385,True
+Q6902,US,West Virginia,iso,West Virginia,38.5976262,-80.4549026,True
+Q6903,US,Wisconsin,iso,Wisconsin,43.7844397,-88.7878678,True
+Q6904,US,Wyoming,iso,Wyoming,43.0759678,-107.2902839,True
+Q6914,UY,Artigas,iso,Artigas,-30.6175112,-56.9594559,True
+Q6915,UY,Canelones,iso,Canelones,-34.5408717,-55.93076,True
+Q6916,UY,Cerro Largo,iso,Cerro Largo,-32.4411032,-54.3521753,True
+Q6917,UY,Colonia,iso,Colonia,-34.1294678,-57.6605184,True
+Q6918,UY,Durazno,iso,Durazno,-33.0232454,-56.0284644,True
+Q6919,UY,Flores,iso,Flores,-33.5733753,-56.8945028,True
+Q6920,UY,Florida,iso,Florida,28.0359495,-82.4579289,False
+Q6921,UY,Lavalleja,iso,Lavalleja,-33.9226175,-54.9765794,True
+Q6922,UY,Maldonado,iso,Maldonado,-34.5597932,-54.8628552,True
+Q6923,UY,Montevideo,iso,Montevideo,-34.8181587,-56.2138256,True
+Q6924,UY,Paysandú,iso,Paysandú,-32.0667366,-57.3364789,True
+Q6925,UY,Río Negro,iso,Río Negro,-32.7676356,-57.4295207,True
+Q6926,UY,Rivera,iso,Rivera,-31.4817421,-55.2435759,True
+Q6927,UY,Rocha,iso,Rocha,-33.9690081,-54.021485,True
+Q6928,UY,Salto,iso,Salto,-31.388028,-57.9612455,True
+Q6929,UY,San José,iso,San José,37.3492968,-121.9056049,False
+Q6930,UY,Soriano,iso,Soriano,-33.5102792,-57.7498103,True
+Q6931,UY,Tacuarembó,iso,Tacuarembó,-31.7206837,-55.9859887,True
+Q6932,UY,Treinta y Tres,iso,Treinta y Tres,-33.0685086,-54.2858627,True
+Q6933,UZ,Andijan Region,iso,Andijan Region,40.7685941,72.236379,True
+Q6934,UZ,Bukhara Region,iso,Bukhara Region,40.2504162,63.2032151,True
+Q6935,UZ,Fergana Region,iso,Fergana Region,40.4568081,71.2874209,True
+Q6936,UZ,Jizzakh Region,iso,Jizzakh Region,40.4706415,67.5708536,True
+Q6937,UZ,Karakalpakstan,iso,Republic of Karakalpakstan,43.8041334,59.4457988,True
+Q6938,UZ,Namangan Region,iso,Namangan Region,41.0510037,71.097317,True
+Q6939,UZ,Navoiy Region,iso,Navoiy Region,42.6988575,64.6337685,True
+Q6940,UZ,Qashqadaryo Region,iso,Qashqadaryo Region,38.8986231,66.0463534,True
+Q6941,UZ,Samarqand Region,iso,Samarqand Region,39.627012,66.9749731,True
+Q6942,UZ,Sirdaryo Region,iso,Sirdaryo Region,40.3863808,68.7154975,True
+Q6943,UZ,Surxondaryo Region,iso,Surxondaryo Region,37.9409005,67.5708536,True
+Q6944,UZ,Tashkent,iso,Tashkent,41.2994958,69.2400734,True
+Q6945,UZ,Tashkent Region,iso,Tashkent Region,41.2213234,69.8597406,True
+Q6946,UZ,Xorazm Region,iso,Xorazm Region,41.3565336,60.8566686,True
+Q6947,VU,Malampa,iso,Malampa,-16.4011405,167.6077865,True
+Q6948,VU,Penama,iso,Penama,-15.3795758,167.9053182,True
+Q6949,VU,Sanma,iso,Sanma,-15.4840017,166.9182097,True
+Q6950,VU,Shefa,iso,Shefa Province,32.805765,35.169971,False
+Q6951,VU,Tafea,iso,Tafea,-18.7237827,169.0645056,True
+Q6952,VU,Torba,iso,Torba,37.07653,27.456573,False
+Q6953,VE,Amazonas,iso,Amazonas,-3.4168427,-65.8560646,False
+Q6954,VE,Anzoátegui,iso,Anzoátegui,8.5913073,-63.9586111,True
+Q6955,VE,Apure,iso,Apure,6.9269483,-68.5247149,True
+Q6956,VE,Aragua,iso,Aragua,10.0635758,-67.2847875,True
+Q6957,VE,Barinas,iso,Barinas,8.6231498,-70.2371045,True
+Q6958,VE,Bolívar,iso,Bolívar,37.6144838,-93.4104749,False
+Q6959,VE,Carabobo,iso,Carabobo,10.1176433,-68.0477509,True
+Q6960,VE,Cojedes,iso,Cojedes,9.3816682,-68.3339275,True
+Q6961,VE,Delta Amacuro,iso,Delta Amacuro,8.8499307,-61.1403196,True
+Q6962,VE,Distrito Capital,iso,Distrito Capital,41.2614846,-95.9310807,False
+Q6963,VE,Falcón,iso,Falcón,11.1810674,-69.8597406,True
+Q6964,VE,Federal Dependencies of Venezuela,iso,Dependencias Federales,10.9377053,-65.3569573,True
+Q6965,VE,Guárico,iso,Guárico,8.7489309,-66.2367172,True
+Q6966,VE,La Guaira,iso,La Guaira,29.3052268,-94.7913854,False
+Q6967,VE,Lara,iso,Lara,33.9822165,-118.1322747,False
+Q6968,VE,Mérida,iso,Mérida,20.9673702,-89.5925857,False
+Q6969,VE,Miranda,iso,Miranda,42.3519383,-71.5290766,False
+Q6970,VE,Monagas,iso,Monagas,9.3241652,-63.0147578,True
+Q6971,VE,Nueva Esparta,iso,Nueva Esparta,10.9970723,-63.9113296,True
+Q6972,VE,Portuguesa,iso,Portuguesa,9.0943999,-69.097023,True
+Q6973,VE,Sucre,iso,Sucre,-19.035345,-65.2592128,False
+Q6974,VE,Táchira,iso,Táchira,7.9137001,-72.1416132,True
+Q6975,VE,Trujillo,iso,Trujillo,36.6734343,-121.6287588,False
+Q6976,VE,Yaracuy,iso,Yaracuy,10.339389,-68.8108849,True
+Q6977,VE,Zulia,iso,Zulia,10.2910237,-72.1416132,True
+Q6978,VN,An Giang,iso,An Giang,10.5215836,105.1258955,True
+Q6980,VN,Bắc Giang,iso,Bắc Giang,21.2819921,106.1974769,True
+Q6981,VN,Bắc Kạn,iso,Bắc Kạn,22.3032923,105.876004,True
+Q6982,VN,Bạc Liêu,iso,Bạc Liêu,9.2940027,105.7215663,True
+Q6983,VN,Bắc Ninh,iso,Bắc Ninh,21.121444,106.1110501,True
+Q6984,VN,Bến Tre,iso,Bến Tre,10.2433556,106.375551,True
+Q6985,VN,Bình Dương,iso,Bình Dương,11.3254024,106.477017,True
+Q6986,VN,Bình Định,iso,Bình Định,14.1665324,108.902683,True
+Q6987,VN,Bình Phước,iso,Bình Phước,11.7511894,106.7234639,True
+Q6988,VN,Bình Thuận,iso,Bình Thuận,11.0903703,108.0720781,True
+Q6989,VN,Cà Mau,iso,Cà Mau,9.1526728,105.1960795,True
+Q6990,VN,Cần Thơ,iso,Cần Thơ,10.0341851,105.7225507,True
+Q6991,VN,Cao Bằng,iso,Cao Bằng,22.635689,106.2522143,True
+Q6992,VN,Đà Nẵng,iso,Đà Nẵng,16.0544068,108.2021667,True
+Q6993,VN,Đắk Lắk,iso,Đắk Lắk,12.7100116,108.2377519,True
+Q6994,VN,Đắk Nông,iso,Đắk Nông,12.2646476,107.609806,True
+Q6995,VN,Điện Biên,iso,Điện Biên,21.8042309,103.1076525,True
+Q6996,VN,Đồng Nai,iso,Đồng Nai,11.0686305,107.1675976,True
+Q6997,VN,Đồng Tháp,iso,Đồng Tháp,10.4937989,105.6881788,True
+Q6998,VN,Gia Lai,iso,Gia Lai,13.8078943,108.109375,True
+Q6999,VN,Hà Giang,iso,Hà Giang,22.8025588,104.9784494,True
+Q7000,VN,Hà Nam,iso,Hà Nam,20.5835196,105.92299,True
+Q7001,VN,Hà Nội,iso,Hà Nội	,21.0277644,105.8341598,True
+Q7002,VN,Hà Tĩnh,iso,Hà Tĩnh,18.3559537,105.8877494,True
+Q7003,VN,Hải Dương,iso,Hải Dương,20.9373413,106.3145542,True
+Q7004,VN,Hải Phòng,iso,Hải Phòng,20.8449115,106.6880841,True
+Q7005,VN,Hậu Giang,iso,Hậu Giang,9.757898,105.6412527,True
+Q7006,VN,Hồ Chí Minh,iso,Ho Chi Minh,10.8230989,106.6296638,True
+Q7007,VN,Hòa Bình,iso,Hòa Bình,20.6861265,105.3131185,True
+Q7008,VN,Hưng Yên,iso,Hưng Yên,20.8525711,106.0169971,True
+Q7009,VN,Khánh Hòa,iso,Khánh Hòa,12.2585098,109.0526076,True
+Q7010,VN,Kiên Giang,iso,Kiên Giang,9.8249587,105.1258955,True
+Q7011,VN,Kon Tum,iso,Kon Tum,14.3497403,108.0004606,True
+Q7012,VN,Lai Châu,iso,Lai Châu,22.3862227,103.4702631,True
+Q7013,VN,Lâm Đồng,iso,Lâm Đồng,11.5752791,108.1428669,True
+Q7014,VN,Lạng Sơn,iso,Lạng Sơn,21.853708,106.761519,True
+Q7015,VN,Lào Cai,iso,Lào Cai,22.4809431,103.9754959,True
+Q7016,VN,Long An,iso,Long An,10.5607168,106.6497623,True
+Q7017,VN,Nam Định,iso,Nam Định,20.4388225,106.1621053,True
+Q7018,VN,Nghệ An,iso,Nghệ An,19.2342489,104.9200365,True
+Q7019,VN,Ninh Bình,iso,Ninh Bình,20.2506149,105.9744536,True
+Q7020,VN,Ninh Thuận,iso,Ninh Thuận,11.6738767,108.8629572,True
+Q7021,VN,Phú Thọ,iso,Phú Thọ,21.268443,105.2045573,True
+Q7022,VN,Phú Yên,iso,Phú Yên,13.0881861,109.0928764,True
+Q7023,VN,Quảng Bình,iso,Quảng Bình,17.6102715,106.3487474,True
+Q7024,VN,Quảng Nam,iso,Quảng Nam,15.5393538,108.019102,True
+Q7025,VN,Quảng Ngãi,iso,Quảng Ngãi,15.1213873,108.8044145,True
+Q7026,VN,Quảng Ninh,iso,Quảng Ninh,21.006382,107.2925144,True
+Q7027,VN,Quảng Trị,iso,Quảng Trị,16.7403074,107.1854679,True
+Q7028,VN,Sóc Trăng,iso,Sóc Trăng,9.602521,105.9739049,True
+Q7029,VN,Sơn La,iso,Sơn La,21.1022284,103.7289167,True
+Q7030,VN,Tây Ninh,iso,Tây Ninh,11.3351554,106.1098854,True
+Q7031,VN,Thái Bình,iso,Thái Bình,20.4463471,106.3365828,True
+Q7032,VN,Thái Nguyên,iso,Thái Nguyên,21.5671559,105.8252038,True
+Q7033,VN,Thanh Hóa,iso,Thanh Hóa,19.806692,105.7851816,True
+Q7034,VN,Thừa Thiên-Huế,iso,Thừa Thiên Huế,16.467397,107.5905326,True
+Q7035,VN,Tiền Giang,iso,Tiền Giang,10.4493324,106.3420504,True
+Q7036,VN,Trà Vinh,iso,Trà Vinh,9.812741,106.2992912,True
+Q7037,VN,Tuyên Quang,iso,Tuyên Quang,21.7767246,105.2280196,True
+Q7038,VN,Vĩnh Long,iso,Vĩnh Long,10.239574,105.9571928,True
+Q7039,VN,Vĩnh Phúc,iso,Vĩnh Phúc,21.3608805,105.5474373,True
+Q7040,VN,Yên Bái,iso,Yên Bái,21.7167689,104.8985878,True
+Q7044,YE,'Adan,iso,‘Adan Governorate,12.8257481,44.7943804,True
+Q7045,YE,'Amran,iso,'Amran Governorate,16.2569214,43.9436788,True
+Q7046,YE,Abyan,iso,Abyan Governorate,13.6343413,46.0563212,True
+Q7047,YE,Al Bayda',iso,Al Bayda' Governorate,14.3588662,45.4498065,True
+Q7048,YE,Al Hudaydah,iso,Al Hudaydah Governorate,15.3053072,43.0194897,True
+Q7049,YE,Al Jawf,iso,Al Jawf Governorate,16.7901819,45.2993862,True
+Q7050,YE,Al Mahrah,iso,Al Mahrah Governorate,16.5238423,51.6834275,True
+Q7051,YE,Al Mahwit,iso,Al Mahwit Governorate,15.3963229,43.5606946,True
+Q7052,YE,Amanat Al Asimah,iso,Sanʿaʾ,15.3694451,44.1910066,True
+Q7053,YE,Dhamar,iso,Dhamar Governorate,14.7195344,44.2479015,True
+Q7054,YE,Hadhramaut,iso,Hadhramaut,16.9304135,49.3653149,True
+Q7055,YE,Hajjah,iso,Hajjah Governorate,16.1180631,43.329466,True
+Q7056,YE,Ibb,iso,Ibb Governorate,14.1415717,44.2479015,True
+Q7057,YE,Lahij,iso,Lahij Governorate,13.1489588,44.8505495,True
+Q7058,YE,Ma'rib,iso,Ma'rib Governorate,15.515888,45.4498065,True
+Q7059,YE,Raymah,iso,Raymah Governorate,14.6277682,43.7142484,True
+Q7060,YE,Saada,iso,Sa'dah Governorate,16.8476528,43.9436788,True
+Q7061,YE,Sana'a,iso,Sanʿaʾ Governorate,15.3168913,44.4748018,True
+Q7062,YE,Shabwah,iso,Shabwah Governorate,14.7546303,46.516262,True
+Q7063,YE,Socotra,iso,Socotra,12.4634205,53.8237385,True
+Q7064,YE,Ta'izz,iso,Ta'izz Governorate,13.5775886,44.0177989,True
+Q7065,ZM,Central Province,iso,Central,7.2564996,80.7214417,False
+Q7066,ZM,Copperbelt Province,iso,Copperbelt,-13.0570073,27.5495846,True
+Q7067,ZM,Eastern Province,iso,Eastern,23.1669688,49.3653149,False
+Q7068,ZM,Luapula Province,iso,Luapula,-11.564831,29.0459927,True
+Q7069,ZM,Lusaka Province,iso,Lusaka,-15.3657129,29.2320784,True
+Q7070,ZM,Muchinga Province,iso,Muchinga,-15.382193,28.26158,False
+Q7071,ZM,Northern Province,iso,Northern,8.8855027,80.2767327,False
+Q7072,ZM,Northwestern Province,iso,North-Western,-13.0050258,24.9042208,True
+Q7073,ZM,Southern Province,iso,Southern,6.237375,80.543845,False
+Q7074,ZM,Western Province,iso,Western,6.9016086,80.0087746,False
+Q7075,ZW,Bulawayo Province,name,Bulawayo,-20.1489505,28.5331038,True
+Q7076,ZW,Harare Province,name,Harare,-17.8216288,31.0492259,True
+Q7077,ZW,Manicaland,name,Manicaland,-18.9216386,32.174605,True
+Q7078,ZW,Mashonaland Central Province,name,Mashonaland Central,-16.7644295,31.0793705,True
+Q7079,ZW,Mashonaland East Province,name,Mashonaland East,-18.5871642,31.2626366,True
+Q7080,ZW,Mashonaland West Province,name,Mashonaland West,-17.4851029,29.7889248,True
+Q7081,ZW,Masvingo Province,name,Masvingo,-20.6241509,31.2626366,True
+Q7082,ZW,Matabeleland North Province,name,Matabeleland North,-18.5331566,27.5495846,True
+Q7083,ZW,Matabeleland South Province,name,Matabeleland South,-21.052337,29.0459927,True
+Q7084,ZW,Midlands Province,name,Midlands,-19.0552009,29.6035495,True
+Q7086,GT,Zacapa Department,iso,Zacapa,14.97072190,-89.52974110,True

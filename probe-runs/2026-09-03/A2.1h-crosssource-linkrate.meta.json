@@ -1,0 +1,11 @@
+{
+  "id": "A2.1h-crosssource-linkrate",
+  "sent_at": "2026-09-02T23:57:02.796343+00:00",
+  "http_status": 200,
+  "elapsed_ms": 8451,
+  "bytes": 13817,
+  "curl_exit": 0,
+  "row_count": 38,
+  "truncated_by_limit": false,
+  "error": null
+}

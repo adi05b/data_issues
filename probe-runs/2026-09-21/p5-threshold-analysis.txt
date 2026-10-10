@@ -1,0 +1,45 @@
+below-0.90 rows: 116   records (raw grain): 82318
+
+  WRONG        49861 records  (60.6%)
+  GOOD         32324 records  (39.3%)
+  PART           133 records  (0.2%)
+
+=== threshold trade-off (commodity, raw-record grain) ===
+  floor  records cut  WRONG fixed   GOOD lost   PART lost     ratio
+   0.55        47241        47226          15           0  3148.4:1
+   0.60        47976        47955          16           5  2997.2:1
+   0.62        47993        47955          33           5  1453.2:1
+   0.65        48439        47967         437          35   109.8:1
+   0.70        50819        48938        1802          79    27.2:1
+   0.72        51607        48938        2544         125    19.2:1
+   0.75        54875        48940        5810         125     8.4:1
+   0.80        78341        49856       28352         133     1.8:1
+   0.85        82140        49859       32148         133     1.6:1
+   0.90        82318        49861       32324         133     1.5:1
+
+=== what a 0.90 floor would destroy (GOOD matches, by volume) ===
+   17461 @ 0.7715  Crushed/Broken                  -> Stone > Crushed/Broken
+    3427 @ 0.7798  General                         -> Clay > General
+    3081 @ 0.7469  Dimension                       -> Limestone > Dimension
+    2391 @ 0.8494  Fire Clay (Refractory)          -> Clay > Fire (Refractory)
+    1033 @ 0.7553  Kaolin                          -> Clay > Kaolin
+    1008 @ 0.8119  Bentonite                       -> Clay > Bentonite
+     723 @ 0.7161  Sulfur-Pyrite                   -> Sulfur > Iron Pyrite
+     710 @ 0.6815  Niobium (Columbium)             -> Niobium
+     449 @ 0.6705  Garnet                          -> Abrasive > Garnet
+     261 @ 0.6281  Oil Shale                       -> Petroleum (Oil) > Oil Shale
+     221 @ 0.7715  Crushed/Broken                  -> Stone > Crushed/Broken
+     170 @ 0.8073  Sulfuric Acid                   -> Sulfur > Sulfuric Acid
+     148 @ 0.8431  Contained Or Metal              -> Aluminum > Contained Or Metal
+     119 @ 0.6970  Corundum                        -> Abrasive > Corundum
+
+=== WRONG matches that NO floor below 0.90 catches (conf >= 0.72) ===
+     840 @ 0.7599  Metal                           -> Nonmetal
+      76 @ 0.7599  Metal                           -> Nonmetal
+       3 @ 0.8367  Chlorite                        -> Chlorine
+       2 @ 0.7326  Anthophyllite                   -> Pyrophyllite
+       2 @ 0.8566  Magnetite                       -> Magnesite
+
+=== the 0.72 line, both sides ===
+  below 0.72  WRONG=48938  GOOD=2544  PART=125
+  0.72-0.90   GOOD=29780  WRONG=923  PART=8

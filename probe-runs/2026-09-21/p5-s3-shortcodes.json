@@ -1,0 +1,1628 @@
+{ "head": {
+    "vars": [ "src" , "obs" , "label" , "conf" , "records" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "src": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "label": { "type": "literal" , "value": "Scandium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7076" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "obs": { "type": "literal" , "value": "G" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2351" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "label": { "type": "literal" , "value": "Sulfur" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2349" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "obs": { "type": "literal" , "value": "SD" } ,
+        "label": { "type": "literal" , "value": "Sand" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "41" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "obs": { "type": "literal" , "value": "CS" } ,
+        "label": { "type": "literal" , "value": "Cesium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.1016/j.oregeorev.2016.08.010" } ,
+        "obs": { "type": "literal" , "value": "%V" } ,
+        "label": { "type": "literal" , "value": "Vanadium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "SDG" } ,
+        "label": { "type": "literal" , "value": "Sand and Gravel" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2143" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "U V" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "378" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "V U" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "322" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "U" } ,
+        "label": { "type": "literal" , "value": "Uranium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "315" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "FE" } ,
+        "label": { "type": "literal" , "value": "Iron" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "179" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "CU" } ,
+        "label": { "type": "literal" , "value": "Copper" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "167" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "BRI" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "133" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "CLY" } ,
+        "label": { "type": "literal" , "value": "Clay" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "107" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "AU" } ,
+        "label": { "type": "literal" , "value": "Gold" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "105" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "GYP" } ,
+        "label": { "type": "literal" , "value": "Gypsum-Anhydrite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "94" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "BIT" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "89" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "LST" } ,
+        "label": { "type": "literal" , "value": "Limestone" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "84" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "MN" } ,
+        "label": { "type": "literal" , "value": "Manganese" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "76" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "VOL" } ,
+        "label": { "type": "literal" , "value": "Volcanic Materials" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "58" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "P" } ,
+        "label": { "type": "literal" , "value": "Phosphorus-Phosphates" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "50" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "SIL" } ,
+        "label": { "type": "literal" , "value": "Silica" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "47" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "SAO" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "46" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "GEM" } ,
+        "label": { "type": "literal" , "value": "Gemstone" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "38" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "GEO" } ,
+        "label": { "type": "literal" , "value": "Geothermal" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "38" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "W" } ,
+        "label": { "type": "literal" , "value": "Tungsten" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "33" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "AL3" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "30" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "F" } ,
+        "label": { "type": "literal" , "value": "Fluorine-Fluorite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "23" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "PB" } ,
+        "label": { "type": "literal" , "value": "Lead" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "23" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "AG" } ,
+        "label": { "type": "literal" , "value": "Silver" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "22" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "BA" } ,
+        "label": { "type": "literal" , "value": "Barium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "19" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "HUM" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "SB" } ,
+        "label": { "type": "literal" , "value": "Antimony" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "STN" } ,
+        "label": { "type": "literal" , "value": "Stone" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "CAR" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "HAL" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "CA" } ,
+        "label": { "type": "literal" , "value": "Calcium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "SHL" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "U F" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "SHO" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "DIT" } ,
+        "label": { "type": "literal" , "value": "Diatomite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "PUM" } ,
+        "label": { "type": "literal" , "value": "Pumice" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "SST" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "DOL" } ,
+        "label": { "type": "literal" , "value": "Dolomite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "label": { "type": "literal" , "value": "Sulfur" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "PER" } ,
+        "label": { "type": "literal" , "value": "Perlite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "ZEO" } ,
+        "label": { "type": "literal" , "value": "Zeolites" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "ZN" } ,
+        "label": { "type": "literal" , "value": "Zinc" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "BE" } ,
+        "label": { "type": "literal" , "value": "Beryllium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "HG" } ,
+        "label": { "type": "literal" , "value": "Mercury" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "CER" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "S F" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "U P" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "MBL" } ,
+        "label": { "type": "literal" , "value": "Marble" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "F U" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "GAR" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "P N" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "SAM" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "LWA" } ,
+        "label": { "type": "literal" , "value": "Aggregate > Light Weight" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "AS" } ,
+        "label": { "type": "literal" , "value": "Arsenic" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "ASB" } ,
+        "label": { "type": "literal" , "value": "Asbestos" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "KYN" } ,
+        "label": { "type": "literal" , "value": "Kyanite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "FOS" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "POZ" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "CO2" } ,
+        "label": { "type": "literal" , "value": "Carbon Dioxide" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "GRT" } ,
+        "label": { "type": "literal" , "value": "Granite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "MG" } ,
+        "label": { "type": "literal" , "value": "Magnesite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "MIC" } ,
+        "label": { "type": "literal" , "value": "Mica" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "MO" } ,
+        "label": { "type": "literal" , "value": "Molybdenum" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "K" } ,
+        "label": { "type": "literal" , "value": "Potassium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "QTZ" } ,
+        "label": { "type": "literal" , "value": "Quartz" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "SLA" } ,
+        "label": { "type": "literal" , "value": "Slate" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "TLC" } ,
+        "label": { "type": "literal" , "value": "Talc-Soapstone" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.4095/295581" } ,
+        "obs": { "type": "literal" , "value": "WO3" } ,
+        "label": { "type": "literal" , "value": "Tungsten" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "172" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.4095/295581" } ,
+        "obs": { "type": "literal" , "value": "W" } ,
+        "label": { "type": "literal" , "value": "Tungsten" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "27" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "W" } ,
+        "label": { "type": "literal" , "value": "Tungsten" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "588" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "W" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "506" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "U" } ,
+        "label": { "type": "literal" , "value": "Uranium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "248" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "U" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "180" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "REE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "64" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "PGE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "56" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "F" } ,
+        "label": { "type": "literal" , "value": "Fluorine-Fluorite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "44" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "V" } ,
+        "label": { "type": "literal" , "value": "Vanadium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "40" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "V" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "34" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "F" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "32" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "Y" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "20" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "B" } ,
+        "label": { "type": "literal" , "value": "Boron-Borates" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "18" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "P" } ,
+        "label": { "type": "literal" , "value": "Phosphorus-Phosphates" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "Y" } ,
+        "label": { "type": "literal" , "value": "Yttrium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "P" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "B" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "label": { "type": "literal" , "value": "Sulfur" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "Y)" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "Y)" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "K" } ,
+        "label": { "type": "literal" , "value": "Potassium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5382/econgeo.2018.4590" } ,
+        "obs": { "type": "literal" , "value": "% W" } ,
+        "label": { "type": "literal" , "value": "Tungsten" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "obs": { "type": "literal" , "value": "%U" } ,
+        "label": { "type": "literal" , "value": "Uranium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "obs": { "type": "literal" , "value": ")" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "obs": { "type": "literal" , "value": "68)" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "obs": { "type": "literal" , "value": "0" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "obs": { "type": "literal" , "value": "44" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "obs": { "type": "literal" , "value": "5" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "obs": { "type": "literal" , "value": "96" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "obs": { "type": "literal" , "value": "PGE" } ,
+        "label": { "type": "literal" , "value": "Platinum-Group Elements" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "131" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "obs": { "type": "literal" , "value": "REE" } ,
+        "label": { "type": "literal" , "value": "Rare Earth Elements" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "90" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "obs": { "type": "literal" , "value": "W" } ,
+        "label": { "type": "literal" , "value": "Tungsten" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "75" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "obs": { "type": "literal" , "value": "U" } ,
+        "label": { "type": "literal" , "value": "Uranium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "45" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "label": { "type": "literal" , "value": "Sulfur" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "35" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "obs": { "type": "literal" , "value": "P" } ,
+        "label": { "type": "literal" , "value": "Phosphorus-Phosphates" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "27" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "obs": { "type": "literal" , "value": "V" } ,
+        "label": { "type": "literal" , "value": "Vanadium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "22" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "obs": { "type": "literal" , "value": "B" } ,
+        "label": { "type": "literal" , "value": "Boron-Borates" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "20" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "obs": { "type": "literal" , "value": "PGE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "obs": { "type": "literal" , "value": "F" } ,
+        "label": { "type": "literal" , "value": "Fluorine-Fluorite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "obs": { "type": "literal" , "value": "K" } ,
+        "label": { "type": "literal" , "value": "Potassium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "obs": { "type": "literal" , "value": "I" } ,
+        "label": { "type": "literal" , "value": "Iodine" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "obs": { "type": "literal" , "value": "REE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "obs": { "type": "literal" , "value": "REE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1294" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "obs": { "type": "literal" , "value": "PGE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "714" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "PGE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5116" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "PGE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4497" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "U" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "233" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "229" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "210" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "U" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "206" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "V" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "185" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "V" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "158" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "W" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "128" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "W" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "115" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "REE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "89" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "REE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "83" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "P" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "74" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "P" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "69" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "F" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "58" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "F" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "56" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "B" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "23" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "B" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "21" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "I" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "N" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "I" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "N" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "K" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "K" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "C" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "C" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "A" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "BI" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "RHE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "T" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "A" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "BI" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "obs": { "type": "literal" , "value": "RHE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "obs": { "type": "literal" , "value": "P" } ,
+        "label": { "type": "literal" , "value": "Phosphorus-Phosphates" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "446" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "obs": { "type": "literal" , "value": "REE" } ,
+        "label": { "type": "literal" , "value": "Rare Earth Elements" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "obs": { "type": "literal" , "value": "F" } ,
+        "label": { "type": "literal" , "value": "Fluorine-Fluorite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "obs": { "type": "literal" , "value": "U" } ,
+        "label": { "type": "literal" , "value": "Uranium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "P" } ,
+        "label": { "type": "literal" , "value": "Phosphorus-Phosphates" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1629" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "P" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1151" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "U" } ,
+        "label": { "type": "literal" , "value": "Uranium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "89" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "U" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "73" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "REE" } ,
+        "label": { "type": "literal" , "value": "Rare Earth Elements" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "44" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "REE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "39" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "F" } ,
+        "label": { "type": "literal" , "value": "Fluorine-Fluorite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "32" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "F" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "28" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "V" } ,
+        "label": { "type": "literal" , "value": "Vanadium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "V" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "C" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "CAR" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "VRM" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "DIT" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "FE" } ,
+        "label": { "type": "literal" , "value": "Iron" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "Y" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "FE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "CLY" } ,
+        "label": { "type": "literal" , "value": "Clay" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "RE" } ,
+        "label": { "type": "literal" , "value": "Rhenium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "CAL" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "CLY" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "D" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "GLA" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "GYP" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "LST" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "M" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "MN" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "PY" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "VR" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "DIT" } ,
+        "label": { "type": "literal" , "value": "Diatomite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "GYP" } ,
+        "label": { "type": "literal" , "value": "Gypsum-Anhydrite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "LST" } ,
+        "label": { "type": "literal" , "value": "Limestone" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "MN" } ,
+        "label": { "type": "literal" , "value": "Manganese" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "N" } ,
+        "label": { "type": "literal" , "value": "Nitrogen-Nitrates" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "VRM" } ,
+        "label": { "type": "literal" , "value": "Vermiculite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "B" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "CEM" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "CL" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "DOL" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "FLD" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "I" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "LS" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "MIC" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "N" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "PYR" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "RE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "B" } ,
+        "label": { "type": "literal" , "value": "Boron-Borates" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "CEM" } ,
+        "label": { "type": "literal" , "value": "Cement Rock" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "CL" } ,
+        "label": { "type": "literal" , "value": "Chlorine" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "FLD" } ,
+        "label": { "type": "literal" , "value": "Feldspar" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "I" } ,
+        "label": { "type": "literal" , "value": "Iodine" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "MIC" } ,
+        "label": { "type": "literal" , "value": "Mica" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "obs": { "type": "literal" , "value": "PYR" } ,
+        "label": { "type": "literal" , "value": "Pyrite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "obs": { "type": "literal" , "value": ")" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "K" } ,
+        "label": { "type": "literal" , "value": "Potassium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "976" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "K" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "975" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "HAL" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "924" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "BRI" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "172" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "MG" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "59" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "MG" } ,
+        "label": { "type": "literal" , "value": "Magnesite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "59" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "B" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "25" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "B" } ,
+        "label": { "type": "literal" , "value": "Boron-Borates" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "25" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "LI" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "21" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "LI" } ,
+        "label": { "type": "literal" , "value": "Lithium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "21" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "BR" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "17" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "BR" } ,
+        "label": { "type": "literal" , "value": "Bromine" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "17" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "GYP" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "NA" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "GYP" } ,
+        "label": { "type": "literal" , "value": "Gypsum-Anhydrite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": ")" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "K(" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "label": { "type": "literal" , "value": "Sulfur" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "SO4" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "CL" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "CL" } ,
+        "label": { "type": "literal" , "value": "Chlorine" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "CA" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "H2S" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "I" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "NO3" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "CA" } ,
+        "label": { "type": "literal" , "value": "Calcium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "I" } ,
+        "label": { "type": "literal" , "value": "Iodine" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "obs": { "type": "literal" , "value": ")" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "obs": { "type": "literal" , "value": "0" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "obs": { "type": "literal" , "value": "7" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "obs": { "type": "literal" , "value": "W" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "57" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "obs": { "type": "literal" , "value": "U" } ,
+        "label": { "type": "literal" , "value": "Uranium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "46" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "obs": { "type": "literal" , "value": "U" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "obs": { "type": "literal" , "value": "V" } ,
+        "label": { "type": "literal" , "value": "Vanadium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "obs": { "type": "literal" , "value": "F" } ,
+        "label": { "type": "literal" , "value": "Fluorine-Fluorite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "label": { "type": "literal" , "value": "Sulfur" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "obs": { "type": "literal" , "value": "F" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "obs": { "type": "literal" , "value": "PGE" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml" } ,
+        "obs": { "type": "literal" , "value": "A" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "19" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml" } ,
+        "obs": { "type": "literal" , "value": "N" } ,
+        "label": { "type": "literal" , "value": "Nitrogen-Nitrates" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "19" }
+      }
+    ]
+  }
+}

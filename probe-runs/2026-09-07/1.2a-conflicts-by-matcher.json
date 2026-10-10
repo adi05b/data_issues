@@ -1,0 +1,32 @@
+{ "head": {
+    "vars": [ "state_src" , "sites" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "state_src": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5668" }
+      } ,
+      { 
+        "state_src": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "322" }
+      } ,
+      { 
+        "state_src": { "type": "literal" , "value": "Inferlink Extraction v3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "97" }
+      } ,
+      { 
+        "state_src": { "type": "literal" , "value": "SAND" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "43" }
+      } ,
+      { 
+        "state_src": { "type": "literal" , "value": "UMN Exact Match v1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "25" }
+      } ,
+      { 
+        "state_src": { "type": "literal" , "value": "Inferlink Extraction v2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "A2.1i-xsrc-outbound",
+  "sent_at": "2026-09-02T23:59:51.509579+00:00",
+  "http_status": 200,
+  "elapsed_ms": 1776,
+  "bytes": 2834,
+  "curl_exit": 0,
+  "row_count": 13,
+  "truncated_by_limit": false,
+  "error": null
+}

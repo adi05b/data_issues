@@ -1,0 +1,11 @@
+{
+  "id": "1.2a-conflicts-by-matcher",
+  "sent_at": "2026-09-08T06:14:10.460982+00:00",
+  "http_status": 200,
+  "elapsed_ms": 9424,
+  "bytes": 1361,
+  "curl_exit": 0,
+  "row_count": 6,
+  "truncated_by_limit": false,
+  "error": null
+}

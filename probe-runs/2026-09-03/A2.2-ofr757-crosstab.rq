@@ -1,0 +1,16 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?crs_label ?status (COUNT(DISTINCT ?site) AS ?sites)
+WHERE {
+  ?site a :MineralSite ; :source_id ?source ; :location_info ?li .
+  FILTER(CONTAINS(STR(?source), "OFR-757"))
+  OPTIONAL { ?li :location ?wkt }
+  BIND(xsd:double(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2")) AS ?lat)
+  BIND(IF(!BOUND(?wkt), "no_wkt",
+       IF(!BOUND(?lat), "unparseable",
+       IF(ABS(?lat) <= 90, "in_range", "out_of_range"))) AS ?status)
+  OPTIONAL { ?li :crs ?crsc . ?crsc :normalized_uri ?ce . ?ce rdfs:label ?crs_label }
+}
+GROUP BY ?crs_label ?status

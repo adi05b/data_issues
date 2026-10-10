@@ -1,0 +1,9 @@
+probe: p2.* (Problem 2 affected-records identification, sections 1-6)
+attempted_at: 2026-09-14T02:31:40Z
+gate: ASK { ?s ?p ?o }
+result: BLOCKED - curl (60) SSL certificate problem: unable to get local issuer certificate
+cert notAfter: Sep 12 23:59:59 2026 GMT  (expired ~26.5h; NOT renewed)
+cert subject: CN=minmod.isi.edu  issuer: InCommon RSA Server CA 2
+action: stopped per run instruction. TLS verification NOT disabled.
+action: did NOT fall back to Adriana's spreadsheet.
+queries staged and unrun: p2.1a p2.1b p2.2a p2.2b p2.3 p2.4 p2.6

@@ -1,0 +1,10 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?country_label (COUNT(DISTINCT ?site) AS ?sites)
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :location ?wkt ; :crs ?c .
+  ?c :normalized_uri ?ce . ?ce rdfs:label ?crs . FILTER(STR(?crs) = "EPSG:4326")
+  ?li :country ?cc . ?cc :normalized_uri ?cce . ?cce rdfs:label ?country_label
+}
+GROUP BY ?country_label ORDER BY DESC(?sites)

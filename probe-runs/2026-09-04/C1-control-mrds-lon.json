@@ -1,0 +1,24 @@
+{ "head": {
+    "vars": [ "axis_class" , "values" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "axis_class": { "type": "literal" , "value": "1_whole_degree" } ,
+        "values": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "axis_class": { "type": "literal" , "value": "2_arcminute" } ,
+        "values": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "143" }
+      } ,
+      { 
+        "axis_class": { "type": "literal" , "value": "3_arcsecond" } ,
+        "values": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1374" }
+      } ,
+      { 
+        "axis_class": { "type": "literal" , "value": "4_decimal_degrees" } ,
+        "values": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "303079" }
+      }
+    ]
+  }
+}

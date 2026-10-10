@@ -1,0 +1,11 @@
+{
+  "id": "p6-o1-untyped-numeric",
+  "sent_at": "2026-10-08T00:47:53.073071+00:00",
+  "http_status": 200,
+  "elapsed_ms": 11416,
+  "bytes": 112,
+  "curl_exit": 0,
+  "row_count": 0,
+  "truncated_by_limit": false,
+  "error": null
+}

@@ -1,0 +1,118 @@
+{ "head": {
+    "vars": [ "site" , "label" , "source" , "wkt" , "lon" , "lat" , "crs_label" , "country_obs" , "state_obs" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-20999__umn" } ,
+        "label": { "type": "literal" , "value": "Sand Island Placer" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (421944.1650262475 1668631.7765748054)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "421944.1650262475e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "1668631.7765748054e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-00001__umn" } ,
+        "label": { "type": "literal" , "value": "Hammond-McGowan-Columbia placer" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (426081.9665354341 1647154.7801837325)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "426081.9665354341e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "1647154.7801837325e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-09979__umn" } ,
+        "label": { "type": "literal" , "value": "quarry" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (556993.2667322904 1643652.843832016)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "556993.2667322904e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "1643652.843832016e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-00002__umn" } ,
+        "label": { "type": "literal" , "value": "Tongue Point" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (436162.94192913175 1639121.0482283533)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "436162.94192913175e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "1639121.0482283533e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-09967__umn" } ,
+        "label": { "type": "literal" , "value": "Hammond Black Sand Locality No.1" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (441509.4074803144 1638810.5659448802)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "441509.4074803144e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "1638810.5659448802e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-00017__umn" } ,
+        "label": { "type": "literal" , "value": "Clatsop County" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (550004.2939632535 1637998.6683070809)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "550004.2939632535e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "1637998.6683070809e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-14944__umn" } ,
+        "label": { "type": "literal" , "value": "City of Astoria" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (484751.3585958034 1637959.8579396307)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "484751.3585958034e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "1637959.8579396307e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-09968__umn" } ,
+        "label": { "type": "literal" , "value": "Columbia River Bar" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (443280.12729658186 1637495.173884511)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "443280.12729658186e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "1637495.173884511e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-00018__umn" } ,
+        "label": { "type": "literal" , "value": "Estoos Pit" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (548042.9878608882 1636735.6007217914)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "548042.9878608882e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "1636735.6007217914e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-14943__umn" } ,
+        "label": { "type": "literal" , "value": "Oregon, State" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (486592.7687007934 1636361.3585958034)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "486592.7687007934e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "1636361.3585958034e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      }
+    ]
+  }
+}

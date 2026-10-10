@@ -1,0 +1,8 @@
+_site,variant,variant_bound,sites,sites_bound
+,a_lat_dp_eq_1,1,2853,1
+,b_lon_dp_eq_1,1,3081,1
+,c_either_eq_1,1,5409,1
+,d_both_le_1,1,8708,1
+,e_either_le_1,1,14200,1
+,f_lat_dp_eq_0,1,8334,1
+,g_both_eq_0,1,7968,1

@@ -1,0 +1,9 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT (COUNT(DISTINCT ?site) AS ?total_sites)
+       (COUNT(DISTINCT ?s2) AS ?with_location_info)
+       (COUNT(DISTINCT ?s3) AS ?with_location)
+WHERE {
+  { ?site a :MineralSite ; :source_id "https://doi.org/10.5066/P96MMRFD" }
+  UNION { ?s2 a :MineralSite ; :source_id "https://doi.org/10.5066/P96MMRFD" ; :location_info [] }
+  UNION { ?s3 a :MineralSite ; :source_id "https://doi.org/10.5066/P96MMRFD" ; :location_info/:location [] }
+}

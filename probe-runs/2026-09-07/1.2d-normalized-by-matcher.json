@@ -1,0 +1,48 @@
+{ "head": {
+    "vars": [ "state_src" , "sites" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "state_src": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "300045" }
+      } ,
+      { 
+        "state_src": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "114857" }
+      } ,
+      { 
+        "state_src": { "type": "literal" , "value": "UMN Exact Match v1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1839" }
+      } ,
+      { 
+        "state_src": { "type": "literal" , "value": "Inferlink Extraction v3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1140" }
+      } ,
+      { 
+        "state_src": { "type": "literal" , "value": "SAND" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "372" }
+      } ,
+      { 
+        "state_src": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "25" }
+      } ,
+      { 
+        "state_src": { "type": "literal" , "value": "Inferlink Extraction v2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_src": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/caknoblock" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_src": { "type": "literal" , "value": "https://minmod.isi.edu/users/a/bvu" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_src": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/glederer" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "p2.4-state-vocabulary",
+  "sent_at": "2026-09-14T19:18:02.011684+00:00",
+  "http_status": 200,
+  "elapsed_ms": 424,
+  "bytes": 1187827,
+  "curl_exit": 0,
+  "row_count": 5084,
+  "truncated_by_limit": false,
+  "error": null
+}

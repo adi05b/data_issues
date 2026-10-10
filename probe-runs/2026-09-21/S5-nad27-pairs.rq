@@ -1,0 +1,13 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+SELECT ?a ?a_src ?a_wkt ?b ?b_src ?b_wkt ?b_crs
+WHERE {
+  ?a a :MineralSite ; :location_info ?la ; :source_id ?a_src .
+  ?la :crs ?ca . ?ca :observed_name "EPSG:4267" .
+  ?la :location ?a_wkt .
+  ?a owl:sameAs ?b .
+  ?b a :MineralSite ; :location_info ?lb ; :source_id ?b_src .
+  ?lb :location ?b_wkt .
+  OPTIONAL { ?lb :crs ?cb . ?cb :observed_name ?b_crs }
+  FILTER(?a_src != ?b_src)
+}

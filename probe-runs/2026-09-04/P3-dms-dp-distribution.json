@@ -1,0 +1,1793 @@
+{ "head": {
+    "vars": [ "source" , "grid" , "lond" , "latd" , "sites" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "22" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "104" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "498" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "90" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "25" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "67" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "23" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "44" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "18" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "53" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "76" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "34" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "29" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "51" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "98" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/vms" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "919" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "79" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "114" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "31" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "19" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "52" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "27" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "96" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "21" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "30" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "53" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "38" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "35" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "58" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/vms" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "171" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "166" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "22" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://www.idahogeology.org" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "39" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "26" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "17" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "18" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "82" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "23" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "28" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "44" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "23" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "160" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "60" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "28" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "27" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "498" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3456" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "59" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "36" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "162" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "164" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "grid": { "type": "literal" , "value": "arcminute" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "18" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "277" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "grid": { "type": "literal" , "value": "arcsecond" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

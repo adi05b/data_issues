@@ -1,0 +1,115 @@
+{ "head": {
+    "vars": [ "obs" , "src" , "conf" , "matcher" , "label" , "records" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "obs": { "type": "literal" , "value": "Construction" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5453337996531422" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "label": { "type": "literal" , "value": "Strontium" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "46221" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "SC" } ,
+        "src": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "label": { "type": "literal" , "value": "Scandium" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7076" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Construction" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2503" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "S" } ,
+        "src": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "label": { "type": "literal" , "value": "Sulfur" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2349" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Construc" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5368033988749895" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "label": { "type": "literal" , "value": "Cobalt" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "980" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "S" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "229" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "S" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "matcher": { "type": "literal" , "value": "SRI database agent v0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "210" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "S" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "label": { "type": "literal" , "value": "Sulfur" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "35" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "S" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "label": { "type": "literal" , "value": "Sulfur" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "S" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "label": { "type": "literal" , "value": "Sulfur" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "S" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "matcher": { "type": "literal" , "value": "SRI database agent v0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "S" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "label": { "type": "literal" , "value": "Sulfur" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "S" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "matcher": { "type": "literal" , "value": "UMN Exact Match v1" } ,
+        "label": { "type": "literal" , "value": "Sulfur" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "S" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "matcher": { "type": "literal" , "value": "SRI database agent v0" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

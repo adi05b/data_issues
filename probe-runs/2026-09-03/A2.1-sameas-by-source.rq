@@ -1,0 +1,10 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?source (COUNT(DISTINCT ?site) AS ?sites) (COUNT(DISTINCT ?linked) AS ?linked_sites)
+WHERE {
+  ?site a :MineralSite ; :source_id ?source .
+  OPTIONAL { ?site owl:sameAs ?other . BIND(?site AS ?linked) }
+}
+GROUP BY ?source
+ORDER BY DESC(?sites)

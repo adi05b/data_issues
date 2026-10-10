@@ -1,0 +1,11 @@
+{
+  "id": "p6-o2-issue-element-query",
+  "sent_at": "2026-10-08T00:48:04.545131+00:00",
+  "http_status": 200,
+  "elapsed_ms": 226,
+  "bytes": 105,
+  "curl_exit": 0,
+  "row_count": 0,
+  "truncated_by_limit": false,
+  "error": null
+}

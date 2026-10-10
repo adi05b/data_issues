@@ -1,0 +1,118 @@
+{ "head": {
+    "vars": [ "site" , "label" , "source" , "wkt" , "lon" , "lat" , "crs_label" , "country_obs" , "state_obs" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-04868__umn" } ,
+        "label": { "type": "literal" , "value": "Cape Blanco" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (230268.75623360276 414306.097769022)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "230268.75623360276e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "414306.097769022e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-14801__umn" } ,
+        "label": { "type": "literal" , "value": "borrow pit" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (233737.4268372655 418679.88024935126)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "233737.4268372655e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "418679.88024935126e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-18959__umn" } ,
+        "label": { "type": "literal" , "value": "ODOT Parks Pit" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (233737.4268372655 418679.88024935126)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "233737.4268372655e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "418679.88024935126e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-18960__umn" } ,
+        "label": { "type": "literal" , "value": "Rod Mckenzie Pit" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (235689.376968503 414558.71128608286)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "235689.376968503e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "414558.71128608286e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-04869__umn" } ,
+        "label": { "type": "literal" , "value": "Mckenzie Site" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (236608.0029527545 413157.72900262475)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "236608.0029527545e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "413157.72900262475e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-18961__umn" } ,
+        "label": { "type": "literal" , "value": "Mckenzie Pit" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (236608.0029527545 413157.72900262475)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "236608.0029527545e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "413157.72900262475e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-04871__umn" } ,
+        "label": { "type": "literal" , "value": "Knapp Pit" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (236939.623031497 403080.2185039371)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "236939.623031497e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "403080.2185039371e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-18963__umn" } ,
+        "label": { "type": "literal" , "value": "Knapp Gravel Deposit" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (236939.623031497 403080.2185039371)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "236939.623031497e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "403080.2185039371e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-04870__umn" } ,
+        "label": { "type": "literal" , "value": "Wahl Site" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (238027.35104987025 410154.78182414174)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "238027.35104987025e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "410154.78182414174e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-oregongeology-org__id-18962__umn" } ,
+        "label": { "type": "literal" , "value": "John Wahl Pit" } ,
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "wkt": { "type": "literal" , "value": "POINT (238027.35104987025 410154.78182414174)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "238027.35104987025e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "410154.78182414174e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Oregon" }
+      }
+    ]
+  }
+}

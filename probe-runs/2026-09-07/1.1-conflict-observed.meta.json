@@ -1,0 +1,11 @@
+{
+  "id": "1.1-conflict-observed",
+  "sent_at": "2026-09-08T06:06:58.686447+00:00",
+  "http_status": 200,
+  "elapsed_ms": 9867,
+  "bytes": 145516,
+  "curl_exit": 0,
+  "row_count": 358,
+  "truncated_by_limit": false,
+  "error": null
+}

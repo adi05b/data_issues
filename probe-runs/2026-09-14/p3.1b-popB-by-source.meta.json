@@ -1,0 +1,11 @@
+{
+  "id": "p3.1b-popB-by-source",
+  "sent_at": "2026-09-14T20:39:19.469950+00:00",
+  "http_status": 200,
+  "elapsed_ms": 10782,
+  "bytes": 2757,
+  "curl_exit": 0,
+  "row_count": 12,
+  "truncated_by_limit": false,
+  "error": null
+}

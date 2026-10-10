@@ -1,0 +1,14 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?metric ?n WHERE {
+  { SELECT ("a_sameAs_triples" AS ?metric) (COUNT(*) AS ?n) WHERE { ?s owl:sameAs ?o } }
+  UNION
+  { SELECT ("b_distinct_subjects" AS ?metric) (COUNT(DISTINCT ?s) AS ?n) WHERE { ?s owl:sameAs ?o } }
+  UNION
+  { SELECT ("c_distinct_objects" AS ?metric) (COUNT(DISTINCT ?o) AS ?n) WHERE { ?s owl:sameAs ?o } }
+  UNION
+  { SELECT ("d_objects_that_are_MineralSite" AS ?metric) (COUNT(DISTINCT ?o) AS ?n) WHERE { ?s owl:sameAs ?o . ?o a :MineralSite } }
+  UNION
+  { SELECT ("e_sites_as_object_only" AS ?metric) (COUNT(DISTINCT ?o) AS ?n) WHERE { ?s owl:sameAs ?o . ?o a :MineralSite . FILTER NOT EXISTS { ?o owl:sameAs ?x } } }
+}

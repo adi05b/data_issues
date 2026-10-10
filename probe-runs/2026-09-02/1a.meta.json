@@ -1,0 +1,11 @@
+{
+  "id": "1a",
+  "sent_at": "2026-09-02T21:54:13.396504+00:00",
+  "http_status": 200,
+  "elapsed_ms": 2155,
+  "bytes": 207,
+  "curl_exit": 0,
+  "row_count": 0,
+  "truncated_by_limit": false,
+  "error": null
+}

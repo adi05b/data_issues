@@ -1,0 +1,40 @@
+{ "head": {
+    "vars": [ "s" , "o" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p96mmrfd__tn084__sri" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9k1hbnt__467__umn" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-4095-295581__976__usc" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9k1hbnt__610__umn" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p96mmrfd__id115__sri" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9k1hbnt__248__umn" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9htergk__34908__umn" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9k1hbnt__340__umn" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-4095-295581__959__usc" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9k1hbnt__298__umn" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p96mmrfd__rb019__sri" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9k1hbnt__399__umn" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p970gdd5__usa-mo-10244067__usc" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9k1hbnt__108__umn" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9htergk__27363__umn" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9k1hbnt__208__umn" }
+      }
+    ]
+  }
+}

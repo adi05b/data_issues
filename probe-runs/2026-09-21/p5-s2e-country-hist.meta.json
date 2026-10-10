@@ -1,0 +1,11 @@
+{
+  "id": "p5-s2e-country-hist",
+  "sent_at": "2026-09-22T03:21:29.942594+00:00",
+  "http_status": 200,
+  "elapsed_ms": 6042,
+  "bytes": 5204,
+  "curl_exit": 0,
+  "row_count": 14,
+  "truncated_by_limit": false,
+  "error": null
+}

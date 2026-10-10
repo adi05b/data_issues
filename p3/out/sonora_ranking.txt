@@ -1,0 +1,15 @@
+rank | site (record_id prefix, creator) | score | suborder (is_expert, source_id, record_id, modified_at ns) | WKT
+ 1 | 02ec633583ef inferlink | 0.8 | False, https://api.cdr.land/v1/docs/documents, 02ec633583ef…, 1731542099980142080 | POINT(-109.103889 29.774722)
+ 2 | 02ec633583ef sri       | 0.8 | False, https://api.cdr.land/v1/docs/documents, 02ec633583ef…, 1730199683000000000 | None
+ 3 | 02c7aaeba47f inferlink | 0.8 | False, https://api.cdr.land/v1/docs/documents, 02c7aaeba47f…, 1733862816230326016 | MULTIPOINT(-110.68 30.39)
+ 4 | 02c7aaeba47f sri       | 0.8 | False, https://api.cdr.land/v1/docs/documents, 02c7aaeba47f…, 1730199683000000000 | None
+ 5 | 02c2ae8fc934 inferlink | 0.8 | False, https://api.cdr.land/v1/docs/documents, 02c2ae8fc934…, 1733862310373490176 | POINT(-110.0 30.0)
+ 6 | 02c2ae8fc934 sri       | 0.8 | False, https://api.cdr.land/v1/docs/documents, 02c2ae8fc934…, 1730199683000000000 | None
+ 7 | 026332f71cf7 inferlink | 0.8 | False, https://api.cdr.land/v1/docs/documents, 026332f71cf7…, 1734545942181572864 | POINT(-110.9149 30.0142)
+ 8 | 026332f71cf7 sri       | 0.8 | False, https://api.cdr.land/v1/docs/documents, 026332f71cf7…, 1730199683000000000 | None
+ 9 | 02497a3039a4 inferlink | 0.8 | False, https://api.cdr.land/v1/docs/documents, 02497a3039a4…, 1733873032596466176 | POINT(-110 31)
+10 | 02497a3039a4 sri       | 0.8 | False, https://api.cdr.land/v1/docs/documents, 02497a3039a4…, 1730199683000000000 | None
+11 | 0232b37b8235 inferlink | 0.8 | False, https://api.cdr.land/v1/docs/documents, 0232b37b8235…, 1731543645236769792 | POINT(-110.924 29.081)
+12 | 0232b37b8235 sri       | 0.8 | False, https://api.cdr.land/v1/docs/documents, 0232b37b8235…, 1730199683000000000 | None
+13 | 0205e384bede inferlink | 0.8 | False, https://api.cdr.land/v1/docs/documents, 0205e384bede…, 1733948164056417024 | POINT(0 0)
+14 | 0205e384bede sri       | 0.8 | False, https://api.cdr.land/v1/docs/documents, 0205e384bede…, 1730199683000000000 | None

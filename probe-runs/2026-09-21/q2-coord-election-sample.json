@@ -1,0 +1,16 @@
+{
+ "sampled": 250,
+ "took_nad27": 236,
+ "took_other": 7,
+ "failed": 0,
+ "no_coord": 7,
+ "others": [
+  "dedup_site__doi-org-10-5066-p96mmrfd__mf038__sri",
+  "dedup_site__doi-org-10-4095-295581__961__usc",
+  "dedup_site__doi-org-10-5066-p96mmrfd__kr025__sri",
+  "dedup_site__doi-org-10-5066-p96mmrfd__an095__sri",
+  "dedup_site__doi-org-10-4095-295581__955__usc",
+  "dedup_site__doi-org-10-5066-p96mmrfd__tn084__sri",
+  "dedup_site__doi-org-10-5066-p96mmrfd__hw004__sri"
+ ]
+}

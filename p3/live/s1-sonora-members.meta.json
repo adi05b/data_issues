@@ -1,0 +1,11 @@
+{
+  "id": "s1-sonora-members",
+  "sent_at": "2026-10-10T20:42:16.595475+00:00",
+  "http_status": 200,
+  "elapsed_ms": 96,
+  "bytes": 11399,
+  "curl_exit": 0,
+  "row_count": 14,
+  "truncated_by_limit": false,
+  "error": null
+}

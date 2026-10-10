@@ -1,0 +1,9 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?label ?ent ?country_label WHERE {
+  ?ent a :StateOrProvince ; rdfs:label ?label .
+  FILTER(REGEX(STR(?label), "^(La Paz|Potos|Oruro|Santa Cruz|Camag|Bol[ií]var|Saint Andrew|Orissa|Odisha|Katanga|Haut-Katanga)", "i"))
+  OPTIONAL { ?ent :country ?cr .
+             BIND(IRI(CONCAT("https://minmod.isi.edu/resource/", STR(?cr))) AS ?ce)
+             ?ce rdfs:label ?country_label }
+} ORDER BY ?label

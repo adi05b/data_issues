@@ -1,0 +1,11 @@
+{
+  "id": "q1d-4267-detail",
+  "sent_at": "2026-09-21T23:38:03.429097+00:00",
+  "http_status": 200,
+  "elapsed_ms": 13876,
+  "bytes": 906,
+  "curl_exit": 0,
+  "row_count": 1,
+  "truncated_by_limit": false,
+  "error": null
+}

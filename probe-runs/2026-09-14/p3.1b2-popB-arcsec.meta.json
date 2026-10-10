@@ -1,0 +1,11 @@
+{
+  "id": "p3.1b2-popB-arcsec",
+  "sent_at": "2026-09-14T20:39:47.741537+00:00",
+  "http_status": 200,
+  "elapsed_ms": 11287,
+  "bytes": 2988,
+  "curl_exit": 0,
+  "row_count": 13,
+  "truncated_by_limit": false,
+  "error": null
+}

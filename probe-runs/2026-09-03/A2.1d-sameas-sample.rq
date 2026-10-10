@@ -1,0 +1,2 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+SELECT ?s ?o WHERE { ?s owl:sameAs ?o } LIMIT 8

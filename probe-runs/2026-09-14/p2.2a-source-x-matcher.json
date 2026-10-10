@@ -1,0 +1,108 @@
+{ "head": {
+    "vars": [ "source" , "matcher" , "affected" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5586" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "179" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "matcher": { "type": "literal" , "value": "Inferlink Extraction v3" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "97" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/vms" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "82" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "71" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "25" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "24" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "20" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.2113/econgeo.110.8.1925" } ,
+        "matcher": { "type": "literal" , "value": "SAND" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "17" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P99RK9SU" } ,
+        "matcher": { "type": "literal" , "value": "SAND" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "matcher": { "type": "literal" , "value": "UMN Exact Match v1" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.3133/pp1802J" } ,
+        "matcher": { "type": "literal" , "value": "SAND" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/deposit" } ,
+        "matcher": { "type": "literal" , "value": "UMN Exact Match v1" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "matcher": { "type": "literal" , "value": "UMN Exact Match v1" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "matcher": { "type": "literal" , "value": "Inferlink Extraction v2" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.31035/cg2020009" } ,
+        "matcher": { "type": "literal" , "value": "SAND" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "matcher": { "type": "literal" , "value": "UMN Exact Match v1" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "matcher": { "type": "literal" , "value": "UMN Exact Match v1" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

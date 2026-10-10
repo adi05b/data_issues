@@ -1,0 +1,83 @@
+{ "head": {
+    "vars": [ "src" , "obs" , "records" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "obs": { "type": "literal" , "value": "Sulfur" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2615" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2349" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "obs": { "type": "literal" , "value": "Sulfur" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "78" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "35" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "obs": { "type": "literal" , "value": "sulfur" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "24" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "obs": { "type": "literal" , "value": "Sulfur" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "21" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "obs": { "type": "literal" , "value": "sulfur" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "obs": { "type": "literal" , "value": "Sulfur" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://www.idahogeology.org" } ,
+        "obs": { "type": "literal" , "value": "sulfur" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "obs": { "type": "literal" , "value": "sulfur" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/deposit" } ,
+        "obs": { "type": "literal" , "value": "sulfur" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "obs": { "type": "literal" , "value": "S" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

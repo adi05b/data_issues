@@ -1,0 +1,28 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?source ?pair_class (COUNT(DISTINCT ?site) AS ?sites)
+WHERE {
+  ?site a :MineralSite ; :source_id ?source ; :location_info ?li .
+  ?li :location ?wkt ; :crs ?crsc .
+  ?crsc :normalized_uri ?ce . ?ce rdfs:label ?crs .
+  FILTER(STR(?crs) = "EPSG:4326")
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?los)
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?las)
+  BIND(IF(CONTAINS(?los,"."), STRLEN(STRAFTER(?los,".")), 0) AS ?lond)
+  BIND(IF(CONTAINS(?las,"."), STRLEN(STRAFTER(?las,".")), 0) AS ?latd)
+  BIND(xsd:double(?los) AS ?lonv)
+  BIND(xsd:double(?las) AS ?latv)
+  # a testable axis is one carrying >=6 stored decimals
+  BIND(?lond >= 6 AS ?lon_testable)
+  BIND(?latd >= 6 AS ?lat_testable)
+  BIND(?lon_testable && ABS(?lonv*60   - ROUND(?lonv*60))   < 0.00000001 AS ?lon_min)
+  BIND(?lat_testable && ABS(?latv*60   - ROUND(?latv*60))   < 0.00000001 AS ?lat_min)
+  BIND(?lon_testable && ABS(?lonv*3600 - ROUND(?lonv*3600)) < 0.00000001 AS ?lon_sec)
+  BIND(?lat_testable && ABS(?latv*3600 - ROUND(?latv*3600)) < 0.00000001 AS ?lat_sec)
+  BIND(IF(?lon_min || ?lat_min, "A_DMS_arcminute",
+       IF(?lon_sec || ?lat_sec, "B_DMS_arcsecond",
+       IF(?lon_testable || ?lat_testable, "C_decimal_degrees",
+          "D_undetermined"))) AS ?pair_class)
+}
+GROUP BY ?source ?pair_class ORDER BY ?source ?pair_class

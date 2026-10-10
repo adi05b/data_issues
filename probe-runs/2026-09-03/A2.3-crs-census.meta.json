@@ -1,0 +1,11 @@
+{
+  "id": "A2.3-crs-census",
+  "sent_at": "2026-09-02T23:53:12.873446+00:00",
+  "http_status": 200,
+  "elapsed_ms": 18655,
+  "bytes": 1778,
+  "curl_exit": 0,
+  "row_count": 7,
+  "truncated_by_limit": false,
+  "error": null
+}

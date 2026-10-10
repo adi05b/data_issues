@@ -1,0 +1,5 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?p ?o WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li ?p ?o .
+} LIMIT 50

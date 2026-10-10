@@ -1,0 +1,13 @@
+{ "head": {
+    "vars": [ "total_sites" , "with_location_info" , "with_location" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "total_sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14099" } ,
+        "with_location_info": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7720" } ,
+        "with_location": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7720" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT DISTINCT ?crs_obs (COUNT(DISTINCT ?site) AS ?records)
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :crs ?c . ?c :observed_name ?crs_obs .
+  FILTER(!CONTAINS(STR(?crs_obs), "4326"))
+}
+GROUP BY ?crs_obs
+ORDER BY DESC(?records)

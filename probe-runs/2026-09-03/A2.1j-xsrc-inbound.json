@@ -1,0 +1,124 @@
+{ "head": {
+    "vars": [ "b" , "n" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7209" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1382" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "425" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/vms" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "386" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "337" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "326" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "283" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "283" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "237" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "200" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/deposit" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "173" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://www.idahogeology.org" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "172" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "148" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "122" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "115" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "77" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "67" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedexmvt" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "67" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "50" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "34" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "24" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "22" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://doi.org/10.4095/295581" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://doi.org/10.3133/pp1802J" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://doi.org/10.5066/P99RK9SU" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "b": { "type": "literal" , "value": "https://pubs.usgs.gov/bul/0615/report.pdf" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

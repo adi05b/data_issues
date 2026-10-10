@@ -1,0 +1,7 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT (COUNT(DISTINCT ?li) AS ?nodes) (COUNT(DISTINCT ?site) AS ?sites)
+WHERE {
+  ?li :crs ?c . ?c :normalized_uri ?ce . ?ce rdfs:label ?k . FILTER(STR(?k)="EPSG:4267")
+  OPTIONAL { ?site :location_info ?li }
+}

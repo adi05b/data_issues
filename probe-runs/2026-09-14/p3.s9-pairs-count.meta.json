@@ -1,0 +1,11 @@
+{
+  "id": "p3.s9-pairs-count",
+  "sent_at": "2026-09-14T20:35:18.282020+00:00",
+  "http_status": 200,
+  "elapsed_ms": 2982,
+  "bytes": 263,
+  "curl_exit": 0,
+  "row_count": 1,
+  "truncated_by_limit": false,
+  "error": null
+}

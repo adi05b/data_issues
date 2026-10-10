@@ -1,0 +1,11 @@
+{
+  "id": "1.2c-nevermatched-by-matcher",
+  "sent_at": "2026-09-08T06:14:27.249651+00:00",
+  "http_status": 200,
+  "elapsed_ms": 5626,
+  "bytes": 735,
+  "curl_exit": 0,
+  "row_count": 3,
+  "truncated_by_limit": false,
+  "error": null
+}

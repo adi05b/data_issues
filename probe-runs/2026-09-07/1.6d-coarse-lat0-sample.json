@@ -1,0 +1,1608 @@
+{ "head": {
+    "vars": [ "source" , "wkt" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "wkt": { "type": "literal" , "value": "POINT (67.83 51.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "wkt": { "type": "literal" , "value": "POINT (101.6333 25.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-62.6333 45.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "wkt": { "type": "literal" , "value": "POINT (16.63333 -23.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "wkt": { "type": "literal" , "value": "POINT (28.1061 -12.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-63.6667 45.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (55.7 19.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (45.0667 49.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (23.55 49.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (44.8667 50)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (104.882 16.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (27.78 52.9)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (6.55 51.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (45.4 50.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (51.7167 51.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (11.583 51.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (56.2333 54.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (73.8694 29.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (105.1833 16.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (26.4667 46.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (18.75 30.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-91 27.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-1.5667 42.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (102.8 17.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-101.2833 25)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (45.3833 49.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (13.1833 54.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-91 28.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (19.917 30.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (27.7643 52.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (15.7167 51.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (6.933 53.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (9.4 52.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-70.0333 -25.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (65.55 38.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-8.3333 32.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "wkt": { "type": "literal" , "value": "POINT (47.868 51.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-75.0 58.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-117.5 48.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-135.0 60.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-90.0 14.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(50 -90)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(127.0 35.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(24.6 45.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0.0 0.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-81.249999 46.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(24.0 45.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-96 41)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(21.0 -22.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(43.72 -23.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-116.5 39.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-81.5 48.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-81.9333 47.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(127.4 37.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(24.5 63.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-117.0 60.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-135.0 64.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-109.16667 28.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-89.3 63.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-133.61666667 58.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(27.5 -10.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-123.1666667 51.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(45.0 -18.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-110 31)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-65.4 -24.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-60.0 55.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-118.49 25)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-137.0 60.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-127 54)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(147 -6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(121.0 -31.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "MULTIPOINT(22 -4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-85.0 49.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-125.5 53.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(104.5 21.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-3.5 7.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-135.0 60.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-121.633333 43.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-62.5 55.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-81.5 50.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(140 40)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-122.267 52.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-125.3 55.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-60.0 53.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-70.0 61.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "MULTIPOINT(65 -12)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-127.185 54.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-9.6 10.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-65.0 -24.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(27.0 22.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(25.0 62.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "MULTIPOINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(9.0 40.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(105.2 21.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-135.0 60.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(23.5 40.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0.0 0.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-120.1 53.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(125.45 54.9)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-120.05 54.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-69.25 -24.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-80 49)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-116.1 39.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-80.7667 8.9)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(39.5 -4.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-45.0 61.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-135.0 64.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-111.537 59.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(13.5 -3.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(25.0 62.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-81.7 48.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-121 15)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-111.25 56.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(145.0 -36.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "MULTIPOINT(-130 57)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(144.0 -37.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(145 -36.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-141 63)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "MULTIPOINT(-127 55)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-116.9 39.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-80 48)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-116.3 40.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-121.5 73.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-70.0 64.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-0.0 0.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "MULTIPOINT(134 -63)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-148.2 60.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "MULTIPOINT(25 -9)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(21.0 46.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-133.6166667 58.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(130 -1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(149.5 -24.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(145 -21)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-66.0 46.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(147.0 -6.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(80.5 7.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(148 -9)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-81.5 48.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-81.5 46.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-65.5 -23.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(144.5 -36.9)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-116.5 40.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(25.0 67.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-121 49.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(30.0 -24.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-112.8333 31.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(105.0 46.0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(14 3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-116.00084 35.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-115.88945 35.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-120.75 38.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-115.94665 35.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-117.47259 35.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-120.75 38.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-120.75 38.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-115.50084 35.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-117.05148 35.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-116.38419 35.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-120.75 38.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-116.30366 35.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-116.40086 35.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "wkt": { "type": "literal" , "value": "POINT (111.72 25.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-134.666666666667 64.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-128.166666666667 62.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "wkt": { "type": "literal" , "value": "POINT (141 -21.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (41.9 41.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-78.5 -3.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-81.7833333333333 8.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (121.01 17.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (27.15 39.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (92.9666666666667 42.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (106.166666666667 44)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (91.5833333333333 29.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (74.4166666666667 46.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (121.133333333333 13.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-69.2333333333333 -23.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (75.1 47.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (147.95 -20.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (103 22.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (22.8666666666667 41.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (21.8166666666667 45.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (97.7333333333333 31.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (164.566666666667 66.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-70.3 -28.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (116.466666666667 6.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-111.5 32.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-69.75 -30.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-67.75 -29)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-110.95 33.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-69.3666666666667 -31.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-125.3 55.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (101.133333333333 27.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-115.15 39.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-67.9 -26.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (150.4 -23.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-68.8 -21)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (75.65 42.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-127.477777777778 50.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (141.783333333333 -4.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-129.805277777778 57.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (104.133333333333 49)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-123.416666666667 49.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (106.866666666667 43)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (141.133333333333 -5.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-79.5833333333333 -4.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (101.25 -1.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-69.1666666666667 -30)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-76.5 6.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-76.1333333333333 -11.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (57.2333333333333 28.9)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-66.55 -27.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (151.65 -3.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-74.45 -14.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (120.866666666667 17.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-70.3333333333333 45.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (121.883333333333 13.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (46.4666666666667 39.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-111.083333333333 33.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-81.25 48.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (97.95 31)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-65.8666666666667 -24.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-76.8833333333333 2.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-78.3222222222222 -7.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (101.666666666667 17.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-97.85 19.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (147.583333333333 -9.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (111.7 35.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-121.366666666667 47.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (113.183333333333 -0.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (97.8 31.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-49.6166666666667 -6.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (64.1416666666667 29.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (66.8333333333333 68)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (86.75 67.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-105.5 38.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-108.099722222222 35.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (139 -35.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-107.883055555556 38)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-99.75 33.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-68.3555555555556 -17.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (98.25 59.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (119.916666666667 56.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-100.033055555556 33.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-82.7666666666667 46.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (97.5 60.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (54.2333333333333 54)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (70 45)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (103 30)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-2.25 53.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (40.9666666666667 43.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (55.0833333333333 53.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (27 48.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (75.6666666666667 42.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (38.0333333333333 48.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-49 -25.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (65 67)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (51 44.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-74.1666666666667 40.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (36 48.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (50.75 56.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-84.5 35)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-105.166666666667 36.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (98 54)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (91.5 50.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (100.8 18)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-53.3 -30.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (68.1166666666667 50.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (81.25 41.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (35.4166666666667 30.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (69.8333333333333 43.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-108.183055555556 68.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (8.85 51.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-105.016666666667 37.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (26.3008333333333 -10.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (72 42.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (138.5 -30.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (94 58.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (107.916666666667 53.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-106.416666666667 34.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-75.85 -11.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-69.05 -38.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (95 57.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (114 24)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-76.1166666666667 41.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (74.75 40)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (139.333333333333 -30)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (138.25 -34)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-108.95 38.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (60.5 65.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-62.6330555555556 45.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (68 39)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-76.6166666666667 18.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (26.5583333333333 -20.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (15.9 51.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-64.4166666666667 -24)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (80.3 41.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-72 8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (100.75 59.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (119.983333333333 59)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (67.5666666666667 48.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (138.75 -31.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (10.2566666666667 51.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (67 49.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-114.083055555556 47.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-41.1166666666667 -3.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (10.89 50.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-62.0302777777778 54.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-100.049722222222 33.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (11.4666666666667 51.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-2.21666666666667 53.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (72.4 40.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (103.116666666667 26)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-110.9 38.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-97.5 35)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (65.5 67.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (92.4 50.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-110.75 43)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-98.2997222222222 34.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (55.1166666666667 52.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (81.8333333333333 41.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-96.9747222222222 36.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (16.6333333333333 -23.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (55.3333333333333 52)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (16.1333333333333 51.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-71 -32.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (103.75 55.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (103.916666666667 23.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (28.6111111111111 -13)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (107.5 58)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (67.1333333333333 47.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (2.9 53.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-126.891388888889 63.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-86 73.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-122.37 41.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-120.56 36.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-121.38 39.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-83.018 35.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-82.71 34.9)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-122.49 41.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-83.014 35.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-120.67 47.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-79.49 37.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-79.83 36.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-120.58 36.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-120.59 36.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-118.163 48)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-122.51 41.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-85.16 32.9)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-121.4 39.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-122.881 41.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-81.89 34.9)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-122.52 41.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-84.85 33.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-79.85 36.6)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (56.8 34.2)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (50.55 36.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (67.883 38.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (44.65 39.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (51.3833 30.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (48.25 32.1)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (46.7667 36.9)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (52.9667 35.9)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (50.8833 30.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (56.875 30.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (52.2833 35.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (45 38.5)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (45.225 38.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (49.95 32.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (50.7833 30.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (52.1333 28.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (53.8 35.7)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (44.75 38)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (50.5833 30.9)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (51.9167 28.3)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (50.6833 30.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (83.22 43.8)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (51.5614 36)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (48.833333 36.4)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (52.95 35.9)" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "wkt": { "type": "literal" , "value": "POINT (45 38.5)" }
+      }
+    ]
+  }
+}

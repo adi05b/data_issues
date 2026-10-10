@@ -1,0 +1,120 @@
+{ "head": {
+    "vars": [ "class" , "n" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/CandidateEntity" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3407081" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Reference" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2059614" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/MineralInventory" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1379833" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/MineralSite" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "679781" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/LocationInfo" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "451527" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Measure" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "218236" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/RockType" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "48243" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/PageInfo" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "40267" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/GeologyInfo" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "38442" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14143" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/StateOrProvince" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5084" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Country" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "250" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Commodity" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "203" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DepositType" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "189" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#Restriction" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "64" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#DatatypeProperty" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "51" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#ObjectProperty" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "38" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "38" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#Class" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "37" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Unit" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "22" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/CommodityForm" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Category" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/CoordinateReferenceSystem" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#AllDisjointClasses" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#Datatype" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#Ontology" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "class": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/KnowledgeGraph" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

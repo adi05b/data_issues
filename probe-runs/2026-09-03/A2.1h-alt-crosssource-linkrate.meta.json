@@ -1,0 +1,11 @@
+{
+  "id": "A2.1h-alt-crosssource-linkrate",
+  "sent_at": "2026-09-02T23:56Z",
+  "http_status": null,
+  "elapsed_ms": 120000,
+  "bytes": 0,
+  "curl_exit": null,
+  "row_count": null,
+  "truncated_by_limit": null,
+  "error": "TIMED OUT after 120s (correlated OPTIONAL subquery). Superseded by A2.1i/A2.1j, which compute the same figure as two uncorrelated directional queries."
+}

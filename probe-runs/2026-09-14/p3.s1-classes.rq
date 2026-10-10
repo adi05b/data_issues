@@ -1,0 +1,2 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?class (COUNT(*) AS ?n) WHERE { ?s a ?class } GROUP BY ?class ORDER BY DESC(?n)

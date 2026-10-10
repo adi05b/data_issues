@@ -1,0 +1,20 @@
+{ "head": {
+    "vars": [ "crs_label" , "sites" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "23316" }
+      } ,
+      { 
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7792" }
+      } ,
+      { 
+        "crs_label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

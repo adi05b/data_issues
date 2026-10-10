@@ -1,0 +1,352 @@
+{ "head": {
+    "vars": [ "s" , "cb" , "m" , "src" , "rec" , "name" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__020062e198a32b8a26783f9b6fd85bf5ee26092df2d50384862ade0b1808330635__caknoblock" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/caknoblock" } ,
+        "m": { "type": "literal" , "value": "2026-06-19T17:51:06.739633Z" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rec": { "type": "literal" , "value": "020062e198a32b8a26783f9b6fd85bf5ee26092df2d50384862ade0b1808330635" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10257867__caknoblock" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/caknoblock" } ,
+        "m": { "type": "literal" , "value": "2026-04-22T18:39:49.095905Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "10257867" } ,
+        "name": { "type": "literal" , "value": "American Mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__021990473ff183b072d4b813de1c86278b60f7a05b6b8625ee7878f29ee9fb683a__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2026-03-18T18:38:34.882679Z" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rec": { "type": "literal" , "value": "021990473ff183b072d4b813de1c86278b60f7a05b6b8625ee7878f29ee9fb683a" } ,
+        "name": { "type": "literal" , "value": "MAN Ni -Cu-PGE PROJECT" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5382-econgeo-4950__valozoro__caknoblock" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/caknoblock" } ,
+        "m": { "type": "literal" , "value": "2025-11-05T13:06:56.100446Z" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "rec": { "type": "literal" , "value": "Valozoro" } ,
+        "name": { "type": "literal" , "value": "Valozoro" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02c728ea3a62eeca6fbe78cce0aed79f40fd8aa89d2c156989aedaf12d2501115e__caknoblock" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/caknoblock" } ,
+        "m": { "type": "literal" , "value": "2025-08-20T18:40:05.770182Z" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rec": { "type": "literal" , "value": "02c728ea3a62eeca6fbe78cce0aed79f40fd8aa89d2c156989aedaf12d2501115e" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0216896a9dcb6f82104b867c8032ab3450bb5519e3ef3836833e63d4c848df370c__glederer" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/glederer" } ,
+        "m": { "type": "literal" , "value": "2025-08-19T13:43:04.385704Z" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rec": { "type": "literal" , "value": "0216896a9dcb6f82104b867c8032ab3450bb5519e3ef3836833e63d4c848df370c" } ,
+        "name": { "type": "literal" , "value": "Costerfield Operation" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__020062e198a32b8a26783f9b6fd85bf5ee26092df2d50384862ade0b1808330635__bvu" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/a/bvu" } ,
+        "m": { "type": "literal" , "value": "2025-07-24T20:00:28.475104Z" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rec": { "type": "literal" , "value": "020062e198a32b8a26783f9b6fd85bf5ee26092df2d50384862ade0b1808330635" } ,
+        "name": { "type": "literal" , "value": "Bujagali-Kilembe" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__pubs-usgs-gov-bul-0615-report-pdf__na__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-07-21T16:57:04.055183Z" } ,
+        "src": { "type": "literal" , "value": "https://pubs.usgs.gov/bul/0615/report.pdf" } ,
+        "rec": { "type": "literal" , "value": "na" } ,
+        "name": { "type": "literal" , "value": "Cranston MIne" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-pp1802__1168__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-07-14T18:07:55.119912Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "rec": { "type": "literal" , "value": "1168" } ,
+        "name": { "type": "literal" , "value": "Cranston-Penners Ledge Mines" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0200e62873cdee37dfac1d224c1353025f41c92cc446af97ccbed474301327eb17__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-06-22T17:16:15.747416Z" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rec": { "type": "literal" , "value": "0200e62873cdee37dfac1d224c1353025f41c92cc446af97ccbed474301327eb17" } ,
+        "name": { "type": "literal" , "value": "PALMER PROJECT" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10026601__bvu" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/a/bvu" } ,
+        "m": { "type": "literal" , "value": "2025-06-19T22:50:09.291932Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "10026601" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__minmod-isi-edu-users-u-jhammars__rowland-mine__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-06-06T18:01:20.920050Z" } ,
+        "src": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "rec": { "type": "literal" , "value": "Rowland Mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__0df58b08-2d0f-411b-8288-e52fd81d1bf0__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-06-05T18:01:00.278631Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "0df58b08-2d0f-411b-8288-e52fd81d1bf0" } ,
+        "name": { "type": "literal" , "value": "Walpole Graphite Mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__40748766-e81a-4757-9ddf-54f7b81ce953__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-06-05T18:00:31.105927Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "40748766-e81a-4757-9ddf-54f7b81ce953" } ,
+        "name": { "type": "literal" , "value": "Rev. Gad Newell Prospect" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__01a70277-1c9d-4fdf-a70d-75e2626f6356__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-06-05T17:59:55.536469Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "01a70277-1c9d-4fdf-a70d-75e2626f6356" } ,
+        "name": { "type": "literal" , "value": "Franklin Pierce Graphite Mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__1284fad5-9bdd-45af-b963-529353ded5d1__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-06-05T17:57:17.699610Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "1284fad5-9bdd-45af-b963-529353ded5d1" } ,
+        "name": { "type": "literal" , "value": "Osgood Mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__6eb88a2d-9769-43ec-af48-fc6c7fec75a6__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-06-05T17:56:47.599711Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "6eb88a2d-9769-43ec-af48-fc6c7fec75a6" } ,
+        "name": { "type": "literal" , "value": "Goshen Mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-pp1802__ef52b31a-dcc6-4972-88ba-f79fa93bb2c9__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-06-05T17:54:47.614327Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "rec": { "type": "literal" , "value": "ef52b31a-dcc6-4972-88ba-f79fa93bb2c9" } ,
+        "name": { "type": "literal" , "value": "Boston-Goshen-Osgood Mines area" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__46150407-f16e-4693-8988-7140d9ce4e07__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-06-05T17:54:08.262897Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "46150407-f16e-4693-8988-7140d9ce4e07" } ,
+        "name": { "type": "literal" , "value": "Adam Rock Mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__70c34897-227d-405d-bfb4-b0b98394f943__ggraham" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/ggraham" } ,
+        "m": { "type": "literal" , "value": "2025-06-05T17:29:54.820371Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "70c34897-227d-405d-bfb4-b0b98394f943" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__1385bc98-2f8c-47c2-8fe4-3a033b7f4c2d__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-06-05T17:14:42.251783Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "1385bc98-2f8c-47c2-8fe4-3a033b7f4c2d" } ,
+        "name": { "type": "literal" , "value": "President Pierce Mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__ab5b0aca-63ee-46dc-87be-cc44fcfa9b49__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-06-05T17:10:59.417478Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "ab5b0aca-63ee-46dc-87be-cc44fcfa9b49" } ,
+        "name": { "type": "literal" , "value": "Boston Lead Mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-4095-295581__54acd4de-5ed7-4a90-88d9-3e00a2bee607__bvu" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/a/bvu" } ,
+        "m": { "type": "literal" , "value": "2025-06-03T06:53:51.222404Z" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.4095/295581" } ,
+        "rec": { "type": "literal" , "value": "54acd4de-5ed7-4a90-88d9-3e00a2bee607" } ,
+        "name": { "type": "literal" , "value": "Searles Lake" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-1007-s00126-023-01161-3__91cdf3a0-0ea8-4ec0-a678-f51cd6f856d6__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-06-02T18:01:20.920050Z" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.1007/s00126-023-01161-3" } ,
+        "rec": { "type": "literal" , "value": "91cdf3a0-0ea8-4ec0-a678-f51cd6f856d6" } ,
+        "name": { "type": "literal" , "value": "Graphite Creek" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-gsa-state-al-us-gsa-geologic-nonfuelminerals-nfcritresource__146c51a2-5d68-4f75-900a-cc15105f24b4__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-06-02T15:38:30.141970Z" } ,
+        "src": { "type": "literal" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "rec": { "type": "literal" , "value": "146c51a2-5d68-4f75-900a-cc15105f24b4" } ,
+        "name": { "type": "literal" , "value": "Axton-Noe Graphite Co. mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-gsa-state-al-us-gsa-geologic-nonfuelminerals-nfcritresource__ed1bbb68-04be-4e55-b873-4d5b11f780fb__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-06-02T15:38:24.289937Z" } ,
+        "src": { "type": "literal" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "rec": { "type": "literal" , "value": "ed1bbb68-04be-4e55-b873-4d5b11f780fb" } ,
+        "name": { "type": "literal" , "value": "Shadix prospect (Dulin mine)" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-gsa-state-al-us-gsa-geologic-nonfuelminerals-nfcritresource__5c4abcde-4daa-4dbc-9796-9b69fd62bd7d__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-06-02T15:38:19.720326Z" } ,
+        "src": { "type": "literal" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "rec": { "type": "literal" , "value": "5c4abcde-4daa-4dbc-9796-9b69fd62bd7d" } ,
+        "name": { "type": "literal" , "value": "Liberty Graphite Co. mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-gsa-state-al-us-gsa-geologic-nonfuelminerals-nfcritresource__7c160ad1-2200-4512-b74a-2d06df21ca03__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-05-30T20:29:33.812579Z" } ,
+        "src": { "type": "literal" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "rec": { "type": "literal" , "value": "7c160ad1-2200-4512-b74a-2d06df21ca03" } ,
+        "name": { "type": "literal" , "value": "Lineville Graphite Co. mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10079560__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-05-30T20:20:15.448142Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "10079560" } ,
+        "name": { "type": "literal" , "value": "National Mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10131036__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-05-30T19:22:58.450478Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "10131036" } ,
+        "name": { "type": "literal" , "value": "North Potato Creek" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__09936abc-bfa1-429d-a4dc-f69022d4b0bc__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-05-30T19:20:43.651067Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "09936abc-bfa1-429d-a4dc-f69022d4b0bc" } ,
+        "name": { "type": "literal" , "value": "North Potato Creek" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__12ea305e-d0fc-440c-ae9e-1b64310d33ee__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-05-30T18:55:29.422596Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "12ea305e-d0fc-440c-ae9e-1b64310d33ee" } ,
+        "name": { "type": "literal" , "value": "North Potato Creek" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10135964__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-05-30T18:51:20.893157Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "10135964" } ,
+        "name": { "type": "literal" , "value": "Number One Mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__0b1a0449-904b-4b17-b56d-3ecf846fcd50__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-05-30T18:45:34.194389Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "0b1a0449-904b-4b17-b56d-3ecf846fcd50" } ,
+        "name": { "type": "literal" , "value": "Number One Mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10135895__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-05-30T18:41:28.369903Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "10135895" } ,
+        "name": { "type": "literal" , "value": "Clay County Graphite Mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__baa899e0-2337-49cc-ad00-751e39255fdd__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-05-30T18:37:06.378170Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "baa899e0-2337-49cc-ad00-751e39255fdd" } ,
+        "name": { "type": "literal" , "value": "Clay County Graphite Mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__1ff65df4-b5b1-4653-9447-15a5ac86ec0d__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-05-30T18:31:57.956542Z" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "rec": { "type": "literal" , "value": "1ff65df4-b5b1-4653-9447-15a5ac86ec0d" } ,
+        "name": { "type": "literal" , "value": "Lineville mine" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0245e0d9a237593f447ece0e5e29bb2b1f4f2df206808725e128e0b5219d7f3bd0__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-05-30T17:21:21.229020Z" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rec": { "type": "literal" , "value": "0245e0d9a237593f447ece0e5e29bb2b1f4f2df206808725e128e0b5219d7f3bd0" } ,
+        "name": { "type": "literal" , "value": "Black Crystal graphite property" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-1007-s00126-023-01161-3__57dfeb11-5a04-4a26-b75a-7f733966f04e__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-05-30T16:29:23.049275Z" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.1007/s00126-023-01161-3" } ,
+        "rec": { "type": "literal" , "value": "57dfeb11-5a04-4a26-b75a-7f733966f04e" } ,
+        "name": { "type": "literal" , "value": "Graphite Creeke" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02d7ada572d4a8bf47e5f9b585d1983243a091adad70789febf16e1cc3f04cfd10__caknoblock" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/caknoblock" } ,
+        "m": { "type": "literal" , "value": "2025-05-30T16:09:32.518216Z" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rec": { "type": "literal" , "value": "02d7ada572d4a8bf47e5f9b585d1983243a091adad70789febf16e1cc3f04cfd10" } ,
+        "name": { "type": "literal" , "value": "Golden Wonder Property" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0200716932ee56bc43b47a53f674de9a7935bf6ee2cba585021e87b6094ba4f8c6__caknoblock" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/caknoblock" } ,
+        "m": { "type": "literal" , "value": "2025-05-05T23:02:10.443065Z" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "rec": { "type": "literal" , "value": "0200716932ee56bc43b47a53f674de9a7935bf6ee2cba585021e87b6094ba4f8c6" } ,
+        "name": { "type": "literal" , "value": "Mt Cattlin Spodumene Project" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-gsa-state-al-us-gsa-geologic-nonfuelminerals-nfcritresource__1608__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-03-03T19:20:29.189516Z" } ,
+        "src": { "type": "literal" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "rec": { "type": "literal" , "value": "1608" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__www-gsa-state-al-us-gsa-geologic-nonfuelminerals-nfcritresource__719__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-03-03T19:05:35.744420Z" } ,
+        "src": { "type": "literal" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "rec": { "type": "literal" , "value": "719" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9k1hbnt__320__jhammars" } ,
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "m": { "type": "literal" , "value": "2025-02-28T17:58:57.831078Z" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "rec": { "type": "literal" , "value": "320" }
+      }
+    ]
+  }
+}

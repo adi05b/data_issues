@@ -1,0 +1,11 @@
+{
+  "id": "P0.5-cast-canary",
+  "sent_at": "2026-09-02T21:52:39.975953+00:00",
+  "http_status": 200,
+  "elapsed_ms": 120,
+  "bytes": 455,
+  "curl_exit": 0,
+  "row_count": 1,
+  "truncated_by_limit": false,
+  "error": null
+}

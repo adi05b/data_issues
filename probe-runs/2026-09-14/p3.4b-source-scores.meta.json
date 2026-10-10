@@ -1,0 +1,11 @@
+{
+  "id": "p3.4b-source-scores",
+  "sent_at": "2026-09-14T20:35:43.801229+00:00",
+  "http_status": 200,
+  "elapsed_ms": 75,
+  "bytes": 13558,
+  "curl_exit": 0,
+  "row_count": 38,
+  "truncated_by_limit": false,
+  "error": null
+}

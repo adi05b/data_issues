@@ -1,0 +1,63 @@
+{
+  "network": true,
+  "whole NAD27 extent": {
+    "n_available": 79,
+    "n_unavailable": 0,
+    "top3": [
+      {
+        "description": "NAD27 to WGS 84 (33) (with axis order normalized for visualization)",
+        "accuracy_m": 2.0
+      },
+      {
+        "description": "NAD27 to WGS 84 (3) (with axis order normalized for visualization)",
+        "accuracy_m": 20.0
+      },
+      {
+        "description": "NAD27 to WGS 84 (79) (with axis order normalized for visualization)",
+        "accuracy_m": 5.0
+      }
+    ]
+  },
+  "Alaska mainland (HE015 Lignite Creek)": {
+    "n_available": 2,
+    "n_unavailable": 0,
+    "top3": [
+      {
+        "description": "NAD27 to WGS 84 (85) (with axis order normalized for visualization)",
+        "accuracy_m": 5.0
+      },
+      {
+        "description": "NAD27 to WGS 84 (7) (with axis order normalized for visualization)",
+        "accuracy_m": 12.0
+      }
+    ]
+  },
+  "St Lawrence Island (SL001-SL023)": {
+    "n_available": 2,
+    "n_unavailable": 0,
+    "top3": [
+      {
+        "description": "NAD27 to WGS 84 (85) (with axis order normalized for visualization)",
+        "accuracy_m": 5.0
+      },
+      {
+        "description": "Ballpark geographic offset from NAD27 to WGS 84 (with axis order normalized for visualization)",
+        "accuracy_m": -1.0
+      }
+    ]
+  },
+  "Gareloi Island (GI001)": {
+    "n_available": 2,
+    "n_unavailable": 0,
+    "top3": [
+      {
+        "description": "NAD27 to WGS 84 (85) (with axis order normalized for visualization)",
+        "accuracy_m": 5.0
+      },
+      {
+        "description": "Ballpark geographic offset from NAD27 to WGS 84 (with axis order normalized for visualization)",
+        "accuracy_m": -1.0
+      }
+    ]
+  }
+}

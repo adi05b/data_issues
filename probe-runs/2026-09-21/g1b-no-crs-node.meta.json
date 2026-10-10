@@ -1,0 +1,11 @@
+{
+  "id": "g1b-no-crs-node",
+  "sent_at": "2026-09-21T23:24:54.428892+00:00",
+  "http_status": 200,
+  "elapsed_ms": 12739,
+  "bytes": 5184,
+  "curl_exit": 0,
+  "row_count": 15,
+  "truncated_by_limit": false,
+  "error": null
+}

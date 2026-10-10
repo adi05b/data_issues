@@ -1,0 +1,164 @@
+{ "head": {
+    "vars": [ "shape" , "n" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "shape": { "type": "literal" , "value": "POINT (-#.# #.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "371173" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (#.# #.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "40658" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (-#.# -#.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15454" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (#.# -#.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7948" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (# #)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7879" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT(-#.# #.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "897" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT(#.# #.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "679" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (# #.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "279" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT(#.# -#.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "262" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (-# #.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "213" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT(-#.# -#.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "143" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (#.# #)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "137" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (-#.# #)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "131" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (# -#.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "129" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "MULTIPOINT(-#.# #.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "127" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (#.# -#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "73" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT(# #)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "33" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "MULTIPOINT(#.# #.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "32" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (-# -#.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "32" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "MULTIPOINT(#.# -#.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "31" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (-#.# -#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "24" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (# -#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "19" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT(-# #.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT(-# #)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (-# #)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT(# -#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "MULTIPOINT(-#.# -#.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "MULTIPOINT(# -#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "MULTIPOINT(# #)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "MULTIPOINT(-# #.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (-# -#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT(# -#.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "MULTIPOINT(# #.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "MULTIPOINT(# -#.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "MULTIPOINT(-# #)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT(# #.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "MULIPOINT(#.# #.#)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT (-#.# NaN)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "shape": { "type": "literal" , "value": "POINT(-#.# #)" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+source,matcher,candidates
+https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,292148
+https://doi.org/10.5066/P9HTERGK,UMN Matching System v1,42744
+http://www.oregongeology.org,UMN Matching System v1,23316
+https://mrdata.usgs.gov/nicrpge,UMN Matching System v1,10282
+https://www.energy.virginia.gov/geology/geologymineralresources.shtml,UMN Matching System v1,9842
+https://doi.org/10.34191/OFR-757,UMN Matching System v1,7793
+https://doi.org/10.5066/P96MMRFD,UMN Matching System v1,7720
+https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,7008
+https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource,UMN Matching System v1,4393
+https://mrdata.usgs.gov/pp577,UMN Matching System v1,2181
+https://www.idahogeology.org,UMN Matching System v1,2000
+https://api.cdr.land/v1/docs/documents,Inferlink Extraction v3,1140
+https://mrdata.usgs.gov/asbestos,UMN Matching System v1,913
+https://mrdata.usgs.gov/vms,UMN Matching System-ProcMinev2,889
+https://mrdata.usgs.gov/podchrome,UMN Matching System v1,830
+https://mrdata.usgs.gov/phosphate,UMN Matching System v1,711
+https://doi.org/10.5066/P9K1HBNT,UMN Matching System v1,684
+https://mrdata.usgs.gov/sir20105090z,UMN Exact Match v1,495
+https://mrdata.usgs.gov/deposit,UMN Exact Match v1,423
+https://mrdata.usgs.gov/pp1802,UMN Matching System v1,400
+https://mrdata.usgs.gov/major-deposits,UMN Matching System v1,372
+https://mrdata.usgs.gov/sedcu,UMN Exact Match v1,359
+https://mrdata.usgs.gov/ree,UMN Matching System v1,346
+https://mrdata.usgs.gov/porcu,UMN Exact Match v1,298
+https://mrdata.usgs.gov/sedznpb,UMN Exact Match v1,264
+https://doi.org/10.2113/econgeo.110.8.1925,SAND,173
+https://mrdata.usgs.gov/ofr20151121,UMN Matching System v1,170
+https://mrdata.usgs.gov/sedau,UMN Matching System v1,115
+https://doi.org/10.3133/pp1802J,SAND,91
+https://doi.org/10.5066/P99RK9SU,SAND,72
+https://mrdata.usgs.gov/carbonatite,UMN Matching System v1,30
+https://doi.org/10.31035/cg2020009,SAND,20
+http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024,SAND,16
+https://mrdata.usgs.gov/laterite,UMN Matching System v1,15
+https://mrdata.usgs.gov/mrds,https://minmod.isi.edu/users/u/jhammars,12
+https://api.cdr.land/v1/docs/documents,Inferlink Extraction v2,5
+https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource,https://minmod.isi.edu/users/u/jhammars,4
+https://api.cdr.land/v1/docs/documents,https://minmod.isi.edu/users/u/jhammars,3
+https://api.cdr.land/v1/docs/documents,https://minmod.isi.edu/users/u/caknoblock,2
+https://doi.org/10.1007/s00126-023-01161-3,https://minmod.isi.edu/users/u/jhammars,2
+https://mrdata.usgs.gov/pp1802,https://minmod.isi.edu/users/u/jhammars,2
+https://doi.org/10.4095/295581,https://minmod.isi.edu/users/a/bvu,1
+https://api.cdr.land/v1/docs/documents,https://minmod.isi.edu/users/u/glederer,1
+https://doi.org/10.5066/P9K1HBNT,https://minmod.isi.edu/users/u/jhammars,1
+https://pubs.usgs.gov/bul/0615/report.pdf,https://minmod.isi.edu/users/u/jhammars,1

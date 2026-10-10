@@ -1,0 +1,10 @@
+# Orphan signature from the repro: a node that still carries a numeric triple but has lost rdf:type
+# (the DELETE removes type/text/IRI triples, strands only the numerics). Edit-reachable predicates only.
+PREFIX mo: <https://minmod.isi.edu/ontology/>
+PREFIX gco: <https://geochemistry.isi.edu/ontology/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?p (COUNT(DISTINCT ?n) AS ?nodes) (COUNT(*) AS ?triples) WHERE {
+  VALUES ?p { mo:confidence mo:value mo:x_max mo:x_min mo:y_max mo:y_min gco:grade gco:detection_limit gco:top_depth_m gco:bottom_depth_m }
+  ?n ?p ?o .
+  FILTER NOT EXISTS { ?n a ?t }
+} GROUP BY ?p

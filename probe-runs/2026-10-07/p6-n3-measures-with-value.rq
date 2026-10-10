@@ -1,0 +1,2 @@
+PREFIX mo: <https://minmod.isi.edu/ontology/>
+SELECT (COUNT(DISTINCT ?m) AS ?typed_measures_with_value) WHERE { ?m a mo:Measure ; mo:value ?v }

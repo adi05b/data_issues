@@ -1,0 +1,207 @@
+{ "head": {
+    "vars": [ "site" , "name" , "source" , "wkt" , "country_obs" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02cc95706ba61fd93103a3fd3ca0de0bf05aefd3b54ddf9f23c7be84c36c00aaf8__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Madagascar" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__026b22dd9cce535c80d578f5598ade2801434de617f98c423706b74b21b3ae0842__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0.0 0.0)" } ,
+        "country_obs": { "type": "literal" , "value": "Romania" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02f9bdca89777efc0cf59f340a52cf5e8c3b21d1656a95fd1d08e54430c2a4160f__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02127ab53e01dbd78c1f2f8d0e72e53382fa73fe92f64519863e0aed1d62ad7ef2__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Canada" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__021c1446132f9a25c69d97437586151f0700b11bedb2dc2146065224353baeb19f__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0.0 0.0)" } ,
+        "country_obs": { "type": "literal" , "value": "Spain" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__025e71162fd48b8067eb33f63d83679ae4b564b63e1bd27441bfc2c88d01511ddc__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Canada" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02b5dafea360e36c4b96581d28a659da4eec1d56aa817a4a7e20374e8455201534__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02da8f2d18a0c8cc6ad9285bef270bddf4148b06770e1f8715587151aab9014601__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Canada" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0215aad4ec1402eb5388b75bc65d5905524a6a4a999e16ec8496fb7a8b8c6c3c96__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Canada" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02db88806a98f5c60d5fc1e340283848a0fe9511d5ab46b624637634f28769a545__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Canada" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02b51467dc99411ba9a24d2c5c9ba307310bae6c04576019098ea9676a825af089__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Zimbabwe" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0231f8c81ba8440db92cded3e73732613be96fcfd716b7ce53d9a58922cc9e0714__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Greenland" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__025dad46c2d1ac501f013c416dadae9d91684a8c129f928657a780b394435450dc__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Mexico" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0226cb80ce39e7a4976d0ceeaf3afbd324ea7b808f365c7477474cb885d78bfdc6__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Canada" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__020d3f906a634e9526c27a5e34d4eb042fccd394a3a23401e640f1b65657e5d958__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0205e384bede4889373d9e9788b27e984c76aec51a0ba876f098cd08541ac7ab54__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Mexico" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0296bc0c1b6d9d80aaeee594d72e8a5eec483c81b090ffff23afbb73b0c1d2b151__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Côte d\u2019Ivoire" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0254ffd63b70e870b16fd718a001cb736b9025e3df1575b3b9aedf9c13987dfde2__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Zambia" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0256ca3ba78f0ec6b77d2d4d4973d2da775cee7a534dfc71f56ee416cb5c437bec__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Kazakhstan" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__029f415bc1c712b75e198f8befd01be9c0089b49ce2869598d7aebfe93e84b262c__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Democratic Republic Of The Congo" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02e5350a155714691da13553b49d70e0ac19661f3889c804a43e5221335324bd2f__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0.0 0.0)" } ,
+        "country_obs": { "type": "literal" , "value": "Zambia" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__026562095c61b0e69e3d97069935a1348db770e5035900887176bc2b3298964b3e__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Canada" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02eaa7ecdafee042f10d8b3ed043abb94941bde19c1bdd08733053f8bdcfe53f8d__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Canada" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0204fc707f5b1944308624520cd422c4f1cb478046f66487b06a27e8fbd8f0fd86__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0.0 0.0)" } ,
+        "country_obs": { "type": "literal" , "value": "Spain" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__026059eb3cc3b41e748b34afaebe846b9374593c53661085b8bd5604f931175af4__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Canada" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__026351c77e3027b3db9d4290e3b7e4f5b7062db40dae5cdf320ea726fa5e59123d__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Finland" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02e7ff83ac75a4749dcd3be7c2987b1402d9dc7f7f38b56299212c4f59a8cb4d64__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(-0.0 0.0)" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02b1bc77a60905d55d8dc25976904ac69de5165d898f9c5e2317eb37b3a43a4768__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Turkey" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__024bd314d6313d345d7847ca2984dc449c2d1d49da43ad1a1631b3dd4744228bd8__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02ee2d7c9e7a88c26e2fb1bd42bb4bbd845da365fced615ad9f83e9fe39ed0f845__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Mexico" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02c1e1ca772fe97dfc2d3a8923ccccd3a090b79c3c74a92e6f1ff093b08cbf0a57__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Russia" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02e2708fd068bc74a6b38dbe83dda8bb588d154686286c2019d358faef0e5bb380__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0.0 0.0)" } ,
+        "country_obs": { "type": "literal" , "value": "Spain" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0274452b874b201ce3aa34f220fcb9aa6a0c15d90c7f2c9cf39f700d5dd9cd59fc__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0.0 0.0)" } ,
+        "country_obs": { "type": "literal" , "value": "Canada" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__02e5f5c32040e7d906e2bb85e29e4956bbe7a0b531c4ec98f559e855e256f65616__inferlink" } ,
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "wkt": { "type": "literal" , "value": "POINT(0 0)" } ,
+        "country_obs": { "type": "literal" , "value": "Finland" }
+      }
+    ]
+  }
+}

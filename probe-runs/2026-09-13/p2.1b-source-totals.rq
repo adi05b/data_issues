@@ -1,0 +1,6 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?source (COUNT(DISTINCT ?site) AS ?total)
+WHERE { ?site a :MineralSite ; :source_id ?source }
+GROUP BY ?source ORDER BY DESC(?total)

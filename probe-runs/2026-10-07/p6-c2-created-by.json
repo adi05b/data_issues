@@ -1,0 +1,68 @@
+{ "head": {
+    "vars": [ "cb" , "sites" , "first_mod" , "last_mod" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "445957" } ,
+        "first_mod": { "type": "literal" , "value": "2024-09-20T00:00:00.000000Z" } ,
+        "last_mod": { "type": "literal" , "value": "2025-07-03T20:08:30.000000Z" }
+      } ,
+      { 
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/sri" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "227168" } ,
+        "first_mod": { "type": "literal" , "value": "2024-10-29T11:01:23.000000Z" } ,
+        "last_mod": { "type": "literal" , "value": "2024-11-06T19:09:29.000000Z" }
+      } ,
+      { 
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/usc" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5016" } ,
+        "first_mod": { "type": "literal" , "value": "2024-09-20T00:00:00.000000Z" } ,
+        "last_mod": { "type": "literal" , "value": "2025-07-01T06:56:38.000000Z" }
+      } ,
+      { 
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/inferlink" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1323" } ,
+        "first_mod": { "type": "literal" , "value": "2024-09-20T00:00:00.000000Z" } ,
+        "last_mod": { "type": "literal" , "value": "2025-07-31T21:48:41.283485Z" }
+      } ,
+      { 
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/usc-stu" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "273" } ,
+        "first_mod": { "type": "literal" , "value": "2025-04-03T01:40:50.940321Z" } ,
+        "last_mod": { "type": "literal" , "value": "2025-04-03T01:40:50.940321Z" }
+      } ,
+      { 
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "33" } ,
+        "first_mod": { "type": "literal" , "value": "2025-02-28T17:58:57.831078Z" } ,
+        "last_mod": { "type": "literal" , "value": "2026-03-18T18:38:34.882679Z" }
+      } ,
+      { 
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/caknoblock" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" } ,
+        "first_mod": { "type": "literal" , "value": "2025-05-05T23:02:10.443065Z" } ,
+        "last_mod": { "type": "literal" , "value": "2026-06-19T17:51:06.739633Z" }
+      } ,
+      { 
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/a/bvu" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "first_mod": { "type": "literal" , "value": "2025-06-03T06:53:51.222404Z" } ,
+        "last_mod": { "type": "literal" , "value": "2025-07-24T20:00:28.475104Z" }
+      } ,
+      { 
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/ggraham" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "first_mod": { "type": "literal" , "value": "2025-06-05T17:29:54.820371Z" } ,
+        "last_mod": { "type": "literal" , "value": "2025-06-05T17:29:54.820371Z" }
+      } ,
+      { 
+        "cb": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/glederer" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "first_mod": { "type": "literal" , "value": "2025-08-19T13:43:04.385704Z" } ,
+        "last_mod": { "type": "literal" , "value": "2025-08-19T13:43:04.385704Z" }
+      }
+    ]
+  }
+}

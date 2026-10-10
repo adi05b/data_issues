@@ -1,0 +1,7 @@
+# xsd:decimal literals whose lexical form has an exponent (illegal for xsd:decimal), per predicate
+PREFIX mo: <https://minmod.isi.edu/ontology/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?p (COUNT(*) AS ?n) (SAMPLE(STR(?o)) AS ?example) WHERE {
+  VALUES ?p { mo:confidence mo:value mo:x_max mo:x_min mo:y_max mo:y_min }
+  ?s ?p ?o FILTER(DATATYPE(?o) = xsd:decimal && CONTAINS(LCASE(STR(?o)), "e"))
+} GROUP BY ?p

@@ -1,0 +1,16 @@
+{ "head": {
+    "vars": [ "t" , "nodes" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "t": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Measure" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "218236" }
+      } ,
+      { 
+        "t": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/CandidateEntity" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3407081" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{ "head": {
+    "vars": [ "bucket" , "candidates" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "bucket": { "type": "literal" , "value": "hi_ge_0.99" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "410185" }
+      } ,
+      { 
+        "bucket": { "type": "literal" , "value": "lo_lt_0.9" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10732" }
+      } ,
+      { 
+        "bucket": { "type": "literal" , "value": "mid_0.9_0.99" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "675" }
+      }
+    ]
+  }
+}

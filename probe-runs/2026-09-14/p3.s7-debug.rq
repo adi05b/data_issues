@@ -1,0 +1,13 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+SELECT (COUNT(DISTINCT ?a) AS ?sameas_subj)
+       (COUNT(DISTINCT ?b) AS ?sameas_with_li)
+       (COUNT(DISTINCT ?c2) AS ?sameas_with_loc)
+       (COUNT(DISTINCT ?d) AS ?sameas_with_crs)
+WHERE {
+  { ?a a :MineralSite ; owl:sameAs [] }
+  UNION { ?b a :MineralSite ; owl:sameAs [] ; :location_info [] }
+  UNION { ?c2 a :MineralSite ; owl:sameAs [] ; :location_info/:location [] }
+  UNION { ?d a :MineralSite ; owl:sameAs [] ; :location_info/:crs [] }
+}

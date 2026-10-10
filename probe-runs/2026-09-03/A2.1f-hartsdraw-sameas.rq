@@ -1,0 +1,13 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?site ?label ?source ?wkt ?other ?inbound
+WHERE {
+  ?site a :MineralSite ; rdfs:label ?label .
+  FILTER(CONTAINS(LCASE(STR(?label)), "harts draw"))
+  OPTIONAL { ?site :source_id ?source }
+  OPTIONAL { ?site :location_info/:location ?wkt }
+  OPTIONAL { ?site owl:sameAs ?other }
+  OPTIONAL { ?inbound owl:sameAs ?site }
+}

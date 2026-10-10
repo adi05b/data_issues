@@ -1,0 +1,11 @@
+{
+  "id": "p6-n1-datatype-census",
+  "sent_at": "2026-10-08T00:51:37.214438+00:00",
+  "http_status": 200,
+  "elapsed_ms": 5668,
+  "bytes": 1319,
+  "curl_exit": 0,
+  "row_count": 4,
+  "truncated_by_limit": false,
+  "error": null
+}

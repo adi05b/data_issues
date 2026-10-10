@@ -1,0 +1,22 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?site ?label ?source ?wkt ?lond ?latd ?grid
+WHERE {
+  ?site a :MineralSite ; :source_id ?source ; :location_info ?li .
+  FILTER(CONTAINS(STR(?source),"/vms") || CONTAINS(STR(?source),"podchrome") || CONTAINS(STR(?source),"/ree") || CONTAINS(STR(?source),"sedznpb"))
+  ?li :location ?wkt ; :crs ?crsc .
+  ?crsc :normalized_uri ?ce . ?ce rdfs:label ?crs .
+  FILTER(STR(?crs) = "EPSG:4326")
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?los)
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?las)
+  BIND(IF(CONTAINS(?los,"."), STRLEN(STRAFTER(?los,".")), 0) AS ?lond)
+  BIND(IF(CONTAINS(?las,"."), STRLEN(STRAFTER(?las,".")), 0) AS ?latd)
+  BIND(xsd:double(?los) AS ?lonv) BIND(xsd:double(?las) AS ?latv)
+  BIND(?lond >= 6 && ABS(?lonv*60 - ROUND(?lonv*60)) < 0.00000001 AS ?lon_min)
+  BIND(?latd >= 6 && ABS(?latv*60 - ROUND(?latv*60)) < 0.00000001 AS ?lat_min)
+  FILTER((?lon_min || ?lat_min) && (?lond = 0 || ?latd = 0))
+  BIND("arcminute" AS ?grid)
+  OPTIONAL { ?site rdfs:label ?label }
+}
+LIMIT 10

@@ -1,0 +1,18 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?source (COUNT(DISTINCT ?site) AS ?affected)
+WHERE {
+  ?site a :MineralSite ; :source_id ?source ; :location_info ?li .
+  ?li :location ?wkt ; :crs ?c .
+  ?c :normalized_uri ?ce . ?ce rdfs:label ?crs . FILTER(STR(?crs) = "EPSG:4326")
+  BIND(REPLACE(STR(?wkt), "^[A-Z]*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?lons)
+  BIND(REPLACE(STR(?wkt), "^[A-Z]*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?lats)
+  BIND(xsd:double(?lons) AS ?lon) BIND(xsd:double(?lat_) AS ?unused)
+  BIND(xsd:double(?lats) AS ?lat)
+  BIND(IF(CONTAINS(?lons,"."), STRLEN(STRAFTER(?lons,".")), 0) AS ?dlon)
+  BIND(IF(CONTAINS(?lats,"."), STRLEN(STRAFTER(?lats,".")), 0) AS ?dlat)
+  FILTER(?dlon >= 6 || ?dlat >= 6)
+  FILTER(ABS(?lon*3600 - ROUND(?lon*3600)) < 0.00000001 && ABS(?lat*3600 - ROUND(?lat*3600)) < 0.00000001)
+}
+GROUP BY ?source ORDER BY DESC(?affected)

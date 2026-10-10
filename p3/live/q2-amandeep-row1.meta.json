@@ -1,0 +1,11 @@
+{
+  "id": "q2-amandeep-row1",
+  "sent_at": "2026-10-10T21:13:02.520566+00:00",
+  "http_status": 200,
+  "elapsed_ms": 1829,
+  "bytes": 252,
+  "curl_exit": 0,
+  "row_count": 1,
+  "truncated_by_limit": false,
+  "error": null
+}

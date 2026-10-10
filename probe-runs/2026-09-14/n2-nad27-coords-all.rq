@@ -1,0 +1,16 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?site ?record_id ?label ?source ?wkt ?crs_label ?crs_obs
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :crs ?c ; :location ?wkt .
+  ?c :normalized_uri ?ce .
+  ?ce rdfs:label ?crs_label
+  FILTER(STR(?crs_label) = "EPSG:4267")
+  OPTIONAL { ?c :observed_name ?crs_obs }
+  OPTIONAL { ?site rdfs:label ?label }
+  OPTIONAL { ?site :record_id ?record_id }
+  OPTIONAL { ?site :source_id ?source }
+}
+ORDER BY ?site

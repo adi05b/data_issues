@@ -1,0 +1,8 @@
+# The 44 non-team sites (created_by under /users/u/ or /users/a/), newest first
+PREFIX mo: <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?s ?cb ?m ?src ?rec ?name WHERE {
+  ?s a mo:MineralSite ; mo:created_by ?cb ; mo:modified_at ?m ; mo:source_id ?src ; mo:record_id ?rec .
+  OPTIONAL { ?s rdfs:label ?name }
+  FILTER(STRSTARTS(STR(?cb), "https://minmod.isi.edu/users/u/") || STRSTARTS(STR(?cb), "https://minmod.isi.edu/users/a/"))
+} ORDER BY DESC(?m) LIMIT 100

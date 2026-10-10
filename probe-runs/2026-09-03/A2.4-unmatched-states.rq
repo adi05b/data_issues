@@ -1,0 +1,14 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+
+SELECT ?state_obs (COUNT(DISTINCT ?site) AS ?sites)
+       (GROUP_CONCAT(DISTINCT ?country_obs; separator=" | ") AS ?countries)
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :state_or_province ?sc .
+  ?sc :observed_name ?state_obs .
+  FILTER NOT EXISTS { ?sc :normalized_uri ?any }
+  OPTIONAL { ?li :country ?cc . ?cc :observed_name ?country_obs }
+}
+GROUP BY ?state_obs
+ORDER BY DESC(?sites)
+LIMIT 60

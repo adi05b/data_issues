@@ -1,0 +1,11 @@
+{
+  "id": "p3.s1-classes",
+  "sent_at": "2026-09-14T20:31:27.412787+00:00",
+  "http_status": 200,
+  "elapsed_ms": 4885,
+  "bytes": 6321,
+  "curl_exit": 0,
+  "row_count": 28,
+  "truncated_by_limit": false,
+  "error": null
+}

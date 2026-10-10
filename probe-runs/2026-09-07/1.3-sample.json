@@ -1,0 +1,629 @@
+{
+  "seed": 20260907,
+  "n_resolved": 5144,
+  "n_unresolved": 1012,
+  "sample_resolved": [
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10063574__umn",
+      "label": "Laughlands",
+      "state_obs": "Saint Ann",
+      "country_obs": "Jamaica",
+      "country_id": "Q1108",
+      "country_label": "Jamaica",
+      "state_ent": "Q2374",
+      "state_label": "Saint Andrew",
+      "wkt": "POINT (-77.2544599999999946 18.4653899999999993)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q3903",
+        "Saint Ann Parish"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10061330__umn",
+      "label": "San Alberto",
+      "state_obs": "Granma",
+      "country_obs": "Cuba",
+      "country_id": "Q1054",
+      "country_label": "Cuba",
+      "state_ent": "Q6949",
+      "state_label": "Sanma",
+      "wkt": "POINT (-76.3708199999999948 20.1925300000000014)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q2890",
+        "Granma Province"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10168596__umn",
+      "label": "Fridovich",
+      "state_obs": "Florida",
+      "country_obs": "United States",
+      "country_id": "Q1235",
+      "country_label": "United States",
+      "state_ent": "Q5307",
+      "state_label": "Florida",
+      "wkt": "POINT (-82.0206500000000034 28.0113999999999983)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q6850",
+        "Florida"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10061673__umn",
+      "label": "Trinidaita",
+      "state_obs": "Herrera",
+      "country_obs": "Panama",
+      "country_id": "Q1169",
+      "country_label": "Panama",
+      "state_ent": "Q3818",
+      "state_label": "Ferrara",
+      "wkt": "POINT (-80.4598299999999966 7.9511900000000004)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q5072",
+        "Herrera Province"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-nicrpge__12160135__umn",
+      "label": "San Mariano, Philippines",
+      "state_obs": "Isabela",
+      "country_obs": "Philippines",
+      "country_id": "Q1173",
+      "country_label": "Philippines",
+      "state_ent": "Q5317",
+      "state_label": "Isabela",
+      "wkt": "POINT (122.45 16.84)",
+      "src": "UMN Matching System v1",
+      "rule_answer": [
+        "Q5191",
+        "Isabela"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10067084__umn",
+      "label": "Unidentified Gold Occurrence",
+      "state_obs": "Bolivar",
+      "country_obs": "Venezuela",
+      "country_id": "Q1241",
+      "country_label": "Venezuela",
+      "state_ent": "Q2785",
+      "state_label": "Bol\u00edvar",
+      "wkt": "POINT (-61.8649399999999972 6.2743200000000003)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q6958",
+        "Bol\u00edvar"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10207782__umn",
+      "label": "Dowa Seiko",
+      "state_obs": "Osaka",
+      "country_obs": "Japan",
+      "country_id": "Q1109",
+      "country_label": "Japan",
+      "state_ent": "Q6403",
+      "state_label": "Sakarya",
+      "wkt": "POINT (135.3821199999999862 34.6986899999999991)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q3943",
+        "\u014csaka Prefecture"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10067165__umn",
+      "label": "Potosi",
+      "state_obs": "Bolivar",
+      "country_obs": "Venezuela",
+      "country_id": "Q1241",
+      "country_label": "Venezuela",
+      "state_ent": "Q2785",
+      "state_label": "Bol\u00edvar",
+      "wkt": "POINT (-62.2107799999999997 7.7328500000000000)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q6958",
+        "Bol\u00edvar"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10288857__umn",
+      "label": "Hole No 33 Clay Prospect",
+      "state_obs": "Florida",
+      "country_obs": "United States",
+      "country_id": "Q1235",
+      "country_label": "United States",
+      "state_ent": "Q5307",
+      "state_label": "Florida",
+      "wkt": "POINT (-81.7831400000000031 30.1030400000000000)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q6850",
+        "Florida"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10007976__umn",
+      "label": "Unnamed Occurrence",
+      "state_obs": "Limon",
+      "country_obs": "Costa Rica",
+      "country_id": "Q1051",
+      "country_label": "Costa Rica",
+      "state_ent": "Q4883",
+      "state_label": "Imo",
+      "wkt": "POINT (-83.2110100000000017 9.6816600000000008)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q2830",
+        "Lim\u00f3n Province"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10066180__umn",
+      "label": "Tajo Frelimar",
+      "state_obs": "Limon",
+      "country_obs": "Costa Rica",
+      "country_id": "Q1051",
+      "country_label": "Costa Rica",
+      "state_ent": "Q4883",
+      "state_label": "Imo",
+      "wkt": "POINT (-83.7476900000000057 10.1952400000000001)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q2830",
+        "Lim\u00f3n Province"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10057452__umn",
+      "label": "El Espirito Santo Mine",
+      "state_obs": "Darien",
+      "country_obs": "Panama",
+      "country_id": "Q1169",
+      "country_label": "Panama",
+      "state_ent": "Q4490",
+      "state_label": "Tarxien",
+      "wkt": "POINT (-78.0789400000000029 7.4923200000000003)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q5069",
+        "Dari\u00e9n Province"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10107606__umn",
+      "label": "Copacabana Mine",
+      "state_obs": "La Paz",
+      "country_obs": "Bolivia",
+      "country_id": "Q1025",
+      "country_label": "Bolivia",
+      "state_ent": "Q2181",
+      "state_label": "La Pampa",
+      "wkt": "POINT (-66.9828100000000006 -17.4309900000000013)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q2453",
+        "La Paz Department"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10304361__umn",
+      "label": "El Salvador",
+      "state_obs": "Oruro",
+      "country_obs": "Bolivia",
+      "country_id": "Q1025",
+      "country_label": "Bolivia",
+      "state_ent": "Q5038",
+      "state_label": "Koror",
+      "wkt": "POINT (-66.8194699999999955 -18.4976300000000009)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q2454",
+        "Oruro Department"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10086908__umn",
+      "label": "Chucuani Mine",
+      "state_obs": "La Paz",
+      "country_obs": "Bolivia",
+      "country_id": "Q1025",
+      "country_label": "Bolivia",
+      "state_ent": "Q2181",
+      "state_label": "La Pampa",
+      "wkt": "POINT (-68.1920099999999962 -16.9918499999999995)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q2453",
+        "La Paz Department"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10306375__umn",
+      "label": "Imc Agrico - Lonesome / Four Corners",
+      "state_obs": "Florida",
+      "country_obs": "United States",
+      "country_id": "Q1235",
+      "country_label": "United States",
+      "state_ent": "Q5307",
+      "state_label": "Florida",
+      "wkt": "POINT (-82.0915200000000027 27.6447499999999984)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q6850",
+        "Florida"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10133918__umn",
+      "label": "Yana Mallcu",
+      "state_obs": "Oruro",
+      "country_obs": "Bolivia",
+      "country_id": "Q1025",
+      "country_label": "Bolivia",
+      "state_ent": "Q5038",
+      "state_label": "Koror",
+      "wkt": "POINT (-66.4661799999999943 -10.4646200000000000)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q2454",
+        "Oruro Department"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10005854__umn",
+      "label": "Los Colorados De Bolivia Mine",
+      "state_obs": "Potosi",
+      "country_obs": "Bolivia",
+      "country_id": "Q1025",
+      "country_label": "Bolivia",
+      "state_ent": "Q5270",
+      "state_label": "Porto",
+      "wkt": "POINT (-66.4511200000000031 -21.8158799999999999)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q2456",
+        "Potos\u00ed Department"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10067011__umn",
+      "label": "Apollo 8",
+      "state_obs": "Bolivar",
+      "country_obs": "Venezuela",
+      "country_id": "Q1241",
+      "country_label": "Venezuela",
+      "state_ent": "Q2785",
+      "state_label": "Bol\u00edvar",
+      "wkt": "POINT (-61.7910499999999985 7.3761999999999999)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q6958",
+        "Bol\u00edvar"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10133612__umn",
+      "label": "Kellguani",
+      "state_obs": "La Paz",
+      "country_obs": "Bolivia",
+      "country_id": "Q1025",
+      "country_label": "Bolivia",
+      "state_ent": "Q2181",
+      "state_label": "La Pampa",
+      "wkt": "POINT (-68.1162099999999953 -16.3476999999999997)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q2453",
+        "La Paz Department"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10006207__umn",
+      "label": "Concepcion",
+      "state_obs": "La Paz",
+      "country_obs": "Bolivia",
+      "country_id": "Q1025",
+      "country_label": "Bolivia",
+      "state_ent": "Q2181",
+      "state_label": "La Pampa",
+      "wkt": "POINT (-68.1397900000000050 -16.1235399999999984)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q2453",
+        "La Paz Department"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10006796__umn",
+      "label": "Iron Occurrence",
+      "state_obs": "Santa Cruz",
+      "country_obs": "Bolivia",
+      "country_id": "Q1025",
+      "country_label": "Bolivia",
+      "state_ent": "Q2190",
+      "state_label": "Santa Cruz",
+      "wkt": "POINT (-61.2057300000000026 -17.7156999999999982)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q2457",
+        "Santa Cruz Department"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10006016__umn",
+      "label": "Cerro Catalma Occurrence",
+      "state_obs": "Potosi",
+      "country_obs": "Bolivia",
+      "country_id": "Q1025",
+      "country_label": "Bolivia",
+      "state_ent": "Q5270",
+      "state_label": "Porto",
+      "wkt": "POINT (-68.3172899999999998 -20.0567700000000002)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q2456",
+        "Potos\u00ed Department"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10006244__umn",
+      "label": "San Felipe Mine",
+      "state_obs": "La Paz",
+      "country_obs": "Bolivia",
+      "country_id": "Q1025",
+      "country_label": "Bolivia",
+      "state_ent": "Q2181",
+      "state_label": "La Pampa",
+      "wkt": "POINT (-67.2494899999999944 -16.9476799999999983)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q2453",
+        "La Paz Department"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-nicrpge__12163453__umn",
+      "label": "Morro Do Bau",
+      "state_obs": "Santa Catarina",
+      "country_obs": "Brazil",
+      "country_id": "Q1030",
+      "country_label": "Brazil",
+      "state_ent": "Q2678",
+      "state_label": "Santa Catarina",
+      "wkt": "POINT (-48.93 -26.81)",
+      "src": "UMN Matching System v1",
+      "rule_answer": [
+        "Q2508",
+        "Santa Catarina"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-carbonatite__9__umn",
+      "label": "Seis Lagos",
+      "state_obs": "Amazonas",
+      "country_obs": "Brazil",
+      "country_id": "Q1030",
+      "country_label": "Brazil",
+      "state_ent": "Q6953",
+      "state_label": "Amazonas",
+      "wkt": "POINT (-66.6802777777778 0.281944444444444)",
+      "src": "UMN Matching System v1",
+      "rule_answer": [
+        "Q2488",
+        "Amazonas"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10060475__umn",
+      "label": "Mesa De La Carata",
+      "state_obs": "Bolivar",
+      "country_obs": "Venezuela",
+      "country_id": "Q1241",
+      "country_label": "Venezuela",
+      "state_ent": "Q2785",
+      "state_label": "Bol\u00edvar",
+      "wkt": "POINT (-62.4177200000000028 8.0594900000000003)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q6958",
+        "Bol\u00edvar"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10006686__umn",
+      "label": "Fluorite Occurrence",
+      "state_obs": "Santa Cruz",
+      "country_obs": "Bolivia",
+      "country_id": "Q1025",
+      "country_label": "Bolivia",
+      "state_ent": "Q2190",
+      "state_label": "Santa Cruz",
+      "wkt": "POINT (-63.4994000000000014 -15.6477100000000000)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q2457",
+        "Santa Cruz Department"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10158862__umn",
+      "label": "(Facility) Hitachi Smelter",
+      "state_obs": "Ibaraki",
+      "country_obs": "Japan",
+      "country_id": "Q1109",
+      "country_label": "Japan",
+      "state_ent": "Q3964",
+      "state_label": "Karak",
+      "wkt": "POINT (140.6653699999999958 36.5819499999999991)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q3924",
+        "Ibaraki Prefecture"
+      ]
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10135066__umn",
+      "label": "Bong Range I",
+      "state_obs": "Bong",
+      "country_obs": "Liberia",
+      "country_id": "Q1122",
+      "country_label": "Liberia",
+      "state_ent": "Q3394",
+      "state_label": "Bono",
+      "wkt": "POINT (-9.9985700000000008 7.6677499999999998)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": [
+        "Q4215",
+        "Bong County"
+      ]
+    }
+  ],
+  "sample_unresolved": [
+    {
+      "site": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9k1hbnt__180__umn",
+      "label": "Darwin mines",
+      "state_obs": "CA",
+      "country_obs": "United States",
+      "country_id": "Q1235",
+      "country_label": "United States",
+      "state_ent": "Q6915",
+      "state_label": "Canelones",
+      "wkt": "POINT (-117.59979 36.29025)",
+      "src": "UMN Matching System v1",
+      "rule_answer": null,
+      "why": "key 'ca' absent for country Q1235"
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__029506dffe37f93eeb0fcd8e37db36e05b09e7ec7ac4f84b1e5ec21c45031838dc__inferlink",
+      "label": "Boss Mining Project",
+      "state_obs": "Katanga Province",
+      "country_obs": "Democratic Republic of the Congo",
+      "country_id": "Q1058",
+      "country_label": "Democratic Republic of the Congo",
+      "state_ent": "Q6152",
+      "state_label": "Tanga",
+      "wkt": "MULTIPOINT(26.5 10.75)",
+      "src": "Inferlink Extraction v3",
+      "rule_answer": null,
+      "why": "key 'katanga' absent for country Q1058"
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10183651__umn",
+      "label": "Kassira-Rengerbera",
+      "state_obs": "Orissa",
+      "country_obs": "India",
+      "country_id": "Q1101",
+      "country_label": "India",
+      "state_ent": "Q3993",
+      "state_label": "Garissa",
+      "wkt": "POINT (85.2402100000000047 21.8994600000000013)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": null,
+      "why": "key 'orissa' absent for country Q1101"
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9k1hbnt__89__umn",
+      "label": "Boss-Bixby",
+      "state_obs": "MO",
+      "country_obs": "United States",
+      "country_id": "Q1235",
+      "country_label": "United States",
+      "state_ent": "Q6923",
+      "state_label": "Montevideo",
+      "wkt": "POINT (-91.17042 37.66583)",
+      "src": "UMN Matching System v1",
+      "rule_answer": null,
+      "why": "key 'mo' absent for country Q1235"
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10400307__umn",
+      "label": "Malundwe (Lumwana Project)",
+      "state_obs": "North-Western",
+      "country_obs": "Zambia",
+      "country_id": "Q1248",
+      "country_label": "Zambia",
+      "state_ent": "Q2649",
+      "state_label": "Northwest",
+      "wkt": "POINT (25.8119000000000014 -12.2279000000000000)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": null,
+      "why": "key 'north western' absent for country Q1248"
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10206709__umn",
+      "label": "Arnoldstein Lead Works",
+      "state_obs": "Karnten",
+      "country_obs": "Austria",
+      "country_id": "Q1014",
+      "country_label": "Austria",
+      "state_ent": "Q3670",
+      "state_label": "Banten",
+      "wkt": "POINT (13.7187500000000000 46.5654499999999985)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": null,
+      "why": "key 'karnten' absent for country Q1014"
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9k1hbnt__109__umn",
+      "label": "Bull Hill",
+      "state_obs": "SD",
+      "country_obs": "United States",
+      "country_id": "Q1235",
+      "country_label": "United States",
+      "state_ent": "Q7060",
+      "state_label": "Saada",
+      "wkt": "POINT (-104.09029 44.39386)",
+      "src": "UMN Matching System v1",
+      "rule_answer": null,
+      "why": "key 'sd' absent for country Q1235"
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10182473__umn",
+      "label": "Sha Shia Mine",
+      "state_obs": "Nicosia",
+      "country_obs": "Cyprus",
+      "country_id": "Q1056",
+      "country_label": "Cyprus",
+      "state_ent": "Q3434",
+      "state_label": "Laconia",
+      "wkt": "POINT (33.3348099999999974 34.9321699999999993)",
+      "src": "UMN Matching System-ProcMinev2",
+      "rule_answer": null,
+      "why": "key 'nicosia' absent for country Q1056"
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9k1hbnt__138__umn",
+      "label": "Cement Creek",
+      "state_obs": "CO",
+      "country_obs": "United States",
+      "country_id": "Q1235",
+      "country_label": "United States",
+      "state_ent": "Q6917",
+      "state_label": "Colonia",
+      "wkt": "POINT (-107.65064 37.88334)",
+      "src": "UMN Matching System v1",
+      "rule_answer": null,
+      "why": "key 'co' absent for country Q1235"
+    },
+    {
+      "site": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p9k1hbnt__554__umn",
+      "label": "Serpentine deposit",
+      "state_obs": "MN",
+      "country_obs": "United States",
+      "country_id": "Q1235",
+      "country_label": "United States",
+      "state_ent": "Q7082",
+      "state_label": "Matabeleland North Province",
+      "wkt": "POINT (-91.87185 47.67528)",
+      "src": "UMN Matching System v1",
+      "rule_answer": null,
+      "why": "key 'mn' absent for country Q1235"
+    }
+  ]
+}

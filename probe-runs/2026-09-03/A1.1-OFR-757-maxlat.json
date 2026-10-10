@@ -1,0 +1,118 @@
+{ "head": {
+    "vars": [ "site" , "label" , "source" , "wkt" , "lon" , "lat" , "crs_label" , "country_obs" , "state_obs" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__169__umn" } ,
+        "label": { "type": "literal" , "value": "Peg Leg Mine" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (261136 4652406)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "261136.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4652406.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__2022__umn" } ,
+        "label": { "type": "literal" , "value": "Goose Creek Lignite" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (248493 4651383)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "248493.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4651383.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__909__umn" } ,
+        "label": { "type": "literal" , "value": "Water Canyon Prospect" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (310386 4650956)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "310386.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4650956.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__167__umn" } ,
+        "label": { "type": "literal" , "value": "Dolly Clark Mine" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (262300 4650700)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "262300.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4650700.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__168__umn" } ,
+        "label": { "type": "literal" , "value": "Midway Tunnel" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (263190 4650245)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "263190.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4650245.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__170__umn" } ,
+        "label": { "type": "literal" , "value": "Sentinel Group" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (264550 4649950)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "264550.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4649950.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__173__umn" } ,
+        "label": { "type": "literal" , "value": "Vipont Mine" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (264145 4649860)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "264145.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4649860.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__171__umn" } ,
+        "label": { "type": "literal" , "value": "Skoro Mine" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (264265 4649625)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "264265.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4649625.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__6271__umn" } ,
+        "label": { "type": "literal" , "value": "Wildcat Creek Gravel" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (280586 4649556)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "280586.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4649556.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__172__umn" } ,
+        "label": { "type": "literal" , "value": "Sullivan - Harrison" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (264145 4649400)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "264145.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4649400.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      }
+    ]
+  }
+}

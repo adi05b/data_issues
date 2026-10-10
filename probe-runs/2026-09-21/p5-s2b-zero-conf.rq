@@ -1,0 +1,12 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?exact_zero ?has_uri (COUNT(*) AS ?nodes) (COUNT(DISTINCT ?site) AS ?records)
+WHERE {
+  ?site a :MineralSite ; :mineral_inventory ?mi .
+  ?mi :commodity ?cm .
+  ?cm :confidence ?conf .
+  FILTER(?conf < 0.05)
+  BIND(IF(?conf = 0.0, "exactly 0", "0 < c < 0.05") AS ?exact_zero)
+  OPTIONAL { ?cm :normalized_uri ?ent }
+  BIND(IF(BOUND(?ent), "has normalized_uri", "NO normalized_uri") AS ?has_uri)
+}
+GROUP BY ?exact_zero ?has_uri ORDER BY DESC(?nodes)

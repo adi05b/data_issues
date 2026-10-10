@@ -1,0 +1,98 @@
+{ "head": {
+    "vars": [ "source" , "wkt" , "lon_dp" , "lat_dp" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-113.8364 40.11243)" } ,
+        "lon_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-116.17597 47.5274)" } ,
+        "lon_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-123.122 41.8218)" } ,
+        "lon_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-145.59333 63.33)" } ,
+        "lon_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-136.4225 57.976)" } ,
+        "lon_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-81.3727 30.22395)" } ,
+        "lon_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-112.8045 45.48712)" } ,
+        "lon_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-123.16114 41.934)" } ,
+        "lon_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-91.78913 47.7841)" } ,
+        "lon_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-114.5005 44.85318)" } ,
+        "lon_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-106.1647 39.36909)" } ,
+        "lon_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-150.8182 65.094)" } ,
+        "lon_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-109.73452 38.5685)" } ,
+        "lon_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-123.997 41.86979)" } ,
+        "lon_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-86.1922 32.907)" } ,
+        "lon_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "lat_dp": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      }
+    ]
+  }
+}

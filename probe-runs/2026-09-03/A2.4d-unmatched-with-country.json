@@ -1,0 +1,3384 @@
+{ "head": {
+    "vars": [ "state_obs" , "country_id" , "sites" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "state_obs": { "type": "literal" , "value": "Camaguey" } ,
+        "country_id": { "type": "literal" , "value": "Q1054" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "216" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Katanga" } ,
+        "country_id": { "type": "literal" , "value": "Q1058" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "148" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Newfoundland" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "101" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Orissa" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "91" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Chitinskaya oblast" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "83" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Aqmola" } ,
+        "country_id": { "type": "literal" , "value": "Q1112" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "78" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Greenland" } ,
+        "country_id": { "type": "literal" , "value": "Q1059" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "67" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Neuquen" } ,
+        "country_id": { "type": "literal" , "value": "Q1010" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "62" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Hokkaido" } ,
+        "country_id": { "type": "literal" , "value": "Q1109" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "53" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Qaraghandy" } ,
+        "country_id": { "type": "literal" , "value": "Q1112" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "51" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Holguin" } ,
+        "country_id": { "type": "literal" , "value": "Q1054" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "49" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mugla" } ,
+        "country_id": { "type": "literal" , "value": "Q1227" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "49" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Surxondaryo" } ,
+        "country_id": { "type": "literal" , "value": "Q1238" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "41" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kohkiluyeh va Buyer Ahmad" } ,
+        "country_id": { "type": "literal" , "value": "Q1103" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "39" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Copperbelt" } ,
+        "country_id": { "type": "literal" , "value": "Q1248" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "39" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Goias" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "34" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Hovsgol" } ,
+        "country_id": { "type": "literal" , "value": "Q1144" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "32" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Rehoboth" } ,
+        "country_id": { "type": "literal" , "value": "Q1150" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "32" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Azarbayjan-e-Gharbi" } ,
+        "country_id": { "type": "literal" , "value": "Q1103" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "28" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Zambales, Luzon" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "28" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Isla Mona" } ,
+        "country_id": { "type": "literal" , "value": "Q1177" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "28" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "North-West Frontier" } ,
+        "country_id": { "type": "literal" , "value": "Q1166" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "27" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Luzon Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "26" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Dolnoslaskie" } ,
+        "country_id": { "type": "literal" , "value": "Q1175" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "26" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Qashqadaryo" } ,
+        "country_id": { "type": "literal" , "value": "Q1238" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "25" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Para" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "22" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Thüringen" } ,
+        "country_id": { "type": "literal" , "value": "Q1082" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "22" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Midlands" } ,
+        "country_id": { "type": "literal" , "value": "Q1249" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "21" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guangxi" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "20" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Xizhang (Tibet)" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "20" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Eskisehir" } ,
+        "country_id": { "type": "literal" , "value": "Q1227" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "20" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Yukon Territory" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "19" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Orenburgskaya oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "19" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Elâzig" } ,
+        "country_id": { "type": "literal" , "value": "Q1227" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "19" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Boyaca" } ,
+        "country_id": { "type": "literal" , "value": "Q1047" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "18" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Murmanskaya oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "18" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Qoraqalpog'iston Respublikasi" } ,
+        "country_id": { "type": "literal" , "value": "Q1238" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "18" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Lowgar" } ,
+        "country_id": { "type": "literal" , "value": "Q1000" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "17" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Coahuila" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "17" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Navoiy" } ,
+        "country_id": { "type": "literal" , "value": "Q1238" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "17" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Niedersachsen" } ,
+        "country_id": { "type": "literal" , "value": "Q1082" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Benguela" } ,
+        "country_id": { "type": "literal" , "value": "Q1006" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Uttar Pradesh/Uttaranchal" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Hessen" } ,
+        "country_id": { "type": "literal" , "value": "Q1082" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Baluchistan" } ,
+        "country_id": { "type": "literal" , "value": "Q1166" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Esfahan" } ,
+        "country_id": { "type": "literal" , "value": "Q1103" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Windhoek" } ,
+        "country_id": { "type": "literal" , "value": "Q1150" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Murmansk Oblast (Region)" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sao Paulo" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "South Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1155" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "North West Frontier" } ,
+        "country_id": { "type": "literal" , "value": "Q1166" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Elazig" } ,
+        "country_id": { "type": "literal" , "value": "Q1227" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sachsen-Anhalt" } ,
+        "country_id": { "type": "literal" , "value": "Q1082" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mindanao Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Cape Province" } ,
+        "country_id": { "type": "literal" , "value": "Q1204" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Choco" } ,
+        "country_id": { "type": "literal" , "value": "Q1047" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ostgronland" } ,
+        "country_id": { "type": "literal" , "value": "Q1086" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Jalapa" } ,
+        "country_id": { "type": "literal" , "value": "Q1090" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Chahar Mahall va Bakhtiari" } ,
+        "country_id": { "type": "literal" , "value": "Q1103" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Nuevo Leon" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Gobabis" } ,
+        "country_id": { "type": "literal" , "value": "Q1150" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Misamis Oriental, Mindanao" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Chelyabinskaya oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Region of Republican Subordination" } ,
+        "country_id": { "type": "literal" , "value": "Q1217" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "La Paz" } ,
+        "country_id": { "type": "literal" , "value": "Q1025" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ghanzi" } ,
+        "country_id": { "type": "literal" , "value": "Q1028" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Newfound- land" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Antofagasto" } ,
+        "country_id": { "type": "literal" , "value": "Q1043" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guanacaste" } ,
+        "country_id": { "type": "literal" , "value": "Q1051" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Azarbayjan-e-Sharqi" } ,
+        "country_id": { "type": "literal" , "value": "Q1103" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Zhambyl" } ,
+        "country_id": { "type": "literal" , "value": "Q1112" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Zhambyl Oblast" } ,
+        "country_id": { "type": "literal" , "value": "Q1112" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kachin" } ,
+        "country_id": { "type": "literal" , "value": "Q1149" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bashkortostan" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Murmanskaya Oblast'/Kola Pennisula" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Transvaal" } ,
+        "country_id": { "type": "literal" , "value": "Q1204" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Tachira" } ,
+        "country_id": { "type": "literal" , "value": "Q1241" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "South Ausralia" } ,
+        "country_id": { "type": "literal" , "value": "Q1013" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Janub Sina'" } ,
+        "country_id": { "type": "literal" , "value": "Q1064" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sulawesi" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Queretaro" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sverdlovskaya oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Norrbotten" } ,
+        "country_id": { "type": "literal" , "value": "Q1213" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sughd" } ,
+        "country_id": { "type": "literal" , "value": "Q1217" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Cabinda" } ,
+        "country_id": { "type": "literal" , "value": "Q1006" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Cordoba" } ,
+        "country_id": { "type": "literal" , "value": "Q1010" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Moheshkhali Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1017" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Potosi" } ,
+        "country_id": { "type": "literal" , "value": "Q1025" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Qostanay" } ,
+        "country_id": { "type": "literal" , "value": "Q1112" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kola Peninsula" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Respublika Bashkortostan" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Balikesir" } ,
+        "country_id": { "type": "literal" , "value": "Q1227" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Zaire" } ,
+        "country_id": { "type": "literal" , "value": "Q1006" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Paraiba" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Dytiki Makedonia" } ,
+        "country_id": { "type": "literal" , "value": "Q1085" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "East Java" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Irian Jaya" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Zambezia" } ,
+        "country_id": { "type": "literal" , "value": "Q1148" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sagaing" } ,
+        "country_id": { "type": "literal" , "value": "Q1149" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Camerines Sur" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bolivar" } ,
+        "country_id": { "type": "literal" , "value": "Q1241" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northern Territory*" } ,
+        "country_id": { "type": "literal" , "value": "Q1013" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Parana" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sichuan [Szechwan]" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Havana" } ,
+        "country_id": { "type": "literal" , "value": "Q1054" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Thessalia" } ,
+        "country_id": { "type": "literal" , "value": "Q1085" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Karagandy" } ,
+        "country_id": { "type": "literal" , "value": "Q1112" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Qyzylorda" } ,
+        "country_id": { "type": "literal" , "value": "Q1112" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Michoacan" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Davao Oriental, Mindanao" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Negros Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Palawan Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Lubuskie" } ,
+        "country_id": { "type": "literal" , "value": "Q1175" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Buryatiya" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Magadan region" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Siberia?" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Florida; Georgia" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Falcon" } ,
+        "country_id": { "type": "literal" , "value": "Q1241" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Cheshire" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Thanintharyi" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Huambo" } ,
+        "country_id": { "type": "literal" , "value": "Q1006" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Goi�s" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Labrador" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Newfound-|land" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northwestern Ontario" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guangdong/Hainan Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Hebei (cont. Beijing)" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Cordoba" } ,
+        "country_id": { "type": "literal" , "value": "Q1047" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Holgu�n" } ,
+        "country_id": { "type": "literal" , "value": "Q1054" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Pinar del Rio" } ,
+        "country_id": { "type": "literal" , "value": "Q1054" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Nicosia" } ,
+        "country_id": { "type": "literal" , "value": "Q1056" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "North Kivu Province" } ,
+        "country_id": { "type": "literal" , "value": "Q1058" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "La Vega" } ,
+        "country_id": { "type": "literal" , "value": "Q1062" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northern Finland" } ,
+        "country_id": { "type": "literal" , "value": "Q1074" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ardennes or Meuse" } ,
+        "country_id": { "type": "literal" , "value": "Q1075" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bayern" } ,
+        "country_id": { "type": "literal" , "value": "Q1082" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ionian Islands" } ,
+        "country_id": { "type": "literal" , "value": "Q1085" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "North Maluku" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "West Java" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Khorasan-e Razavi" } ,
+        "country_id": { "type": "literal" , "value": "Q1103" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "OA" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "San Luis Potosi" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Veracruz-Llave" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Damaraland" } ,
+        "country_id": { "type": "literal" , "value": "Q1150" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Wielkopolskie" } ,
+        "country_id": { "type": "literal" , "value": "Q1175" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Chelyabinsk" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Chita, Eastern Transbaikalia" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Irkutskaya oblast" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kareliya" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Khabarovskiy Kray" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Murmanskaya Oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Siberia" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "South Urals" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Urals" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Thies?" } ,
+        "country_id": { "type": "literal" , "value": "Q1194" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guadalcanal Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1202" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Khatlon" } ,
+        "country_id": { "type": "literal" , "value": "Q1217" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Diyarbakir" } ,
+        "country_id": { "type": "literal" , "value": "Q1227" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Balkan" } ,
+        "country_id": { "type": "literal" , "value": "Q1228" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Lebap" } ,
+        "country_id": { "type": "literal" , "value": "Q1228" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Idaho/Valley County" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ha Tinh" } ,
+        "country_id": { "type": "literal" , "value": "Q1242" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kivu" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "North Sea" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kukes" } ,
+        "country_id": { "type": "literal" , "value": "Q1002" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Pogradec" } ,
+        "country_id": { "type": "literal" , "value": "Q1002" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Cochabamba" } ,
+        "country_id": { "type": "literal" , "value": "Q1025" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Piaui" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Aysen" } ,
+        "country_id": { "type": "literal" , "value": "Q1043" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Epirus" } ,
+        "country_id": { "type": "literal" , "value": "Q1085" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Evvoia" } ,
+        "country_id": { "type": "literal" , "value": "Q1085" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Qeqqata Kommunia" } ,
+        "country_id": { "type": "literal" , "value": "Q1086" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Izabal" } ,
+        "country_id": { "type": "literal" , "value": "Q1090" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Andaman Islands" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kashmir" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Khorasan-e Shemali" } ,
+        "country_id": { "type": "literal" , "value": "Q1103" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Hadarom" } ,
+        "country_id": { "type": "literal" , "value": "Q1106" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "South Kazakhstan" } ,
+        "country_id": { "type": "literal" , "value": "Q1112" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "LUANG PRABANG" } ,
+        "country_id": { "type": "literal" , "value": "Q1118" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Pulau Pinang" } ,
+        "country_id": { "type": "literal" , "value": "Q1130" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Nampula" } ,
+        "country_id": { "type": "literal" , "value": "Q1148" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ayeyarwady" } ,
+        "country_id": { "type": "literal" , "value": "Q1149" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Chin" } ,
+        "country_id": { "type": "literal" , "value": "Q1149" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Maggwe" } ,
+        "country_id": { "type": "literal" , "value": "Q1149" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Tanintharyi" } ,
+        "country_id": { "type": "literal" , "value": "Q1149" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Namibian continental shelf" } ,
+        "country_id": { "type": "literal" , "value": "Q1150" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "New Britain" } ,
+        "country_id": { "type": "literal" , "value": "Q1170" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Offshore" } ,
+        "country_id": { "type": "literal" , "value": "Q1172" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bukidnon, Mindanao" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Dinagat Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Dinagat Island, Surigao del Norte" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Samar" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Alentejo" } ,
+        "country_id": { "type": "literal" , "value": "Q1176" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Metaliferi Mountains" } ,
+        "country_id": { "type": "literal" , "value": "Q1180" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Altayskiy kray" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Moskovskaya Oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Tuva" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Cordoba" } ,
+        "country_id": { "type": "literal" , "value": "Q1208" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Gränna" } ,
+        "country_id": { "type": "literal" , "value": "Q1213" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Phang-nga" } ,
+        "country_id": { "type": "literal" , "value": "Q1219" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "El Kef" } ,
+        "country_id": { "type": "literal" , "value": "Q1226" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northern Thrace, Demirkoy area" } ,
+        "country_id": { "type": "literal" , "value": "Q1227" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Santa Cruz County" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Wyoming/Albany County" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Wyoming/Carbon County" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Lai Chau" } ,
+        "country_id": { "type": "literal" , "value": "Q1242" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Thua Thien-Hu" } ,
+        "country_id": { "type": "literal" , "value": "Q1242" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mariana Islands" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Parvan" } ,
+        "country_id": { "type": "literal" , "value": "Q1000" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mat" } ,
+        "country_id": { "type": "literal" , "value": "Q1002" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bedjaia Setif" } ,
+        "country_id": { "type": "literal" , "value": "Q1003" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bone" } ,
+        "country_id": { "type": "literal" , "value": "Q1003" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bengo" } ,
+        "country_id": { "type": "literal" , "value": "Q1006" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bié" } ,
+        "country_id": { "type": "literal" , "value": "Q1006" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Namibe" } ,
+        "country_id": { "type": "literal" , "value": "Q1006" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "West Australia" } ,
+        "country_id": { "type": "literal" , "value": "Q1013" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ceara" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sao Paolo" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "British Columbia, Vancouver Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Newfound|land" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Atacama or Antofagasto" } ,
+        "country_id": { "type": "literal" , "value": "Q1043" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Jiangxi [Kiangsi]" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Matanzas" } ,
+        "country_id": { "type": "literal" , "value": "Q1054" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Pinar Del Rio" } ,
+        "country_id": { "type": "literal" , "value": "Q1054" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "North Kivu" } ,
+        "country_id": { "type": "literal" , "value": "Q1058" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Santiago" } ,
+        "country_id": { "type": "literal" , "value": "Q1062" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kuopio" } ,
+        "country_id": { "type": "literal" , "value": "Q1074" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Lappi" } ,
+        "country_id": { "type": "literal" , "value": "Q1074" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Oulu Laani" } ,
+        "country_id": { "type": "literal" , "value": "Q1074" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Cote D'Or" } ,
+        "country_id": { "type": "literal" , "value": "Q1075" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Thessaloniki" } ,
+        "country_id": { "type": "literal" , "value": "Q1085" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Alta Verapaz" } ,
+        "country_id": { "type": "literal" , "value": "Q1090" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Chiquimula" } ,
+        "country_id": { "type": "literal" , "value": "Q1090" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Central Java" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kalimantan" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sumatera" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sumatra" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Khorasan" } ,
+        "country_id": { "type": "literal" , "value": "Q1103" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "At Tafilah" } ,
+        "country_id": { "type": "literal" , "value": "Q1111" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Southern Kenya" } ,
+        "country_id": { "type": "literal" , "value": "Q1113" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "ATTAPEU" } ,
+        "country_id": { "type": "literal" , "value": "Q1118" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "HOUAPHAN" } ,
+        "country_id": { "type": "literal" , "value": "Q1118" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "OUDOMXAI" } ,
+        "country_id": { "type": "literal" , "value": "Q1118" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "SAYABOURY" } ,
+        "country_id": { "type": "literal" , "value": "Q1118" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Toamasina" } ,
+        "country_id": { "type": "literal" , "value": "Q1128" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Baja California Norte" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Hildalgo" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Uvs" } ,
+        "country_id": { "type": "literal" , "value": "Q1144" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Vestfold" } ,
+        "country_id": { "type": "literal" , "value": "Q1164" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Darien" } ,
+        "country_id": { "type": "literal" , "value": "Q1169" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Manus Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1170" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Junin" } ,
+        "country_id": { "type": "literal" , "value": "Q1172" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Marinduque Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mindoro" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Surigao del Norte, NE Mindanao Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Surigao*" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northern Portugal" } ,
+        "country_id": { "type": "literal" , "value": "Q1176" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Baikal" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bryanskaya Oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ekaterinburg" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Irkutsk Region" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kamchatka" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Krasnoyarskiy kray" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Murmansk, Kola peninsula" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Orenburg" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Tul'skaya Oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Volgogradskaya Oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kosovo" } ,
+        "country_id": { "type": "literal" , "value": "Q1195" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northern Transvaal" } ,
+        "country_id": { "type": "literal" , "value": "Q1204" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bongwha" } ,
+        "country_id": { "type": "literal" , "value": "Q1206" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Galicia" } ,
+        "country_id": { "type": "literal" , "value": "Q1208" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mersin (Içel)" } ,
+        "country_id": { "type": "literal" , "value": "Q1227" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bukedi" } ,
+        "country_id": { "type": "literal" , "value": "Q1231" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kharkov" } ,
+        "country_id": { "type": "literal" , "value": "Q1232" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Coos Bay, Oregon" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Buxoro" } ,
+        "country_id": { "type": "literal" , "value": "Q1238" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Merida" } ,
+        "country_id": { "type": "literal" , "value": "Q1241" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Binh Thuan" } ,
+        "country_id": { "type": "literal" , "value": "Q1242" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Lusaka" } ,
+        "country_id": { "type": "literal" , "value": "Q1248" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "North West Province" } ,
+        "country_id": { "type": "literal" , "value": "Q1248" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Caroline Islands" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Chin" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Dagana" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Loghar" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mergui district" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Niamey" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northern Shan" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Obaye" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sagaing" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Serbia" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Shaba" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Shan" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Shan/Sagaing" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Viti Levu" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Korce" } ,
+        "country_id": { "type": "literal" , "value": "Q1002" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Librazhd" } ,
+        "country_id": { "type": "literal" , "value": "Q1002" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Tropoje" } ,
+        "country_id": { "type": "literal" , "value": "Q1002" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Alger" } ,
+        "country_id": { "type": "literal" , "value": "Q1003" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Midiya Sour El Ghozl" } ,
+        "country_id": { "type": "literal" , "value": "Q1003" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Tebessa" } ,
+        "country_id": { "type": "literal" , "value": "Q1003" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Cuanza Norte" } ,
+        "country_id": { "type": "literal" , "value": "Q1006" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Huila?" } ,
+        "country_id": { "type": "literal" , "value": "Q1006" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Uige" } ,
+        "country_id": { "type": "literal" , "value": "Q1006" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Jujuy/Salta" } ,
+        "country_id": { "type": "literal" , "value": "Q1010" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Rio Negro" } ,
+        "country_id": { "type": "literal" , "value": "Q1010" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Rioja" } ,
+        "country_id": { "type": "literal" , "value": "Q1010" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Lorri" } ,
+        "country_id": { "type": "literal" , "value": "Q1011" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Pambak ore district" } ,
+        "country_id": { "type": "literal" , "value": "Q1011" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northern Territory/Queensland" } ,
+        "country_id": { "type": "literal" , "value": "Q1013" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Territory of Christmas Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1013" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kutubdai Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1017" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Matarbari Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1017" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mogilev Oblast" } ,
+        "country_id": { "type": "literal" , "value": "Q1019" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Brabant" } ,
+        "country_id": { "type": "literal" , "value": "Q1020" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Hesbaye" } ,
+        "country_id": { "type": "literal" , "value": "Q1020" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Liége" } ,
+        "country_id": { "type": "literal" , "value": "Q1020" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Borgou" } ,
+        "country_id": { "type": "literal" , "value": "Q1022" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mono" } ,
+        "country_id": { "type": "literal" , "value": "Q1022" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "El Beni" } ,
+        "country_id": { "type": "literal" , "value": "Q1025" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Oruro" } ,
+        "country_id": { "type": "literal" , "value": "Q1025" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "NE Botswana" } ,
+        "country_id": { "type": "literal" , "value": "Q1028" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Amapa*" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bahia, Espirito Santo" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Carajás" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Minas Gerais, Sao Paolo" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Paraiba or Pernambuco" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Rondonia" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "S�o Paulo" } ,
+        "country_id": { "type": "literal" , "value": "Q1030" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Borovitsa volcanic area" } ,
+        "country_id": { "type": "literal" , "value": "Q1033" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Jambol district" } ,
+        "country_id": { "type": "literal" , "value": "Q1033" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Malko Turnovo district" } ,
+        "country_id": { "type": "literal" , "value": "Q1033" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Panagyurishte district" } ,
+        "country_id": { "type": "literal" , "value": "Q1033" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Rhodope district" } ,
+        "country_id": { "type": "literal" , "value": "Q1033" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sofia district" } ,
+        "country_id": { "type": "literal" , "value": "Q1033" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Srednegorie" } ,
+        "country_id": { "type": "literal" , "value": "Q1033" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Srednegorie zone, Panagyurishte district" } ,
+        "country_id": { "type": "literal" , "value": "Q1033" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Newfound land" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northern Ontario" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northern Quebec" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northwest Québec" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northwestern British Columbia" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Nova Scotia, Cape Breton Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Nunavut, Baffin island" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "P.Q." } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Quebec, Labrador" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Saskatche- wan" } ,
+        "country_id": { "type": "literal" , "value": "Q1038" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Gansu [Kansu]" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guandong" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guangdong/Dianbai" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guangdong/Puning" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guangdong/Xinfeng" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guangdong/Yangxi" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guangond/Hainan Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guangxi/Hexian" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guangxi/Luchuan" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guangxi/Shanglin" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guizhou/Zhijin" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Hainan/Lingshui" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Heilongiang" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Henan [Honan]" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Hubei/ Tongcheng" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Hunan/Huarong" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Hunan/Yueyang" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Inner Mongolia/Jarud Qi" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Jiangxi/Longnan" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Jiangxi/Xunwu" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Jilin (Inner Mongolia)" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Jilin [Kirin]" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Jilin/Antu" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Jinping County" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kweichow" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Nei Monggol" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Nei Mongol* (Inner Mongolia)" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ningxia" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Quinghai" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Shandong/Lingyi" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sichuan/Miyi" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sinkiang" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Xizang* (Tibet)" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Xizhang" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Yunan/Menghai" } ,
+        "country_id": { "type": "literal" , "value": "Q1044" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "C�rdoba" } ,
+        "country_id": { "type": "literal" , "value": "Q1047" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guajira" } ,
+        "country_id": { "type": "literal" , "value": "Q1047" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Narino" } ,
+        "country_id": { "type": "literal" , "value": "Q1047" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Valle" } ,
+        "country_id": { "type": "literal" , "value": "Q1047" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kivu" } ,
+        "country_id": { "type": "literal" , "value": "Q1049" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Camag�ey" } ,
+        "country_id": { "type": "literal" , "value": "Q1054" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mayabeque" } ,
+        "country_id": { "type": "literal" , "value": "Q1054" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Oreinte" } ,
+        "country_id": { "type": "literal" , "value": "Q1054" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Oriente" } ,
+        "country_id": { "type": "literal" , "value": "Q1054" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Oriente (Holgu�n)" } ,
+        "country_id": { "type": "literal" , "value": "Q1054" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Pinar del R�o" } ,
+        "country_id": { "type": "literal" , "value": "Q1054" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Santa Clara" } ,
+        "country_id": { "type": "literal" , "value": "Q1054" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Limassol" } ,
+        "country_id": { "type": "literal" , "value": "Q1056" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bohemia" } ,
+        "country_id": { "type": "literal" , "value": "Q1057" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kipoi" } ,
+        "country_id": { "type": "literal" , "value": "Q1058" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bornhom" } ,
+        "country_id": { "type": "literal" , "value": "Q1059" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "N. Jutland" } ,
+        "country_id": { "type": "literal" , "value": "Q1059" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "South Greenland" } ,
+        "country_id": { "type": "literal" , "value": "Q1059" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sanchez Ramirez" } ,
+        "country_id": { "type": "literal" , "value": "Q1062" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Canar" } ,
+        "country_id": { "type": "literal" , "value": "Q1063" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Manabi" } ,
+        "country_id": { "type": "literal" , "value": "Q1063" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "As Suways" } ,
+        "country_id": { "type": "literal" , "value": "Q1064" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Western Desert" } ,
+        "country_id": { "type": "literal" , "value": "Q1064" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Welega [Walaga]" } ,
+        "country_id": { "type": "literal" , "value": "Q1070" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Wellega" } ,
+        "country_id": { "type": "literal" , "value": "Q1070" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Central Lapland" } ,
+        "country_id": { "type": "literal" , "value": "Q1074" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Outokumpu" } ,
+        "country_id": { "type": "literal" , "value": "Q1074" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Taivalkoski" } ,
+        "country_id": { "type": "literal" , "value": "Q1074" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ariege" } ,
+        "country_id": { "type": "literal" , "value": "Q1075" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Drome" } ,
+        "country_id": { "type": "literal" , "value": "Q1075" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Haut Pyrenees" } ,
+        "country_id": { "type": "literal" , "value": "Q1075" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Haut Pyrenees?" } ,
+        "country_id": { "type": "literal" , "value": "Q1075" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Haut-Garonne" } ,
+        "country_id": { "type": "literal" , "value": "Q1075" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Meurth-et-Moselle" } ,
+        "country_id": { "type": "literal" , "value": "Q1075" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Pyrenees Atlantiques" } ,
+        "country_id": { "type": "literal" , "value": "Q1075" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Clipperton Islands" } ,
+        "country_id": { "type": "literal" , "value": "Q1077" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Haut-Ogooue" } ,
+        "country_id": { "type": "literal" , "value": "Q1079" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Moyen-Ogooue" } ,
+        "country_id": { "type": "literal" , "value": "Q1079" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Moyen-Ogoou�" } ,
+        "country_id": { "type": "literal" , "value": "Q1079" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ogooue-Ivindo" } ,
+        "country_id": { "type": "literal" , "value": "Q1079" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Nordrhein-Westfalen" } ,
+        "country_id": { "type": "literal" , "value": "Q1082" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sachsen" } ,
+        "country_id": { "type": "literal" , "value": "Q1082" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Thuringen" } ,
+        "country_id": { "type": "literal" , "value": "Q1082" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Attica" } ,
+        "country_id": { "type": "literal" , "value": "Q1085" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Boeotia" } ,
+        "country_id": { "type": "literal" , "value": "Q1085" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Chalkidiki" } ,
+        "country_id": { "type": "literal" , "value": "Q1085" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Epirus (Epiros, Ipiros)" } ,
+        "country_id": { "type": "literal" , "value": "Q1085" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kozani" } ,
+        "country_id": { "type": "literal" , "value": "Q1085" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Limnos island" } ,
+        "country_id": { "type": "literal" , "value": "Q1085" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Peloponnese" } ,
+        "country_id": { "type": "literal" , "value": "Q1085" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sterea Ellada" } ,
+        "country_id": { "type": "literal" , "value": "Q1085" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Gardar" } ,
+        "country_id": { "type": "literal" , "value": "Q1086" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "El Progreso" } ,
+        "country_id": { "type": "literal" , "value": "Q1090" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Tamra, Roume, & Kassa islands" } ,
+        "country_id": { "type": "literal" , "value": "Q1092" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Pest" } ,
+        "country_id": { "type": "literal" , "value": "Q1099" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Andra Pradesh" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bihar/ Gaya" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bihar/ Hazaribagh" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Chattisgarh" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Gujarat/ Sabarkantha" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kerala/ Kollam" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kerala/ Palghat" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Madya Pradesh" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mysore" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mysore/ Bangalore" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Orissa/ Koraput" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Orissa/ Puri" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Rajastyhan" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Tamilnadu/ Kanyakumari" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Tamilnadu/ Thanjavur" } ,
+        "country_id": { "type": "literal" , "value": "Q1101" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ambon Island, Moluccas" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bacan Island, Moluccas" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banka-Belitung Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Beleitung Island (Billiton tin Island)" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Central  Sulawesi" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Central Kalimantan" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "East Timor" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Halmahera" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Java" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kalimantan (West)" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "North Maluku, Halmahera" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "North Sulawesi" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northwest Kalimantan" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Pulau Banka (Banka Island)" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "South Kalimantan" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Southeast Sulawesi" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sumatra (East)" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sumatra- Singkep Island (Pulau Singkep)" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sumbawa Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1102" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Azarbaijan" } ,
+        "country_id": { "type": "literal" , "value": "Q1103" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Azarbayjan" } ,
+        "country_id": { "type": "literal" , "value": "Q1103" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Khorasan-e Janubi" } ,
+        "country_id": { "type": "literal" , "value": "Q1103" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "County Clare" } ,
+        "country_id": { "type": "literal" , "value": "Q1105" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Lecce Province" } ,
+        "country_id": { "type": "literal" , "value": "Q1107" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Oita" } ,
+        "country_id": { "type": "literal" , "value": "Q1109" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Oita Prefecture" } ,
+        "country_id": { "type": "literal" , "value": "Q1109" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Tottori" } ,
+        "country_id": { "type": "literal" , "value": "Q1109" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Aqtobe" } ,
+        "country_id": { "type": "literal" , "value": "Q1112" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Aqtobe, Urals" } ,
+        "country_id": { "type": "literal" , "value": "Q1112" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kostanai, Urals" } ,
+        "country_id": { "type": "literal" , "value": "Q1112" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northern Kazakhstan" } ,
+        "country_id": { "type": "literal" , "value": "Q1112" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Semey" } ,
+        "country_id": { "type": "literal" , "value": "Q1112" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Coast" } ,
+        "country_id": { "type": "literal" , "value": "Q1113" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Baikal" } ,
+        "country_id": { "type": "literal" , "value": "Q1117" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Jalal-Abad" } ,
+        "country_id": { "type": "literal" , "value": "Q1117" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Vientiane" } ,
+        "country_id": { "type": "literal" , "value": "Q1118" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Antananarivo" } ,
+        "country_id": { "type": "literal" , "value": "Q1128" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Fianarantsoa" } ,
+        "country_id": { "type": "literal" , "value": "Q1128" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ivory" } ,
+        "country_id": { "type": "literal" , "value": "Q1128" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "central Madagascar" } ,
+        "country_id": { "type": "literal" , "value": "Q1128" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "East Malaysia" } ,
+        "country_id": { "type": "literal" , "value": "Q1130" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Baja Norte" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bajo de California" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Estado de Mexico" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guanajuata" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mexico" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Michoacan De Ocampo" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Michoacán" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Queretaro De Arteaga" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Quintana Roo?" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Veracruz" } ,
+        "country_id": { "type": "literal" , "value": "Q1140" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Dornod" } ,
+        "country_id": { "type": "literal" , "value": "Q1144" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Dundgovi" } ,
+        "country_id": { "type": "literal" , "value": "Q1144" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "East Govi" } ,
+        "country_id": { "type": "literal" , "value": "Q1144" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Hovd" } ,
+        "country_id": { "type": "literal" , "value": "Q1144" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "South Govi" } ,
+        "country_id": { "type": "literal" , "value": "Q1144" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Suhbaatar" } ,
+        "country_id": { "type": "literal" , "value": "Q1144" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Umnugovi" } ,
+        "country_id": { "type": "literal" , "value": "Q1144" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Marrakech?" } ,
+        "country_id": { "type": "literal" , "value": "Q1147" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Western Sahara" } ,
+        "country_id": { "type": "literal" , "value": "Q1147" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Tete" } ,
+        "country_id": { "type": "literal" , "value": "Q1148" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mandalay" } ,
+        "country_id": { "type": "literal" , "value": "Q1149" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Shan" } ,
+        "country_id": { "type": "literal" , "value": "Q1149" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Namibia" } ,
+        "country_id": { "type": "literal" , "value": "Q1150" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Chatham Rise" } ,
+        "country_id": { "type": "literal" , "value": "Q1155" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "North Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1155" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northern Island, Piercy Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1155" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "South Island/Westland" } ,
+        "country_id": { "type": "literal" , "value": "Q1155" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Westland" } ,
+        "country_id": { "type": "literal" , "value": "Q1155" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Benue Plateau" } ,
+        "country_id": { "type": "literal" , "value": "Q1158" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Hamgyong" } ,
+        "country_id": { "type": "literal" , "value": "Q1161" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Oslo area" } ,
+        "country_id": { "type": "literal" , "value": "Q1164" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Southern Norway" } ,
+        "country_id": { "type": "literal" , "value": "Q1164" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Telemark" } ,
+        "country_id": { "type": "literal" , "value": "Q1164" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Buluchistan, Chagai district" } ,
+        "country_id": { "type": "literal" , "value": "Q1166" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sind" } ,
+        "country_id": { "type": "literal" , "value": "Q1166" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "1970" } ,
+        "country_id": { "type": "literal" , "value": "Q1169" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Veraguas" } ,
+        "country_id": { "type": "literal" , "value": "Q1169" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bougainville Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1170" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Magdang" } ,
+        "country_id": { "type": "literal" , "value": "Q1170" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "New Britain Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1170" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "New Ireland Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1170" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "West Sepic" } ,
+        "country_id": { "type": "literal" , "value": "Q1170" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Antique, Panay" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bohol Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Cebu Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Dinagat Island, Surigao Del Norte" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Dinagat Island, Surigao del Norte)" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Eastern Samar Province" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guiuan, Manicani  Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Homonhon Island, Eastern Samar" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Isabela, Luzon Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Isabella" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Leyete" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mindanao Island, Zamboanga Peninsula" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mindoro Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Nebros Occidental" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Negros Ocidental" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "SE Mindanao" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Samar I." } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Samar Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Zamboaga del Norte" } ,
+        "country_id": { "type": "literal" , "value": "Q1173" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "North Central Portugal" } ,
+        "country_id": { "type": "literal" , "value": "Q1176" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sagres?" } ,
+        "country_id": { "type": "literal" , "value": "Q1176" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Banat Mountains" } ,
+        "country_id": { "type": "literal" , "value": "Q1180" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Zarand Mountains" } ,
+        "country_id": { "type": "literal" , "value": "Q1180" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Amur region" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Amurskaya Oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Arkhangel'sk Oblast (Region)" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Chitinskaya Oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Chuvashiya" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Enisei" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kaluzhskaya Oblast" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kamchatskaya oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Karelia" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kemerovskaya Oblast" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kemerovskaya oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Khakass" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Khrebet" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kirovskaya Oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kola/Karelia" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kransnodarskiy Kray" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Krasnoyarsk" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Leningradskaya Oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Novaya Zemlya archipelago" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Orlovskaya Oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Polar Urals" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Primorskiy Kray" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Respublika Buryatiya" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Respublika Tyva" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sakha (Yakutia)" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Sakha (Yakutiya)" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Saratovskaya Oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Tambovskaya Oblast" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Voronezhskaya Oblast'" } ,
+        "country_id": { "type": "literal" , "value": "Q1181" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Gakenke" } ,
+        "country_id": { "type": "literal" , "value": "Q1182" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kamonyi" } ,
+        "country_id": { "type": "literal" , "value": "Q1182" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ngororero" } ,
+        "country_id": { "type": "literal" , "value": "Q1182" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Nyabihu" } ,
+        "country_id": { "type": "literal" , "value": "Q1182" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Thies" } ,
+        "country_id": { "type": "literal" , "value": "Q1194" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "West Carpathians" } ,
+        "country_id": { "type": "literal" , "value": "Q1200" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "New Georgia" } ,
+        "country_id": { "type": "literal" , "value": "Q1202" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bophuthatswana" } ,
+        "country_id": { "type": "literal" , "value": "Q1204" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Cape" } ,
+        "country_id": { "type": "literal" , "value": "Q1204" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Eastern Transvaal" } ,
+        "country_id": { "type": "literal" , "value": "Q1204" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Natal" } ,
+        "country_id": { "type": "literal" , "value": "Q1204" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "South African continental shelf" } ,
+        "country_id": { "type": "literal" , "value": "Q1204" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Jeongseon" } ,
+        "country_id": { "type": "literal" , "value": "Q1206" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kyongsang-Bukto" } ,
+        "country_id": { "type": "literal" , "value": "Q1206" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Samcheok" } ,
+        "country_id": { "type": "literal" , "value": "Q1206" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Uljin" } ,
+        "country_id": { "type": "literal" , "value": "Q1206" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Yeongwol" } ,
+        "country_id": { "type": "literal" , "value": "Q1206" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Basque" } ,
+        "country_id": { "type": "literal" , "value": "Q1208" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Cuidad Real" } ,
+        "country_id": { "type": "literal" , "value": "Q1208" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Guipuzcoa" } ,
+        "country_id": { "type": "literal" , "value": "Q1208" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Leon" } ,
+        "country_id": { "type": "literal" , "value": "Q1208" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Anuradhapura" } ,
+        "country_id": { "type": "literal" , "value": "Q1209" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Balangoda" } ,
+        "country_id": { "type": "literal" , "value": "Q1209" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Nugatenne" } ,
+        "country_id": { "type": "literal" , "value": "Q1209" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "An Nil Al Azra" } ,
+        "country_id": { "type": "literal" , "value": "Q1210" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Central Sweden" } ,
+        "country_id": { "type": "literal" , "value": "Q1213" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Jönköpings Län" } ,
+        "country_id": { "type": "literal" , "value": "Q1213" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kopparberg" } ,
+        "country_id": { "type": "literal" , "value": "Q1213" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Resaro Island" } ,
+        "country_id": { "type": "literal" , "value": "Q1213" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Väsernorrland" } ,
+        "country_id": { "type": "literal" , "value": "Q1213" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Västerbotten" } ,
+        "country_id": { "type": "literal" , "value": "Q1213" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Khodzhent" } ,
+        "country_id": { "type": "literal" , "value": "Q1217" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kagera Region" } ,
+        "country_id": { "type": "literal" , "value": "Q1218" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Phattalung" } ,
+        "country_id": { "type": "literal" , "value": "Q1219" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Region Maritime" } ,
+        "country_id": { "type": "literal" , "value": "Q1222" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Nefza district" } ,
+        "country_id": { "type": "literal" , "value": "Q1226" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Anatolia?" } ,
+        "country_id": { "type": "literal" , "value": "Q1227" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Aydin" } ,
+        "country_id": { "type": "literal" , "value": "Q1227" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Erserum" } ,
+        "country_id": { "type": "literal" , "value": "Q1227" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Gaziantep?" } ,
+        "country_id": { "type": "literal" , "value": "Q1227" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kutahya" } ,
+        "country_id": { "type": "literal" , "value": "Q1227" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kutahya or Bursa?" } ,
+        "country_id": { "type": "literal" , "value": "Q1227" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Çankiri" } ,
+        "country_id": { "type": "literal" , "value": "Q1227" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Chernigov" } ,
+        "country_id": { "type": "literal" , "value": "Q1232" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Dnepropetrovsk Oblast" } ,
+        "country_id": { "type": "literal" , "value": "Q1232" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ivano-Frankov" } ,
+        "country_id": { "type": "literal" , "value": "Q1232" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Vinnitsa" } ,
+        "country_id": { "type": "literal" , "value": "Q1232" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Alaska?" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "At Big Lead Mine, Idaho" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "At Burlington Mine, Colorado" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "At Cougar Spar Mine" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "At Pender Mine, Colorado" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Califonia" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Fl or GA" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Ga or Fl" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Georgia, Florida" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "ID; MT" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Idaho/Caribou" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Illinois, Kentucky" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Kansas, Missouri, Oklahoma" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Louisiana, Texas" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Michigan, Indiana" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Minnessota" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Missouri, Kansas, Oklahoma" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Montana, North Dakota" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "NC; SC" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "NC; VA" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "NV; OR" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "New Mexico, Texas" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "New York, Pennsylvania, Ohio, West Virginia" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Pennsylvnia" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "SD; WY" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Stony Creek, Virginia" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Utah, Colorado, Arizona" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Wisconsin, Illinois, Iowa" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Wyoming, South Dakota" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Wyoming/Fremont County" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Wyoming/Hot Springs County" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Wyoming/Sublette County" } ,
+        "country_id": { "type": "literal" , "value": "Q1235" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Andijon" } ,
+        "country_id": { "type": "literal" , "value": "Q1238" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Farg'ona" } ,
+        "country_id": { "type": "literal" , "value": "Q1238" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Jizzax" } ,
+        "country_id": { "type": "literal" , "value": "Q1238" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Samarqand" } ,
+        "country_id": { "type": "literal" , "value": "Q1238" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Binh Dinh" } ,
+        "country_id": { "type": "literal" , "value": "Q1242" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Binh Dinh or Nghia Binh?" } ,
+        "country_id": { "type": "literal" , "value": "Q1242" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Northern Provinces" } ,
+        "country_id": { "type": "literal" , "value": "Q1242" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Son La" } ,
+        "country_id": { "type": "literal" , "value": "Q1242" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Thahn Hoa" } ,
+        "country_id": { "type": "literal" , "value": "Q1242" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "North Western" } ,
+        "country_id": { "type": "literal" , "value": "Q1248" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Bubi" } ,
+        "country_id": { "type": "literal" , "value": "Q1249" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Makonde" } ,
+        "country_id": { "type": "literal" , "value": "Q1249" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Mashonaland East" } ,
+        "country_id": { "type": "literal" , "value": "Q1249" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "state_obs": { "type": "literal" , "value": "Shamva" } ,
+        "country_id": { "type": "literal" , "value": "Q1249" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?matcher ?has_uri (COUNT(*) AS ?nodes) (MIN(?conf) AS ?min_conf) (MAX(?conf) AS ?max_conf)
+WHERE {
+  ?site a :MineralSite ; :mineral_inventory ?mi .
+  ?mi :commodity ?cm .
+  ?cm :confidence ?conf ; :source ?matcher .
+  OPTIONAL { ?cm :normalized_uri ?ent }
+  BIND(IF(BOUND(?ent), "matched", "NO normalized_uri") AS ?has_uri)
+}
+GROUP BY ?matcher ?has_uri ORDER BY DESC(?nodes)

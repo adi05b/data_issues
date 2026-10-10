@@ -1,0 +1,11 @@
+{
+  "id": "3d-alt-precision-variants",
+  "sent_at": "2026-09-02T22:00:21.391726+00:00",
+  "http_status": 200,
+  "elapsed_ms": 34875,
+  "bytes": 1515,
+  "curl_exit": 0,
+  "row_count": 7,
+  "truncated_by_limit": false,
+  "error": null
+}

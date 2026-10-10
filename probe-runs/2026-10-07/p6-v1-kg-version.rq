@@ -1,0 +1,3 @@
+# Build stamp written by statickg VersionService at ETL time -> date of the last full rebuild
+PREFIX dcterms: <http://purl.org/dc/terms/>
+SELECT ?s ?p ?o WHERE { ?s dcterms:hasVersion ?v . ?s ?p ?o } LIMIT 20

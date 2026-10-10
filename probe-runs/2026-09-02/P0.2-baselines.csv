@@ -1,0 +1,6 @@
+_site,metric,metric_bound,n,n_bound
+,a_total_sites,1,679781,1
+,b_with_location_info,1,451527,1
+,c_with_location_wkt,1,446426,1
+,d_no_location_info,1,228254,1
+,e_li_without_wkt,1,5101,1

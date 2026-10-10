@@ -1,0 +1,4 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?ds ?uri ?score ?label
+WHERE { ?ds a :DataSource . OPTIONAL { ?ds :uri ?uri } OPTIONAL { ?ds :score ?score } OPTIONAL { ?ds rdfs:label ?label } }

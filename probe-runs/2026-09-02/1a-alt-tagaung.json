@@ -1,0 +1,68 @@
+{ "head": {
+    "vars": [ "site" , "name" , "source" , "wkt" , "crs_obs" , "crs_label" , "country_obs" , "country_ent" , "state_obs" , "state_ent" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5382-econgeo-4950__tagaung-taung__usc" } ,
+        "name": { "type": "literal" , "value": "Tagaung Taung" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "wkt": { "type": "literal" , "value": "POINT(23.63453 96.16317)" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "country_obs": { "type": "literal" , "value": "Myanmar" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1149" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-laterite__74__umn" } ,
+        "name": { "type": "literal" , "value": "Tagaung Taung" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "wkt": { "type": "literal" , "value": "POINT (96.1588888888889 23.5611111111111)" } ,
+        "crs_obs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "country_obs": { "type": "literal" , "value": "Myanmar (Burma)" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10003940__umn" } ,
+        "name": { "type": "literal" , "value": "Tagaung Taung" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "wkt": { "type": "literal" , "value": "POINT (96.1821300000000008 23.5729199999999999)" } ,
+        "crs_obs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "country_obs": { "type": "literal" , "value": "Burma" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1149" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-nicrpge__207006__umn" } ,
+        "name": { "type": "literal" , "value": "Tagaung Taung" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "wkt": { "type": "literal" , "value": "POINT (96.15 23.48)" } ,
+        "crs_obs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "country_obs": { "type": "literal" , "value": "Myanmar" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1149" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-nicrpge__58343__umn" } ,
+        "name": { "type": "literal" , "value": "TAGAUNG TAUNG (CU)" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "wkt": { "type": "literal" , "value": "POINT (96.15 23.39)" } ,
+        "crs_obs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "country_obs": { "type": "literal" , "value": "Myanmar" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1149" } ,
+        "state_obs": { "type": "literal" , "value": "Sagaing" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-nicrpge__58539__umn" } ,
+        "name": { "type": "literal" , "value": "TAGAUNG (INNET TAUNG)" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "wkt": { "type": "literal" , "value": "POINT (96.18 23.57)" } ,
+        "crs_obs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "country_obs": { "type": "literal" , "value": "Myanmar" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1149" } ,
+        "state_obs": { "type": "literal" , "value": "Sagaing" }
+      }
+    ]
+  }
+}

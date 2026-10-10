@@ -1,0 +1,6 @@
+_site,metric,metric_bound,n,n_bound
+,a_sameAs_triples,1,260698,1
+,b_distinct_subjects,1,198132,1
+,c_distinct_objects,1,260698,1
+,d_objects_that_are_MineralSite,1,260697,1
+,e_sites_as_object_only,1,260696,1

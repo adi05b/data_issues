@@ -1,0 +1,11 @@
+{
+  "id": "p5-s2b-zero-conf",
+  "sent_at": "2026-09-22T03:16:35.031321+00:00",
+  "http_status": 200,
+  "elapsed_ms": 11435,
+  "bytes": 912,
+  "curl_exit": 0,
+  "row_count": 2,
+  "truncated_by_limit": false,
+  "error": null
+}

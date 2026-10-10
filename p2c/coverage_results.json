@@ -1,0 +1,219 @@
+{
+ "dropped_338": {
+  "by_outcome": {
+   "no usable point": 28,
+   "fillable": 191,
+   "point outside the recorded country": 96,
+   "point in a shape with no MinMod match": 7,
+   "point in an ambiguous shape": 16
+  },
+  "by_reason": {
+   "Greenland": {
+    "point outside the recorded country": 2,
+    "no usable point": 2
+   },
+   "Katanga": {
+    "point outside the recorded country": 4,
+    "fillable": 98,
+    "no usable point": 9
+   },
+   "Option A": {
+    "point outside the recorded country": 69,
+    "fillable": 2,
+    "point in a shape with no MinMod match": 1
+   },
+   "abolished unit": {
+    "fillable": 27,
+    "point outside the recorded country": 3,
+    "point in a shape with no MinMod match": 2,
+    "no usable point": 1
+   },
+   "city": {
+    "no usable point": 2,
+    "fillable": 5
+   },
+   "county": {
+    "no usable point": 4,
+    "fillable": 17,
+    "point outside the recorded country": 3
+   },
+   "island": {
+    "point outside the recorded country": 1,
+    "fillable": 12,
+    "no usable point": 1
+   },
+   "other": {
+    "fillable": 26,
+    "point in a shape with no MinMod match": 4,
+    "no usable point": 6,
+    "point in an ambiguous shape": 16,
+    "point outside the recorded country": 5
+   },
+   "wrong recorded country": {
+    "no usable point": 3,
+    "point outside the recorded country": 9,
+    "fillable": 4
+   }
+  },
+  "option_a": {
+   "Greenland (recorded: Denmark)": {
+    "point outside the recorded country": 15
+   },
+   "New Caledonia (recorded: France)": {
+    "point outside the recorded country": 48,
+    "fillable [Auvergne-Rhône-Alpes]": 1
+   },
+   "Christmas Island (recorded: Australia)": {
+    "fillable [Western Australia]": 1,
+    "point in a shape with no MinMod match [Other Territories]": 1,
+    "point outside the recorded country": 3
+   },
+   "Montserrat (recorded: United Kingdom)": {
+    "point outside the recorded country": 3
+   }
+  },
+  "fillable_by_country": {
+   "United States": 4,
+   "Democratic Republic of the Congo": 98,
+   "Canada": 2,
+   "Finland": 9,
+   "Rwanda": 1,
+   "Slovakia": 1,
+   "Portugal": 2,
+   "Bulgaria": 3,
+   "Norway": 7,
+   "Egypt": 1,
+   "New Zealand": 6,
+   "Philippines": 11,
+   "Russia": 2,
+   "Malaysia": 5,
+   "Jordan": 1,
+   "Australia": 1,
+   "Ethiopia": 7,
+   "France": 2,
+   "Morocco": 2,
+   "North Korea": 1,
+   "United Kingdom": 1,
+   "Indonesia": 2,
+   "Mexico": 5,
+   "Brazil": 3,
+   "Peru": 1,
+   "Fiji Islands": 2,
+   "Cuba": 2,
+   "Kazakhstan": 2,
+   "Chile": 1,
+   "Bolivia": 1,
+   "Czech Republic": 1,
+   "Sweden": 4
+  }
+ },
+ "emptied_313": {
+  "by_outcome": {
+   "no usable point": 26,
+   "point outside the recorded country": 26,
+   "fillable": 173,
+   "point in a shape with no MinMod match": 17,
+   "point in an ambiguous shape": 16,
+   "no ADM1 for country": 55
+  },
+  "by_reason": {
+   "Greenland": {
+    "point outside the recorded country": 2,
+    "no usable point": 2
+   },
+   "Katanga": {
+    "fillable": 94,
+    "no usable point": 9,
+    "point outside the recorded country": 4
+   },
+   "Option A": {
+    "point in a shape with no MinMod match": 11,
+    "point outside the recorded country": 4,
+    "no ADM1 for country": 55
+   },
+   "abolished unit": {
+    "fillable": 25,
+    "no usable point": 1,
+    "point outside the recorded country": 3,
+    "point in a shape with no MinMod match": 2
+   },
+   "city": {
+    "no usable point": 2,
+    "fillable": 4
+   },
+   "county": {
+    "no usable point": 3,
+    "fillable": 11
+   },
+   "island": {
+    "point outside the recorded country": 1,
+    "no usable point": 1,
+    "fillable": 12
+   },
+   "other": {
+    "no usable point": 5,
+    "fillable": 24,
+    "point in a shape with no MinMod match": 4,
+    "point in an ambiguous shape": 16,
+    "point outside the recorded country": 4
+   },
+   "wrong recorded country": {
+    "point outside the recorded country": 8,
+    "no usable point": 3,
+    "fillable": 3
+   }
+  },
+  "option_a": {
+   "Greenland (recorded: Greenland)": {
+    "point in a shape with no MinMod match [Northeast Greenland National Park]": 1,
+    "point in a shape with no MinMod match [Kujalleq]": 3,
+    "point outside the recorded country": 4,
+    "point in a shape with no MinMod match [Sermersooq]": 5,
+    "point in a shape with no MinMod match [Avannaata]": 2
+   },
+   "Montserrat (recorded: Montserrat)": {
+    "no ADM1 for country": 3
+   },
+   "New Caledonia (recorded: New Caledonia)": {
+    "no ADM1 for country": 48
+   },
+   "Christmas Island (recorded: Christmas Island)": {
+    "no ADM1 for country": 4
+   }
+  },
+  "fillable_by_country": {
+   "Rwanda": 1,
+   "Finland": 6,
+   "Democratic Republic of the Congo": 94,
+   "United States": 2,
+   "Slovakia": 1,
+   "Portugal": 2,
+   "Canada": 1,
+   "Peru": 1,
+   "Czech Republic": 1,
+   "Sweden": 4,
+   "Bulgaria": 3,
+   "Cuba": 2,
+   "Russia": 2,
+   "New Zealand": 3,
+   "Indonesia": 2,
+   "Ethiopia": 7,
+   "Philippines": 10,
+   "Egypt": 1,
+   "France": 1,
+   "United Kingdom": 1,
+   "Morocco": 2,
+   "Norway": 7,
+   "Malaysia": 4,
+   "Jordan": 1,
+   "North Korea": 1,
+   "Mexico": 5,
+   "Brazil": 2,
+   "Bolivia": 1,
+   "Chile": 1,
+   "Fiji Islands": 2,
+   "Kazakhstan": 2
+  }
+ },
+ "emptied_with_multiple_dropped_members": 10
+}

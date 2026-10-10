@@ -1,0 +1,60 @@
+{ "head": {
+    "vars": [ "source" , "affected" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/vms" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1090" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1024" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "680" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "625" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "615" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "489" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "316" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "118" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "116" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "77" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "60" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "29" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "affected": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      }
+    ]
+  }
+}

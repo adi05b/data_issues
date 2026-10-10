@@ -1,0 +1,17 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?s ?s_src ?s_wkt ?s_label ?s_rid ?s_by ?s_mod
+       ?o ?o_src ?o_wkt ?o_label ?o_rid ?o_by ?o_mod
+WHERE {
+  ?s a :MineralSite ; owl:sameAs ?o ; :source_id ?s_src ; :created_by ?s_by ; :modified_at ?s_mod .
+  ?s :location_info ?li1 . ?li1 :location ?s_wkt ; :crs ?c1 .
+  ?c1 :normalized_uri ?e1 . ?e1 rdfs:label ?k1 . FILTER(STR(?k1)="EPSG:4326")
+  ?o :source_id ?o_src ; :created_by ?o_by ; :modified_at ?o_mod .
+  ?o :location_info ?li2 . ?li2 :location ?o_wkt ; :crs ?c2 .
+  ?c2 :normalized_uri ?e2 . ?e2 rdfs:label ?k2 . FILTER(STR(?k2)="EPSG:4326")
+  OPTIONAL { ?s rdfs:label ?s_label } OPTIONAL { ?o rdfs:label ?o_label }
+  OPTIONAL { ?s :record_id ?s_rid }  OPTIONAL { ?o :record_id ?o_rid }
+}
+ORDER BY ?s ?o

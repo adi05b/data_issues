@@ -1,0 +1,2 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?ds ?p ?o WHERE { ?ds a :DataSource ; ?p ?o } ORDER BY ?ds

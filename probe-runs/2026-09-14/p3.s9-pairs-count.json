@@ -1,0 +1,11 @@
+{ "head": {
+    "vars": [ "pairs_both_have_4326_coords" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "pairs_both_have_4326_coords": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15349" }
+      }
+    ]
+  }
+}

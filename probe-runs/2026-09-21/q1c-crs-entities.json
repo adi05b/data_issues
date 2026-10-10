@@ -1,0 +1,98 @@
+{ "head": {
+    "vars": [ "ce" , "label" , "p" , "o" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "ce": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/CoordinateReferenceSystem" }
+      } ,
+      { 
+        "ce": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "EPSG:4326" }
+      } ,
+      { 
+        "ce": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/resource/Q701" }
+      } ,
+      { 
+        "ce": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q702" } ,
+        "label": { "type": "literal" , "value": "EPSG:4267" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/CoordinateReferenceSystem" }
+      } ,
+      { 
+        "ce": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q702" } ,
+        "label": { "type": "literal" , "value": "EPSG:4267" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "EPSG:4267" }
+      } ,
+      { 
+        "ce": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q702" } ,
+        "label": { "type": "literal" , "value": "EPSG:4267" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/resource/Q702" }
+      } ,
+      { 
+        "ce": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q703" } ,
+        "label": { "type": "literal" , "value": "EPSG:3857" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/CoordinateReferenceSystem" }
+      } ,
+      { 
+        "ce": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q703" } ,
+        "label": { "type": "literal" , "value": "EPSG:3857" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "EPSG:3857" }
+      } ,
+      { 
+        "ce": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q703" } ,
+        "label": { "type": "literal" , "value": "EPSG:3857" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/resource/Q703" }
+      } ,
+      { 
+        "ce": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q704" } ,
+        "label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/CoordinateReferenceSystem" }
+      } ,
+      { 
+        "ce": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q704" } ,
+        "label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "EPSG:26912" }
+      } ,
+      { 
+        "ce": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q704" } ,
+        "label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/resource/Q704" }
+      } ,
+      { 
+        "ce": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q705" } ,
+        "label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/CoordinateReferenceSystem" }
+      } ,
+      { 
+        "ce": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q705" } ,
+        "label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "EPSG:2994" }
+      } ,
+      { 
+        "ce": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q705" } ,
+        "label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/resource/Q705" }
+      }
+    ]
+  }
+}

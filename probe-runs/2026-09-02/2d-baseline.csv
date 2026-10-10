@@ -1,0 +1,4 @@
+_site,bucket,bucket_bound,candidates,candidates_bound
+,hi_ge_0.99,1,410185,1
+,lo_lt_0.9,1,10732,1
+,mid_0.9_0.99,1,675,1

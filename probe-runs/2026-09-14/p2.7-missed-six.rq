@@ -1,0 +1,26 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mr: <https://minmod.isi.edu/resource/>
+
+SELECT ?site ?state_obs ?state_ent ?state_label ?state_cty
+       ?country_obs ?country_ent ?country_label
+WHERE {
+  VALUES ?site {
+    mr:site__mrdata-usgs-gov-phosphate__95__umn
+    mr:site__mrdata-usgs-gov-phosphate__1__umn
+    mr:site__api-cdr-land-v1-docs-documents__0283468d8e32eb2151b91e8f29b005238f1438c1258edddbc4f40471ae044bb892__inferlink
+    mr:site__mrdata-usgs-gov-phosphate__1210__umn
+    mr:site__doi-org-10-5066-p96mmrfd__md055__umn
+    mr:site__mrdata-usgs-gov-sedznpb__493__umn
+  }
+  ?site :location_info ?li .
+  OPTIONAL { ?li :state_or_province ?sc .
+             OPTIONAL { ?sc :observed_name ?state_obs }
+             OPTIONAL { ?sc :normalized_uri ?state_ent .
+                        OPTIONAL { ?state_ent rdfs:label ?state_label }
+                        OPTIONAL { ?state_ent :country ?state_cty } } }
+  OPTIONAL { ?li :country ?cc .
+             OPTIONAL { ?cc :observed_name ?country_obs }
+             OPTIONAL { ?cc :normalized_uri ?country_ent .
+                        OPTIONAL { ?country_ent rdfs:label ?country_label } } }
+}

@@ -1,0 +1,118 @@
+{ "head": {
+    "vars": [ "site" , "label" , "source" , "wkt" , "lon" , "lat" , "crs_label" , "country_obs" , "state_obs" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__5698__umn" } ,
+        "label": { "type": "literal" , "value": "Demero No. 1 Air Shaft" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (671915 4200210)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "671915.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4200210.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__5699__umn" } ,
+        "label": { "type": "literal" , "value": "Demero No. 2 Air Shaft" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (671910 4199920)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "671910.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4199920.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__5703__umn" } ,
+        "label": { "type": "literal" , "value": "Synder Air Shaft" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (671860 4198550)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "671860.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4198550.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__5700__umn" } ,
+        "label": { "type": "literal" , "value": "Sage" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (671187 4202803)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "671187.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4202803.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__2881__umn" } ,
+        "label": { "type": "literal" , "value": "Stateline" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (670940 4219350)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "670940.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4219350.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__5704__umn" } ,
+        "label": { "type": "literal" , "value": "Wilson Shaft" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (670837 4205994)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "670837.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4205994.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__7699__umn" } ,
+        "label": { "type": "literal" , "value": "Dove Creek Pit" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (670493 4178103)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "670493.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4178103.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__5701__umn" } ,
+        "label": { "type": "literal" , "value": "Silver Bell Mine" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (670235 4205700)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "670235.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4205700.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__473__umn" } ,
+        "label": { "type": "literal" , "value": "Butterfield Bentonite Mine" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (670227 4114522)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "670227.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4114522.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__5867__umn" } ,
+        "label": { "type": "literal" , "value": "Wyoming Prospect" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (670148 4229199)" } ,
+        "lon": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "670148.0e0" } ,
+        "lat": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "4229199.0e0" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      }
+    ]
+  }
+}

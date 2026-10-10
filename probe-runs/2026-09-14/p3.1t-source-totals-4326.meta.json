@@ -1,0 +1,11 @@
+{
+  "id": "p3.1t-source-totals-4326",
+  "sent_at": "2026-09-14T20:38:12.164183+00:00",
+  "http_status": 200,
+  "elapsed_ms": 15078,
+  "bytes": 7673,
+  "curl_exit": 0,
+  "row_count": 33,
+  "truncated_by_limit": false,
+  "error": null
+}

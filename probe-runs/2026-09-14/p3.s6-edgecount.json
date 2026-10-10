@@ -1,0 +1,13 @@
+{ "head": {
+    "vars": [ "edges" , "subjects" , "objects" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "edges": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "260654" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "198118" } ,
+        "objects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "260654" }
+      }
+    ]
+  }
+}

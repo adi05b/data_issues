@@ -1,0 +1,11 @@
+{
+  "id": "p6-n3-measures-with-value",
+  "sent_at": "2026-10-08T00:52:31.629271+00:00",
+  "http_status": 200,
+  "elapsed_ms": 920,
+  "bytes": 260,
+  "curl_exit": 0,
+  "row_count": 1,
+  "truncated_by_limit": false,
+  "error": null
+}

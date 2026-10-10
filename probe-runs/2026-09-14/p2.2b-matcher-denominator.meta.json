@@ -1,0 +1,11 @@
+{
+  "id": "p2.2b-matcher-denominator",
+  "sent_at": "2026-09-14T19:17:22.185660+00:00",
+  "http_status": 200,
+  "elapsed_ms": 9159,
+  "bytes": 14110,
+  "curl_exit": 0,
+  "row_count": 45,
+  "truncated_by_limit": false,
+  "error": null
+}

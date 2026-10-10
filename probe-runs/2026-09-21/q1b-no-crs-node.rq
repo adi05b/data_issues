@@ -1,0 +1,8 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?src (COUNT(DISTINCT ?site) AS ?records)
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  OPTIONAL { ?site :source_id ?src }
+  FILTER NOT EXISTS { ?li :crs ?c }
+}
+GROUP BY ?src ORDER BY DESC(?records)

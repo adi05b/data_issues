@@ -1,0 +1,10 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?source (COUNT(DISTINCT ?site) AS ?sites)
+WHERE {
+  ?site a :MineralSite ; :source_id ?source ; :location_info ?li .
+  ?li :location ?wkt ; :crs ?crsc .
+  ?crsc :normalized_uri ?ce . ?ce rdfs:label ?crs .
+  FILTER(STR(?crs) = "EPSG:4326")
+}
+GROUP BY ?source ORDER BY DESC(?sites)

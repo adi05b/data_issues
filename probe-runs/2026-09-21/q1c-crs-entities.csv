@@ -1,0 +1,16 @@
+ce,label,p,o
+https://minmod.isi.edu/resource/Q701,EPSG:4326,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/CoordinateReferenceSystem
+https://minmod.isi.edu/resource/Q701,EPSG:4326,http://www.w3.org/2000/01/rdf-schema#label,EPSG:4326
+https://minmod.isi.edu/resource/Q701,EPSG:4326,https://minmod.isi.edu/ontology/uri,https://minmod.isi.edu/resource/Q701
+https://minmod.isi.edu/resource/Q702,EPSG:4267,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/CoordinateReferenceSystem
+https://minmod.isi.edu/resource/Q702,EPSG:4267,http://www.w3.org/2000/01/rdf-schema#label,EPSG:4267
+https://minmod.isi.edu/resource/Q702,EPSG:4267,https://minmod.isi.edu/ontology/uri,https://minmod.isi.edu/resource/Q702
+https://minmod.isi.edu/resource/Q703,EPSG:3857,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/CoordinateReferenceSystem
+https://minmod.isi.edu/resource/Q703,EPSG:3857,http://www.w3.org/2000/01/rdf-schema#label,EPSG:3857
+https://minmod.isi.edu/resource/Q703,EPSG:3857,https://minmod.isi.edu/ontology/uri,https://minmod.isi.edu/resource/Q703
+https://minmod.isi.edu/resource/Q704,EPSG:26912,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/CoordinateReferenceSystem
+https://minmod.isi.edu/resource/Q704,EPSG:26912,http://www.w3.org/2000/01/rdf-schema#label,EPSG:26912
+https://minmod.isi.edu/resource/Q704,EPSG:26912,https://minmod.isi.edu/ontology/uri,https://minmod.isi.edu/resource/Q704
+https://minmod.isi.edu/resource/Q705,EPSG:2994,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/CoordinateReferenceSystem
+https://minmod.isi.edu/resource/Q705,EPSG:2994,http://www.w3.org/2000/01/rdf-schema#label,EPSG:2994
+https://minmod.isi.edu/resource/Q705,EPSG:2994,https://minmod.isi.edu/ontology/uri,https://minmod.isi.edu/resource/Q705

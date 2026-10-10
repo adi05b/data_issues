@@ -1,0 +1,16 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?variant (COUNT(DISTINCT ?site) AS ?sites)
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :location ?wkt .
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?lon_s)
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?lat_s)
+  BIND(IF(CONTAINS(?lon_s, "."), STRLEN(STRAFTER(?lon_s, ".")), 0) AS ?lon_dp)
+  BIND(IF(CONTAINS(?lat_s, "."), STRLEN(STRAFTER(?lat_s, ".")), 0) AS ?lat_dp)
+  BIND(IF(?lat_dp < ?lon_dp, ?lat_dp, ?lon_dp) AS ?min_dp)
+  BIND(IF(?lat_dp = 1, "a_lat_eq_1", IF(?lon_dp = 1, "b_lon_eq_1", IF(?min_dp = 1, "c_other", "z_none"))) AS ?v1)
+  BIND(IF(?min_dp = 1, "d_min_eq_1", IF(?min_dp = 0, "e_min_eq_0", "z_none")) AS ?v2)
+  { BIND(?v1 AS ?variant) } UNION { BIND(?v2 AS ?variant) }
+  FILTER(?variant != "z_none")
+}
+GROUP BY ?variant ORDER BY ?variant

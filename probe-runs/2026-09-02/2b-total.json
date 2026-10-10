@@ -1,0 +1,12 @@
+{ "head": {
+    "vars": [ "conflicting_sites" , "rows" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "conflicting_sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6156" } ,
+        "rows": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6159" }
+      }
+    ]
+  }
+}

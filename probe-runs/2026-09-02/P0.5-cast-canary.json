@@ -1,0 +1,13 @@
+{ "head": {
+    "vars": [ "a" , "b" , "c" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "a": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "37.93385" } ,
+        "b": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "-109.48784" } ,
+        "c": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#double" , "value": "1.23E5" }
+      }
+    ]
+  }
+}

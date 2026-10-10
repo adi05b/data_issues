@@ -1,0 +1,117 @@
+obs,label,conf,src,matcher,records
+Construction,Strontium,0.5453337996531422,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,46221
+Crushed/Broken,Stone > Crushed/Broken,0.7714968911730966,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,17461
+General,Clay > General,0.7798200451146162,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,3427
+Dimension,Limestone > Dimension,0.7468642245520716,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,3081
+Fire Clay (Refractory),Clay > Fire (Refractory),0.8494402903493812,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,2391
+Kaolin,Clay > Kaolin,0.7553298794785579,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,1033
+Bentonite,Clay > Bentonite,0.8118545741001275,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,1008
+Construc,Cobalt,0.5368033988749895,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,980
+Metal,Nonmetal,0.7598965847432124,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,840
+Sulfur-Pyrite,Sulfur > Iron Pyrite,0.7160588604611158,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,723
+Niobium (Columbium),Niobium,0.681477127840932,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,710
+Volcanic Materials,Clay > Bloating Material,0.5950150974770503,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,487
+Halite,Alunite,0.6753153216976067,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,466
+Salt,Aluminum,0.6734066857533134,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,456
+Garnet,Abrasive > Garnet,0.6704687284002351,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,449
+Oil Shale,Petroleum (Oil) > Oil Shale,0.6281009876554962,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,261
+Water,Slate,0.5555555555555556,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,221
+Crushed/Broken,Stone > Crushed/Broken,0.7714968911730966,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,221
+Sulfuric Acid,Sulfur > Sulfuric Acid,0.8072920621514816,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,170
+Contained Or Metal,Aluminum > Contained Or Metal,0.8430814953184439,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,148
+Corundum,Abrasive > Corundum,0.696960839660197,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,119
+Kaolin,Clay > Kaolin,0.7553298794785579,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,99
+Metal,Nonmetal,0.7598965847432124,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,76
+Ferrochrome,Chromium > Ferrochrome,0.7901547992374542,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,67
+Pigment,Mineral Pigments,0.6225955311160446,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,65
+Refiner,Gold > Refinery,0.7461639154949706,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,64
+High Calcium,Limestone > High Calcium,0.7611163264780054,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,63
+Fullers Earth,Clay > Fullers Earth,0.8631806097056378,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,62
+Ultra Pure,Limestone > Ultra Pure,0.7343085125966367,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,60
+Dimension,Limestone > Dimension,0.7468642245520716,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,60
+Emery,Gemstone > Emerald,0.6871786338602186,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,49
+Lignite,Coal > Lignite,0.774668663761801,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,48
+Sodium Sulfate,Sodium > Salt,0.7016722863755561,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,40
+Aggregate,Aggregate > Light Weight,0.6663369700005818,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,38
+Light Weight,Aggregate > Light Weight,0.7570632350960106,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,38
+Bloating Material,Clay > Bloating Material,0.8906091180969744,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,37
+Oil Sands,Petroleum (Oil) > Oil Sands,0.6281009876554962,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,32
+Bituminous,Coal > Bituminous,0.8256204595380294,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,31
+Sodium Carbonate,Sodium,0.6264668861815601,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,30
+Smelter,Lead > Smelter,0.6474305774673472,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,28
+Corundum,Abrasive > Corundum,0.696960839660197,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,28
+Ferrosilicon,Silica > Ferrosilicon,0.7590560645139681,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,28
+Talc,Talc-Soapstone,0.6985042339640731,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,25
+Montmorillonite,Clay > Montmorillonite,0.8739816500118125,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,25
+Iron-Pyrite,Iron > Pyrite,0.8034648726246919,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,24
+General,Clay > General,0.7798200451146162,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,22
+Sulfur-Pyrite,Sulfur > Iron Pyrite,0.7160588604611158,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,18
+Niobium (Columbium),Niobium,0.681477127840932,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,17
+Mica?,Mica,0.8852616746904621,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,17
+Rock Asphalt,Petroleum (Oil) > Rock Asphalt,0.6047641170897083,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,15
+Industrial/Frac Sand,Sand,0.5003968253968254,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,14
+Crushed Stone,Stone > Crushed/Broken,0.645381477339216,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,14
+Ferromanganese,Manganese > Ferromanganese,0.8332006585507986,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,12
+Industrial,Indium,0.4998398503937435,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,11
+Monazite,Magnesite,0.5173565025301907,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,11
+Garnet,Abrasive > Garnet,0.6704687284002351,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,11
+Refinery,Gold > Refinery,0.7930782869591524,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,11
+Soda Ash,Ash,0.5833333333333334,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,8
+Clay (Halloysite),Clay > Chlorite,0.6423492836917639,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,8
+Fire Clay (Refractory),Clay > Fire (Refractory),0.8494402903493812,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,8
+Mill Concentrate,Tungsten > Mill Concentrate,0.7604006650767883,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,7
+Soapstone,Talc-Soapstone,0.7840714852406568,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,7
+Titanium-Ilmenite,Titanium > Ilmenite,0.8717951590843223,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,7
+Magnesium Compounds,Magnesium,0.7183665237918626,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,6
+Beryl,Beryllium,0.7521239231099324,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,6
+Subbituminous,Coal > Subbituminous,0.860924883712409,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,6
+Columbite-Tantalite,Tantalum,0.5851271035573562,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,5
+Sandstone,Stone,0.697793610107163,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,5
+High Calcium,Limestone > High Calcium,0.7611163264780054,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,5
+Titanium-Rutile,Titanium > Rutile,0.8568553063954016,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,5
+Galena,Gallium,0.5953703703703703,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,4
+Stn?,Stone,0.8512820117418509,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,4
+Chalcopyrite,Clay > Chlorite,0.5575519829370762,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,3
+Sillimanite,Silica,0.591260428230334,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,3
+Chlorite,Chlorine,0.8367063492063491,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,3
+High Alumina Clay,Aluminum > High Alumina Clay,0.8602381503966008,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,3
+Dimension Stone,Limestone > Dimension,0.8779491369787645,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,3
+Bloating Material,Clay > Bloating Material,0.8906091180969744,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,3
+Iron Oxide Pigments,Iron > Pig Iron,0.6261260357258065,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,2
+Bornite,Granite,0.6349206349206349,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,2
+Alabaster,Gypsum-Anhydrite > Alabaster,0.6449490588485243,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,2
+Anthophyllite,Pyrophyllite,0.7326188197534158,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,2
+Molybdenite,Molybdenum,0.7878051500000426,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,2
+Hectorite,Clay > Hectorite,0.8122241971567976,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,2
+Magnetite,Magnesite,0.8566289364025346,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,2
+Tantalum From Tin Slag,Tantalum > Tin Slag,0.8749932626017942,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,2
+Tripoli,Lithium,0.5186447809914086,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,1
+Tourmaline,Staurolite,0.531838046783699,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Muscovite Mica,Mica,0.5454505262007152,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Halloysite,Alunite,0.5487914848005359,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Vesuvianite,Kyanite,0.56228726332573,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Hematite,Diatomite,0.5632020329328107,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Gilsonite,Wollastonite,0.58560585873268,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,1
+Apatite,Graphite,0.5909727011463893,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Copper And Garnet,Copper,0.616507214399085,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Kaolin/ Feldspar,Feldspar,0.6197666196787329,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Road Gravel??,Sand and Gravel,0.6242014565618499,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Feld?,Feldspar,0.6313183462480368,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Ilmenite,Titanium > Ilmenite,0.6574174694713655,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Pyrrrhotite,Pyrite,0.6636720949214773,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Aggregate,Aggregate > Light Weight,0.6663369700005818,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Lime,Limestone,0.6795017807794553,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Quartz Crystal,Quartz,0.6875731185901993,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Iron? Feldspar?,Feldspar,0.6901845843665904,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Mica? Feldspar?,Feldspar,0.6971290288110348,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Allanite?,Alunite,0.7138453856369965,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Soapstone?,Talc-Soapstone,0.736943265067092,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Tailings,Tin > Tailings,0.7563180627732196,https://mrdata.usgs.gov/mrds,UMN Matching System-ProcMinev2,1
+Allanite,Alunite,0.7583601563722244,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Iron Sulfides,Sulfides,0.766622393704339,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Chromite,Chromium,0.7740880923382814,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Contained Or Me,Aluminum > Contained Or Metal,0.7816611190587871,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Sulfuric Acid,Sulfur > Sulfuric Acid,0.8072920621514816,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Dimension Stone?,Limestone > Dimension,0.8489201804190158,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+Olvine,Olivine,0.8519330172390733,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1
+K-Feldspar,Feldspar,0.8837934207222082,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,UMN Matching System-ProcMinev2,1

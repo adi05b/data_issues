@@ -1,0 +1,6 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?a ?b ?c WHERE {
+  BIND(xsd:double("37.93385") AS ?a)
+  BIND(xsd:double("-109.48784") AS ?b)
+  BIND(xsd:double("1.23E5") AS ?c)
+}

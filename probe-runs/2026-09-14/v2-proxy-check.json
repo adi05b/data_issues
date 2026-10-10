@@ -1,0 +1,362 @@
+[
+ {
+  "n": 1,
+  "status": "ok",
+  "dedup": "dedup_site__doi-org-10-5066-p9k1hbnt__213__umn",
+  "same_group": true,
+  "sameAs_members": 2,
+  "api_members": 2,
+  "members_match": true,
+  "members_subset": true,
+  "ded_coord": [
+   40.0019,
+   -105.4135
+  ],
+  "pred_elected_wkt": "POINT (-105.4135 40.0019)",
+  "best_wkt": "POINT (-105.41354 40.00192)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9k1hbnt__213__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9k1hbnt__213__umn"
+ },
+ {
+  "n": 2,
+  "status": "ok",
+  "dedup": "dedup_site__doi-org-10-5066-p9htergk__18109__umn",
+  "same_group": true,
+  "sameAs_members": 4,
+  "api_members": 4,
+  "members_match": true,
+  "members_subset": true,
+  "ded_coord": [
+   35.47,
+   -115.50028
+  ],
+  "pred_elected_wkt": "POINT (-115.50028 35.47)",
+  "best_wkt": "POINT (-115.49584 35.42111)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__18109__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__18109__umn"
+ },
+ {
+  "n": 3,
+  "status": "ok",
+  "dedup": "dedup_site__mrdata-usgs-gov-mrds__10010894__umn",
+  "same_group": true,
+  "sameAs_members": 3,
+  "api_members": 4,
+  "members_match": false,
+  "members_subset": true,
+  "ded_coord": [
+   38.9383,
+   -105.73889
+  ],
+  "pred_elected_wkt": "POINT (-105.7388899999999978 38.9382999999999981)",
+  "best_wkt": "POINT (-105.7297599999999989 38.9458300000000008)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-mrds__10010894__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-mrds__10010894__umn"
+ },
+ {
+  "n": 4,
+  "status": "ok",
+  "dedup": "dedup_site__doi-org-10-5066-p9htergk__10898__umn",
+  "same_group": true,
+  "sameAs_members": 7,
+  "api_members": 11,
+  "members_match": false,
+  "members_subset": true,
+  "ded_coord": [
+   41.8608333333333,
+   -123.621388888889
+  ],
+  "pred_elected_wkt": "POINT (-123.621388888889 41.8608333333333)",
+  "best_wkt": "POINT (-123.62282 41.86233)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__10898__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__10898__umn"
+ },
+ {
+  "n": 5,
+  "status": "ok",
+  "dedup": "dedup_site__doi-org-10-5066-p9htergk__12086__umn",
+  "same_group": true,
+  "sameAs_members": 4,
+  "api_members": 5,
+  "members_match": false,
+  "members_subset": true,
+  "ded_coord": [
+   35.40969,
+   -117.8187
+  ],
+  "pred_elected_wkt": "POINT (-117.8187 35.40969)",
+  "best_wkt": "POINT (-117.81868 35.40971)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__12086__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__12086__umn"
+ },
+ {
+  "n": 6,
+  "status": "ok",
+  "dedup": "dedup_site__mrdata-usgs-gov-mrds__10080386__umn",
+  "same_group": true,
+  "sameAs_members": 2,
+  "api_members": 3,
+  "members_match": false,
+  "members_subset": true,
+  "ded_coord": [
+   46.7792,
+   -89.04587
+  ],
+  "pred_elected_wkt": "POINT (-89.0458699999999936 46.7792000000000030)",
+  "best_wkt": "POINT (-89.0428500000000014 46.7794400000000010)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-mrds__10080386__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-mrds__10080386__umn"
+ },
+ {
+  "n": 7,
+  "status": "ok",
+  "dedup": "dedup_site__doi-org-10-5066-p9htergk__13056__umn",
+  "same_group": true,
+  "sameAs_members": 2,
+  "api_members": 2,
+  "members_match": true,
+  "members_subset": true,
+  "ded_coord": [
+   40.54125,
+   -122.5494
+  ],
+  "pred_elected_wkt": "POINT (-122.5494 40.54125)",
+  "best_wkt": "POINT (-122.54943 40.54124)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__13056__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__13056__umn"
+ },
+ {
+  "n": 8,
+  "status": "ok",
+  "dedup": "dedup_site__mrdata-usgs-gov-major-deposits__2122__umn",
+  "same_group": true,
+  "sameAs_members": 2,
+  "api_members": 2,
+  "members_match": true,
+  "members_subset": true,
+  "ded_coord": [
+   35.6167,
+   6.1333
+  ],
+  "pred_elected_wkt": "POINT (6.1333 35.6167)",
+  "best_wkt": "POINT (6.1350699999999998 35.6159099999999995)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-major-deposits__2122__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-major-deposits__2122__umn"
+ },
+ {
+  "n": 9,
+  "status": "ok",
+  "dedup": "dedup_site__mrdata-usgs-gov-mrds__10102988__umn",
+  "same_group": true,
+  "sameAs_members": 2,
+  "api_members": 3,
+  "members_match": false,
+  "members_subset": true,
+  "ded_coord": [
+   35.5647,
+   -115.79255
+  ],
+  "pred_elected_wkt": "POINT (-115.7925500000000056 35.5647000000000020)",
+  "best_wkt": "POINT (-115.8066800000000001 35.5522199999999984)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-mrds__10102988__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-mrds__10102988__umn"
+ },
+ {
+  "n": 10,
+  "status": "ok",
+  "dedup": "dedup_site__doi-org-10-5066-p9htergk__11023__umn",
+  "same_group": true,
+  "sameAs_members": 2,
+  "api_members": 2,
+  "members_match": true,
+  "members_subset": true,
+  "ded_coord": [
+   38.02241,
+   -120.4454
+  ],
+  "pred_elected_wkt": "POINT (-120.4454 38.02241)",
+  "best_wkt": "POINT (-120.44544 38.02241)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__11023__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__11023__umn"
+ },
+ {
+  "n": 11,
+  "status": "ok",
+  "dedup": "dedup_site__mrdata-usgs-gov-mrds__10050180__umn",
+  "same_group": true,
+  "sameAs_members": 2,
+  "api_members": 2,
+  "members_match": true,
+  "members_subset": true,
+  "ded_coord": [
+   24.7062,
+   -100.55787
+  ],
+  "pred_elected_wkt": "POINT (-100.5578699999999941 24.7061999999999991)",
+  "best_wkt": "POINT (-100.5578699999999941 24.7062300000000015)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-mrds__10050180__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-mrds__10050180__umn"
+ },
+ {
+  "n": 12,
+  "status": "ok",
+  "dedup": "dedup_site__doi-org-10-5066-p9htergk__27276__umn",
+  "same_group": true,
+  "sameAs_members": 3,
+  "api_members": 3,
+  "members_match": true,
+  "members_subset": true,
+  "ded_coord": [
+   39.289,
+   -120.7271
+  ],
+  "pred_elected_wkt": "POINT (-120.7271 39.289)",
+  "best_wkt": "POINT (-120.75543 39.33129)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__27276__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__27276__umn"
+ },
+ {
+  "n": 13,
+  "status": "ok",
+  "dedup": "dedup_site__doi-org-10-5066-p9htergk__10673__umn",
+  "same_group": true,
+  "sameAs_members": 4,
+  "api_members": 5,
+  "members_match": false,
+  "members_subset": true,
+  "ded_coord": [
+   40.77375,
+   -122.4433
+  ],
+  "pred_elected_wkt": "POINT (-122.4433 40.77375)",
+  "best_wkt": "POINT (-122.44304 40.77013)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__10673__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__10673__umn"
+ },
+ {
+  "n": 14,
+  "status": "ok",
+  "dedup": "dedup_site__doi-org-10-5066-p9htergk__12729__umn",
+  "same_group": true,
+  "sameAs_members": 3,
+  "api_members": 4,
+  "members_match": false,
+  "members_subset": true,
+  "ded_coord": [
+   38.04431,
+   -120.5299
+  ],
+  "pred_elected_wkt": "POINT (-120.5299 38.04431)",
+  "best_wkt": "POINT (-120.53044 38.04658)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__12729__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__12729__umn"
+ },
+ {
+  "n": 15,
+  "status": "ok",
+  "dedup": "dedup_site__mrdata-usgs-gov-mrds__10019693__umn",
+  "same_group": true,
+  "sameAs_members": 2,
+  "api_members": 2,
+  "members_match": true,
+  "members_subset": true,
+  "ded_coord": [
+   46.0732,
+   -112.19278
+  ],
+  "pred_elected_wkt": "POINT (-112.1927799999999991 46.0731999999999999)",
+  "best_wkt": "POINT (-112.1925499999999971 46.0729600000000019)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-mrds__10019693__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-mrds__10019693__umn"
+ },
+ {
+  "n": 16,
+  "status": "ok",
+  "dedup": "dedup_site__mrdata-usgs-gov-mrds__10019305__umn",
+  "same_group": true,
+  "sameAs_members": 2,
+  "api_members": 3,
+  "members_match": false,
+  "members_subset": true,
+  "ded_coord": [
+   46.4307,
+   -112.38979
+  ],
+  "pred_elected_wkt": "POINT (-112.3897900000000050 46.4307000000000016)",
+  "best_wkt": "POINT (-112.3917200000000065 46.4335099999999983)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-mrds__10019305__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-mrds__10019305__umn"
+ },
+ {
+  "n": 17,
+  "status": "ok",
+  "dedup": "dedup_site__doi-org-10-5066-p9htergk__11947__umn",
+  "same_group": true,
+  "sameAs_members": 4,
+  "api_members": 4,
+  "members_match": true,
+  "members_subset": true,
+  "ded_coord": [
+   38.3024,
+   -120.86432
+  ],
+  "pred_elected_wkt": "POINT (-120.86432 38.3024)",
+  "best_wkt": "POINT (-120.86241 38.30323)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__11947__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__11947__umn"
+ },
+ {
+  "n": 18,
+  "status": "ok",
+  "dedup": "dedup_site__doi-org-10-5066-p9htergk__30797__umn",
+  "same_group": true,
+  "sameAs_members": 2,
+  "api_members": 2,
+  "members_match": true,
+  "members_subset": true,
+  "ded_coord": [
+   41.69316,
+   -123.4467
+  ],
+  "pred_elected_wkt": "POINT (-123.4467 41.69316)",
+  "best_wkt": "POINT (-123.45724 41.69543)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__30797__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__30797__umn"
+ },
+ {
+  "n": 19,
+  "status": "ok",
+  "dedup": "dedup_site__doi-org-10-5066-p9htergk__13006__umn",
+  "same_group": true,
+  "sameAs_members": 4,
+  "api_members": 6,
+  "members_match": false,
+  "members_subset": true,
+  "ded_coord": [
+   35.505,
+   -116.29166
+  ],
+  "pred_elected_wkt": "POINT (-116.29166 35.505)",
+  "best_wkt": "POINT (-116.30669 35.4525)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__13006__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__doi-org-10-5066-p9htergk__13006__umn"
+ },
+ {
+  "n": 20,
+  "status": "ok",
+  "dedup": "dedup_site__mrdata-usgs-gov-mrds__10088982__umn",
+  "same_group": true,
+  "sameAs_members": 3,
+  "api_members": 5,
+  "members_match": false,
+  "members_subset": true,
+  "ded_coord": [
+   39.96744,
+   -112.5261
+  ],
+  "pred_elected_wkt": "POINT (-112.5260999999999996 39.9674400000000034)",
+  "best_wkt": "POINT (-112.5294099999999986 39.9685500000000005)",
+  "el_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-mrds__10088982__umn",
+  "bs_ded": "https://minmod.isi.edu/derived/dedup_site__mrdata-usgs-gov-mrds__10088982__umn"
+ }
+]

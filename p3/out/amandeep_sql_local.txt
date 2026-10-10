@@ -1,0 +1,5 @@
+ row1_two_plus_members | row2_two_plus_with_coordinate | row2a_top_is_expert | row3_top_score_tied | row3_same_source | row3_different_sources 
+-----------------------+-------------------------------+---------------------+---------------------+------------------+------------------------
+                198129 |                         23283 |                  23 |               18583 |            17730 |                    853
+(1 row)
+

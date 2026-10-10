@@ -1,0 +1,248 @@
+{ "head": {
+    "vars": [ "state_label" , "state_country_label" , "country_label" , "sites" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "state_label": { "type": "literal" , "value": "Florida" } ,
+        "state_country_label": { "type": "literal" , "value": "Puerto Rico" } ,
+        "country_label": { "type": "literal" , "value": "United States" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1609" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "La Pampa" } ,
+        "state_country_label": { "type": "literal" , "value": "Argentina" } ,
+        "country_label": { "type": "literal" , "value": "Bolivia" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "586" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Porto" } ,
+        "state_country_label": { "type": "literal" , "value": "Portugal" } ,
+        "country_label": { "type": "literal" , "value": "Bolivia" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "552" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Bolívar" } ,
+        "state_country_label": { "type": "literal" , "value": "Colombia" } ,
+        "country_label": { "type": "literal" , "value": "Venezuela" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "475" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Santa Cruz" } ,
+        "state_country_label": { "type": "literal" , "value": "Argentina" } ,
+        "country_label": { "type": "literal" , "value": "Bolivia" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "216" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Koror" } ,
+        "state_country_label": { "type": "literal" , "value": "Palau" } ,
+        "country_label": { "type": "literal" , "value": "Bolivia" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "191" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Garissa" } ,
+        "state_country_label": { "type": "literal" , "value": "Kenya" } ,
+        "country_label": { "type": "literal" , "value": "India" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "187" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Camuy" } ,
+        "state_country_label": { "type": "literal" , "value": "Puerto Rico" } ,
+        "country_label": { "type": "literal" , "value": "Cuba" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "158" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Tanga" } ,
+        "state_country_label": { "type": "literal" , "value": "Tanzania" } ,
+        "country_label": { "type": "literal" , "value": "Democratic Republic of the Congo" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "112" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Saint Andrew" } ,
+        "state_country_label": { "type": "literal" , "value": "Barbados" } ,
+        "country_label": { "type": "literal" , "value": "Jamaica" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "87" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Florida" } ,
+        "state_country_label": { "type": "literal" , "value": "Uruguay" } ,
+        "country_label": { "type": "literal" , "value": "United States" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "73" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Northern Territory" } ,
+        "state_country_label": { "type": "literal" , "value": "Australia" } ,
+        "country_label": { "type": "literal" , "value": "Canada" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "67" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Sanma" } ,
+        "state_country_label": { "type": "literal" , "value": "Vanuatu" } ,
+        "country_label": { "type": "literal" , "value": "Cuba" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "64" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Naama" } ,
+        "state_country_label": { "type": "literal" , "value": "Algeria" } ,
+        "country_label": { "type": "literal" , "value": "Panama" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "62" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "San José" } ,
+        "state_country_label": { "type": "literal" , "value": "Uruguay" } ,
+        "country_label": { "type": "literal" , "value": "Costa Rica" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "56" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Caguas" } ,
+        "state_country_label": { "type": "literal" , "value": "Puerto Rico" } ,
+        "country_label": { "type": "literal" , "value": "Panama" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "51" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Colonia" } ,
+        "state_country_label": { "type": "literal" , "value": "Uruguay" } ,
+        "country_label": { "type": "literal" , "value": "United States" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "50" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Federal Dependencies of Venezuela" } ,
+        "state_country_label": { "type": "literal" , "value": "Venezuela" } ,
+        "country_label": { "type": "literal" , "value": "France" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "49" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Canelones" } ,
+        "state_country_label": { "type": "literal" , "value": "Uruguay" } ,
+        "country_label": { "type": "literal" , "value": "United States" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "46" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Latakia" } ,
+        "state_country_label": { "type": "literal" , "value": "Syria" } ,
+        "country_label": { "type": "literal" , "value": "Japan" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "44" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Eschen" } ,
+        "state_country_label": { "type": "literal" , "value": "Liechtenstein" } ,
+        "country_label": { "type": "literal" , "value": "Germany" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "43" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Central" } ,
+        "state_country_label": { "type": "literal" , "value": "Bahrain" } ,
+        "country_label": { "type": "literal" , "value": "Zambia" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "43" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Colonia" } ,
+        "state_country_label": { "type": "literal" , "value": "Uruguay" } ,
+        "country_label": { "type": "literal" , "value": "Panama" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "39" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Islands" } ,
+        "state_country_label": { "type": "literal" , "value": "Hong Kong S.A.R." } ,
+        "country_label": { "type": "literal" , "value": "Zimbabwe" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "39" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Ferrara" } ,
+        "state_country_label": { "type": "literal" , "value": "Italy" } ,
+        "country_label": { "type": "literal" , "value": "Panama" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "35" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Victoria" } ,
+        "state_country_label": { "type": "literal" , "value": "Malta" } ,
+        "country_label": { "type": "literal" , "value": "Australia" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "34" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Imo" } ,
+        "state_country_label": { "type": "literal" , "value": "Nigeria" } ,
+        "country_label": { "type": "literal" , "value": "Costa Rica" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "33" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Caraga" } ,
+        "state_country_label": { "type": "literal" , "value": "Philippines" } ,
+        "country_label": { "type": "literal" , "value": "Costa Rica" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "28" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Amazonas" } ,
+        "state_country_label": { "type": "literal" , "value": "Brazil" } ,
+        "country_label": { "type": "literal" , "value": "Venezuela" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "23" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Canarias" } ,
+        "state_country_label": { "type": "literal" , "value": "Spain" } ,
+        "country_label": { "type": "literal" , "value": "Ecuador" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "22" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Saint Thomas" } ,
+        "state_country_label": { "type": "literal" , "value": "Barbados" } ,
+        "country_label": { "type": "literal" , "value": "Jamaica" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "20" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Edinburgh" } ,
+        "state_country_label": { "type": "literal" , "value": "United Kingdom" } ,
+        "country_label": { "type": "literal" , "value": "Russia" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "19" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Koror" } ,
+        "state_country_label": { "type": "literal" , "value": "Palau" } ,
+        "country_label": { "type": "literal" , "value": "Honduras" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "18" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Kocaeli" } ,
+        "state_country_label": { "type": "literal" , "value": "Turkey" } ,
+        "country_label": { "type": "literal" , "value": "Japan" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "17" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "El Menia" } ,
+        "state_country_label": { "type": "literal" , "value": "Algeria" } ,
+        "country_label": { "type": "literal" , "value": "Bolivia" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Bolívar" } ,
+        "state_country_label": { "type": "literal" , "value": "Colombia" } ,
+        "country_label": { "type": "literal" , "value": "Ecuador" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Tarxien" } ,
+        "state_country_label": { "type": "literal" , "value": "Malta" } ,
+        "country_label": { "type": "literal" , "value": "Panama" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Matabeleland North Province" } ,
+        "state_country_label": { "type": "literal" , "value": "Zimbabwe" } ,
+        "country_label": { "type": "literal" , "value": "United States" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Burgenland" } ,
+        "state_country_label": { "type": "literal" , "value": "Austria" } ,
+        "country_label": { "type": "literal" , "value": "Denmark" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" }
+      } ,
+      { 
+        "state_label": { "type": "literal" , "value": "Oyo" } ,
+        "state_country_label": { "type": "literal" , "value": "Nigeria" } ,
+        "country_label": { "type": "literal" , "value": "Japan" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" }
+      }
+    ]
+  }
+}

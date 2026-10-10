@@ -1,0 +1,38 @@
+{ "head": {
+    "vars": [ "s" , "p" , "o" , "dt" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/CandidateEntity_dc760a21_e4fd_4bc4_8842_7a974878eada" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/confidence" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6774761617183686" } ,
+        "dt": { "type": "uri" , "value": "http://www.w3.org/2001/XMLSchema#decimal" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/CandidateEntity_56db5164_098e_4754_a664_e0bc83768999" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/confidence" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6502000272274018" } ,
+        "dt": { "type": "uri" , "value": "http://www.w3.org/2001/XMLSchema#decimal" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/CandidateEntity_28c51944_864a_47f9_8c3a_656f4f642788" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/confidence" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.4045480638742447" } ,
+        "dt": { "type": "uri" , "value": "http://www.w3.org/2001/XMLSchema#decimal" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/CandidateEntity_46005be9_a283_4003_b22e_9d504178ea58" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/confidence" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.33737361431121826" } ,
+        "dt": { "type": "uri" , "value": "http://www.w3.org/2001/XMLSchema#decimal" }
+      } ,
+      { 
+        "s": { "type": "uri" , "value": "https://minmod.isi.edu/resource/CandidateEntity_a572be8e_7cb8_4c9b_94b8_d70b164b5c82" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/confidence" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8545757710933686" } ,
+        "dt": { "type": "uri" , "value": "http://www.w3.org/2001/XMLSchema#decimal" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?source ?lat_dp (COUNT(DISTINCT ?site) AS ?sites)
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :location ?wkt .
+  ?li :crs ?crsc . ?crsc :normalized_uri ?ce . ?ce rdfs:label ?crs_label .
+  FILTER(STR(?crs_label) = "EPSG:4326")
+  OPTIONAL { ?site :source_id ?source }
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*[-+0-9.eE]+\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?lat_s)
+  BIND(IF(CONTAINS(?lat_s, "."), STRLEN(STRAFTER(?lat_s, ".")), 0) AS ?lat_dp)
+  FILTER(?lat_dp <= 1)
+}
+GROUP BY ?source ?lat_dp
+ORDER BY DESC(?sites)

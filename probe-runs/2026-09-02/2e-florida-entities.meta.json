@@ -1,0 +1,11 @@
+{
+  "id": "2e-florida-entities",
+  "sent_at": "2026-09-02T21:57:05.144429+00:00",
+  "http_status": 200,
+  "elapsed_ms": 340,
+  "bytes": 1040,
+  "curl_exit": 0,
+  "row_count": 3,
+  "truncated_by_limit": false,
+  "error": null
+}

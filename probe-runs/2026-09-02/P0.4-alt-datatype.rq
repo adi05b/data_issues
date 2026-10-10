@@ -1,0 +1,4 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?dt (COUNT(*) AS ?n)
+WHERE { ?li a :LocationInfo ; :location ?wkt . BIND(DATATYPE(?wkt) AS ?dt) }
+GROUP BY ?dt ORDER BY DESC(?n)

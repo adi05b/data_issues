@@ -1,0 +1,20 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?axis_class (COUNT(DISTINCT ?site) AS ?values)
+WHERE {
+  ?site a :MineralSite ; :source_id ?source ; :location_info ?li .
+  FILTER(STR(?source) = "https://mrdata.usgs.gov/mrds")
+  ?li :location ?wkt ; :crs ?crsc .
+  ?crsc :normalized_uri ?ce . ?ce rdfs:label ?crs .
+  FILTER(STR(?crs) = "EPSG:4326")
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?s)
+  BIND(IF(CONTAINS(?s,"."), STRLEN(STRAFTER(?s,".")), 0) AS ?dp)
+  FILTER(?dp >= 6)
+  BIND(xsd:double(?s) AS ?v)
+  BIND(IF(?v = ROUND(?v), "1_whole_degree",
+       IF(ABS(?v*60   - ROUND(?v*60))   < 0.00000001, "2_arcminute",
+       IF(ABS(?v*3600 - ROUND(?v*3600)) < 0.00000001, "3_arcsecond",
+          "4_decimal_degrees"))) AS ?axis_class)
+}
+GROUP BY ?axis_class ORDER BY ?axis_class

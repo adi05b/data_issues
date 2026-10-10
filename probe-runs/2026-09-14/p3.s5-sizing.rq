@@ -1,0 +1,10 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+SELECT (COUNT(DISTINCT ?site) AS ?sites_in_clusters_with_4326_coords)
+WHERE {
+  ?site a :MineralSite ; owl:sameAs ?o ; :location_info ?li .
+  ?li :location ?wkt ; :crs ?c .
+  ?c :normalized_uri ?ce . ?ce rdfs:label ?crs .
+  FILTER(STR(?crs) = "EPSG:4326")
+}

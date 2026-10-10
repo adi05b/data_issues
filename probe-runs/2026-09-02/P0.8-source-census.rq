@@ -1,0 +1,4 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?source_id (COUNT(DISTINCT ?site) AS ?sites)
+WHERE { ?site a :MineralSite ; :source_id ?source_id }
+GROUP BY ?source_id ORDER BY DESC(?sites)

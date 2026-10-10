@@ -1,0 +1,12 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?crs_label ?crs_obs (COUNT(DISTINCT ?li) AS ?nodes)
+WHERE {
+  ?li a :LocationInfo .
+  OPTIONAL { ?li :crs ?crsc .
+             OPTIONAL { ?crsc :observed_name ?crs_obs }
+             OPTIONAL { ?crsc :normalized_uri ?ce . OPTIONAL { ?ce rdfs:label ?crs_label } } }
+}
+GROUP BY ?crs_label ?crs_obs
+ORDER BY DESC(?nodes)

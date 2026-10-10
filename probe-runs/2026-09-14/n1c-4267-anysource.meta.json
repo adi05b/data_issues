@@ -1,0 +1,11 @@
+{
+  "id": "n1c-4267-anysource",
+  "sent_at": "2026-09-14T21:05:22.566684+00:00",
+  "http_status": 200,
+  "elapsed_ms": 2616,
+  "bytes": 344,
+  "curl_exit": 0,
+  "row_count": 1,
+  "truncated_by_limit": false,
+  "error": null
+}

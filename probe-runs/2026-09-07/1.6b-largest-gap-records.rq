@@ -1,0 +1,19 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?site ?label ?source ?wkt ?lond ?latd ?gap ?country_obs ?state_obs
+WHERE {
+  ?site a :MineralSite ; :source_id ?source ; :location_info ?li .
+  ?li :location ?wkt ; :crs ?crsc .
+  ?crsc :normalized_uri ?ce . ?ce rdfs:label ?crs .
+  FILTER(STR(?crs) = "EPSG:4326")
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?lo)
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?la)
+  BIND(IF(CONTAINS(?lo,"."), STRLEN(STRAFTER(?lo,".")), 0) AS ?lond)
+  BIND(IF(CONTAINS(?la,"."), STRLEN(STRAFTER(?la,".")), 0) AS ?latd)
+  BIND(ABS(?lond - ?latd) AS ?gap)
+  FILTER(?gap >= 12)
+  OPTIONAL { ?site rdfs:label ?label }
+  OPTIONAL { ?li :country ?cc . ?cc :observed_name ?country_obs }
+  OPTIONAL { ?li :state_or_province ?sc . ?sc :observed_name ?state_obs }
+}
+ORDER BY DESC(?gap) LIMIT 12

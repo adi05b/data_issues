@@ -1,0 +1,5 @@
+probe: n1-nad27-sources / n2-nad27-coords
+attempted_at: 2026-09-14T01:06:31Z
+result: BLOCKED - curl (60) SSL certificate problem
+cert notAfter: Sep 12 23:59:59 2026 GMT (expired, NOT renewed)
+action: stopped per run instruction; TLS verification NOT disabled

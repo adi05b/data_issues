@@ -1,0 +1,20 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?site ?name ?source ?lon ?lat ?crs_label ?country_obs ?state_obs
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :location ?wkt .
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?lon_s)
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?lat_s)
+  BIND(xsd:double(?lon_s) AS ?lon)
+  BIND(xsd:double(?lat_s) AS ?lat)
+  FILTER(BOUND(?lat) && (?lat > 90 || ?lat < -90))
+  OPTIONAL { ?site :name ?name }
+  OPTIONAL { ?site :source_id ?source }
+  OPTIONAL { ?li :crs ?crsc . ?crsc :normalized_uri ?crs_ent . ?crs_ent rdfs:label ?crs_label }
+  OPTIONAL { ?li :country ?cc . ?cc :observed_name ?country_obs }
+  OPTIONAL { ?li :state_or_province ?sc . ?sc :observed_name ?state_obs }
+}
+LIMIT 30

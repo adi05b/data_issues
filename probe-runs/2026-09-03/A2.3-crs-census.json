@@ -1,0 +1,40 @@
+{ "head": {
+    "vars": [ "crs_label" , "crs_obs" , "nodes" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "crs_label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "crs_obs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "403549" }
+      } ,
+      { 
+        "crs_label": { "type": "literal" , "value": "EPSG:2994" } ,
+        "crs_obs": { "type": "literal" , "value": "EPSG:2994" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "23316" }
+      } ,
+      { 
+        "crs_label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7869" }
+      } ,
+      { 
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "crs_obs": { "type": "literal" , "value": "EPSG:26912" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7792" }
+      } ,
+      { 
+        "crs_label": { "type": "literal" , "value": "EPSG:4267" } ,
+        "crs_obs": { "type": "literal" , "value": "EPSG:4267" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7720" }
+      } ,
+      { 
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1280" }
+      } ,
+      { 
+        "crs_label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "crs_obs": { "type": "literal" , "value": "WGS84" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

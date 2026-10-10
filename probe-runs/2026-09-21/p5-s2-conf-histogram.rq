@@ -1,0 +1,9 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?bucket (COUNT(*) AS ?nodes) (COUNT(DISTINCT ?site) AS ?records)
+WHERE {
+  ?site a :MineralSite ; :mineral_inventory ?mi .
+  ?mi :commodity ?cm .
+  ?cm :confidence ?conf .
+  BIND(FLOOR(?conf * 20) / 20 AS ?bucket)
+}
+GROUP BY ?bucket ORDER BY ?bucket

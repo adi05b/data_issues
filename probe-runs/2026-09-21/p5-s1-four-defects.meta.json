@@ -1,0 +1,11 @@
+{
+  "id": "p5-s1-four-defects",
+  "sent_at": "2026-09-22T03:18:46.946019+00:00",
+  "http_status": 200,
+  "elapsed_ms": 25427,
+  "bytes": 7328,
+  "curl_exit": 0,
+  "row_count": 14,
+  "truncated_by_limit": false,
+  "error": null
+}

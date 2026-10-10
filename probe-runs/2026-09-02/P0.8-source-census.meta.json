@@ -1,0 +1,11 @@
+{
+  "id": "P0.8-source-census",
+  "sent_at": "2026-09-02T21:53:51.498486+00:00",
+  "http_status": 200,
+  "elapsed_ms": 5326,
+  "bytes": 11192,
+  "curl_exit": 0,
+  "row_count": 48,
+  "truncated_by_limit": false,
+  "error": null
+}

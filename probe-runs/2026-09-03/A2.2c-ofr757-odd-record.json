@@ -1,0 +1,15 @@
+{ "head": {
+    "vars": [ "site" , "label" , "record_id" , "country_obs" , "state_obs" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__4563__umn" } ,
+        "label": { "type": "literal" , "value": "A&G" } ,
+        "record_id": { "type": "literal" , "value": "4563" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" }
+      }
+    ]
+  }
+}

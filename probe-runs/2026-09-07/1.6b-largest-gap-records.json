@@ -1,0 +1,118 @@
+{ "head": {
+    "vars": [ "site" , "label" , "source" , "wkt" , "lond" , "latd" , "gap" , "country_obs" , "state_obs" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-porcu__271__umn" } ,
+        "label": { "type": "literal" , "value": "Los  Linderos" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-80 -4.33333333333333)" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "gap": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-major-deposits__1955__umn" } ,
+        "label": { "type": "literal" , "value": "Belangero" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "wkt": { "type": "literal" , "value": "POINT (7.41666666666667 45)" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "gap": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "country_obs": { "type": "literal" , "value": "Italy" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-porcu__140__umn" } ,
+        "label": { "type": "literal" , "value": "Trojan" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-121 50.5666666666667)" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "gap": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-sedcu__73__umn" } ,
+        "label": { "type": "literal" , "value": "Itawa" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (28.6111111111111 -13)" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "gap": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-porcu__278__umn" } ,
+        "label": { "type": "literal" , "value": "Warintza" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-78.6 -3.78333333333333)" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "gap": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-sedcu__6__umn" } ,
+        "label": { "type": "literal" , "value": "Ain Sefra" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-0.583333333333333 32.75)" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "gap": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-porcu__11__umn" } ,
+        "label": { "type": "literal" , "value": "Carrizal" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-69.1666666666667 -30)" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "gap": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-porcu__422__umn" } ,
+        "label": { "type": "literal" , "value": "Panguna" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (155.5 -6.31666666666667)" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "gap": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "state_obs": { "type": "literal" , "value": "Bougainville Island" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-porcu__34__umn" } ,
+        "label": { "type": "literal" , "value": "Cadia  Hill/Ridgeway" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (149 -33.4666666666667)" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "gap": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-sedcu__767__umn" } ,
+        "label": { "type": "literal" , "value": "Martín Bronce" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-64.4166666666667 -24)" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "0" } ,
+        "gap": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-porcu__410__umn" } ,
+        "label": { "type": "literal" , "value": "Cerro  Quema" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-80.6 7.63333333333333)" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "gap": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-porcu__252__umn" } ,
+        "label": { "type": "literal" , "value": "Infierno-Chile" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-75.3 4.18333333333333)" } ,
+        "lond": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "latd": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" } ,
+        "gap": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "13" }
+      }
+    ]
+  }
+}

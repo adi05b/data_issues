@@ -1,0 +1,11 @@
+{
+  "id": "p5-s2-conf-histogram",
+  "sent_at": "2026-09-22T03:15:58.208625+00:00",
+  "http_status": 200,
+  "elapsed_ms": 19072,
+  "bytes": 4891,
+  "curl_exit": 0,
+  "row_count": 13,
+  "truncated_by_limit": false,
+  "error": null
+}

@@ -1,0 +1,36 @@
+{ "head": {
+    "vars": [ "variant" , "sites" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "variant": { "type": "literal" , "value": "a_lat_dp_eq_1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2853" }
+      } ,
+      { 
+        "variant": { "type": "literal" , "value": "b_lon_dp_eq_1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3081" }
+      } ,
+      { 
+        "variant": { "type": "literal" , "value": "c_either_eq_1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5409" }
+      } ,
+      { 
+        "variant": { "type": "literal" , "value": "d_both_le_1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8708" }
+      } ,
+      { 
+        "variant": { "type": "literal" , "value": "e_either_le_1" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14200" }
+      } ,
+      { 
+        "variant": { "type": "literal" , "value": "f_lat_dp_eq_0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8334" }
+      } ,
+      { 
+        "variant": { "type": "literal" , "value": "g_both_eq_0" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7968" }
+      }
+    ]
+  }
+}

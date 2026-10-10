@@ -1,0 +1,11 @@
+{
+  "id": "2d",
+  "sent_at": "2026-09-02T21:57:45.103210+00:00",
+  "http_status": 200,
+  "elapsed_ms": 7830,
+  "bytes": 78228,
+  "curl_exit": 0,
+  "row_count": 223,
+  "truncated_by_limit": false,
+  "error": null
+}

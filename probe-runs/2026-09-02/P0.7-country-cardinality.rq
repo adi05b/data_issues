@@ -1,0 +1,8 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?n_countries (COUNT(DISTINCT ?site) AS ?sites)
+WHERE {
+  { SELECT ?site (COUNT(DISTINCT ?cc) AS ?n_countries)
+    WHERE { ?site a :MineralSite ; :location_info ?li . OPTIONAL { ?li :country ?cc } }
+    GROUP BY ?site }
+}
+GROUP BY ?n_countries ORDER BY ?n_countries

@@ -1,0 +1,11 @@
+{
+  "id": "A2.2-ofr757-crosstab",
+  "sent_at": "2026-09-02T23:53:51.104565+00:00",
+  "http_status": 200,
+  "elapsed_ms": 3024,
+  "bytes": 572,
+  "curl_exit": 0,
+  "row_count": 2,
+  "truncated_by_limit": false,
+  "error": null
+}

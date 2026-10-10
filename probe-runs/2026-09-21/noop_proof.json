@@ -1,0 +1,77 @@
+[
+  {
+    "case": "swap lands INSIDE NAD27 aou",
+    "epsg": 4267,
+    "in_lon": 20.0,
+    "in_lat": -60.0,
+    "bug_out": [
+      20.000560085325898,
+      -59.99934635254009
+    ],
+    "fix_out": [
+      20.0,
+      -60.0
+    ],
+    "noop": false
+  },
+  {
+    "case": "swap lands OUTSIDE NAD27 aou (a real Alaska record)",
+    "epsg": 4267,
+    "in_lon": -148.9,
+    "in_lat": 63.91,
+    "bug_out": [
+      -148.9,
+      63.91
+    ],
+    "fix_out": [
+      -148.90240739202434,
+      63.90951643611564
+    ],
+    "noop": true
+  },
+  {
+    "case": "swap lands OUTSIDE NAD27 aou (a hypothetical CONUS record)",
+    "epsg": 4267,
+    "in_lon": -80.0,
+    "in_lat": 35.0,
+    "bug_out": [
+      -80.0,
+      35.0
+    ],
+    "fix_out": [
+      -79.99978194993851,
+      35.00010851121537
+    ],
+    "noop": true
+  },
+  {
+    "case": "swap lands INSIDE NAD83 aou",
+    "epsg": 4269,
+    "in_lon": 20.0,
+    "in_lat": -60.0,
+    "bug_out": [
+      20.0,
+      -60.0
+    ],
+    "fix_out": [
+      20.0,
+      -60.0
+    ],
+    "noop": true
+  },
+  {
+    "case": "swap lands OUTSIDE NAD83 aou (a hypothetical CONUS record)",
+    "epsg": 4269,
+    "in_lon": -80.0,
+    "in_lat": 35.0,
+    "bug_out": [
+      -80.0,
+      35.0
+    ],
+    "fix_out": [
+      -80.0,
+      35.0
+    ],
+    "noop": true
+  }
+]

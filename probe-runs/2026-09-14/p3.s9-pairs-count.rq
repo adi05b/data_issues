@@ -1,0 +1,11 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+SELECT (COUNT(*) AS ?pairs_both_have_4326_coords)
+WHERE {
+  ?s a :MineralSite ; owl:sameAs ?o .
+  ?s :location_info ?li1 . ?li1 :location ?w1 ; :crs ?c1 .
+  ?c1 :normalized_uri ?e1 . ?e1 rdfs:label ?k1 . FILTER(STR(?k1)="EPSG:4326")
+  ?o :location_info ?li2 . ?li2 :location ?w2 ; :crs ?c2 .
+  ?c2 :normalized_uri ?e2 . ?e2 rdfs:label ?k2 . FILTER(STR(?k2)="EPSG:4326")
+}

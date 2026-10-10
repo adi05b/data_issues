@@ -1,0 +1,60 @@
+{ "head": {
+    "vars": [ "a" , "n" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "a": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2357" }
+      } ,
+      { 
+        "a": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "278" }
+      } ,
+      { 
+        "a": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "220" }
+      } ,
+      { 
+        "a": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "214" }
+      } ,
+      { 
+        "a": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "109" }
+      } ,
+      { 
+        "a": { "type": "literal" , "value": "https://doi.org/10.4095/295581" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "86" }
+      } ,
+      { 
+        "a": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "77" }
+      } ,
+      { 
+        "a": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "63" }
+      } ,
+      { 
+        "a": { "type": "literal" , "value": "https://mrdata.usgs.gov/deposit" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "29" }
+      } ,
+      { 
+        "a": { "type": "literal" , "value": "https://doi.org/10.3133/pp1802J" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "a": { "type": "literal" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "a": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "a": { "type": "literal" , "value": "https://doi.org/10.1007/s00126-023-01161-3" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

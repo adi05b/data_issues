@@ -1,0 +1,11 @@
+{ "head": {
+    "vars": [ "typed_measures_with_value" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "typed_measures_with_value": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "207765" }
+      }
+    ]
+  }
+}

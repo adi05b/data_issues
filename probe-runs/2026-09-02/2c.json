@@ -1,0 +1,258 @@
+{ "head": {
+    "vars": [ "label" , "entities" , "countries" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "label": { "type": "literal" , "value": "Central Province" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" } ,
+        "countries": { "type": "literal" , "value": "Q1131, Q1170, Q1202, Q1209, Q1248" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Western Province" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" } ,
+        "countries": { "type": "literal" , "value": "Q1170, Q1182, Q1202, Q1209, Q1248" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Eastern Province" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" } ,
+        "countries": { "type": "literal" , "value": "Q1182, Q1193, Q1197, Q1209, Q1248" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint George Parish" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "countries": { "type": "literal" , "value": "Q1009, Q1061, Q1087, Q1187" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Amazonas" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "countries": { "type": "literal" , "value": "Q1030, Q1047, Q1172, Q1241" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Northern Province" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "countries": { "type": "literal" , "value": "Q1182, Q1197, Q1209, Q1248" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Southern Province" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "countries": { "type": "literal" , "value": "Q1182, Q1197, Q1209, Q1248" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint John Parish" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "countries": { "type": "literal" , "value": "Q1009, Q1061, Q1087" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Córdoba" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "countries": { "type": "literal" , "value": "Q1010, Q1047, Q1208" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "San Juan" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "countries": { "type": "literal" , "value": "Q1010, Q1177" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Northern" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "countries": { "type": "literal" , "value": "Q1016, Q1083, Q1210" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "La Paz Department" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "countries": { "type": "literal" , "value": "Q1025, Q1065, Q1097" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Centre" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "countries": { "type": "literal" , "value": "Q1034, Q1037, Q1095" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "North" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "countries": { "type": "literal" , "value": "Q1037, Q1098, Q1120" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Bolívar" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "countries": { "type": "literal" , "value": "Q1047, Q1063, Q1241" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint Andrew Parish" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "countries": { "type": "literal" , "value": "Q1061, Q1087, Q1187" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint David Parish" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "countries": { "type": "literal" , "value": "Q1061, Q1087, Q1187" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint Patrick Parish" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "countries": { "type": "literal" , "value": "Q1061, Q1087, Q1187" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Western Region" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "countries": { "type": "literal" , "value": "Q1100, Q1152, Q1231" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Central Region" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "countries": { "type": "literal" , "value": "Q1129, Q1152, Q1231" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Florida" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" } ,
+        "countries": { "type": "literal" , "value": "Q1177, Q1235, Q1237" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Adrar" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1003, Q1137" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint Paul Parish" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1009, Q1061" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint Peter Parish" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1009, Q1061" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint Mary Parish" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1009, Q1108" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Santa Cruz" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1010, Q1039" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "La Rioja" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1010, Q1208" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Río Negro" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1010, Q1237" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Victoria" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1013, Q1133" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Central" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1016, Q1083" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Southern" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1016, Q1098" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Capital" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1016, Q1116" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint Andrew" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1018, Q1108" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint John" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1018, Q1244" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint Thomas" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1018, Q1244" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Limburg" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1020, Q1153" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Pembroke" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1023, Q1133" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Bonaire" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1026, Q1153" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saba" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1026, Q1153" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Sint Eustatius" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1026, Q1153" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Central District" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1028, Q1106" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Southern District" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1028, Q1106" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Santa Catarina" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1030, Q1039" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "South" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1037, Q1120" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Adamawa" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1037, Q1158" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Los Ríos" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1043, Q1063" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Sucre" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1047, Q1241" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Savanes Region" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1052, Q1222" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Zagreb" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1053" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint Mark Parish" } ,
+        "entities": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" } ,
+        "countries": { "type": "literal" , "value": "Q1061, Q1087" }
+      }
+    ]
+  }
+}

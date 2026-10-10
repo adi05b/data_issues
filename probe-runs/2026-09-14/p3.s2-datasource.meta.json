@@ -1,0 +1,11 @@
+{
+  "id": "p3.s2-datasource",
+  "sent_at": "2026-09-14T20:31:40.687033+00:00",
+  "http_status": 200,
+  "elapsed_ms": 119,
+  "bytes": 90051,
+  "curl_exit": 0,
+  "row_count": 324,
+  "truncated_by_limit": false,
+  "error": null
+}

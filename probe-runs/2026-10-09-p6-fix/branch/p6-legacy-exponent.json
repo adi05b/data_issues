@@ -1,0 +1,33 @@
+{
+ "1_left_after_deleting_0.00005": [
+  {
+   "lex": "5e-05"
+  }
+ ],
+ "2a_values_before_update": [
+  {
+   "m": "https://minmod.isi.edu/resource/Measure_4ad21aca_1c35_47bd_bb33_9edc25122a2d",
+   "lex": "5e-05",
+   "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+  }
+ ],
+ "2b_values_after_update": [
+  {
+   "m": "https://minmod.isi.edu/resource/Measure_4ad21aca_1c35_47bd_bb33_9edc25122a2d",
+   "lex": "5e-05",
+   "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+  },
+  {
+   "m": "https://minmod.isi.edu/resource/Measure_abc198e2_1225_4737_b15c_4881dc2d4915",
+   "lex": "0.00005",
+   "dt": "http://www.w3.org/2001/XMLSchema#decimal"
+  }
+ ],
+ "2c_orphans_after_update": [
+  {
+   "n": "https://minmod.isi.edu/resource/Measure_4ad21aca_1c35_47bd_bb33_9edc25122a2d",
+   "p": "https://minmod.isi.edu/ontology/value",
+   "o": 5e-05
+  }
+ ]
+}

@@ -1,0 +1,1011 @@
+{
+  "pyproj": "3.8.0",
+  "proj": "9.8.1",
+  "corpus": [
+    {
+      "epsg": 4326,
+      "name": "WGS 84",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+      ],
+      "area_of_use_name": "World.",
+      "corpus_nodes_2026_09_03": 411419,
+      "source": "many",
+      "probe_input_xy": [
+        -110.5,
+        38.0
+      ],
+      "current_code_output": [
+        -110.5,
+        38.0
+      ],
+      "always_xy_output": [
+        -110.5,
+        38.0
+      ],
+      "current_output_is_input_unchanged": true,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 2994,
+      "name": "NAD83(HARN) / Oregon GIC Lambert (ft)",
+      "is_geographic": false,
+      "is_projected": true,
+      "axis0_direction": "east",
+      "axis0_name": "Easting",
+      "axis1_direction": "north",
+      "area_of_use": [
+        -124.6,
+        41.98,
+        -116.47,
+        46.26
+      ],
+      "area_of_use_name": "United States (USA) - Oregon.",
+      "corpus_nodes_2026_09_03": 23316,
+      "source": "oregongeology",
+      "probe_input_xy": [
+        1300000.0,
+        300000.0
+      ],
+      "current_code_output": [
+        42.57286051806395,
+        -120.54580076959374
+      ],
+      "always_xy_output": [
+        -120.54580076959374,
+        42.57286051806395
+      ],
+      "current_output_is_input_unchanged": false,
+      "current_output_axes_swapped_vs_fix": true,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 26912,
+      "name": "NAD83 / UTM zone 12N",
+      "is_geographic": false,
+      "is_projected": true,
+      "axis0_direction": "east",
+      "axis0_name": "Easting",
+      "axis1_direction": "north",
+      "area_of_use": [
+        -114.0,
+        31.33,
+        -108.0,
+        84.0
+      ],
+      "area_of_use_name": "North America - between 114\u00b0W and 108\u00b0W - onshore and offshore. Canada - Alberta; Northwest Territories; Nunavut; Saskatchewan. United States (USA) - Arizona; Colorado; Idaho; Montana; New Mexico; Utah; Wyoming.",
+      "corpus_nodes_2026_09_03": 7792,
+      "source": "OFR-757 / Utah",
+      "probe_input_xy": [
+        500000.0,
+        4200000.0
+      ],
+      "current_code_output": [
+        37.94758957278189,
+        -111.0
+      ],
+      "always_xy_output": [
+        -111.0,
+        37.94758957278189
+      ],
+      "current_output_is_input_unchanged": false,
+      "current_output_axes_swapped_vs_fix": true,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4267,
+      "name": "NAD27",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        167.65,
+        7.15,
+        -47.74,
+        83.17
+      ],
+      "area_of_use_name": "North and central America: Antigua and Barbuda - onshore. Bahamas - onshore plus offshore over internal continental shelf only. Belize - onshore. British Virgin Islands - onshore. Canada onshore - Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan and Yukon - plus offshore east coast. Cuba - onshore and offshore. El Salvador - onshore. Guatemala - onshore. Honduras - onshore. Panama - onshore. Puerto Rico - onshore. Mexico - onshore plus offshore east coast. Nicaragua - onshore. United States (USA) onshore and offshore - Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin and Wyoming - plus offshore . US Virgin Islands - onshore.",
+      "corpus_nodes_2026_09_03": 7720,
+      "source": "ardf (doi.org/10.5066/P96MMRFD)",
+      "probe_input_xy": [
+        -148.9,
+        63.91
+      ],
+      "current_code_output": [
+        -148.9,
+        63.91
+      ],
+      "always_xy_output": [
+        -148.90240739202434,
+        63.90951643611564
+      ],
+      "current_output_is_input_unchanged": true,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    }
+  ],
+  "speculative": [
+    {
+      "epsg": 4019,
+      "name": "Unknown datum based upon the GRS 1980 ellipsoid",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+      ],
+      "area_of_use_name": "Not specified.",
+      "probe_input_xy": [
+        0.0,
+        0.0
+      ],
+      "current_code_output": [
+        0.0,
+        0.0
+      ],
+      "always_xy_output": [
+        0.0,
+        0.0
+      ],
+      "current_output_is_input_unchanged": true,
+      "current_output_axes_swapped_vs_fix": true,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4030,
+      "name": "Unknown datum based upon the WGS 84 ellipsoid",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+      ],
+      "area_of_use_name": "Not specified.",
+      "probe_input_xy": [
+        0.0,
+        0.0
+      ],
+      "current_code_output": [
+        0.0,
+        0.0
+      ],
+      "always_xy_output": [
+        0.0,
+        0.0
+      ],
+      "current_output_is_input_unchanged": true,
+      "current_output_axes_swapped_vs_fix": true,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4267,
+      "name": "NAD27",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        167.65,
+        7.15,
+        -47.74,
+        83.17
+      ],
+      "area_of_use_name": "North and central America: Antigua and Barbuda - onshore. Bahamas - onshore plus offshore over internal continental shelf only. Belize - onshore. British Virgin Islands - onshore. Canada onshore - Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan and Yukon - plus offshore east coast. Cuba - onshore and offshore. El Salvador - onshore. Guatemala - onshore. Honduras - onshore. Panama - onshore. Puerto Rico - onshore. Mexico - onshore plus offshore east coast. Nicaragua - onshore. United States (USA) onshore and offshore - Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin and Wyoming - plus offshore . US Virgin Islands - onshore.",
+      "probe_input_xy": [
+        59.955,
+        45.160000000000004
+      ],
+      "current_code_output": [
+        59.955,
+        45.160000000000004
+      ],
+      "always_xy_output": [
+        59.955,
+        45.160000000000004
+      ],
+      "current_output_is_input_unchanged": true,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4268,
+      "name": "NAD27 Michigan",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -90.42,
+        41.69,
+        -82.13,
+        48.32
+      ],
+      "area_of_use_name": "United States (USA) - Michigan.",
+      "probe_input_xy": [
+        -86.275,
+        45.004999999999995
+      ],
+      "current_code_output": [
+        -86.275,
+        45.004999999999995
+      ],
+      "always_xy_output": [
+        -86.275,
+        45.004999999999995
+      ],
+      "current_output_is_input_unchanged": true,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4269,
+      "name": "NAD83",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        167.65,
+        14.92,
+        -40.73,
+        86.45
+      ],
+      "area_of_use_name": "North America - onshore and offshore: Canada - Alberta; British Columbia; Manitoba; New Brunswick; Newfoundland and Labrador; Northwest Territories; Nova Scotia; Nunavut; Ontario; Prince Edward Island; Quebec; Saskatchewan; Yukon. Puerto Rico. United States (USA) - Alabama; Alaska; Arizona; Arkansas; California; Colorado; Connecticut; Delaware; Florida; Georgia; Hawaii; Idaho; Illinois; Indiana; Iowa; Kansas; Kentucky; Louisiana; Maine; Maryland; Massachusetts; Michigan; Minnesota; Mississippi; Missouri; Montana; Nebraska; Nevada; New Hampshire; New Jersey; New Mexico; New York; North Carolina; North Dakota; Ohio; Oklahoma; Oregon; Pennsylvania; Rhode Island; South Carolina; South Dakota; Tennessee; Texas; Utah; Vermont; Virginia; Washington; West Virginia; Wisconsin; Wyoming. US Virgin Islands. British Virgin Islands.",
+      "probe_input_xy": [
+        63.46000000000001,
+        50.685
+      ],
+      "current_code_output": [
+        63.46000000000001,
+        50.685
+      ],
+      "always_xy_output": [
+        63.46000000000001,
+        50.685
+      ],
+      "current_output_is_input_unchanged": true,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4270,
+      "name": "Nahrwan 1967",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        50.55,
+        22.63,
+        57.13,
+        27.05
+      ],
+      "area_of_use_name": "Arabian Gulf; Qatar - offshore; United Arab Emirates (UAE) - Abu Dhabi; Dubai; Sharjah; Ajman; Fujairah; Ras Al Kaimah; Umm Al Qaiwain - onshore and offshore.",
+      "probe_input_xy": [
+        53.84,
+        24.84
+      ],
+      "current_code_output": [
+        53.84,
+        24.84
+      ],
+      "always_xy_output": [
+        53.84107354238244,
+        24.84175165787582
+      ],
+      "current_output_is_input_unchanged": true,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4271,
+      "name": "Naparima 1972",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -60.9,
+        11.08,
+        -60.44,
+        11.41
+      ],
+      "area_of_use_name": "Trinidad and Tobago - Tobago - onshore.",
+      "probe_input_xy": [
+        -60.67,
+        11.245000000000001
+      ],
+      "current_code_output": [
+        -60.66798683004594,
+        11.251716618738028
+      ],
+      "always_xy_output": [
+        -60.668338236867484,
+        11.246786625829838
+      ],
+      "current_output_is_input_unchanged": false,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4272,
+      "name": "NZGD49",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        165.87,
+        -47.65,
+        179.27,
+        -33.89
+      ],
+      "area_of_use_name": "New Zealand - North Island, South Island, Stewart Island - onshore and nearshore.",
+      "probe_input_xy": [
+        172.57,
+        -40.769999999999996
+      ],
+      "current_code_output": [
+        Infinity,
+        Infinity
+      ],
+      "always_xy_output": [
+        172.5701385998545,
+        -40.76827044573547
+      ],
+      "current_output_is_input_unchanged": false,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": true
+    },
+    {
+      "epsg": 4273,
+      "name": "NGO 1948",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        4.39,
+        57.9,
+        31.32,
+        71.24
+      ],
+      "area_of_use_name": "Norway - onshore.",
+      "probe_input_xy": [
+        17.855,
+        64.57
+      ],
+      "current_code_output": [
+        17.860848231887214,
+        64.5658641695477
+      ],
+      "always_xy_output": [
+        17.848864524602874,
+        64.57056694034563
+      ],
+      "current_output_is_input_unchanged": false,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4274,
+      "name": "Datum 73",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -9.56,
+        36.95,
+        -6.19,
+        42.16
+      ],
+      "area_of_use_name": "Portugal - mainland - onshore.",
+      "probe_input_xy": [
+        -7.875,
+        39.555
+      ],
+      "current_code_output": [
+        -7.874633567595041,
+        39.55734710142754
+      ],
+      "always_xy_output": [
+        -7.874086272565917,
+        39.55580253686917
+      ],
+      "current_output_is_input_unchanged": false,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4275,
+      "name": "NTF",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -4.87,
+        41.31,
+        9.63,
+        51.14
+      ],
+      "area_of_use_name": "France - onshore - mainland and Corsica.",
+      "probe_input_xy": [
+        2.3800000000000003,
+        46.225
+      ],
+      "current_code_output": [
+        2.3826899589784922,
+        46.2257174464364
+      ],
+      "always_xy_output": [
+        2.3793133868279983,
+        46.22495629468768
+      ],
+      "current_output_is_input_unchanged": false,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4276,
+      "name": "NSWC 9Z-2",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+      ],
+      "area_of_use_name": "World.",
+      "probe_input_xy": [
+        0.0,
+        0.0
+      ],
+      "current_code_output": [
+        0.0,
+        0.0
+      ],
+      "always_xy_output": [
+        0.0,
+        0.0
+      ],
+      "current_output_is_input_unchanged": true,
+      "current_output_axes_swapped_vs_fix": true,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4277,
+      "name": "OSGB36",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -9.01,
+        49.75,
+        2.01,
+        61.01
+      ],
+      "area_of_use_name": "United Kingdom (UK) - offshore to boundary of UKCS within 49\u00b045'N to 61\u00b0N and 9\u00b0W to 2\u00b0E; onshore Great Britain (England, Wales and Scotland). Isle of Man onshore.",
+      "probe_input_xy": [
+        -3.5,
+        55.379999999999995
+      ],
+      "current_code_output": [
+        -3.5,
+        55.379999999999995
+      ],
+      "always_xy_output": [
+        -3.5013607419148154,
+        55.38000616818721
+      ],
+      "current_output_is_input_unchanged": true,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4278,
+      "name": "OSGB70",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -8.82,
+        49.79,
+        1.92,
+        60.94
+      ],
+      "area_of_use_name": "United Kingdom (UK) - Great Britain - England and Wales onshore, Scotland onshore and Western Isles nearshore including Sea of the Hebrides and The Minch; Isle of Man onshore.",
+      "probe_input_xy": [
+        -3.45,
+        55.364999999999995
+      ],
+      "current_code_output": [
+        -3.45,
+        55.364999999999995
+      ],
+      "always_xy_output": [
+        -3.45,
+        55.364999999999995
+      ],
+      "current_output_is_input_unchanged": true,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4279,
+      "name": "OS(SN)80",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -10.56,
+        49.81,
+        1.84,
+        60.9
+      ],
+      "area_of_use_name": "Ireland - onshore. United Kingdom (UK) - onshore - England; Scotland; Wales; Northern Ireland. Isle of Man.",
+      "probe_input_xy": [
+        -4.36,
+        55.355000000000004
+      ],
+      "current_code_output": [
+        -4.36,
+        55.355000000000004
+      ],
+      "always_xy_output": [
+        -4.36,
+        55.355000000000004
+      ],
+      "current_output_is_input_unchanged": true,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4300,
+      "name": "TM75",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -10.56,
+        51.39,
+        -5.34,
+        55.43
+      ],
+      "area_of_use_name": "Ireland - onshore. United Kingdom (UK) - Northern Ireland (Ulster) - onshore.",
+      "probe_input_xy": [
+        -7.95,
+        53.41
+      ],
+      "current_code_output": [
+        -7.9451076417429265,
+        53.40557402516853
+      ],
+      "always_xy_output": [
+        -7.950744266555294,
+        53.41022299042151
+      ],
+      "current_output_is_input_unchanged": false,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4301,
+      "name": "Tokyo",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        122.83,
+        20.37,
+        154.05,
+        45.54
+      ],
+      "area_of_use_name": "Japan - onshore; Democratic People's Republic of Korea (North Korea) - onshore; Republic of Korea (South Korea) - onshore.",
+      "probe_input_xy": [
+        138.44,
+        32.955
+      ],
+      "current_code_output": [
+        Infinity,
+        Infinity
+      ],
+      "always_xy_output": [
+        138.43697863893422,
+        32.95850704154761
+      ],
+      "current_output_is_input_unchanged": false,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": true
+    },
+    {
+      "epsg": 4302,
+      "name": "Trinidad 1903",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -62.09,
+        9.83,
+        -60.0,
+        11.51
+      ],
+      "area_of_use_name": "Trinidad and Tobago - Trinidad - onshore and offshore.",
+      "probe_input_xy": [
+        -61.045,
+        10.67
+      ],
+      "current_code_output": [
+        -61.04079493026385,
+        10.675385376953123
+      ],
+      "always_xy_output": [
+        -61.044234609427846,
+        10.673706279954159
+      ],
+      "current_output_is_input_unchanged": false,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4303,
+      "name": "TC(1948)",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        51.56,
+        22.63,
+        56.03,
+        25.34
+      ],
+      "area_of_use_name": "United Arab Emirates (UAE) - Abu Dhabi onshore and Dubai onshore.",
+      "probe_input_xy": [
+        53.795,
+        23.985
+      ],
+      "current_code_output": [
+        53.795,
+        23.985
+      ],
+      "always_xy_output": [
+        53.795,
+        23.985
+      ],
+      "current_output_is_input_unchanged": true,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4304,
+      "name": "Voirol 1875",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -2.95,
+        31.99,
+        9.09,
+        37.14
+      ],
+      "area_of_use_name": "Algeria - onshore north of 32\u00b0N.",
+      "probe_input_xy": [
+        3.07,
+        34.565
+      ],
+      "current_code_output": [
+        3.0718099811913775,
+        34.563542771683906
+      ],
+      "always_xy_output": [
+        3.0673549639352817,
+        34.56418510557312
+      ],
+      "current_output_is_input_unchanged": false,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4305,
+      "error": "CRSError: Invalid projection: EPSG:4305: (Internal Proj Error: proj_create: crs not found: EPSG:4305)"
+    },
+    {
+      "epsg": 4306,
+      "name": "Bern 1938",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        5.95,
+        45.81,
+        10.5,
+        47.81
+      ],
+      "area_of_use_name": "Liechtenstein; Switzerland.",
+      "probe_input_xy": [
+        8.225,
+        46.81
+      ],
+      "current_code_output": [
+        8.225,
+        46.81
+      ],
+      "always_xy_output": [
+        8.225,
+        46.81
+      ],
+      "current_output_is_input_unchanged": true,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4307,
+      "name": "Nord Sahara 1959",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -8.67,
+        18.97,
+        11.99,
+        38.8
+      ],
+      "area_of_use_name": "Algeria - onshore and offshore.",
+      "probe_input_xy": [
+        1.6600000000000001,
+        28.884999999999998
+      ],
+      "current_code_output": [
+        1.6625298562925126,
+        28.88541530415025
+      ],
+      "always_xy_output": [
+        1.659244894191748,
+        28.885477868132586
+      ],
+      "current_output_is_input_unchanged": false,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4308,
+      "name": "RT38",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        10.93,
+        55.28,
+        24.17,
+        69.07
+      ],
+      "area_of_use_name": "Sweden - onshore.",
+      "probe_input_xy": [
+        17.55,
+        62.175
+      ],
+      "current_code_output": [
+        17.55,
+        62.175
+      ],
+      "always_xy_output": [
+        17.55,
+        62.175
+      ],
+      "current_output_is_input_unchanged": true,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4309,
+      "name": "Yacare",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -58.49,
+        -35.0,
+        -53.09,
+        -30.09
+      ],
+      "area_of_use_name": "Uruguay - onshore.",
+      "probe_input_xy": [
+        -55.790000000000006,
+        -32.545
+      ],
+      "current_code_output": [
+        -55.79058617234451,
+        -32.54413667553518
+      ],
+      "always_xy_output": [
+        -55.79038822203367,
+        -32.544975681745356
+      ],
+      "current_output_is_input_unchanged": false,
+      "current_output_axes_swapped_vs_fix": false,
+      "current_output_nonfinite": false
+    },
+    {
+      "epsg": 4322,
+      "name": "WGS 72",
+      "is_geographic": true,
+      "is_projected": false,
+      "axis0_direction": "north",
+      "axis0_name": "Geodetic latitude",
+      "axis1_direction": "east",
+      "area_of_use": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+      ],
+      "area_of_use_name": "World.",
+      "probe_input_xy": [
+        0.0,
+        0.0
+      ],
+      "current_code_output": [
+        4.0696630341782525e-05,
+        0.00015388888888851886
+      ],
+      "always_xy_output": [
+        0.00015388888888851886,
+        4.0696630341782525e-05
+      ],
+      "current_output_is_input_unchanged": false,
+      "current_output_axes_swapped_vs_fix": true,
+      "current_output_nonfinite": false
+    }
+  ],
+  "nad27_transformer_group": {
+    "n_available": 31,
+    "n_unavailable": 48,
+    "selected": "NAD27 to WGS 84 (3) (with axis order normalized for visualization)",
+    "selected_accuracy": 20.0,
+    "available_ops": [
+      {
+        "description": "NAD27 to WGS 84 (3) (with axis order normalized for visualization)",
+        "accuracy": 20.0
+      },
+      {
+        "description": "NAD27 to WGS 84 (4) (with axis order normalized for visualization)",
+        "accuracy": 10.0
+      },
+      {
+        "description": "NAD27 to WGS 84 (13) (with axis order normalized for visualization)",
+        "accuracy": 8.0
+      },
+      {
+        "description": "NAD27 to WGS 84 (6) (with axis order normalized for visualization)",
+        "accuracy": 7.0
+      },
+      {
+        "description": "NAD27 to WGS 84 (5) (with axis order normalized for visualization)",
+        "accuracy": 11.0
+      },
+      {
+        "description": "NAD27 to WGS 84 (18) (with axis order normalized for visualization)",
+        "accuracy": 12.0
+      },
+      {
+        "description": "NAD27 to WGS 84 (11) (with axis order normalized for visualization)",
+        "accuracy": 12.0
+      },
+      {
+        "description": "NAD27 to WGS 84 (12) (with axis order normalized for visualization)",
+        "accuracy": 9.0
+      }
+    ],
+    "unavailable_ops": [
+      {
+        "name": "NAD27 to WGS 84 (33)",
+        "missing_grids": [
+          "ca_nrc_ntv2_0.tif"
+        ]
+      },
+      {
+        "name": "NAD27 to WGS 84 (79)",
+        "missing_grids": [
+          "us_noaa_conus.tif"
+        ]
+      },
+      {
+        "name": "NAD27 to WGS 84 (85)",
+        "missing_grids": [
+          "us_noaa_alaska.tif"
+        ]
+      },
+      {
+        "name": "NAD27 to WGS 84 (78)",
+        "missing_grids": [
+          "ca_nrc_ntv2_0.tif"
+        ]
+      },
+      {
+        "name": "NAD27 to WGS 84 (34)",
+        "missing_grids": [
+          "ca_nrc_NA27SCRS.tif"
+        ]
+      },
+      {
+        "name": "NAD27 to WGS 84 (36)",
+        "missing_grids": [
+          "ca_nrc_ABCSRSV4.tif",
+          "ca_nrc_ntv2_0.tif"
+        ]
+      },
+      {
+        "name": "NAD27 to WGS 84 (32)",
+        "missing_grids": [
+          "ca_nrc_SK27-98.tif"
+        ]
+      },
+      {
+        "name": "NAD27 to WGS 84 (71)",
+        "missing_grids": [
+          "us_noaa_conus.tif",
+          "us_noaa_ethpgn.tif"
+        ]
+      }
+    ]
+  }
+}

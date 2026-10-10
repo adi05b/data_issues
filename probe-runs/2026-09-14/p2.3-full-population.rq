@@ -1,0 +1,30 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?site ?record_id ?source ?label
+       ?state_obs ?state_label ?state_country ?matcher ?conf
+       ?country_obs ?country_label ?wkt
+WHERE {
+  ?site a :MineralSite ; :source_id ?source ; :location_info ?li .
+  ?li :state_or_province ?sc ; :country ?cc .
+  ?sc :normalized_uri ?state_ent .
+  ?cc :normalized_uri ?country_ent .
+  ?state_ent :country ?scr .
+  BIND(REPLACE(STR(?scr), "^.*/", "") AS ?a)
+  BIND(REPLACE(STR(?country_ent), "^.*/", "") AS ?b)
+  FILTER(?a != ?b)
+  OPTIONAL { ?site :record_id ?record_id }
+  OPTIONAL { ?site rdfs:label ?label }
+  OPTIONAL { ?li :location ?wkt }
+  OPTIONAL { ?sc :observed_name ?state_obs }
+  OPTIONAL { ?sc :source ?matcher }
+  OPTIONAL { ?sc :confidence ?conf }
+  OPTIONAL { ?cc :observed_name ?country_obs }
+  OPTIONAL { ?state_ent rdfs:label ?state_label }
+  OPTIONAL { ?country_ent rdfs:label ?country_label }
+  BIND(IRI(CONCAT("https://minmod.isi.edu/resource/", ?a)) AS ?state_country_ent)
+  OPTIONAL { ?state_country_ent rdfs:label ?state_country }
+}
+ORDER BY ?site
+# Paginate if the endpoint refuses the full set: append LIMIT 5000 OFFSET n.
+# Expected total: reconcile against the sum of p2.1a-affected-by-source before classifying.

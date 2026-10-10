@@ -1,0 +1,11 @@
+{
+  "id": "P0.1-mineralsite",
+  "sent_at": "2026-09-02T21:49:41.778740+00:00",
+  "http_status": 200,
+  "elapsed_ms": 14506,
+  "bytes": 5915,
+  "curl_exit": 0,
+  "row_count": 17,
+  "truncated_by_limit": false,
+  "error": null
+}

@@ -1,0 +1,4 @@
+s,p,o
+https://minmod.isi.edu/resource/kg,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,https://minmod.isi.edu/ontology/KnowledgeGraph
+https://minmod.isi.edu/resource/kg,http://purl.org/dc/terms/hasVersion,2e6f2e24a0d948a53b92f79c52a19b3e08b0d27e
+https://minmod.isi.edu/resource/kg,http://purl.org/dc/terms/created,2026-07-28T21:01:22

@@ -1,0 +1,685 @@
+{
+  "records": 679778,
+  "records_with_coordinate": 446423,
+  "merged_sites_with_coordinate": 400446,
+  "merged_sites_with_2plus_coordinate_members": 23283,
+  "main_kept_differs_from_global_order": 0,
+  "A1": {
+    "WKT but no lat/lon: POINT POINT (-68.61328 NaN)": 1,
+    "WKT but no lat/lon: other:MULIPOINT MULIPOINT(24.5029 67.1589)": 1,
+    "crs EPSG:26912": 7792,
+    "crs EPSG:2994": 23316,
+    "crs EPSG:4267": 7720,
+    "crs EPSG:4326": 407157,
+    "crs none": 440,
+    "dms arcmin": 1954,
+    "dms arcsec": 3165,
+    "dms_one_axis": 971,
+    "effective EPSG:26912 | 0": 7792,
+    "effective EPSG:2994 | 0": 23,
+    "effective EPSG:2994 | 1": 15,
+    "effective EPSG:2994 | 2": 33,
+    "effective EPSG:2994 | 3": 51,
+    "effective EPSG:2994 | 8": 610,
+    "effective EPSG:2994 | 9": 22584,
+    "effective EPSG:4267 | 0": 36,
+    "effective EPSG:4267 | 1": 250,
+    "effective EPSG:4267 | 2": 1091,
+    "effective EPSG:4267 | 3": 2057,
+    "effective EPSG:4267 | 4": 3867,
+    "effective EPSG:4267 | 5": 419,
+    "effective EPSG:4326 | 0": 1134,
+    "effective EPSG:4326 | 1": 5451,
+    "effective EPSG:4326 | 2": 17658,
+    "effective EPSG:4326 | 3": 8403,
+    "effective EPSG:4326 | 4": 70226,
+    "effective EPSG:4326 | 5": 274369,
+    "effective EPSG:4326 | 6": 4133,
+    "effective EPSG:4326 | 7": 7050,
+    "effective EPSG:4326 | 8": 11523,
+    "effective EPSG:4326 | 9": 7209,
+    "effective EPSG:4326 | unparsed": 1,
+    "effective none | 0": 28,
+    "effective none | 1": 89,
+    "effective none | 2": 54,
+    "effective none | 3": 57,
+    "effective none | 4": 121,
+    "effective none | 5": 40,
+    "effective none | 6": 34,
+    "effective none | 7": 6,
+    "effective none | 8": 9,
+    "effective none | 9": 2,
+    "float_print": 29266,
+    "geom MULTIPOINT": 215,
+    "geom POINT": 446209,
+    "geom other:MULIPOINT": 1,
+    "no raw WKT": 233353,
+    "null_island": 37,
+    "padded": 313328,
+    "written EPSG:26912 | 0": 7792,
+    "written EPSG:2994 | 0": 23,
+    "written EPSG:2994 | 1": 15,
+    "written EPSG:2994 | 2": 33,
+    "written EPSG:2994 | 3": 51,
+    "written EPSG:2994 | 8": 610,
+    "written EPSG:2994 | 9": 22584,
+    "written EPSG:4267 | 0": 36,
+    "written EPSG:4267 | 1": 250,
+    "written EPSG:4267 | 2": 1091,
+    "written EPSG:4267 | 3": 2057,
+    "written EPSG:4267 | 4": 3867,
+    "written EPSG:4267 | 5": 419,
+    "written EPSG:4326 | 0": 1134,
+    "written EPSG:4326 | 1": 4912,
+    "written EPSG:4326 | 2": 16296,
+    "written EPSG:4326 | 3": 2360,
+    "written EPSG:4326 | 4": 10913,
+    "written EPSG:4326 | 5": 36618,
+    "written EPSG:4326 | 6": 1560,
+    "written EPSG:4326 | 7": 2666,
+    "written EPSG:4326 | 8": 11523,
+    "written EPSG:4326 | 9": 319174,
+    "written EPSG:4326 | unparsed": 1,
+    "written MULTIPOINT | 0": 19,
+    "written MULTIPOINT | 1": 55,
+    "written MULTIPOINT | 2": 31,
+    "written MULTIPOINT | 3": 21,
+    "written MULTIPOINT | 4": 47,
+    "written MULTIPOINT | 5": 19,
+    "written MULTIPOINT | 6": 19,
+    "written MULTIPOINT | 7": 1,
+    "written MULTIPOINT | 8": 1,
+    "written MULTIPOINT | 9": 2,
+    "written POINT | 0": 8994,
+    "written POINT | 1": 5194,
+    "written POINT | 2": 17435,
+    "written POINT | 3": 4505,
+    "written POINT | 4": 14869,
+    "written POINT | 5": 37062,
+    "written POINT | 6": 1578,
+    "written POINT | 7": 2672,
+    "written POINT | 8": 12141,
+    "written POINT | 9": 341758,
+    "written POINT | unparsed": 1,
+    "written none | 0": 28,
+    "written none | 1": 72,
+    "written none | 2": 46,
+    "written none | 3": 58,
+    "written none | 4": 137,
+    "written none | 5": 44,
+    "written none | 6": 37,
+    "written none | 7": 7,
+    "written none | 8": 9,
+    "written none | 9": 2,
+    "written other:MULIPOINT | 4": 1
+  },
+  "A1_by_source": {
+    "https://mrdata.usgs.gov/mrds": {
+      "records": 479759,
+      "with WKT": 304622,
+      "padded": 304610
+    },
+    "https://doi.org/10.5066/P9HTERGK": {
+      "records": 42744,
+      "with WKT": 42744
+    },
+    "https://mrdata.usgs.gov/nicrpge": {
+      "records": 32998,
+      "with WKT": 17954
+    },
+    "http://www.oregongeology.org": {
+      "records": 23316,
+      "with WKT": 23316,
+      "float_print": 23313
+    },
+    "https://api.cdr.land/v1/docs/documents": {
+      "records": 15419,
+      "with WKT": 1093,
+      "padded": 84,
+      "dms arcsec": 40,
+      "null_island": 37,
+      "dms arcmin": 52,
+      "float_print": 3,
+      "dms_one_axis": 13
+    },
+    "https://doi.org/10.5066/P96MMRFD": {
+      "records": 14099,
+      "with WKT": 7720
+    },
+    "https://www.energy.virginia.gov/geology/geologymineralresources.shtml": {
+      "records": 9842,
+      "with WKT": 9842,
+      "dms_one_axis": 2,
+      "dms arcsec": 1
+    },
+    "https://doi.org/10.34191/OFR-757": {
+      "records": 7793,
+      "with WKT": 7792
+    },
+    "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey": {
+      "records": 7008,
+      "with WKT": 7008,
+      "padded": 7008,
+      "dms_one_axis": 36
+    },
+    "https://mrdata.usgs.gov/major-deposits": {
+      "records": 5938,
+      "with WKT": 3161,
+      "float_print": 680,
+      "dms arcmin": 438,
+      "dms arcsec": 199,
+      "dms_one_axis": 44
+    },
+    "https://mrdata.usgs.gov/sir20105090z": {
+      "records": 5487,
+      "with WKT": 1200,
+      "dms_one_axis": 115,
+      "dms arcmin": 6,
+      "dms arcsec": 14
+    },
+    "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource": {
+      "records": 4399,
+      "with WKT": 4399
+    },
+    "https://mrdata.usgs.gov/pp577": {
+      "records": 4251,
+      "with WKT": 2181,
+      "float_print": 19
+    },
+    "https://mrdata.usgs.gov/phosphate": {
+      "records": 2790,
+      "with WKT": 1187,
+      "dms arcsec": 89,
+      "dms arcmin": 363,
+      "dms_one_axis": 25,
+      "float_print": 30
+    },
+    "https://doi.org/10.5382/econgeo.2018.4590": {
+      "records": 2301
+    },
+    "https://mrdata.usgs.gov/podchrome": {
+      "records": 2246,
+      "with WKT": 1045,
+      "float_print": 1024,
+      "dms arcsec": 840,
+      "dms_one_axis": 181,
+      "dms arcmin": 3
+    },
+    "https://mrdata.usgs.gov/vms": {
+      "records": 2178,
+      "with WKT": 1090,
+      "dms_one_axis": 201,
+      "padded": 1090,
+      "float_print": 1037,
+      "dms arcsec": 756,
+      "dms arcmin": 80
+    },
+    "https://www.idahogeology.org": {
+      "records": 2000,
+      "with WKT": 2000,
+      "float_print": 1137,
+      "dms_one_axis": 1
+    },
+    "https://mrdata.usgs.gov/potash": {
+      "records": 1961,
+      "with WKT": 981
+    },
+    "https://mrdata.usgs.gov/ree": {
+      "records": 1563,
+      "with WKT": 578,
+      "dms arcsec": 8,
+      "dms arcmin": 462,
+      "dms_one_axis": 2
+    },
+    "https://mrdata.usgs.gov/sedcu": {
+      "records": 1563,
+      "with WKT": 708,
+      "float_print": 615,
+      "dms arcmin": 233,
+      "dms arcsec": 322,
+      "dms_one_axis": 60
+    },
+    "https://mrdata.usgs.gov/porcu": {
+      "records": 1376,
+      "with WKT": 690,
+      "float_print": 625,
+      "dms arcsec": 255,
+      "dms arcmin": 296,
+      "dms_one_axis": 74
+    },
+    "https://mrdata.usgs.gov/asbestos": {
+      "records": 1357,
+      "with WKT": 913
+    },
+    "https://mrdata.usgs.gov/sedznpb": {
+      "records": 1004,
+      "with WKT": 506,
+      "float_print": 489,
+      "dms arcsec": 390,
+      "dms_one_axis": 82,
+      "dms arcmin": 17
+    },
+    "https://doi.org/10.4095/295581": {
+      "records": 955,
+      "with WKT": 955,
+      "padded": 380
+    },
+    "https://doi.org/10.1016/j.oregeorev.2016.08.010": {
+      "records": 851
+    },
+    "https://mrdata.usgs.gov/ofr20151121": {
+      "records": 768,
+      "with WKT": 446,
+      "dms arcmin": 1
+    },
+    "https://doi.org/10.5066/P9K1HBNT": {
+      "records": 685,
+      "with WKT": 684
+    },
+    "https://doi.org/10.5382/econgeo.4950": {
+      "records": 628,
+      "with WKT": 36,
+      "padded": 21
+    },
+    "https://mrdata.usgs.gov/sedexmvt": {
+      "records": 480,
+      "with WKT": 240
+    },
+    "https://mrdata.usgs.gov/deposit": {
+      "records": 445,
+      "with WKT": 428,
+      "dms_one_axis": 3,
+      "dms arcmin": 2
+    },
+    "https://mrdata.usgs.gov/pp1802": {
+      "records": 412,
+      "with WKT": 412,
+      "dms_one_axis": 79,
+      "dms arcsec": 11
+    },
+    "https://doi.org/10.2113/econgeo.110.8.1925": {
+      "records": 267
+    },
+    "https://mrdata.usgs.gov/sedau": {
+      "records": 243,
+      "with WKT": 123,
+      "float_print": 118,
+      "dms arcsec": 96,
+      "dms_one_axis": 22
+    },
+    "https://mrdata.usgs.gov/laterite": {
+      "records": 240,
+      "with WKT": 120,
+      "float_print": 116,
+      "dms arcsec": 99,
+      "dms_one_axis": 17
+    },
+    "https://mrdata.usgs.gov/carbonatite": {
+      "records": 119,
+      "with WKT": 60,
+      "dms_one_axis": 14,
+      "float_print": 60,
+      "dms arcsec": 45,
+      "dms arcmin": 1
+    },
+    "https://doi.org/10.3133/pp1802J": {
+      "records": 108,
+      "with WKT": 108,
+      "padded": 108
+    },
+    "https://doi.org/10.5066/P99RK9SU": {
+      "records": 73,
+      "with WKT": 73,
+      "padded": 21
+    },
+    "https://doi.org/10.3390/min10070626": {
+      "records": 28
+    },
+    "https://doi.org/10.31035/cg2020009": {
+      "records": 20
+    },
+    "https://doi.org/10.3133/fs20243029": {
+      "records": 17
+    },
+    "http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024": {
+      "records": 16
+    },
+    "https://doi.org/10.1007/s00126-023-01161-3": {
+      "records": 8,
+      "with WKT": 8,
+      "padded": 6
+    },
+    "https://doi.org/researchgate.net/publication/319954077_Graphite_properties_uses_and_South_Australian_resources": {
+      "records": 8
+    },
+    "https://doi.org/researchgate.net/publication/369107635_Critical_Minerals_Potential_of_Brazil": {
+      "records": 7
+    },
+    "https://doi.org/10.3997/2214-4609.20215K2011": {
+      "records": 6
+    },
+    "https://pubs.usgs.gov/bul/0615/report.pdf": {
+      "records": 1,
+      "with WKT": 1
+    },
+    "https://minmod.isi.edu/users/u/jhammars": {
+      "records": 1,
+      "with WKT": 1
+    }
+  },
+  "A2_coarser_kept": 6315,
+  "A2_coarser_kept_by_category": {
+    "b kept has higher score": 5375,
+    "a tie on score": 923,
+    "c expert/curator kept": 17
+  },
+  "A2_coarser_kept_both_4326_by_category": {
+    "b kept has higher score": 3410,
+    "a tie on score": 681,
+    "c expert/curator kept": 17
+  },
+  "A2_tie_cases_decided_by": {
+    "record_id": 724,
+    "source_id": 199
+  },
+  "A2_b_cases_kept_score_over_best_score": {
+    "0.5 over 0.1 (https://mrdata.usgs.gov/mrds)": 5094,
+    "0.8 over 0.1 (https://mrdata.usgs.gov/mrds)": 120,
+    "0.7 over 0.1 (https://mrdata.usgs.gov/mrds)": 68,
+    "0.7 over 0.5 (https://doi.org/10.5066/P9K1HBNT)": 34,
+    "0.7 over 0.5 (https://mrdata.usgs.gov/pp1802)": 15,
+    "0.8 over 0.5 (https://mrdata.usgs.gov/vms)": 11,
+    "0.8 over 0.5 (https://mrdata.usgs.gov/laterite)": 4,
+    "0.8 over 0.5 (https://mrdata.usgs.gov/major-deposits)": 3,
+    "0.8 over 0.5 (https://mrdata.usgs.gov/porcu)": 3,
+    "0.8 over 0.7 (https://mrdata.usgs.gov/deposit)": 3
+  },
+  "A2_coarser_kept_separation_gt_50km": 123,
+  "A2_groups_top_score_tied": 18583,
+  "A2_groups_top_score_tied_decided_by": {
+    "record_id": 17737,
+    "source_id": 846
+  },
+  "A2_like_for_like_multi_4326_groups": 20856,
+  "A2_like_for_like_coarser_gt3x": 3815,
+  "A2_null_island_records": 37,
+  "A2_null_island_by_source": {
+    "https://api.cdr.land/v1/docs/documents": 37
+  },
+  "A2_null_island_wkt": {
+    "POINT(0 0)": 27,
+    "POINT(0.0 0.0)": 6,
+    "MULTIPOINT(0 0)": 3,
+    "POINT(-0.0 0.0)": 1
+  },
+  "A2_null_island_crs": {
+    "EPSG:4326": 24,
+    "none": 13
+  },
+  "A2_null_island_merged_sites": 34,
+  "A2_null_island_kept": 29,
+  "A2_null_island_kept_with_real_member": 4,
+  "A2_sonora": [
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__0205e384bede4889373d9e9788b27e984c76aec51a0ba876f098cd08541ac7ab54__inferlink",
+      "kept": "site__api-cdr-land-v1-docs-documents__02ec633583ef811bf4df15f2bd24d489ea20a207cd326c15c39b498d1a9ac3b7c8__inferlink",
+      "members": [
+        {
+          "site_id": "site__api-cdr-land-v1-docs-documents__02c2ae8fc934cdf9f847839e7eb1e1afaef46dee32a0bf6141da57b22e4a3abec4__inferlink",
+          "source_id": "https://api.cdr.land/v1/docs/documents",
+          "name": "Sonora Lithium Project",
+          "wkt": "POINT(-110.0 30.0)",
+          "crs": "none",
+          "dms": null,
+          "score": {
+            "score": 0.8,
+            "suborder": [
+              false,
+              "https://api.cdr.land/v1/docs/documents",
+              "02c2ae8fc934cdf9f847839e7eb1e1afaef46dee32a0bf6141da57b22e4a3abec4",
+              1733862310373490176
+            ]
+          }
+        },
+        {
+          "site_id": "site__api-cdr-land-v1-docs-documents__026332f71cf72dcdae20a7a08d16f9196a1922ffced9bd75cebf6ee7391cc5f3ce__inferlink",
+          "source_id": "https://api.cdr.land/v1/docs/documents",
+          "name": "Sonora Lithium Project",
+          "wkt": "POINT(-110.9149 30.0142)",
+          "crs": "EPSG:4326",
+          "dms": null,
+          "score": {
+            "score": 0.8,
+            "suborder": [
+              false,
+              "https://api.cdr.land/v1/docs/documents",
+              "026332f71cf72dcdae20a7a08d16f9196a1922ffced9bd75cebf6ee7391cc5f3ce",
+              1734545942181572864
+            ]
+          }
+        },
+        {
+          "site_id": "site__api-cdr-land-v1-docs-documents__02c7aaeba47f66bf9721bb652a3c859a9172da745d53a9407891e120f77dac0bd2__inferlink",
+          "source_id": "https://api.cdr.land/v1/docs/documents",
+          "name": "Sonora Lithium Project",
+          "wkt": "MULTIPOINT(-110.68 30.39)",
+          "crs": "EPSG:4326",
+          "dms": null,
+          "score": {
+            "score": 0.8,
+            "suborder": [
+              false,
+              "https://api.cdr.land/v1/docs/documents",
+              "02c7aaeba47f66bf9721bb652a3c859a9172da745d53a9407891e120f77dac0bd2",
+              1733862816230326016
+            ]
+          }
+        },
+        {
+          "site_id": "site__api-cdr-land-v1-docs-documents__0232b37b8235ee193f92aa53e7981aae7364638ff90ea1d57ef7d93f96fed5b525__inferlink",
+          "source_id": "https://api.cdr.land/v1/docs/documents",
+          "name": "SONORA LITHIUM PROJECT",
+          "wkt": "POINT(-110.924 29.081)",
+          "crs": "EPSG:4326",
+          "dms": null,
+          "score": {
+            "score": 0.8,
+            "suborder": [
+              false,
+              "https://api.cdr.land/v1/docs/documents",
+              "0232b37b8235ee193f92aa53e7981aae7364638ff90ea1d57ef7d93f96fed5b525",
+              1731543645236769792
+            ]
+          }
+        },
+        {
+          "site_id": "site__api-cdr-land-v1-docs-documents__02ec633583ef811bf4df15f2bd24d489ea20a207cd326c15c39b498d1a9ac3b7c8__inferlink",
+          "source_id": "https://api.cdr.land/v1/docs/documents",
+          "name": "Sonora Lithium Project",
+          "wkt": "POINT(-109.103889 29.774722)",
+          "crs": "EPSG:4326",
+          "dms": "arcsec",
+          "score": {
+            "score": 0.8,
+            "suborder": [
+              false,
+              "https://api.cdr.land/v1/docs/documents",
+              "02ec633583ef811bf4df15f2bd24d489ea20a207cd326c15c39b498d1a9ac3b7c8",
+              1731542099980142080
+            ]
+          }
+        },
+        {
+          "site_id": "site__api-cdr-land-v1-docs-documents__02497a3039a4c6faf6c61ff4b489cdc68e6e0b295cac89248fbc3bdfb9051905bb__inferlink",
+          "source_id": "https://api.cdr.land/v1/docs/documents",
+          "name": "Sonora Lithium Project",
+          "wkt": "POINT(-110 31)",
+          "crs": "EPSG:4326",
+          "dms": null,
+          "score": {
+            "score": 0.8,
+            "suborder": [
+              false,
+              "https://api.cdr.land/v1/docs/documents",
+              "02497a3039a4c6faf6c61ff4b489cdc68e6e0b295cac89248fbc3bdfb9051905bb",
+              1733873032596466176
+            ]
+          }
+        },
+        {
+          "site_id": "site__api-cdr-land-v1-docs-documents__0205e384bede4889373d9e9788b27e984c76aec51a0ba876f098cd08541ac7ab54__inferlink",
+          "source_id": "https://api.cdr.land/v1/docs/documents",
+          "name": "SONORA LITHIUM PROJECT",
+          "wkt": "POINT(0 0)",
+          "crs": "EPSG:4326",
+          "dms": null,
+          "score": {
+            "score": 0.8,
+            "suborder": [
+              false,
+              "https://api.cdr.land/v1/docs/documents",
+              "0205e384bede4889373d9e9788b27e984c76aec51a0ba876f098cd08541ac7ab54",
+              1733948164056417024
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sim": {
+    "plan": {
+      "changes": 949,
+      "by_driver": {
+        "precision": 920,
+        "null island": 29
+      },
+      "null_island_to_none": 25,
+      "null_island_to_real": 4,
+      "precision_point_moved": 915,
+      "precision_same_point_other_record": 5,
+      "precision_strictly_more_decimals_written": 920,
+      "precision_finer_on_the_ground": 817,
+      "precision_km": {
+        "n": 920,
+        "median": 0.7415,
+        "p95": 82.448,
+        "max": 12377.982,
+        "gt_50km": 60
+      },
+      "precision_same_source": 720,
+      "precision_new_wins_only_by_padding": 6,
+      "precision_new_is_dms": 125,
+      "precision_new_is_float_print": 312,
+      "precision_crs_units_differ": 21,
+      "precision_involves_projected_crs": 197,
+      "precision_involves_non_point": 17,
+      "precision_by_source_pair": {
+        "https://doi.org/10.5066/P9HTERGK -> https://doi.org/10.5066/P9HTERGK": 381,
+        "http://www.oregongeology.org -> http://www.oregongeology.org": 176,
+        "https://mrdata.usgs.gov/sir20105090z -> https://mrdata.usgs.gov/sedcu": 75,
+        "https://api.cdr.land/v1/docs/documents -> https://api.cdr.land/v1/docs/documents": 50,
+        "https://doi.org/10.5066/P96MMRFD -> https://doi.org/10.5066/P96MMRFD": 43,
+        "https://mrdata.usgs.gov/podchrome -> https://doi.org/10.5066/P9HTERGK": 36,
+        "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource -> https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource": 21,
+        "https://mrdata.usgs.gov/podchrome -> http://www.oregongeology.org": 17,
+        "https://mrdata.usgs.gov/phosphate -> https://mrdata.usgs.gov/phosphate": 14,
+        "https://mrdata.usgs.gov/sir20105090z -> https://mrdata.usgs.gov/sir20105090z": 13,
+        "https://mrdata.usgs.gov/ree -> https://mrdata.usgs.gov/carbonatite": 12,
+        "https://mrdata.usgs.gov/porcu -> https://mrdata.usgs.gov/major-deposits": 11
+      },
+      "all_gt_50km": 64,
+      "invariant_violations": {}
+    },
+    "plan+gate": {
+      "changes": 193,
+      "by_driver": {
+        "null island": 29,
+        "precision": 164
+      },
+      "null_island_to_none": 25,
+      "null_island_to_real": 4,
+      "precision_point_moved": 160,
+      "precision_same_point_other_record": 4,
+      "precision_strictly_more_decimals_written": 164,
+      "precision_finer_on_the_ground": 151,
+      "precision_km": {
+        "n": 164,
+        "median": 0.006,
+        "p95": 6.626,
+        "max": 133.156,
+        "gt_50km": 1
+      },
+      "precision_same_source": 107,
+      "precision_new_wins_only_by_padding": 0,
+      "precision_new_is_dms": 32,
+      "precision_new_is_float_print": 36,
+      "precision_crs_units_differ": 6,
+      "precision_involves_projected_crs": 6,
+      "precision_involves_non_point": 3,
+      "precision_by_source_pair": {
+        "https://doi.org/10.5066/P9HTERGK -> https://doi.org/10.5066/P9HTERGK": 88,
+        "https://mrdata.usgs.gov/sir20105090z -> https://mrdata.usgs.gov/sedcu": 12,
+        "https://mrdata.usgs.gov/ree -> https://mrdata.usgs.gov/carbonatite": 9,
+        "https://doi.org/10.5066/P96MMRFD -> https://doi.org/10.5066/P96MMRFD": 8,
+        "https://api.cdr.land/v1/docs/documents -> https://api.cdr.land/v1/docs/documents": 6,
+        "https://mrdata.usgs.gov/podchrome -> https://doi.org/10.5066/P9HTERGK": 6,
+        "https://mrdata.usgs.gov/porcu -> https://mrdata.usgs.gov/major-deposits": 6,
+        "https://mrdata.usgs.gov/podchrome -> http://www.oregongeology.org": 6,
+        "https://mrdata.usgs.gov/ree -> https://doi.org/10.5066/P9K1HBNT": 5,
+        "https://mrdata.usgs.gov/major-deposits -> https://mrdata.usgs.gov/laterite": 3,
+        "https://mrdata.usgs.gov/podchrome -> https://mrdata.usgs.gov/podchrome": 2,
+        "https://doi.org/10.5066/P9K1HBNT -> https://doi.org/10.5066/P96MMRFD": 1
+      },
+      "all_gt_50km": 5,
+      "invariant_violations": {}
+    },
+    "ground+gate": {
+      "changes": 740,
+      "by_driver": {
+        "null island": 29,
+        "precision": 711
+      },
+      "null_island_to_none": 25,
+      "null_island_to_real": 4,
+      "precision_point_moved": 703,
+      "precision_same_point_other_record": 8,
+      "precision_strictly_more_decimals_written": 150,
+      "precision_finer_on_the_ground": 711,
+      "precision_km": {
+        "n": 711,
+        "median": 0.004,
+        "p95": 1.152,
+        "max": 133.156,
+        "gt_50km": 1
+      },
+      "precision_same_source": 574,
+      "precision_new_wins_only_by_padding": 561,
+      "precision_new_is_dms": 20,
+      "precision_new_is_float_print": 43,
+      "precision_crs_units_differ": 23,
+      "precision_involves_projected_crs": 23,
+      "precision_involves_non_point": 3,
+      "precision_by_source_pair": {
+        "https://mrdata.usgs.gov/mrds -> https://mrdata.usgs.gov/mrds": 469,
+        "https://doi.org/10.5066/P9HTERGK -> https://doi.org/10.5066/P9HTERGK": 88,
+        "https://mrdata.usgs.gov/porcu -> https://mrdata.usgs.gov/major-deposits": 38,
+        "https://mrdata.usgs.gov/podchrome -> http://www.oregongeology.org": 21,
+        "https://mrdata.usgs.gov/ree -> https://doi.org/10.5066/P9K1HBNT": 11,
+        "https://mrdata.usgs.gov/podchrome -> https://doi.org/10.5066/P9HTERGK": 11,
+        "https://mrdata.usgs.gov/ree -> https://mrdata.usgs.gov/carbonatite": 9,
+        "https://doi.org/10.5066/P96MMRFD -> https://doi.org/10.5066/P96MMRFD": 8,
+        "https://mrdata.usgs.gov/sedcu -> https://mrdata.usgs.gov/major-deposits": 8,
+        "https://api.cdr.land/v1/docs/documents -> https://api.cdr.land/v1/docs/documents": 6,
+        "https://mrdata.usgs.gov/sir20105090z -> https://mrdata.usgs.gov/sedcu": 6,
+        "https://mrdata.usgs.gov/ree -> https://mrdata.usgs.gov/major-deposits": 4
+      },
+      "all_gt_50km": 5,
+      "invariant_violations": {}
+    }
+  },
+  "projected_crs": [
+    "EPSG:26912",
+    "EPSG:2994",
+    "EPSG:3857"
+  ]
+}

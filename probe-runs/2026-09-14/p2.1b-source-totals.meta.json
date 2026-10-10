@@ -1,0 +1,11 @@
+{
+  "id": "p2.1b-source-totals",
+  "sent_at": "2026-09-14T19:17:03.458878+00:00",
+  "http_status": 200,
+  "elapsed_ms": 8085,
+  "bytes": 11045,
+  "curl_exit": 0,
+  "row_count": 48,
+  "truncated_by_limit": false,
+  "error": null
+}

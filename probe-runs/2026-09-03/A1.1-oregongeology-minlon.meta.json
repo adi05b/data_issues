@@ -1,0 +1,11 @@
+{
+  "id": "A1.1-oregongeology-minlon",
+  "sent_at": "2026-09-03T00:02:18.298599+00:00",
+  "http_status": 200,
+  "elapsed_ms": 3880,
+  "bytes": 8702,
+  "curl_exit": 0,
+  "row_count": 10,
+  "truncated_by_limit": true,
+  "error": null
+}

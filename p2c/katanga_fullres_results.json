@@ -1,0 +1,72 @@
+{
+ "drop list (state -> Q6152 Tanga)": {
+  "records": 111,
+  "simplified": {
+   "none": 4,
+   "Lualaba": 43,
+   "Haut-Katanga": 50,
+   "no location": 8,
+   "round placeholder": 1,
+   "Tanganyika": 4,
+   "Haut-Lomami": 1
+  },
+  "fullres": {
+   "none": 4,
+   "Lualaba": 43,
+   "Haut-Katanga": 50,
+   "no location": 8,
+   "round placeholder": 1,
+   "Tanganyika": 4,
+   "Haut-Lomami": 1
+  }
+ },
+ "state never normalized": {
+  "records": 148,
+  "simplified": {
+   "Lualaba": 71,
+   "Haut-Katanga": 77
+  },
+  "fullres": {
+   "Lualaba": 71,
+   "Haut-Katanga": 77
+  }
+ },
+ "state normalized to Q3000": {
+  "records": 2,
+  "simplified": {
+   "Lualaba": 1,
+   "no location": 1
+  },
+  "fullres": {
+   "Lualaba": 1,
+   "no location": 1
+  }
+ },
+ "changed": [],
+ "outside_cod_fullres": [
+  {
+   "group": "drop list (state -> Q6152 Tanga)",
+   "location": "POINT(-26.05861 -10.55333)",
+   "flag": "lon sign",
+   "distance_to_cod_km": 4279.9
+  },
+  {
+   "group": "drop list (state -> Q6152 Tanga)",
+   "location": "MULTIPOINT(26.5 10.75)",
+   "flag": "lat sign",
+   "distance_to_cod_km": 604.4
+  },
+  {
+   "group": "drop list (state -> Q6152 Tanga)",
+   "location": "MULTIPOINT(23.499 10.934)",
+   "flag": "lat sign",
+   "distance_to_cod_km": 653.4
+  },
+  {
+   "group": "drop list (state -> Q6152 Tanga)",
+   "location": "POINT (26.2227999999999994 10.6202000000000005)",
+   "flag": "lat sign",
+   "distance_to_cod_km": 585.4
+  }
+ ]
+}

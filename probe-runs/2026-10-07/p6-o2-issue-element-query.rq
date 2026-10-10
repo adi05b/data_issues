@@ -1,0 +1,5 @@
+# Verbatim from issue #107 (SELECT, read-only), with a LIMIT added
+SELECT ?e (STR(?g) AS ?lex) (datatype(?g) AS ?dt) WHERE {
+  ?e <https://geochemistry.isi.edu/ontology/grade> ?g
+  FILTER NOT EXISTS { ?a <https://geochemistry.isi.edu/ontology/element> ?e }
+} LIMIT 100

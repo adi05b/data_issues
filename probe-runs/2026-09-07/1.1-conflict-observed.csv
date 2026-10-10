@@ -1,0 +1,359 @@
+_site,country_obs,country_obs_bound,country_label,country_label_bound,state_obs,state_obs_bound,state_label,state_label_bound,sites,sites_bound
+,United States,1,United States,1,Florida,1,Florida,1,1674,1
+,Bolivia,1,Bolivia,1,La Paz,1,La Pampa,1,586,1
+,Bolivia,1,Bolivia,1,Potosi,1,Porto,1,552,1
+,Venezuela,1,Venezuela,1,Bolivar,1,Bolívar,1,475,1
+,Bolivia,1,Bolivia,1,Santa Cruz,1,Santa Cruz,1,220,1
+,Bolivia,1,Bolivia,1,Oruro,1,Koror,1,191,1
+,India,1,India,1,Orissa,1,Garissa,1,187,1
+,Cuba,1,Cuba,1,Camaguey,1,Camuy,1,158,1
+,Congo (Kinshasa),1,Democratic Republic of the Congo,1,Katanga,1,Tanga,1,93,1
+,Jamaica,1,Jamaica,1,Saint Andrew,1,Saint Andrew,1,69,1
+,Cuba,1,Cuba,1,Granma,1,Sanma,1,64,1
+,Canada,1,Canada,1,Yukon Territory*,1,Northern Territory,1,62,1
+,Panama,1,Panama,1,Panama,1,Naama,1,62,1
+,Costa Rica,1,Costa Rica,1,San Jose,1,San José,1,56,1
+,Panama,1,Panama,1,Veraguas,1,Caguas,1,51,1
+,United States,1,United States,1,CO,1,Colonia,1,50,1
+,France,1,France,1,Territory Of New Caledonia And Dependencies,1,Federal Dependencies of Venezuela,1,49,1
+,United States,1,United States,1,CA,1,Canelones,1,46,1
+,Zambia,1,Zambia,1,Central,1,Central,1,45,1
+,Japan,1,Japan,1,Akita,1,Latakia,1,44,1
+,Germany,1,Germany,1,Niedersachsen,1,Eschen,1,43,1
+,Panama,1,Panama,1,Colon,1,Colonia,1,39,1
+,Zimbabwe,1,Zimbabwe,1,Midlands,1,Islands,1,39,1
+,Panama,1,Panama,1,Herrera,1,Ferrara,1,35,1
+,Costa Rica,1,Costa Rica,1,Limon,1,Imo,1,33,1
+,Australia,1,Australia,1,Victoria,1,Victoria,1,31,1
+,Costa Rica,1,Costa Rica,1,Cartago,1,Caraga,1,28,1
+,Venezuela,1,Venezuela,1,Amazonas*,1,Amazonas,1,23,1
+,Ecuador,1,Ecuador,1,Canar,1,Canarias,1,22,1
+,Jamaica,1,Jamaica,1,Saint Thomas,1,Saint Thomas,1,21,1
+,Russia,1,Russia,1,Ekaterinburg,1,Edinburgh,1,19,1
+,Honduras,1,Honduras,1,Yoro,1,Koror,1,18,1
+,Jamaica,1,Jamaica,1,Saint Ann,1,Saint Andrew,1,18,1
+,Japan,1,Japan,1,Kochi,1,Kocaeli,1,17,1
+,Bolivia,1,Bolivia,1,El Beni,1,El Menia,1,16,1
+,Ecuador,1,Ecuador,1,Bolivar,1,Bolívar,1,16,1
+,Panama,1,Panama,1,Darien,1,Tarxien,1,16,1
+,United States,1,United States,1,MN,1,Matabeleland North Province,1,16,1
+,Denmark,1,Denmark,1,Greenland,1,Burgenland,1,15,1
+,Japan,1,Japan,1,Hyogo,1,Oyo,1,15,1
+,United States,1,United States,1,ME,1,Mashonaland East Province,1,15,1
+,Bolivia,1,Bolivia,1,Tarija,1,Arima,1,14,1
+,Honduras,1,Honduras,1,El Paraiso,1,Paris,1,14,1
+,El Salvador,1,El Salvador,1,Santa Ana,1,Santa Elena,1,13,1
+,Jamaica,1,Jamaica,1,Manchester,1,Manchester,1,13,1
+,Japan,1,Japan,1,Nara,1,Navarra,1,13,1
+,Laos,1,Laos,1,Attapu,1,Attard,1,13,1
+,Uruguay,1,Uruguay,1,Florida,1,Florida,1,13,1
+,Argentina,1,Argentina,1,Santa Cruz,1,Santa Cruz,1,12,1
+,Guatemala,1,Guatemala,1,Jalapa,1,Malampa,1,12,1
+,Panama,1,Panama,1,San Blas*,1,San Luis,1,12,1
+,Russia,1,Russia,1,Buryatiya,1,Bury,1,12,1
+,Turkey,1,Turkey,1,Elazig,1,Lazio,1,12,1
+,United States,1,United States,1,SD,1,Saada,1,12,1
+,Ghana,1,Ghana,1,Northern,1,Northern,1,11,1
+,Honduras,1,Honduras,1,Copan,1,Cotopaxi,1,11,1
+,Honduras,1,Honduras,1,Comayagua,1,Managua,1,11,1
+,Honduras,1,Honduras,1,Valle,1,Valletta,1,11,1
+,Jamaica,1,Jamaica,1,Saint Mary,1,Saint Mary Parish,1,11,1
+,United States,1,United States,1,MO,1,Montevideo,1,11,1
+,Venezuela,1,Venezuela,1,Sucre,1,Sucre,1,11,1
+,Japan,1,Japan,1,Oita,1,Geita,1,10,1
+,Mexico,1,Mexico,1,Mexico,1,New Mexico,1,10,1
+,Peru,1,Peru,1,Amazonas,1,Amazonas,1,10,1
+,United States,1,United States,1,AR,1,Artigas,1,10,1
+,United States,1,United States,1,SC,1,Saint Croix,1,10,1
+,Democratic Republic of Congo,1,Democratic Republic of the Congo,1,Katanga Province,1,Tanga,1,9,1
+,Democratic Republic of the Congo,1,Democratic Republic of the Congo,1,Katanga Province,1,Tanga,1,9,1
+,Japan,1,Japan,1,Okayama,1,Guayama,1,9,1
+,Laos,1,Laos,1,Savannakhet,1,Savannah,1,9,1
+,,0,Argentina,1,,0,San Juan,1,8,1
+,Jamaica,1,Jamaica,1,Saint James,1,Saint James,1,8,1
+,,0,United States,1,,0,Florida,1,8,1
+,Algeria,1,Algeria,1,Saida,1,Saada,1,7,1
+,Guatemala,1,Guatemala,1,Izabal,1,Ba,1,7,1
+,Guatemala,1,Guatemala,1,Zacapa,1,Zacatecas,1,7,1
+,Haiti,1,Haiti,1,Nord,1,Nord,1,7,1
+,Honduras,1,Honduras,1,Cortes,1,Corrientes,1,7,1
+,Japan,1,Japan,1,Osaka,1,Sakarya,1,7,1
+,Japan,1,Japan,1,Wakayama,1,Takamaka,1,7,1
+,Albania,1,Albania,1,Kukes,1,Lakes,1,6,1
+,Austria,1,Austria,1,Karnten,1,Banten,1,6,1
+,Austria,1,Austria,1,Steiermark,1,Western Samar,1,6,1
+,Botswana,1,Botswana,1,Central,1,Central,1,6,1
+,Brazil,1,Brazil,1,Amazonas,1,Amazonas,1,6,1
+,Colombia,1,Colombia,1,Cordoba,1,Córdoba,1,6,1
+,Greece,1,Greece,1,Evvoia,1,Savoie,1,6,1
+,Honduras,1,Honduras,1,La Paz,1,La Pampa,1,6,1
+,Japan,1,Japan,1,Gifu,1,Ifugao,1,6,1
+,Kazakhstan,1,Kazakhstan,1,Aktyubinsk,1,Minsk,1,6,1
+,Philippines,1,Philippines,1,Samar,1,Dhamar,1,6,1
+,Zambia,1,Zambia,1,North-Western,1,Northwest,1,6,1
+,Australia,1,Australia,1,Territory Of Christmas Island,1,Berry Islands,1,5,1
+,Canada,1,Canada,1,Yukon Territory,1,Northern Territory,1,5,1
+,Finland,1,Finland,1,Lappi,1,Capiz,1,5,1
+,Japan,1,Japan,1,Ibaraki,1,Karak,1,5,1
+,Japan,1,Japan,1,Miyagi,1,Minya,1,5,1
+,Malaysia,1,Malaysia,1,Pulau Pinang,1,Kepulauan Riau,1,5,1
+,Niger,1,Niger,1,Niamey,1,Canindeyú,1,5,1
+,Norway,1,Norway,1,Sogn Og Fjordane,1,Dordogne,1,5,1
+,United States,1,United States,1,PA,1,Paysandú,1,5,1
+,Zambia,1,Zambia,1,Northern,1,Northern,1,5,1
+,Argentina,1,Argentina,1,La Rioja,1,La Rioja,1,4,1
+,Belize,1,Belize,1,Cayo,1,Mayo,1,4,1
+,Cyprus,1,Cyprus,1,Nicosia,1,Laconia,1,4,1
+,Finland,1,Finland,1,Oulu Laani,1,Bulacan,1,4,1
+,Guatemala,1,Guatemala,1,Izabal,1,Rizal,1,4,1
+,Honduras,1,Honduras,1,Colon,1,Colonia,1,4,1
+,Japan,1,Japan,1,Yamagata,1,Matagalpa,1,4,1
+,Mongolia,1,Mongolia,1,Hentiy,1,Kent,1,4,1
+,New Zealand,1,New Zealand,1,Westland,1,Vestland,1,4,1
+,Korea,1,North Korea,1,Ch'Ungch'Ong-Bukto,1,Chongqing,1,4,1
+,Pakistan,1,Pakistan,1,Punjab,1,Punjab,1,4,1
+,Zambia,1,Zambia,1,Eastern,1,Eastern,1,4,1
+,Albania,1,Albania,1,Mat,1,Matam,1,3,1
+,Angola,1,Angola,1,Huila,1,Huila,1,3,1
+,,0,Australia,1,,0,Victoria,1,3,1
+,Belize,1,Belize,1,Toledo,1,Toledo,1,3,1
+,Bolivia,1,Bolivia,1,Pando,1,Mandoul,1,3,1
+,Brazil,1,Brazil,1,Piura,1,Piura,1,3,1
+,Brazil,1,Brazil,1,Santa Catarina,1,Santa Catarina,1,3,1
+,Bulgaria,1,Bulgaria,1,Sofiya,1,Soria,1,3,1
+,Cuba,1,Cuba,1,Guantanamo,1,Guanajuato,1,3,1
+,Dominican Republic,1,Dominican Republic,1,Samana,1,Samangan,1,3,1
+,Ecuador,1,Ecuador,1,Los Rios,1,Los Ríos,1,3,1
+,El Salvador,1,El Salvador,1,Morazan,1,Oran,1,3,1
+,Ethiopia,1,Ethiopia,1,Sidamo,1,Msida,1,3,1
+,France,1,France,1,Nord,1,Nord,1,3,1
+,Guinea,1,Guinea,1,Kankan,1,Lankaran,1,3,1
+,Guinea,1,Guinea,1,Dabola,1,Paola,1,3,1
+,Japan,1,Japan,1,Kagawa,1,Jigawa,1,3,1
+,Japan,1,Japan,1,Aichi,1,Phichit,1,3,1
+,Laos,1,Laos,1,Salavan,1,Salamanca,1,3,1
+,Liberia,1,Liberia,1,Bong,1,Bono,1,3,1
+,Madagascar,1,Madagascar,1,Toamasina,1,Tasmania,1,3,1
+,Mozambique,1,Mozambique,1,Manica,1,Manicaland,1,3,1
+,Netherlands,1,Netherlands,1,Netherlands Antilles,1,Shetland Islands,1,3,1
+,Pakistan,1,Pakistan,1,North-West Frontier,1,North-West District,1,3,1
+,,0,Papua New Guinea,1,,0,Western Province,1,3,1
+,Philippines,1,Philippines,1,Isabela,1,Isabela,1,3,1
+,Russia,1,Russia,1,Kareliya,1,Kırklareli,1,3,1
+,Sweden,1,Sweden,1,G�vleborg,1,Alborz,1,3,1
+,United Kingdom,1,United Kingdom,1,Montserrat,1,Montserrado County,1,3,1
+,United States,1,United States,1,MI,1,Midlands Province,1,3,1
+,Vietnam,1,Vietnam,1,Son La Province,1,Sofala Province,1,3,1
+,Zambia,1,Zambia,1,Southern,1,Southern,1,3,1
+,Afghanistan,1,Afghanistan,1,Kondoz [Kunduz],1,Ondo,1,2,1
+,Albania,1,Albania,1,Korce,1,Koror,1,2,1
+,Angola,1,Angola,1,Zaire,1,Bonaire,1,2,1
+,Argentina,1,Argentina,1,San Juan,1,San Juan,1,2,1
+,Austria,1,Austria,1,Oberosterreich,1,Berrechid,1,2,1
+,Belgium,1,Belgium,1,Brabant,1,Rabat,1,2,1
+,Canada,1,Canada,1,York County,1,Gjirokastër County,1,2,1
+,Slovak Republic,1,Central African Republic,1,Banska Bystricka Region,1,Banská Bystrica Region,1,2,1
+,China,1,China,1,Hong Kong Special Administrative Region,1,Cordillera Administrative,1,2,1
+,Cuba,1,Cuba,1,Oriente,1,Corrientes,1,2,1
+,Cyprus,1,Cyprus,1,Limassol,1,Lima,1,2,1
+,Dominican Republic,1,Dominican Republic,1,Azua,1,Azuay,1,2,1
+,Egypt,1,Egypt,1,Al Bahr Al Ahmar,1,Al Bahah,1,2,1
+,El Salvador,1,El Salvador,1,San Miguel,1,São Miguel,1,2,1
+,Ethiopia,1,Ethiopia,1,Welega [Walaga],1,Agalega Islands,1,2,1
+,Fiji,1,Fiji Islands,1,Viti Levu Island,1,Jarvis Island,1,2,1
+,Finland,1,Finland,1,Eastern Finland,1,East,1,2,1
+,Finland,1,Finland,1,Turku,1,Turkana,1,2,1
+,Ghana,1,Ghana,1,Central,1,Central,1,2,1
+,Greece,1,Greece,1,Khalkidhiki,1,Falkirk,1,2,1
+,Guinea,1,Guinea,1,Boke,1,Bokeo Province,1,2,1
+,Guinea,1,Guinea,1,Kindia,1,Indiana,1,2,1
+,Guinea,1,Guinea,1,Fria,1,Riau,1,2,1
+,Hungary,1,Hungary,1,Nograd,1,Dorado,1,2,1
+,Hungary,1,Hungary,1,Pest,1,West,1,2,1
+,Japan,1,Japan,1,Shimane,1,Benslimane,1,2,1
+,Japan,1,Japan,1,Chiba,1,Ceiba,1,2,1
+,Japan,1,Japan,1,Mie,1,Valmiera,1,2,1
+,Kazakhstan,1,Kazakhstan,1,Semipalatinsk,1,Minsk,1,2,1
+,Madagascar,1,Madagascar,1,Toliara,1,Ra,1,2,1
+,Mongolia,1,Mongolia,1,Tov,1,Chomutov,1,2,1
+,Morocco,1,Morocco,1,Agadir,1,Banaadir,1,2,1
+,New Zealand,1,New Zealand,1,Buller,1,Allier,1,2,1
+,Nicaragua,1,Nicaragua,1,Atlantico Nort,1,Atlántico,1,2,1
+,Oman,1,Oman,1,Zufar,1,Zamfara,1,2,1
+,Philippines,1,Philippines,1,Rapu-Rapu Island,1,Harbour Island,1,2,1
+,Philippines,1,Philippines,1,Agusan del Norte Province,1,Norte Province,1,2,1
+,Philippines,1,Philippines,1,Surigao*,1,Riga,1,2,1
+,Portugal,1,Portugal,1,Setúbal District,1,Ba,1,2,1
+,Romania,1,Romania,1,Bihor,1,Bihar,1,2,1
+,Romania,1,Romania,1,Mures,1,Eure,1,2,1
+,Romania,1,Romania,1,Gorj,1,Gorgol,1,2,1
+,Russia,1,Russia,1,Tuva,1,Atua,1,2,1
+,Russia,1,Russia,1,Irkutskaya Oblast',1,Cherkaska oblast,1,2,1
+,South Africa,1,South Africa,1,North-West,1,Northwest,1,2,1
+,Spain,1,Spain,1,Cordoba Province,1,Ba,1,2,1
+,Suriname,1,Suriname,1,Para,1,Paraná,1,2,1
+,Tunisia,1,Tunisia,1,Al Kaf,1,Al Jawf,1,2,1
+,United Kingdom,1,United Kingdom,1,British Virgin Islands,1,United States Virgin Islands,1,2,1
+,Vietnam,1,Vietnam,1,Thai Nguyen Province,1,Bié Province,1,2,1
+,Zambia,1,Zambia,1,Western,1,Western,1,2,1
+,Afghanistan,1,Afghanistan,1,Ghowr [Ghor],1,Gorgol,1,1,1
+,Albania,1,Albania,1,Puke,1,Phuket,1,1,1
+,Angola,1,Angola,1,Luanda,1,Kandal,1,1,1
+,Angola,1,Angola,1,Uige,1,Niger,1,1,1
+,,0,Argentina,1,,0,Santa Cruz,1,1,1
+,Argentina,1,Argentina,1,Rio Negro Province,1,Bié Province,1,1,1
+,Austria,1,Austria,1,Bad Bleiberg,1,Ba,1,1,1
+,Austria,1,Austria,1,Niederosterreich,1,Herefordshire,1,1,1
+,Austria,1,Austria,1,Niederosterreich,1,Leicestershire,1,1,1
+,Bolivia,1,Bolivia,1,Guarayos,1,Guayas,1,1,1
+,Bolivia,1,Bolivia,1,Potosi,1,San Luis Potosí,1,1,1
+,Botswana,1,Botswana,1,Central district,1,Central District,1,1,1
+,Bulgaria,1,Bulgaria,1,Burgas,1,Burgos,1,1,1
+,Bulgaria,1,Bulgaria,1,Montana,1,Montana,1,1,1
+,Bulgaria,1,Bulgaria,1,Varna,1,Var,1,1,1
+,Canada,1,Canada,1,Alaska,1,Alaska,1,1,1
+,Canada,1,Canada,1,Liard Mining Division,1,Dhaka Division,1,1,1
+,Canada,1,Canada,1,Labrador,1,Lara,1,1,1
+,Canada,1,Canada,1,Nevada,1,Nevada,1,1,1
+,Canada,1,Canada,1,Western Churchill Province,1,West,1,1,1
+,Chile,1,Chile,1,Araucania,1,Arauca,1,1,1
+,Chile,1,Chile,1,Copiapó,1,Cospicua,1,1,1
+,China,1,China,1,Nei Mongol,1,Negotino Municipality,1,1,1
+,China,1,China,1,Shandong [Shantung],1,Shan State,1,1,1
+,Republic of Congo,1,Congo,1,District of Niari,1,Federation of Bosnia and Herzegovina,1,1,1
+,Côte d’Ivoire,1,Cote D'Ivoire (Ivory Coast),1,Côte d’Ivoire,1,Côte-d'Or,1,1,1
+,Germany and Czech Republic,1,Czech Republic,1,"Bayern [Bavaria, Germany]",1,Bay Islands Department,1,1,1
+,Democratic Republic of the Congo,1,Democratic Republic of the Congo,1,Haut -Katanga Province,1,Tanga,1,1,1
+,"Korea, Republic of",1,Democratic Republic of the Congo,1,Ch'Ungch'Ong-Bukto,1,Changhua,1,1,1
+,"Korea, Republic of",1,Democratic Republic of the Congo,1,Ch'Ungch'Ong-Namdo,1,Changhua,1,1,1
+,Egypt,1,Egypt,1,Al Buhayrah,1,Al Bahah,1,1,1
+,El Salvador,1,El Salvador,1,Cabanas,1,Canóvanas,1,1,1
+,El Salvador,1,El Salvador,1,La Union,1,La Union,1,1,1
+,El Salvador,1,El Salvador,1,Cuscatlan,1,Muscat,1,1,1
+,El Salvador,1,El Salvador,1,Usulutan,1,Sulu,1,1,1
+,Ethiopia,1,Ethiopia,1,Mirab Gojam,1,Mizoram,1,1,1
+,Ethiopia,1,Ethiopia,1,Mirab Harerge,1,Vorarlberg,1,1,1
+,Finland,1,Finland,1,British Columbia,1,British Columbia,1,1,1
+,Finland,1,Finland,1,Oulu,1,Sulu,1,1,1
+,France,1,France,1,Limousin,1,Imo,1,1,1
+,Greenland,1,Greenland,1,Kommune Kujalleq,1,Khammouane Province,1,1,1
+,Greenland,1,Greenland,1,Kujalleq,1,Kwale,1,1,1
+,Greenland,1,Greenland,1,Qaqortoq District,1,Sassandra-Marahoué District,1,1,1
+,Greenland,1,Greenland,1,Qaasuitsup,1,Wasit,1,1,1
+,Guinea,1,Guinea,1,Eastern Guinea,1,East,1,1,1
+,Guinea,1,Guinea,1,Siguiri,1,Figuig,1,1,1
+,Guinea,1,Guinea,1,Beyla,1,Mbeya,1,1,1
+,Guinea,1,Guinea,1,Boffa,1,Offaly,1,1,1
+,Guinea,1,Guinea,1,Tougue,1,Touggourt,1,1,1
+,Indonesia,1,Indonesia,1,Irian Jaya,1,Ariana,1,1,1
+,Indonesia,1,Indonesia,1,Timor Island,1,Cat Island,1,1,1
+,Indonesia,1,Indonesia,1,Halmahera Island,1,Ra,1,1,1
+,Ireland,1,Ireland,1,County Tipperary,1,Ra,1,1,1
+,Italy,1,Italy,1,Valle D'Aosta,1,Valletta,1,1,1
+,Japan,1,Japan,1,Gumma,1,Guelma,1,1,1
+,Japan,1,Japan,1,Saitama,1,Matam,1,1,1
+,Japan,1,Japan,1,Shiga,1,Vihiga,1,1,1
+,Jordan,1,Jordan,1,Al Balqa',1,Al Bayda',1,1,1
+,Kazakhstan,1,Kazakhstan,1,Zhitigara District,1,Has District,1,1,1
+,Kazakhstan,1,Kazakhstan,1,Kostenay Oblast,1,Jewish Autonomous Oblast,1,1,1
+,Kyrgyzstan,1,Kyrgyzstan,1,Chui,1,Chrudim,1,1,1
+,Madagascar,1,Madagascar,1,Moramanga,1,Ra,1,1,1
+,Madagascar,1,Madagascar,1,Toliara,1,Tolima,1,1,1
+,Malawai,1,Malawi,1,Central,1,Central,1,1,1
+,Malawai,1,Malawi,1,Dowa,1,Doha,1,1,1
+,Malawai,1,Malawi,1,Lilongwe,1,Songwe,1,1,1
+,Mexico,1,Mexico,1,BS,1,Basel-Stadt,1,1,1
+,Mexico,1,Mexico,1,CO,1,Colonia,1,1,1
+,Mexico,1,Mexico,1,Distrito Federal*,1,Distrito Federal,1,1,1
+,Mexico,1,Mexico,1,Michoacan,1,Michigan,1,1,1
+,Mexico,1,Mexico,1,BN,1,Northern Bahr el Ghazal,1,1,1
+,Mexico,1,Mexico,1,SB,1,Sibiu County,1,1,1
+,Mexico,1,Mexico,1,SI,1,Sirdaryo Region,1,1,1
+,Mongolia,1,Mongolia,1,Sukhbaatar,1,Ba,1,1,1
+,Mongolia,1,Mongolia,1,Suhbaatar,1,Bataan,1,1,1
+,Mongolia,1,Mongolia,1,Dornod,1,Borno,1,1,1
+,Mongolia,1,Mongolia,1,Bulgan,1,Bulacan,1,1,1
+,Mongolia,1,Mongolia,1,Hovsgol,1,Gorgol,1,1,1
+,Mozambique,1,Mozambique,1,Niassa,1,Assam,1,1,1
+,Mozambique,1,Mozambique,1,Tete,1,Leyte,1,1,1
+,Namibia,1,Namibia,1,Erongo,1,Baringo,1,1,1
+,Namibia,1,Namibia,1,Karibib District,1,Chapai Nawabganj District,1,1,1
+,Namibia,1,Namibia,1,Gauteng Province,1,Gauteng,1,1,1
+,Namibia,1,Namibia,1,Otjozondijupa,1,Ostrobothnia,1,1,1
+,Namibia,1,Namibia,1,Karas,1,Ra,1,1,1
+,Nauru,1,Nauru,1,Aiwo,1,Taiwan,1,1,1
+,Nicaragua,1,Nicaragua,1,REGIÓN AUTÓNOMA DE LA COSTA CARIBE NORTE,1,Andorra la Vella,1,1,1
+,Nigeria,1,Nigeria,1,Nasarawa State,1,Ra,1,1,1
+,Korea,1,North Korea,1,Ch'Ungch'Ong-Namdo,1,Chongqing,1,1,1
+,Korea,1,North Korea,1,Hamgyong-Namdo,1,Kampong Cham,1,1,1
+,Korea,1,North Korea,1,Hwanghae-Bukto,1,Shanghai,1,1,1
+,Korea,1,North Korea,1,Hwanghae-Namdo,1,Shanghai,1,1,1
+,"Korea, North",1,North Korea,1,Hamgyong-Namdo,1,Domagnano,1,1,1
+,Norway,1,Norway,1,Troms,1,Homs,1,1,1
+,Norway,1,Norway,1,Ostfold,1,Most,1,1,1
+,,0,Papua New Guinea,1,,0,Central Province,1,1,1
+,Papua New Guinea,1,Papua New Guinea,1,Kainantu,1,Ain,1,1,1
+,Papua New Guinea,1,Papua New Guinea,1,Eastern Highland,1,East,1,1,1
+,Peru,1,Peru,1,Chicha,1,Chichaoua,1,1,1
+,Philippines,1,Philippines,1,Surigao,1,Riga,1,1,1
+,Portugal,1,Portugal,1,Caminha,1,Carinthia,1,1,1
+,Portugal,1,Portugal,1,Alto Alentejo,1,Toa Alta,1,1,1
+,Portugal,1,Portugal,1,Vila Nova De Cerveira,1,Ávila,1,1,1
+,Republic of Portugal,1,Portugal,1,Caminha,1,Carinthia,1,1,1
+,Republic of Portugal,1,Portugal,1,Vila Nova De Cerveira,1,Ávila,1,1,1
+,Romania,1,Romania,1,Bacau,1,Cauca,1,1,1
+,Romania,1,Romania,1,Constanta,1,Constantine,1,1,1
+,Romania,1,Romania,1,Calarasi,1,Lara,1,1,1
+,Romania,1,Romania,1,Galati,1,Latina,1,1,1
+,Romania,1,Romania,1,Olt,1,Volta,1,1,1
+,Russia,1,Russia,1,Buryatia,1,Bury,1,1,1
+,Russia,1,Russia,1,Chitinskaya Oblast',1,Cherkaska oblast,1,1,1
+,Russia,1,Russia,1,Khakassia,1,Kalasin,1,1,1
+,Russia,1,Russia,1,Kola Peninsula,1,Kolašin Municipality,1,1,1
+,Russia,1,Russia,1,Sakhalinskaya Oblast',1,Luhanska oblast,1,1,1
+,Russia,1,Russia,1,Moskovskaya Oblast',1,Mykolaivska oblast,1,1,1
+,Russia,1,Russia,1,Yakutia,1,Paktia,1,1,1
+,Russia,1,Russia,1,Tuva,1,Tubas,1,1,1
+,Russia,1,Russia,1,Kamchatskaya Oblast',1,Zakarpatska Oblast,1,1,1
+,Russia,1,Russia,1,Kuril Islands,1,Åland Islands,1,1,1
+,Rwanda,1,Rwanda,1,Muhanga,1,Murang'a,1,1,1
+,Senegal,1,Senegal,1,Thies,1,Trieste,1,1,1
+,Sierra Leone,1,Sierra Leone,1,Northern,1,Northern,1,1,1
+,Slovakia,1,Slovakia,1,Banská Bystrica,1,Ba,1,1,1
+,Slovakia,1,Slovakia,1,Eastern Slovakia,1,East,1,1,1
+,South Africa,1,South Africa,1,Mpumalanga Province,1,Malé,1,1,1
+,South Korea,1,South Korea,1,Chungcheongnam-do,1,Chachoengsao,1,1,1
+,South Korea,1,South Korea,1,Gangwon-do,1,Guangdong,1,1,1
+,South Korea,1,South Korea,1,Gangwon-do,1,Mato Grosso do Sul,1,1,1
+,South Korea,1,South Korea,1,Kangwon-Do,1,Mato Grosso do Sul,1,1,1
+,Spain,1,Spain,1,Castilla y León,1,Asti,1,1,1
+,Spain,1,Spain,1,Cordoba,1,Córdoba,1,1,1
+,Spain,1,Spain,1,Andalucía,1,Lucca,1,1,1
+,Spain,1,Spain,1,Extremadura,1,Ra,1,1,1
+,Spain,1,Spain,1,Andalusia,1,Sila,1,1,1
+,Sri Lanka,1,Sri Lanka,1,Melsiripura,1,Ra,1,1,1
+,Sudan,1,Sudan,1,An Nil Al Azra,1,Al Anbar,1,1,1
+,Sweden,1,Sweden,1,Östergötlands Län,1,Landes,1,1,1
+,Sweden,1,Sweden,1,Lapland,1,Lapland,1,1,1
+,Sweden,1,Sweden,1,Norrbotten,1,Northern,1,1,1
+,Sweden,1,Sweden,1,Smaland,1,Saladin,1,1,1
+,Turkey,1,Turkey,1,Hakkari Province,1,Akkar,1,1,1
+,Turkey,1,Turkey,1,Sirnak Province,1,Cuando Cubango Province,1,1,1
+,Turkey,1,Turkey,1,Adana Province,1,Havana Province,1,1,1
+,Turkey,1,Turkey,1,Usak,1,Lusaka Province,1,1,1
+,Turkey,1,Turkey,1,Kutahya Province,1,Utah,1,1,1
+,United Kingdom,1,United Kingdom,1,Cayman Islands,1,Cat Island,1,1,1
+,United Kingdom,1,United Kingdom,1,Cleveland,1,Flevoland,1,1,1
+,USA,1,United States,1,Southeast Alaska,1,East,1,1,1
+,USA,1,United States,1,Humboldt County,1,Korçë County,1,1,1
+,USA,1,United States,1,Nye,1,Nyeri,1,1,1
+,United States,1,United States,1,CT,1,Cần Thơ,1,1,1
+,United States,1,United States,1,Elko County,1,Gjirokastër County,1,1,1
+,United States,1,United States,1,Stevens County,1,Győr-Moson-Sopron County,1,1,1
+,United States,1,United States,1,Esmeralda County,1,Ra,1,1,1
+,Uruguay,1,Uruguay,1,Rio Negro,1,Río Negro,1,1,1
+,Vietnam,1,Vietnam,1,Son La,1,Andorra la Vella,1,1,1
+,Yemen,1,Yemen,1,Northwest Region,1,Northwestern Region,1,1,1
+,,0,Zambia,1,,0,Central,1,1,1
+,Zambia,1,Zambia,1,North-Western Province,1,North Western Province,1,1,1
+,Zimbabwe,1,Zimbabwe,1,Harare,1,Ra,1,1,1

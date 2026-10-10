@@ -1,0 +1,11 @@
+{
+  "id": "1.4b-lon-dp-4326",
+  "sent_at": "2026-09-08T06:17:56.050515+00:00",
+  "http_status": 200,
+  "elapsed_ms": 9738,
+  "bytes": 10094,
+  "curl_exit": 0,
+  "row_count": 30,
+  "truncated_by_limit": false,
+  "error": null
+}

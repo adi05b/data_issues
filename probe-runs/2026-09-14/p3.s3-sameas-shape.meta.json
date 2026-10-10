@@ -1,0 +1,11 @@
+{
+  "id": "p3.s3-sameas-shape",
+  "sent_at": "2026-09-14T20:31:55.132015+00:00",
+  "http_status": 200,
+  "elapsed_ms": 2920,
+  "bytes": 286,
+  "curl_exit": 0,
+  "row_count": 1,
+  "truncated_by_limit": false,
+  "error": null
+}

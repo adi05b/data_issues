@@ -1,0 +1,11 @@
+{
+  "id": "A2.4c-vocab-states",
+  "sent_at": "2026-09-03T00:01:23.085521+00:00",
+  "http_status": 200,
+  "elapsed_ms": 538,
+  "bytes": 1187827,
+  "curl_exit": 0,
+  "row_count": 5084,
+  "truncated_by_limit": false,
+  "error": null
+}

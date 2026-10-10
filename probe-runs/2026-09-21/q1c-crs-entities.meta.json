@@ -1,0 +1,11 @@
+{
+  "id": "q1c-crs-entities",
+  "sent_at": "2026-09-21T23:37:15.218707+00:00",
+  "http_status": 200,
+  "elapsed_ms": 111,
+  "bytes": 5163,
+  "curl_exit": 0,
+  "row_count": 15,
+  "truncated_by_limit": false,
+  "error": null
+}

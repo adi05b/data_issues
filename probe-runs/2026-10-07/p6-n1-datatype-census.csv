@@ -1,0 +1,5 @@
+p,dt,n
+https://minmod.isi.edu/ontology/confidence,http://www.w3.org/2001/XMLSchema#decimal,3407081
+https://minmod.isi.edu/ontology/discovered_year,http://www.w3.org/2001/XMLSchema#integer,10933
+https://minmod.isi.edu/ontology/page,http://www.w3.org/2001/XMLSchema#integer,40267
+https://minmod.isi.edu/ontology/value,http://www.w3.org/2001/XMLSchema#decimal,207765

@@ -1,0 +1,11 @@
+{
+  "id": "q1b-no-crs-node",
+  "sent_at": "2026-09-21T23:30:40.009044+00:00",
+  "http_status": 200,
+  "elapsed_ms": 93159,
+  "bytes": 3428,
+  "curl_exit": 0,
+  "row_count": 15,
+  "truncated_by_limit": false,
+  "error": null
+}

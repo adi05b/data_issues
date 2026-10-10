@@ -1,0 +1,14 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?site ?label ?source ?wkt ?crs_label
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :crs ?c ; :location ?wkt .
+  ?c :normalized_uri ?ce .
+  ?ce rdfs:label ?crs_label
+  FILTER(CONTAINS(STR(?crs_label), "4267"))
+  OPTIONAL { ?site rdfs:label ?label }
+  OPTIONAL { ?site :source_id ?source }
+}
+LIMIT 40

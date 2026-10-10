@@ -1,0 +1,8 @@
+# Who owns sites, and the latest modified_at per owner (edits through the API set created_by = editor)
+PREFIX mo: <https://minmod.isi.edu/ontology/>
+PREFIX gco: <https://geochemistry.isi.edu/ontology/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?cb (COUNT(?s) AS ?sites) (MIN(?m) AS ?first_mod) (MAX(?m) AS ?last_mod) WHERE {
+  ?s a mo:MineralSite ; mo:created_by ?cb ; mo:modified_at ?m .
+} GROUP BY ?cb ORDER BY DESC(?sites)

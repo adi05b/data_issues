@@ -1,0 +1,11 @@
+{
+  "id": "p2.1a-affected-by-source",
+  "sent_at": "2026-09-14T19:16:52.990162+00:00",
+  "http_status": 200,
+  "elapsed_ms": 10417,
+  "bytes": 4319,
+  "curl_exit": 0,
+  "row_count": 19,
+  "truncated_by_limit": false,
+  "error": null
+}

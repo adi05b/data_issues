@@ -1,0 +1,16 @@
+{
+ "all_pairs_clean": {
+  "n": 2279,
+  "entities": 1470,
+  "median_before": 174.75183224561206,
+  "median_after": 101.44091272469966,
+  "w50_before": 5.309346204475648,
+  "w50_after": 47.60860026327337,
+  "improving": 1608
+ },
+ "excluded": {
+  "pathological_entity": "dedup_site__doi-org-10-4095-295581__955__usc",
+  "pairs_from_it": 10850,
+  "pairs_with_impossible_sibling_lat": 10832
+ }
+}

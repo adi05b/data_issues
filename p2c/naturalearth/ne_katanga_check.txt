@@ -1,0 +1,19 @@
+DR Congo features: 11
+  Bandundu | CD-BN | Province | 
+  Bas-Congo | CD-BC | Province | Bas-Zaire|Bas-Zaïre|Kongo-Central|Lower Zaire
+  Kasaï-Occidental | CD-KW | Province | Kasai West|West Kasai|West Kassai
+  Kasaï-Oriental | CD-KE | Province | East Kasai|Kasai East
+  Katanga | CD-KA | Province | Shaba
+  Kinshasa City | CD-KN | Neutral City | Kinshasa|Léopoldville
+  Maniema | CD-MA | Province | 
+  Nord-Kivu | CD-NK | Province | 
+  Orientale | CD-OR | Province | Haut-Zaire|Haut-ZaïreUpper Zaire
+  Sud-Kivu | CD-SK | Province | Sud-Kivou|Sud Kivou|Sud Kivu
+  Équateur | CD-EQ | Province | Equator|Equatorial
+single Katanga feature: ['CD-KA']
+Haut-Katanga (Q3000) anywhere in the file: not found
+Lualaba (Q3012) anywhere in the file: not found
+Haut-Lomami (Q3001) anywhere in the file: not found
+Tanganyika (Q3021) anywhere in the file: not found
+all four successors present for DR Congo: False
+STOP: Steps 3 and 4 skipped.

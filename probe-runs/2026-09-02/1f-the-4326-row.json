@@ -1,0 +1,16 @@
+{ "head": {
+    "vars": [ "site" , "label" , "source" , "wkt" , "crs_label" , "country_obs" , "state_obs" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5382-econgeo-4950__tagaung-taung__usc" } ,
+        "label": { "type": "literal" , "value": "Tagaung Taung" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "wkt": { "type": "literal" , "value": "POINT(23.63453 96.16317)" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "country_obs": { "type": "literal" , "value": "Myanmar" }
+      }
+    ]
+  }
+}

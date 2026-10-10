@@ -1,0 +1,28 @@
+{ "head": {
+    "vars": [ "p" , "dt" , "n" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/confidence" } ,
+        "dt": { "type": "uri" , "value": "http://www.w3.org/2001/XMLSchema#decimal" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3407081" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/discovered_year" } ,
+        "dt": { "type": "uri" , "value": "http://www.w3.org/2001/XMLSchema#integer" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10933" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/page" } ,
+        "dt": { "type": "uri" , "value": "http://www.w3.org/2001/XMLSchema#integer" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "40267" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/value" } ,
+        "dt": { "type": "uri" , "value": "http://www.w3.org/2001/XMLSchema#decimal" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "207765" }
+      }
+    ]
+  }
+}

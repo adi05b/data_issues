@@ -1,0 +1,8 @@
+_site,crs_label,crs_label_bound,crs_obs,crs_obs_bound,nodes,nodes_bound
+,EPSG:4326,1,EPSG:4326,1,403549,1
+,EPSG:2994,1,EPSG:2994,1,23316,1
+,EPSG:4326,1,,0,7869,1
+,EPSG:26912,1,EPSG:26912,1,7792,1
+,EPSG:4267,1,EPSG:4267,1,7720,1
+,,0,,0,1280,1
+,EPSG:4326,1,WGS84,1,1,1

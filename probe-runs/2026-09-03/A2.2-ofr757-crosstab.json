@@ -1,0 +1,17 @@
+{ "head": {
+    "vars": [ "crs_label" , "status" , "sites" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "status": { "type": "literal" , "value": "out_of_range" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7792" }
+      } ,
+      { 
+        "status": { "type": "literal" , "value": "no_wkt" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

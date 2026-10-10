@@ -1,0 +1,11 @@
+{
+  "id": "p6-v2-curator-sites",
+  "sent_at": "2026-10-08T00:48:47.414262+00:00",
+  "http_status": 200,
+  "elapsed_ms": 2541,
+  "bytes": 25762,
+  "curl_exit": 0,
+  "row_count": 44,
+  "truncated_by_limit": false,
+  "error": null
+}

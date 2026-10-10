@@ -1,0 +1,20 @@
+{ "head": {
+    "vars": [ "metric" , "n" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "metric": { "type": "literal" , "value": "a_sites_state_cand_unmatched" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3245" }
+      } ,
+      { 
+        "metric": { "type": "literal" , "value": "b_distinct_unmatched_names" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "672" }
+      } ,
+      { 
+        "metric": { "type": "literal" , "value": "c_sites_country_cand_unmatched" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "723" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{ "head": {
+    "vars": [ "crs_ent" , "src" , "records" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.5382/econgeo.2018.4590" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2301" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1200" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.1016/j.oregeorev.2016.08.010" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "851" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "708" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "690" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "627" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "506" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/deposit" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "428" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.2113/econgeo.110.8.1925" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "267" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.3133/pp1802J" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "108" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.5066/P99RK9SU" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "73" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.3390/min10070626" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "28" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.31035/cg2020009" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "20" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.3133/fs20243029" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "17" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/researchgate.net/publication/319954077_Graphite_properties_uses_and_South_Australian_resources" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/researchgate.net/publication/369107635_Critical_Minerals_Potential_of_Brazil" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.1007/s00126-023-01161-3" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://doi.org/10.3997/2214-4609.20215K2011" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "crs_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q701" } ,
+        "src": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      }
+    ]
+  }
+}

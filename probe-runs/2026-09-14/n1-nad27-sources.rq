@@ -1,0 +1,14 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?source ?crs_label (COUNT(DISTINCT ?site) AS ?records)
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :crs ?c .
+  ?c :normalized_uri ?ce .
+  ?ce rdfs:label ?crs_label
+  FILTER(CONTAINS(STR(?crs_label), "4267"))
+  OPTIONAL { ?site :source_id ?source }
+}
+GROUP BY ?source ?crs_label
+ORDER BY DESC(?records)

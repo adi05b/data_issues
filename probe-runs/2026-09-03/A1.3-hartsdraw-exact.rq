@@ -1,0 +1,13 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?site ?label ?source ?wkt ?crs_label ?country_obs ?state_obs
+WHERE {
+  ?site a :MineralSite ; rdfs:label ?label ; :location_info ?li .
+  FILTER(CONTAINS(LCASE(STR(?label)), "harts draw"))
+  ?li :location ?wkt .
+  OPTIONAL { ?site :source_id ?source }
+  OPTIONAL { ?li :crs ?crsc . ?crsc :normalized_uri ?ce . ?ce rdfs:label ?crs_label }
+  OPTIONAL { ?li :country ?cc . ?cc :observed_name ?country_obs }
+  OPTIONAL { ?li :state_or_province ?sc . ?sc :observed_name ?state_obs }
+}

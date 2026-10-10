@@ -1,0 +1,11 @@
+points in a province: 247
+closest to their province boundary (km, full-res | simplified; degrees x 111, approximate):
+     0.1 |    0.1  Lualaba       state never  POINT (26.250828 -11.078243)
+     0.5 |    0.5  Lualaba       state never  POINT (25.9324 -10.9712)
+     0.5 |    0.5  Lualaba       drop list (s POINT (25.9324000000000012 -10.97119999999999
+     0.6 |    0.6  Lualaba       drop list (s POINT (26.5743000000000009 -10.81099999999999
+     0.6 |    0.6  Haut-Katanga  drop list (s POINT (27.2346399999999988 -11.76416000000000
+     0.8 |    0.8  Lualaba       state never  POINT (26.485421 -10.858546)
+     0.9 |    0.9  Haut-Katanga  drop list (s POINT(26.0917 -10.9542)
+     0.9 |    0.9  Haut-Katanga  drop list (s POINT (28.0948999999999991 -12.35710000000000
+within 1 km: 9 within 5 km: 32

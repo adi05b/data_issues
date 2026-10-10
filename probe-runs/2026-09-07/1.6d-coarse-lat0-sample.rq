@@ -1,0 +1,13 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?source ?wkt
+WHERE {
+  ?site a :MineralSite ; :source_id ?source ; :location_info ?li .
+  ?li :location ?wkt ; :crs ?crsc .
+  ?crsc :normalized_uri ?ce . ?ce rdfs:label ?crs .
+  FILTER(STR(?crs) = "EPSG:4326")
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*[-+0-9.eE]+\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?la)
+  BIND(IF(CONTAINS(?la,"."), STRLEN(STRAFTER(?la,".")), 0) AS ?latd)
+  FILTER(?latd <= 1)
+}
+LIMIT 400

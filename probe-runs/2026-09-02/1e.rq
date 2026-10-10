@@ -1,0 +1,14 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?bucket (COUNT(DISTINCT ?site) AS ?sites)
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :location ?wkt .
+  BIND(xsd:double(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2")) AS ?lat)
+  FILTER(BOUND(?lat) && ABS(?lat) > 90)
+  BIND(IF(ABS(?lat) <= 180, "A_90_to_180",
+       IF(ABS(?lat) <= 1000, "B_180_to_1e3",
+       IF(ABS(?lat) <= 100000, "C_1e3_to_1e5",
+       IF(ABS(?lat) <= 10000000, "D_1e5_to_1e7", "E_over_1e7")))) AS ?bucket)
+}
+GROUP BY ?bucket ORDER BY ?bucket

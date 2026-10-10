@@ -1,0 +1,15 @@
+matcher,has_uri,nodes,min_conf,max_conf
+UMN Matching System-ProcMinev2,matched,635449,0.4998398503937435,0.9999
+SRI database agent v0,matched,299575,1.0,1.0
+UMN Matching System v1,matched,192018,1.0,1.0
+UMN Matching System v1,NO normalized_uri,102843,0.001,1.0
+SRI database agent v0,NO normalized_uri,79480,1.0,1.0
+Inferlink Extraction v3,matched,39962,1.0,1.0
+SAND,matched,19683,0.99,1.0
+UMN Exact Match v1,matched,10385,0.9,0.9
+Inferlink Extraction v3,NO normalized_uri,396,1.0,1.0
+SAND,NO normalized_uri,27,0.0,0.0
+Inferlink Extraction v2,matched,9,1.0,1.0
+https://minmod.isi.edu/users/u/jhammars,matched,4,1.0,1.0
+https://minmod.isi.edu/users/a/bvu,matched,1,1.0,1.0
+https://minmod.isi.edu/users/u/caknoblock,matched,1,1.0,1.0

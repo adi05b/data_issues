@@ -1,0 +1,28 @@
+{ "head": {
+    "vars": [ "site" , "label" , "source" , "wkt" , "other" , "inbound" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10228202__umn" } ,
+        "label": { "type": "literal" , "value": "Pay Off-Harts Draw" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-109.4878899999999931 37.9338899999999981)" } ,
+        "inbound": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10228202__sri" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10078772__umn" } ,
+        "label": { "type": "literal" , "value": "Harts Draw Deposits" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-109.4879099999999994 37.9338800000000020)" } ,
+        "inbound": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10078772__sri" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__0__umn" } ,
+        "label": { "type": "literal" , "value": "Harts Draw Deposits" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (632887 4199554)" }
+      }
+    ]
+  }
+}

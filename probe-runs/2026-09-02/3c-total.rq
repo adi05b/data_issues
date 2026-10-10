@@ -1,0 +1,11 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT (COUNT(DISTINCT ?site) AS ?uneven_sites)
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :location ?wkt .
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?lon_s)
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?lat_s)
+  BIND(IF(CONTAINS(?lon_s, "."), STRLEN(STRAFTER(?lon_s, ".")), 0) AS ?lon_dp)
+  BIND(IF(CONTAINS(?lat_s, "."), STRLEN(STRAFTER(?lat_s, ".")), 0) AS ?lat_dp)
+  FILTER(?lon_dp != ?lat_dp)
+}

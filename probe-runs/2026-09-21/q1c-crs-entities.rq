@@ -1,0 +1,9 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?ce ?label ?p ?o
+WHERE {
+  ?ce a :CoordinateReferenceSystem .
+  OPTIONAL { ?ce rdfs:label ?label }
+  ?ce ?p ?o .
+}
+ORDER BY ?ce

@@ -1,0 +1,11 @@
+{
+  "id": "v1b-coord-pairs-full",
+  "sent_at": "2026-09-15T06:21:36.715944+00:00",
+  "http_status": 200,
+  "elapsed_ms": 7204,
+  "bytes": 19201274,
+  "curl_exit": 0,
+  "row_count": 15349,
+  "truncated_by_limit": false,
+  "error": null
+}

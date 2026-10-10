@@ -1,0 +1,17 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?site ?record_id ?source ?label ?wkt ?country_label
+WHERE {
+  ?site a :MineralSite ; :source_id ?source ; :location_info ?li .
+  ?li :location ?wkt ; :crs ?c .
+  ?c :normalized_uri ?ce . ?ce rdfs:label ?crs . FILTER(STR(?crs) = "EPSG:4326")
+  BIND(REPLACE(STR(?wkt), "^[A-Z]*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?lons)
+  BIND(REPLACE(STR(?wkt), "^[A-Z]*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?lats)
+  BIND(IF(CONTAINS(?lons,"."), STRLEN(STRAFTER(?lons,".")), 0) AS ?dlon)
+  BIND(IF(CONTAINS(?lats,"."), STRLEN(STRAFTER(?lats,".")), 0) AS ?dlat)
+  FILTER(?dlon <= 1 || ?dlat <= 1)
+  OPTIONAL { ?site :record_id ?record_id }
+  OPTIONAL { ?site rdfs:label ?label }
+  OPTIONAL { ?li :country ?cc . ?cc :normalized_uri ?cce . ?cce rdfs:label ?country_label }
+}
+ORDER BY ?site

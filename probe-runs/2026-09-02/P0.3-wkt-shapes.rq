@@ -1,0 +1,7 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?shape (COUNT(*) AS ?n)
+WHERE {
+  ?li a :LocationInfo ; :location ?wkt .
+  BIND(REPLACE(REPLACE(STR(?wkt), "[0-9]", "#"), "#+", "#") AS ?shape)
+}
+GROUP BY ?shape ORDER BY DESC(?n) LIMIT 50

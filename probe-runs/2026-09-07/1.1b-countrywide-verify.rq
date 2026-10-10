@@ -1,0 +1,19 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?state_obs ?state_label ?state_country_id ?sc_label ?country_obs ?country_label
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :state_or_province ?sc ; :country ?cc .
+  ?sc :normalized_uri ?state_ent ; :observed_name ?state_obs .
+  ?cc :normalized_uri ?country_ent ; :observed_name ?country_obs .
+  ?state_ent :country ?scr .
+  BIND(REPLACE(STR(?scr), "^.*/", "") AS ?state_country_id)
+  BIND(REPLACE(STR(?country_ent), "^.*/", "") AS ?country_id)
+  FILTER(?state_country_id != ?country_id)
+  FILTER(?country_obs IN ("Slovak Republic", "Korea, Republic of", "Germany and Czech Republic"))
+  OPTIONAL { ?state_ent rdfs:label ?state_label }
+  OPTIONAL { ?country_ent rdfs:label ?country_label }
+  OPTIONAL { BIND(IRI(CONCAT("https://minmod.isi.edu/resource/", STR(?scr))) AS ?sce)
+             ?sce rdfs:label ?sc_label }
+}
+LIMIT 50

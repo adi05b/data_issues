@@ -1,0 +1,11 @@
+{
+  "id": "2f-target-existence",
+  "sent_at": "2026-09-02T21:58:42.311924+00:00",
+  "http_status": 200,
+  "elapsed_ms": 151,
+  "bytes": 5018,
+  "curl_exit": 0,
+  "row_count": 20,
+  "truncated_by_limit": false,
+  "error": null
+}

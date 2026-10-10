@@ -1,0 +1,8 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?bucket (COUNT(DISTINCT ?sc) AS ?candidates)
+WHERE {
+  ?li a :LocationInfo ; :state_or_province ?sc .
+  ?sc :confidence ?conf .
+  BIND(IF(?conf >= 0.99, "hi_ge_0.99", IF(?conf >= 0.9, "mid_0.9_0.99", "lo_lt_0.9")) AS ?bucket)
+}
+GROUP BY ?bucket ORDER BY DESC(?candidates)

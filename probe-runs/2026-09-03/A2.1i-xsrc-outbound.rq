@@ -1,0 +1,9 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+SELECT ?a (COUNT(DISTINCT ?s) AS ?n)
+WHERE {
+  ?s owl:sameAs ?o ; :source_id ?a ; :location_info/:location ?w .
+  ?o :source_id ?b .
+  FILTER(STR(?a) != STR(?b))
+}
+GROUP BY ?a ORDER BY DESC(?n)

@@ -1,0 +1,12 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?label (COUNT(DISTINCT ?ent) AS ?entities) (GROUP_CONCAT(DISTINCT ?country_id; separator=", ") AS ?countries)
+WHERE {
+  ?ent a :StateOrProvince ; rdfs:label ?label ; :country ?c .
+  BIND(REPLACE(STR(?c), "^.*/", "") AS ?country_id)
+}
+GROUP BY ?label
+HAVING (COUNT(DISTINCT ?ent) > 1)
+ORDER BY DESC(?entities)
+LIMIT 50

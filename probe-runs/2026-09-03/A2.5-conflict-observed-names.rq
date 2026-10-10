@@ -1,0 +1,14 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?state_obs ?country_id (COUNT(DISTINCT ?site) AS ?sites)
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :state_or_province ?sc ; :country ?cc .
+  ?sc :normalized_uri ?state_ent ; :observed_name ?state_obs .
+  ?cc :normalized_uri ?country_ent .
+  ?state_ent :country ?state_country_raw .
+  BIND(REPLACE(STR(?state_country_raw), "^.*/", "") AS ?state_country_id)
+  BIND(REPLACE(STR(?country_ent), "^.*/", "") AS ?country_id)
+  FILTER(?state_country_id != ?country_id)
+}
+GROUP BY ?state_obs ?country_id
+ORDER BY DESC(?sites)

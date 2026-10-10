@@ -1,0 +1,9 @@
+{ "head": {
+    "vars": [ "variant" , "sites" ]
+  } ,
+  "results": {
+    "bindings": [
+      
+    ]
+  }
+}

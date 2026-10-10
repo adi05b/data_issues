@@ -1,0 +1,11 @@
+{
+  "id": "p6-c3-geochem-presence",
+  "sent_at": "2026-10-08T00:47:20.564897+00:00",
+  "http_status": 200,
+  "elapsed_ms": 78,
+  "bytes": 207,
+  "curl_exit": 0,
+  "row_count": 1,
+  "truncated_by_limit": false,
+  "error": null
+}

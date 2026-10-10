@@ -1,0 +1,6 @@
+# Typed node counts to reconcile against p6-n1 literal counts (orphans would make literals > typed nodes)
+PREFIX mo: <https://minmod.isi.edu/ontology/>
+SELECT ?t (COUNT(?n) AS ?nodes) WHERE {
+  VALUES ?t { mo:CandidateEntity mo:Measure }
+  ?n a ?t
+} GROUP BY ?t

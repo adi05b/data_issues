@@ -1,0 +1,28 @@
+{ "head": {
+    "vars": [ "metric" , "n" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "metric": { "type": "literal" , "value": "a_total_sites" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "679781" }
+      } ,
+      { 
+        "metric": { "type": "literal" , "value": "b_with_location_info" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "451527" }
+      } ,
+      { 
+        "metric": { "type": "literal" , "value": "c_with_location_wkt" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "446426" }
+      } ,
+      { 
+        "metric": { "type": "literal" , "value": "d_no_location_info" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "228254" }
+      } ,
+      { 
+        "metric": { "type": "literal" , "value": "e_li_without_wkt" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5101" }
+      }
+    ]
+  }
+}

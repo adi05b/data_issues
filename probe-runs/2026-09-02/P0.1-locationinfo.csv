@@ -1,0 +1,6 @@
+_site,p,p_bound,n,n_bound,subjects,subjects_bound
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,1,451527,1,451527,1
+https://minmod.isi.edu/ontology/country,https://minmod.isi.edu/ontology/country,1,450574,1,450572,1
+https://minmod.isi.edu/ontology/crs,https://minmod.isi.edu/ontology/crs,1,450247,1,450247,1
+https://minmod.isi.edu/ontology/location,https://minmod.isi.edu/ontology/location,1,446426,1,446426,1
+https://minmod.isi.edu/ontology/state_or_province,https://minmod.isi.edu/ontology/state_or_province,1,421592,1,421555,1

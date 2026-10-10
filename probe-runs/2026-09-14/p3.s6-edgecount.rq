@@ -1,0 +1,4 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+SELECT (COUNT(*) AS ?edges) (COUNT(DISTINCT ?s) AS ?subjects) (COUNT(DISTINCT ?o) AS ?objects)
+WHERE { ?s a :MineralSite ; owl:sameAs ?o }

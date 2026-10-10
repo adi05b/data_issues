@@ -1,0 +1,11 @@
+{
+  "id": "1.6d-coarse-lat0-sample",
+  "sent_at": "2026-09-08T06:20:33.567769+00:00",
+  "http_status": 200,
+  "elapsed_ms": 8506,
+  "bytes": 71663,
+  "curl_exit": 0,
+  "row_count": 400,
+  "truncated_by_limit": true,
+  "error": null
+}

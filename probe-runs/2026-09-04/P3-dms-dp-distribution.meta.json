@@ -1,0 +1,11 @@
+{
+  "id": "P3-dms-dp-distribution",
+  "sent_at": "2026-09-08T09:56:58.374056+00:00",
+  "http_status": 200,
+  "elapsed_ms": 16170,
+  "bytes": 129149,
+  "curl_exit": 0,
+  "row_count": 255,
+  "truncated_by_limit": false,
+  "error": null
+}

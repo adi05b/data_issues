@@ -1,0 +1,33 @@
+{ "head": {
+    "vars": [ "p" , "n" , "nodes" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1379833" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1379833" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/confidence" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1379833" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1379833" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/source" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1379833" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1379833" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/observed_name" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1379559" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1379559" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/normalized_uri" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1197087" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1197087" }
+      }
+    ]
+  }
+}

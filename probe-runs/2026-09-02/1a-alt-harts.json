@@ -1,0 +1,44 @@
+{ "head": {
+    "vars": [ "site" , "name" , "source" , "wkt" , "crs_obs" , "crs_label" , "country_obs" , "country_ent" , "state_obs" , "state_ent" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10228202__umn" } ,
+        "name": { "type": "literal" , "value": "Pay Off-Harts Draw" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-109.4878899999999931 37.9338899999999981)" } ,
+        "crs_obs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1235" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" } ,
+        "state_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q6897" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10078772__umn" } ,
+        "name": { "type": "literal" , "value": "Harts Draw Deposits" } ,
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "wkt": { "type": "literal" , "value": "POINT (-109.4879099999999994 37.9338800000000020)" } ,
+        "crs_obs": { "type": "literal" , "value": "EPSG:4326" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:4326" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1235" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" } ,
+        "state_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q6897" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__0__umn" } ,
+        "name": { "type": "literal" , "value": "Harts Draw Deposits" } ,
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "wkt": { "type": "literal" , "value": "POINT (632887 4199554)" } ,
+        "crs_obs": { "type": "literal" , "value": "EPSG:26912" } ,
+        "crs_label": { "type": "literal" , "value": "EPSG:26912" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1235" } ,
+        "state_obs": { "type": "literal" , "value": "Utah" } ,
+        "state_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q6897" }
+      }
+    ]
+  }
+}

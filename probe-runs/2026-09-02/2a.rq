@@ -1,0 +1,21 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX mr: <https://minmod.isi.edu/resource/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?site ?name ?wkt ?state_obs ?state_ent ?state_label ?state_country ?country_obs ?country_ent ?country_label ?state_src ?state_conf
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :state_or_province ?sc .
+  ?sc :observed_name ?state_obs ; :normalized_uri ?state_ent .
+  FILTER(LCASE(STR(?state_obs)) = "florida")
+  OPTIONAL { ?state_ent rdfs:label ?state_label }
+  OPTIONAL { ?state_ent :country ?state_country }
+  OPTIONAL { ?sc :source ?state_src }
+  OPTIONAL { ?sc :confidence ?state_conf }
+  OPTIONAL { ?site :name ?name }
+  OPTIONAL { ?li :location ?wkt }
+  OPTIONAL { ?li :country ?cc .
+             OPTIONAL { ?cc :observed_name ?country_obs }
+             OPTIONAL { ?cc :normalized_uri ?country_ent . OPTIONAL { ?country_ent rdfs:label ?country_label } } }
+}
+LIMIT 20

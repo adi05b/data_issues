@@ -1,0 +1,11 @@
+{
+  "id": "n1-nad27-sources",
+  "sent_at": "2026-09-14T21:05:01.144771+00:00",
+  "http_status": 200,
+  "elapsed_ms": 5503,
+  "bytes": 403,
+  "curl_exit": 0,
+  "row_count": 1,
+  "truncated_by_limit": false,
+  "error": null
+}

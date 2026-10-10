@@ -1,0 +1,11 @@
+{
+  "id": "p3.4a-coord-pairs",
+  "sent_at": "2026-09-14T20:35:30.368362+00:00",
+  "http_status": 200,
+  "elapsed_ms": 5231,
+  "bytes": 12098572,
+  "curl_exit": 0,
+  "row_count": 15349,
+  "truncated_by_limit": false,
+  "error": null
+}

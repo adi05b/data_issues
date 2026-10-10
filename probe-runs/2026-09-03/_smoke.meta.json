@@ -1,0 +1,11 @@
+{
+  "id": "_smoke",
+  "sent_at": "2026-09-02T23:52:56.285552+00:00",
+  "http_status": 200,
+  "elapsed_ms": 289,
+  "bytes": 41,
+  "curl_exit": 0,
+  "row_count": "ASK=True",
+  "truncated_by_limit": null,
+  "error": null
+}

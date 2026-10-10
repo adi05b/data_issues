@@ -1,0 +1,11 @@
+{
+  "id": "p6-pf0-ask",
+  "sent_at": "2026-10-08T00:46:39.729771+00:00",
+  "http_status": 200,
+  "elapsed_ms": 362,
+  "bytes": 41,
+  "curl_exit": 0,
+  "row_count": 0,
+  "truncated_by_limit": false,
+  "error": "KeyError: 'vars'"
+}

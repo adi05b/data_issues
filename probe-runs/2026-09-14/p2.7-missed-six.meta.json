@@ -1,0 +1,11 @@
+{
+  "id": "p2.7-missed-six",
+  "sent_at": "2026-09-14T19:21:57.476455+00:00",
+  "http_status": 200,
+  "elapsed_ms": 210,
+  "bytes": 4150,
+  "curl_exit": 0,
+  "row_count": 6,
+  "truncated_by_limit": false,
+  "error": null
+}

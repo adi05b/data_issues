@@ -1,0 +1,11 @@
+{
+  "id": "p3.1c2-popC-nocrs",
+  "sent_at": "2026-09-14T20:39:12.807656+00:00",
+  "http_status": 200,
+  "elapsed_ms": 6615,
+  "bytes": 625,
+  "curl_exit": 0,
+  "row_count": 2,
+  "truncated_by_limit": false,
+  "error": null
+}

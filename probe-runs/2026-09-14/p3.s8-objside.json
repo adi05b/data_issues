@@ -1,0 +1,13 @@
+{ "head": {
+    "vars": [ "obj_total" , "obj_with_loc" , "obj_is_mineralsite" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "obj_total": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "260654" } ,
+        "obj_with_loc": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "232918" } ,
+        "obj_is_mineralsite": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "260653" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "p5-s5-sulfur-trap",
+  "sent_at": "2026-09-22T03:22:46.000985+00:00",
+  "http_status": 200,
+  "elapsed_ms": 22096,
+  "bytes": 4326,
+  "curl_exit": 0,
+  "row_count": 15,
+  "truncated_by_limit": false,
+  "error": null
+}

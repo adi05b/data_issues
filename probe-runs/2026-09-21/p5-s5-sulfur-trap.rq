@@ -1,0 +1,12 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?src ?obs (COUNT(DISTINCT ?site) AS ?records)
+WHERE {
+  ?site a :MineralSite ; :mineral_inventory ?mi .
+  OPTIONAL { ?site :source_id ?src }
+  ?mi :commodity ?cm .
+  ?cm :normalized_uri ?ent . ?ent rdfs:label ?label .
+  FILTER(STR(?label) = "Sulfur")
+  OPTIONAL { ?cm :observed_name ?obs }
+}
+GROUP BY ?src ?obs ORDER BY DESC(?records)

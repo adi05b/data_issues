@@ -1,0 +1,20 @@
+{ "head": {
+    "vars": [ "exact_zero" , "has_uri" , "nodes" , "records" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "exact_zero": { "type": "literal" , "value": "0 < c < 0.05" } ,
+        "has_uri": { "type": "literal" , "value": "NO normalized_uri" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "42725" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "34014" }
+      } ,
+      { 
+        "exact_zero": { "type": "literal" , "value": "exactly 0" } ,
+        "has_uri": { "type": "literal" , "value": "NO normalized_uri" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "27" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      }
+    ]
+  }
+}

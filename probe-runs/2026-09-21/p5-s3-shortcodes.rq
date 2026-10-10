@@ -1,0 +1,14 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?src ?obs ?label ?conf (COUNT(DISTINCT ?site) AS ?records)
+WHERE {
+  ?site a :MineralSite ; :mineral_inventory ?mi .
+  OPTIONAL { ?site :source_id ?src }
+  ?mi :commodity ?cm .
+  ?cm :observed_name ?obs .
+  OPTIONAL { ?cm :confidence ?conf }
+  OPTIONAL { ?cm :normalized_uri ?ent . OPTIONAL { ?ent rdfs:label ?label } }
+  FILTER(STRLEN(STR(?obs)) <= 3 && UCASE(STR(?obs)) = STR(?obs) && STR(?obs) != "")
+}
+GROUP BY ?src ?obs ?label ?conf
+ORDER BY ?src DESC(?records)

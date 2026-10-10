@@ -1,0 +1,1628 @@
+{ "head": {
+    "vars": [ "ds" , "p" , "o" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "ds": { "type": "uri" , "value": "http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Jowitt's compiled Lithium data" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/title" } ,
+        "o": { "type": "literal" , "value": "Lithium in Nevada. Simon Jowitt (2024)" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "article" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/sand" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "jowitt-unpublished-lithium-data" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "http://www.oregongeology.org" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "http://www.oregongeology.org" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "http://www.oregongeology.org" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Oregon Department of Geology and Mineral Industries" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "http://www.oregongeology.org" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "http://www.oregongeology.org" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "http://www.oregongeology.org" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "http://www.oregongeology.org" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "http://www.oregongeology.org" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "oregon-department-geology-mineral-industries" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Mining Report storing in CDR" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/inferlink" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mining-report" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "mining-report" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.1016/j.oregeorev.2016.08.010" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.1016/j.oregeorev.2016.08.010" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.1016/j.oregeorev.2016.08.010" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/doi" } ,
+        "o": { "type": "literal" , "value": "10.1016/j.oregeorev.2016.08.010" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.1016/j.oregeorev.2016.08.010" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Mudd & Jowitt Zinc Lead data" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.1016/j.oregeorev.2016.08.010" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/title" } ,
+        "o": { "type": "literal" , "value": "The world's lead-zinc mineral resources: Scarcity, data, issues and opportunities" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.1016/j.oregeorev.2016.08.010" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "article" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.1016/j.oregeorev.2016.08.010" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://doi.org/10.1016/j.oregeorev.2016.08.010" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.1016/j.oregeorev.2016.08.010" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/sand" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.1016/j.oregeorev.2016.08.010" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mudd-jowitt-2017-zinc-lead" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.1016/j.oregeorev.2016.08.010" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.2113/econgeo.110.8.1925" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.2113/econgeo.110.8.1925" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.2113/econgeo.110.8.1925" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/doi" } ,
+        "o": { "type": "literal" , "value": "10.2113/econgeo.110.8.1925" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.2113/econgeo.110.8.1925" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/title" } ,
+        "o": { "type": "literal" , "value": "A Detailed Assessment of Global Rare Earth Element Resources: Opportunities and Challenges" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.2113/econgeo.110.8.1925" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Jowitt REE data" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.2113/econgeo.110.8.1925" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "article" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.2113/econgeo.110.8.1925" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://doi.org/10.2113/econgeo.110.8.1925" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.2113/econgeo.110.8.1925" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/sand" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.2113/econgeo.110.8.1925" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "jowitt-ree" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.2113/econgeo.110.8.1925" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Utah Mineral Occurrence System (UMOS) Database, 2023 Update" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "utah-mineral-occurrence-system" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.4095/295581" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.4095/295581" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.4095/295581" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/doi" } ,
+        "o": { "type": "literal" , "value": "10.4095/295581" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.4095/295581" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "World Tin Tungsten Deposit" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.4095/295581" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/title" } ,
+        "o": { "type": "literal" , "value": "World tin and tungsten deposit database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.4095/295581" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.4095/295581" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://doi.org/10.4095/295581" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.4095/295581" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.4095/295581" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "world-tin-tungsten-deposit" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.4095/295581" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Alaska Resource Data File" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "ardf" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/ardf/show-ardf.php?ardf_num={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P970GDD5" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P970GDD5" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "National-Scale Geophysical, Geologic, and Mineral Resource Data and Grids for the United States, Canada, and Australia" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P970GDD5" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P970GDD5" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P970GDD5" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "tri-national-cmmi" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P970GDD5" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "USGS Mineral Resources Data System (MRDS) for the State of California" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "usgs-mrds-california" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Critical mineral deposits of the United States" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "earth-mri-usa" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.2018.4590" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.2018.4590" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.2018.4590" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/doi" } ,
+        "o": { "type": "literal" , "value": "10.5382/econgeo.2018.4590" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.2018.4590" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/title" } ,
+        "o": { "type": "literal" , "value": "Growing Global Copper Resources, Reserves and Production: Discovery Is Not the Only Control on Supply" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.2018.4590" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Mudd & Jowitt Copper Data" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.2018.4590" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "article" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.2018.4590" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://doi.org/10.5382/econgeo.2018.4590" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.2018.4590" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/sand" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.2018.4590" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mudd-jowitt-copper" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.2018.4590" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/doi" } ,
+        "o": { "type": "literal" , "value": "10.5382/econgeo.4950" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Mudd & Jowitt Nickel Data" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/title" } ,
+        "o": { "type": "literal" , "value": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil\u2019s Metal" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "article" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://doi.org/10.5382/econgeo.4950" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/sand" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mudd-jowitt-nickel" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://doi.org/10.5382/econgeo.4950" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Asbestos mines, prospects, and occurrences in the US" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-asbestos" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/asbestos/show-asbestos.php?rec_id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Carbonatites of the world, explored deposits of Nb and REE" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-carbonatite" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/carbonatite/show-carbonatite.php?rec_id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/deposit" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/deposit" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/deposit" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "USMIN Mineral Deposit Database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/deposit" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/deposit" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/deposit" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/deposit" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/deposit" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-deposit" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/deposit" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Ni-Co laterite deposits of the world" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-laterite" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/laterite/show-laterite.php?rec_id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Major mineral deposits of the world" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-major-deposits" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/major-deposits/show-ofr20051294.php?rec_id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Mineral Resources Data System (MRDS)" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-mrds" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/mrds/show-mrds.php?dep_id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.1" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "PGE-Ni-Cr deposit and occurrence bibliographic database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-nicrpge" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/nicrpge/show-nicrpge.php?site_id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Phosphate occurrence and potential of south Asia" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-ofr20151121" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "World phosphate mines, deposits, and occurrences" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-phosphate" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/phosphate/show-phosphate.php?rec_no={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Podiform chromite deposits" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-podchrome" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/podchrome/show-podchrome.php?rec_id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Porphyry copper deposits of the world" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-porcu" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/porcu/show-porcu.php?rec_id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Evaporite-related potash resources worldwide" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/potash" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-potash" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/potash/show-potash.php?rec_no={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/potash" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Global distribution of selected mines, deposits, and districts of critical minerals" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/pp1802" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-pp1802" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/pp1802/show-pp1802.php?rec_id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp577" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp577" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp577" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Mica deposits of the Blue Ridge in North Carolina" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp577" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp577" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp577" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/pp577" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp577" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-pp577" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp577" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/pp577/show-pp577.php?id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/pp577" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Rare earth element mines, deposits, and occurrences" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-ree" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/ree/show-ree.php?rec_id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Sediment-hosted gold deposits" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-sedau" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/sedau/show-sedau.php?recno={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Sediment-hosted copper deposits of the world" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-sedcu" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/sedcu/show-sedcu.php?rec_id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedexmvt" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedexmvt" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedexmvt" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Mineral resource data for Mississippi Valley-Type and clastic-dominated sediment-hosted lead-zinc deposits" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedexmvt" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedexmvt" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedexmvt" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedexmvt" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedexmvt" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-sedexmvt" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedexmvt" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/sedexmvt/show-sedexmvt.php?rec_id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedexmvt" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Sediment-hosted zinc-lead deposits of the world" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-sedznpb" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/sedznpb/show-sedznpb.php?rec_id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Global assessment of undiscovered copper resources" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-sir20105090z" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/sir20105090z/show-sir20105090z.php?id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/vms" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/vms" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/vms" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Volcanogenic massive sulfide deposits" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/vms" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/vms" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/vms" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://mrdata.usgs.gov/vms" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/vms" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "mrdata-vms" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/vms" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/connection" } ,
+        "o": { "type": "literal" , "value": "webpage:::https://mrdata.usgs.gov/vms/show-vms.php?rec_id={record_id}" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://mrdata.usgs.gov/vms" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/score" } ,
+        "o": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "NC Geological Survey" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "nc-geological-survey" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Geology and Mineral Resources" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "geology-and-mineral-resources" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Geological Survey of Alabama" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "geological-survey-of-alabama" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.idahogeology.org" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/DataSource" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.idahogeology.org" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "o": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/Document" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.idahogeology.org" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/description" } ,
+        "o": { "type": "literal" , "value": "Idaho Geology Survey" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.idahogeology.org" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/type" } ,
+        "o": { "type": "literal" , "value": "database" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.idahogeology.org" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "o": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.idahogeology.org" } ,
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/uri" } ,
+        "o": { "type": "literal" , "value": "https://www.idahogeology.org" }
+      } ,
+      { 
+        "ds": { "type": "uri" , "value": "https://www.idahogeology.org" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "o": { "type": "literal" , "value": "idaho-geology-survey" }
+      }
+    ]
+  }
+}

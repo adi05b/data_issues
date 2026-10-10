@@ -1,0 +1,72 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?variant ?sites WHERE {
+  { SELECT ("a_lat_dp_eq_1" AS ?variant) (COUNT(DISTINCT ?site) AS ?sites) WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :location ?wkt .
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?lon_s)
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?lat_s)
+  BIND(IF(CONTAINS(?lon_s, "."), STRLEN(STRAFTER(?lon_s, ".")), 0) AS ?lon_dp)
+  BIND(IF(CONTAINS(?lat_s, "."), STRLEN(STRAFTER(?lat_s, ".")), 0) AS ?lat_dp)
+    FILTER(?lat_dp = 1)
+  } }
+  UNION
+  { SELECT ("b_lon_dp_eq_1" AS ?variant) (COUNT(DISTINCT ?site) AS ?sites) WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :location ?wkt .
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?lon_s)
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?lat_s)
+  BIND(IF(CONTAINS(?lon_s, "."), STRLEN(STRAFTER(?lon_s, ".")), 0) AS ?lon_dp)
+  BIND(IF(CONTAINS(?lat_s, "."), STRLEN(STRAFTER(?lat_s, ".")), 0) AS ?lat_dp)
+    FILTER(?lon_dp = 1)
+  } }
+  UNION
+  { SELECT ("c_either_eq_1" AS ?variant) (COUNT(DISTINCT ?site) AS ?sites) WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :location ?wkt .
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?lon_s)
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?lat_s)
+  BIND(IF(CONTAINS(?lon_s, "."), STRLEN(STRAFTER(?lon_s, ".")), 0) AS ?lon_dp)
+  BIND(IF(CONTAINS(?lat_s, "."), STRLEN(STRAFTER(?lat_s, ".")), 0) AS ?lat_dp)
+    FILTER((?lat_dp = 1 || ?lon_dp = 1))
+  } }
+  UNION
+  { SELECT ("d_both_le_1" AS ?variant) (COUNT(DISTINCT ?site) AS ?sites) WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :location ?wkt .
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?lon_s)
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?lat_s)
+  BIND(IF(CONTAINS(?lon_s, "."), STRLEN(STRAFTER(?lon_s, ".")), 0) AS ?lon_dp)
+  BIND(IF(CONTAINS(?lat_s, "."), STRLEN(STRAFTER(?lat_s, ".")), 0) AS ?lat_dp)
+    FILTER((?lat_dp <= 1 && ?lon_dp <= 1))
+  } }
+  UNION
+  { SELECT ("e_either_le_1" AS ?variant) (COUNT(DISTINCT ?site) AS ?sites) WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :location ?wkt .
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?lon_s)
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?lat_s)
+  BIND(IF(CONTAINS(?lon_s, "."), STRLEN(STRAFTER(?lon_s, ".")), 0) AS ?lon_dp)
+  BIND(IF(CONTAINS(?lat_s, "."), STRLEN(STRAFTER(?lat_s, ".")), 0) AS ?lat_dp)
+    FILTER((?lat_dp <= 1 || ?lon_dp <= 1))
+  } }
+  UNION
+  { SELECT ("f_lat_dp_eq_0" AS ?variant) (COUNT(DISTINCT ?site) AS ?sites) WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :location ?wkt .
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?lon_s)
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?lat_s)
+  BIND(IF(CONTAINS(?lon_s, "."), STRLEN(STRAFTER(?lon_s, ".")), 0) AS ?lon_dp)
+  BIND(IF(CONTAINS(?lat_s, "."), STRLEN(STRAFTER(?lat_s, ".")), 0) AS ?lat_dp)
+    FILTER(?lat_dp = 0)
+  } }
+  UNION
+  { SELECT ("g_both_eq_0" AS ?variant) (COUNT(DISTINCT ?site) AS ?sites) WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :location ?wkt .
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?lon_s)
+  BIND(REPLACE(STR(?wkt), "^\\s*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?lat_s)
+  BIND(IF(CONTAINS(?lon_s, "."), STRLEN(STRAFTER(?lon_s, ".")), 0) AS ?lon_dp)
+  BIND(IF(CONTAINS(?lat_s, "."), STRLEN(STRAFTER(?lat_s, ".")), 0) AS ?lat_dp)
+    FILTER((?lat_dp = 0 && ?lon_dp = 0))
+  } }
+} ORDER BY ?variant

@@ -1,0 +1,48 @@
+{ "head": {
+    "vars": [ "created_by" , "sites" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "created_by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "445957" }
+      } ,
+      { 
+        "created_by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/sri" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "227168" }
+      } ,
+      { 
+        "created_by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/usc" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5016" }
+      } ,
+      { 
+        "created_by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/inferlink" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1323" }
+      } ,
+      { 
+        "created_by": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/usc-stu" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "273" }
+      } ,
+      { 
+        "created_by": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "33" }
+      } ,
+      { 
+        "created_by": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/caknoblock" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "created_by": { "type": "literal" , "value": "https://minmod.isi.edu/users/a/bvu" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "created_by": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/ggraham" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "created_by": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/glederer" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

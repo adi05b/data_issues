@@ -1,0 +1,12 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?metric ?n WHERE {
+  { SELECT ("a_total_sites" AS ?metric) (COUNT(DISTINCT ?s) AS ?n) WHERE { ?s a :MineralSite } }
+  UNION
+  { SELECT ("b_with_location_info" AS ?metric) (COUNT(DISTINCT ?s) AS ?n) WHERE { ?s a :MineralSite ; :location_info ?li } }
+  UNION
+  { SELECT ("c_with_location_wkt" AS ?metric) (COUNT(DISTINCT ?s) AS ?n) WHERE { ?s a :MineralSite ; :location_info ?li . ?li :location ?w } }
+  UNION
+  { SELECT ("d_no_location_info" AS ?metric) (COUNT(DISTINCT ?s) AS ?n) WHERE { ?s a :MineralSite . FILTER NOT EXISTS { ?s :location_info ?li } } }
+  UNION
+  { SELECT ("e_li_without_wkt" AS ?metric) (COUNT(DISTINCT ?s) AS ?n) WHERE { ?s a :MineralSite ; :location_info ?li . FILTER NOT EXISTS { ?li :location ?w } } }
+}

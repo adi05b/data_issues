@@ -1,0 +1,9 @@
+# Every edit-reachable numeric predicate in the schema, literal count by datatype
+PREFIX mo: <https://minmod.isi.edu/ontology/>
+PREFIX gco: <https://geochemistry.isi.edu/ontology/>
+SELECT ?p ?dt (COUNT(*) AS ?n) WHERE {
+  VALUES ?p { mo:confidence mo:value mo:x_max mo:x_min mo:y_max mo:y_min mo:page mo:discovered_year
+              gco:grade gco:detection_limit gco:top_depth_m gco:bottom_depth_m }
+  ?s ?p ?o
+  BIND(DATATYPE(?o) AS ?dt)
+} GROUP BY ?p ?dt ORDER BY ?p ?dt

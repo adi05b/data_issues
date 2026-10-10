@@ -1,0 +1,70 @@
+.../site-packages/pyproj/transformer.py:319: UserWarning: Best transformation is not available due to missing Grid(short_name=ca_nrc_ntv2_0.tif, full_name=, package_name=, url=https://cdn.proj.org/ca_nrc_ntv2_0.tif, direct_download=True, open_license=True, available=False)
+  super().__init__(
+real CSV rows: 7720
+columns: 28
+
+========================================================================
+A) GRIDS ABSENT (network off) - reproduces the NAD27_IMPACT.md environment
+========================================================================
+
+[no-grid] network=False
+   available ops   : 31
+   unavailable ops : 48
+   PROJ selects    : NAD27 to WGS 84 (3) (with axis order normalized for visualization)
+   declared accuracy: 20.0 m
+     unavailable: NAD27 to WGS 84 (33)  missing=['ca_nrc_ntv2_0.tif']
+     unavailable: NAD27 to WGS 84 (79)  missing=['us_noaa_conus.tif']
+     unavailable: NAD27 to WGS 84 (85)  missing=['us_noaa_alaska.tif']
+   records            : 7720
+   transform declined : 24
+   shift min/med/max  : 100.0 / 129.9 / 274.1 m
+   declined records (24):
+      GI001    ( -178.7700, 51.7600)  Unnamed (on Gareloi Island)
+      SL004    ( -171.8230, 63.4580)  Booshu Camp
+      SL005    ( -171.8100, 63.4800)  Unnamed
+      SL006    ( -171.7420, 63.4690)  Moghoweyik River
+      SL003    ( -171.7200, 63.5700)  Kangik River
+      SL009    ( -171.6100, 63.4500)  Moghoweyik R.; Upper
+      SL011    ( -171.5400, 63.3700)  Boxer River
+      SL002    ( -171.6600, 63.6800)  Ikoygak Creek
+      SL008    ( -171.5300, 63.4500)  Poovookpuk Mountain
+      SL010    ( -171.5100, 63.4300)  Unnamed
+      SL001    ( -171.6500, 63.7600)  Tiflighak Bay
+      SL007    ( -171.5000, 63.5400)  Ikalooksik River
+      SL012    ( -171.4000, 63.3700)  Okok River
+      SL013    ( -171.3710, 63.3310)  Unnamed
+      SL014    ( -171.2960, 63.3650)  Powooiliak Point
+      SL015    ( -171.2100, 63.4200)  Unnamed
+      SL016    ( -171.1200, 63.4400)  Unnamed
+      SL017    ( -171.0400, 63.5300)  Unnamed
+      SL018    ( -170.1900, 63.2800)  Unnamed
+      SL019    ( -169.8600, 63.3900)  Ongoveyuk River
+      SL020    ( -169.8100, 63.3700)  Unnamed
+      SL021    ( -169.5900, 63.2200)  Myghapowit Mountain
+      SL022    ( -168.9500, 63.2900)  Kangukhsam Mountain
+      SL023    ( -168.9100, 63.2700)  Tapisaghak River
+
+========================================================================
+B) GRIDS AVAILABLE (network on, PROJ may fetch us_noaa_alaska)
+========================================================================
+
+[grid] network=True
+   available ops   : 79
+   unavailable ops : 0
+   PROJ selects    : NAD27 to WGS 84 (33) (with axis order normalized for visualization)
+   declared accuracy: 2.0 m
+   records            : 7720
+   transform declined : 0
+   shift min/med/max  : 105.6 / 126.5 / 274.8 m
+
+========================================================================
+C) CROSS-CHECK: does my transform reproduce her corrected_lat/lon and shift_m?
+========================================================================
+  [grids absent] n=7720
+     my corrected point vs hers : median 5.686 m, max 244.229 m
+     my shift vs her shift_m    : median 2.946 m, max 244.200 m
+  [grids present] n=7720
+     my corrected point vs hers : median 0.001 m, max 0.003 m
+     my shift vs her shift_m    : median 0.025 m, max 0.050 m
+
+wrote p4_verify.json

@@ -1,0 +1,11 @@
+{
+  "id": "3c-sample",
+  "sent_at": "2026-09-02T22:02:01.700193+00:00",
+  "http_status": 200,
+  "elapsed_ms": 126,
+  "bytes": 6281,
+  "curl_exit": 0,
+  "row_count": 15,
+  "truncated_by_limit": true,
+  "error": null
+}

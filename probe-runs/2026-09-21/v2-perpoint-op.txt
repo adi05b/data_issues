@@ -1,0 +1,26 @@
+==========================================================================
+GRIDS ABSENT
+==========================================================================
+     n   acc(m)  operation actually used
+  6258     12.0  NAD27 to WGS 84 (7) (with axis order normalized for visualizat
+  1368      8.0  NAD27 to WGS 84 (13) (with axis order normalized for visualiza
+    60     15.0  NAD27 to WGS 84 (21) (with axis order normalized for visualiza
+    24     -1.0  Ballpark geographic offset from NAD27 to WGS 84 (with axis ord
+     5     18.0  NAD27 to WGS 84 (22) (with axis order normalized for visualiza
+     5     10.0  NAD27 to WGS 84 (14) (with axis order normalized for visualiza
+
+  the 24 St Lawrence / Gareloi records specifically:
+      24  acc=-1.0  Ballpark geographic offset from NAD27 to WGS 84 (with axis
+     of these 24, actually moved: 0
+
+==========================================================================
+GRIDS PRESENT
+==========================================================================
+     n   acc(m)  operation actually used
+  6261      5.0  NAD27 to WGS 84 (85) (with axis order normalized for visualiza
+  1459      2.0  NAD27 to WGS 84 (33) (with axis order normalized for visualiza
+
+  the 24 St Lawrence / Gareloi records specifically:
+      24  acc=5.0  NAD27 to WGS 84 (85) (with axis order normalized for visua
+     of these 24, actually moved: 24
+

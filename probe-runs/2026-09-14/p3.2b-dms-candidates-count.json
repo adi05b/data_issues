@@ -1,0 +1,11 @@
+{ "head": {
+    "vars": [ "candidates" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "337086" }
+      }
+    ]
+  }
+}

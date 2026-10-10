@@ -1,0 +1,4 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT (COUNT(*) AS ?total)
+       (SUM(IF(REGEX(STR(?wkt), "^\\s*POINT\\s*\\(\\s*[-+0-9.eE]+\\s+[-+0-9.eE]+\\s*\\)\\s*$"), 1, 0)) AS ?parses)
+WHERE { ?li a :LocationInfo ; :location ?wkt }

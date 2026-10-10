@@ -1,0 +1,12 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+
+SELECT ?site ?name ?source ?wkt ?country_obs
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :location ?wkt .
+  FILTER(REGEX(STR(?wkt), "^\\s*POINT\\s*\\(\\s*-?0(\\.0+)?\\s+-?0(\\.0+)?\\s*\\)"))
+  OPTIONAL { ?site :name ?name }
+  OPTIONAL { ?site :source_id ?source }
+  OPTIONAL { ?li :country ?cc . ?cc :observed_name ?country_obs }
+}
+LIMIT 40

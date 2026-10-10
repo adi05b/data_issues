@@ -1,0 +1,11 @@
+{
+  "id": "1.4c-source-totals-4326",
+  "sent_at": "2026-09-08T06:18:05.831227+00:00",
+  "http_status": 200,
+  "elapsed_ms": 8996,
+  "bytes": 7503,
+  "curl_exit": 0,
+  "row_count": 33,
+  "truncated_by_limit": false,
+  "error": null
+}

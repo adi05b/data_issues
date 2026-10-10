@@ -1,0 +1,7 @@
+# The exponent-form xsd:decimal mo:value literals, with the Measure's role and parent site
+PREFIX mo: <https://minmod.isi.edu/ontology/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?m ?o ?role ?site ?cb WHERE {
+  ?m mo:value ?o FILTER(DATATYPE(?o) = xsd:decimal && CONTAINS(LCASE(STR(?o)), "e"))
+  OPTIONAL { ?inv ?role ?m . ?site mo:mineral_inventory ?inv . ?site mo:created_by ?cb }
+} LIMIT 20

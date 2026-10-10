@@ -1,0 +1,17 @@
+{ "head": {
+    "vars": [ "records" , "sources" , "creators" , "confs" , "conf_val" , "creator" , "state" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7720" } ,
+        "sources": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "creators": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "confs": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "conf_val": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "creator": { "type": "literal" , "value": "https://minmod.isi.edu/users/s/umn" } ,
+        "state": { "type": "literal" , "value": "Alaska" }
+      }
+    ]
+  }
+}

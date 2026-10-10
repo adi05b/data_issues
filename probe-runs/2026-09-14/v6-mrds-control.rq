@@ -1,0 +1,10 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?site ?wkt
+WHERE {
+  ?site a :MineralSite ; :source_id "https://mrdata.usgs.gov/mrds" ; :location_info ?li .
+  ?li :location ?wkt ; :crs ?c .
+  ?c :normalized_uri ?ce . ?ce rdfs:label ?k . FILTER(STR(?k)="EPSG:4326")
+}
+ORDER BY ?site
+LIMIT 20000

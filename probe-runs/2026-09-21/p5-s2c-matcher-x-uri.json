@@ -1,0 +1,106 @@
+{ "head": {
+    "vars": [ "matcher" , "has_uri" , "nodes" , "min_conf" , "max_conf" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "has_uri": { "type": "literal" , "value": "matched" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "635449" } ,
+        "min_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.4998398503937435" } ,
+        "max_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9999" }
+      } ,
+      { 
+        "matcher": { "type": "literal" , "value": "SRI database agent v0" } ,
+        "has_uri": { "type": "literal" , "value": "matched" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "299575" } ,
+        "min_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "max_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" }
+      } ,
+      { 
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "has_uri": { "type": "literal" , "value": "matched" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "192018" } ,
+        "min_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "max_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" }
+      } ,
+      { 
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "has_uri": { "type": "literal" , "value": "NO normalized_uri" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "102843" } ,
+        "min_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.001" } ,
+        "max_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" }
+      } ,
+      { 
+        "matcher": { "type": "literal" , "value": "SRI database agent v0" } ,
+        "has_uri": { "type": "literal" , "value": "NO normalized_uri" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "79480" } ,
+        "min_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "max_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" }
+      } ,
+      { 
+        "matcher": { "type": "literal" , "value": "Inferlink Extraction v3" } ,
+        "has_uri": { "type": "literal" , "value": "matched" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "39962" } ,
+        "min_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "max_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" }
+      } ,
+      { 
+        "matcher": { "type": "literal" , "value": "SAND" } ,
+        "has_uri": { "type": "literal" , "value": "matched" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "19683" } ,
+        "min_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.99" } ,
+        "max_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" }
+      } ,
+      { 
+        "matcher": { "type": "literal" , "value": "UMN Exact Match v1" } ,
+        "has_uri": { "type": "literal" , "value": "matched" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10385" } ,
+        "min_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" } ,
+        "max_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.9" }
+      } ,
+      { 
+        "matcher": { "type": "literal" , "value": "Inferlink Extraction v3" } ,
+        "has_uri": { "type": "literal" , "value": "NO normalized_uri" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "396" } ,
+        "min_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "max_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" }
+      } ,
+      { 
+        "matcher": { "type": "literal" , "value": "SAND" } ,
+        "has_uri": { "type": "literal" , "value": "NO normalized_uri" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "27" } ,
+        "min_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.0" } ,
+        "max_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.0" }
+      } ,
+      { 
+        "matcher": { "type": "literal" , "value": "Inferlink Extraction v2" } ,
+        "has_uri": { "type": "literal" , "value": "matched" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9" } ,
+        "min_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "max_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" }
+      } ,
+      { 
+        "matcher": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "has_uri": { "type": "literal" , "value": "matched" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" } ,
+        "min_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "max_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" }
+      } ,
+      { 
+        "matcher": { "type": "literal" , "value": "https://minmod.isi.edu/users/a/bvu" } ,
+        "has_uri": { "type": "literal" , "value": "matched" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "min_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "max_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" }
+      } ,
+      { 
+        "matcher": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/caknoblock" } ,
+        "has_uri": { "type": "literal" , "value": "matched" } ,
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "min_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" } ,
+        "max_conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "1.0" }
+      }
+    ]
+  }
+}

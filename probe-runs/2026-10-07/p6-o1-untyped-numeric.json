@@ -1,0 +1,9 @@
+{ "head": {
+    "vars": [ "p" , "nodes" , "triples" ]
+  } ,
+  "results": {
+    "bindings": [
+      
+    ]
+  }
+}

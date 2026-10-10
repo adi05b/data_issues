@@ -1,0 +1,1513 @@
+{
+ "states": 5086,
+ "gb_countries": 199,
+ "mojibake_shape_names": {
+  "CHL": 16,
+  "PRT": 6,
+  "SYC": 2
+ },
+ "centroid_check": {
+  "inside": 2655,
+  "outside the country entirely": 212,
+  "outside shape, inside country": 58,
+  "no lat/lon": 47
+ },
+ "tiers": {
+  "name": 167,
+  "iso": 2803,
+  "ambiguous": 111,
+  "unmatched": 1870,
+  "no gbOpen ADM1 for country": 133,
+  "alt name": 2
+ },
+ "ambiguous_kinds": {
+  "ambiguous (shape shared by 2 states; was iso)": 38,
+  "ambiguous (shape shared by 2 states; was name)": 46,
+  "ambiguous (iso: 2 shapes)": 9,
+  "ambiguous (shape shared by 3 states; was name)": 12,
+  "ambiguous (shape shared by 3 states; was iso)": 6
+ },
+ "per_country": {
+  "AF": {
+   "name": 2,
+   "iso": 31
+  },
+  "AL": {
+   "ambiguous": 20,
+   "unmatched": 25,
+   "iso": 2
+  },
+  "DZ": {
+   "iso": 48,
+   "unmatched": 10
+  },
+  "AD": {
+   "iso": 7
+  },
+  "AO": {
+   "iso": 17
+  },
+  "AG": {
+   "iso": 8
+  },
+  "AR": {
+   "iso": 23,
+   "unmatched": 1
+  },
+  "AM": {
+   "iso": 11
+  },
+  "AU": {
+   "iso": 8
+  },
+  "AT": {
+   "iso": 9
+  },
+  "AZ": {
+   "unmatched": 74,
+   "name": 1
+  },
+  "BH": {
+   "iso": 4,
+   "unmatched": 1
+  },
+  "BD": {
+   "unmatched": 55,
+   "ambiguous": 14,
+   "iso": 1
+  },
+  "BB": {
+   "iso": 11
+  },
+  "BY": {
+   "iso": 7
+  },
+  "BE": {
+   "unmatched": 13
+  },
+  "BZ": {
+   "iso": 6
+  },
+  "BJ": {
+   "iso": 11,
+   "name": 1
+  },
+  "BM": {
+   "no gbOpen ADM1 for country": 9
+  },
+  "BT": {
+   "iso": 19
+  },
+  "BO": {
+   "iso": 9
+  },
+  "BQ": {
+   "no gbOpen ADM1 for country": 3
+  },
+  "BA": {
+   "unmatched": 10,
+   "name": 3
+  },
+  "BW": {
+   "iso": 9,
+   "unmatched": 1
+  },
+  "BR": {
+   "iso": 27
+  },
+  "BN": {
+   "iso": 4
+  },
+  "BG": {
+   "iso": 28
+  },
+  "BF": {
+   "unmatched": 44,
+   "iso": 13
+  },
+  "BI": {
+   "iso": 18
+  },
+  "KH": {
+   "iso": 24
+  },
+  "CM": {
+   "iso": 10
+  },
+  "CA": {
+   "iso": 12,
+   "name": 1
+  },
+  "CV": {
+   "unmatched": 2,
+   "iso": 20,
+   "name": 1
+  },
+  "CF": {
+   "iso": 14,
+   "ambiguous": 1,
+   "name": 2
+  },
+  "TD": {
+   "iso": 23
+  },
+  "CL": {
+   "unmatched": 4,
+   "name": 12
+  },
+  "CN": {
+   "name": 28,
+   "unmatched": 5,
+   "alt name": 1
+  },
+  "CO": {
+   "iso": 33
+  },
+  "KM": {
+   "iso": 3
+  },
+  "CG": {
+   "iso": 12
+  },
+  "CR": {
+   "iso": 7
+  },
+  "CI": {
+   "unmatched": 16,
+   "ambiguous": 8,
+   "name": 7
+  },
+  "HR": {
+   "iso": 21
+  },
+  "CU": {
+   "iso": 16
+  },
+  "CY": {
+   "iso": 6
+  },
+  "CZ": {
+   "unmatched": 76,
+   "iso": 14
+  },
+  "CD": {
+   "iso": 26
+  },
+  "DK": {
+   "iso": 5
+  },
+  "DJ": {
+   "iso": 6
+  },
+  "DM": {
+   "iso": 10
+  },
+  "DO": {
+   "iso": 31
+  },
+  "EC": {
+   "iso": 19,
+   "ambiguous": 1,
+   "name": 4
+  },
+  "EG": {
+   "iso": 27
+  },
+  "SV": {
+   "name": 14
+  },
+  "GQ": {
+   "iso": 7,
+   "unmatched": 2
+  },
+  "ER": {
+   "iso": 6
+  },
+  "EE": {
+   "iso": 15
+  },
+  "SZ": {
+   "iso": 4
+  },
+  "ET": {
+   "iso": 11
+  },
+  "FJ": {
+   "unmatched": 15,
+   "iso": 4
+  },
+  "FI": {
+   "iso": 19
+  },
+  "FR": {
+   "unmatched": 110,
+   "iso": 13
+  },
+  "GA": {
+   "iso": 9
+  },
+  "GM": {
+   "iso": 4,
+   "ambiguous": 2
+  },
+  "GE": {
+   "iso": 12,
+   "unmatched": 2
+  },
+  "DE": {
+   "iso": 16
+  },
+  "GH": {
+   "iso": 16
+  },
+  "GR": {
+   "unmatched": 36,
+   "name": 2
+  },
+  "GD": {
+   "iso": 7
+  },
+  "GT": {
+   "iso": 22
+  },
+  "GN": {
+   "unmatched": 26,
+   "ambiguous": 12,
+   "iso": 1,
+   "name": 1
+  },
+  "GW": {
+   "iso": 8,
+   "unmatched": 3
+  },
+  "GY": {
+   "iso": 10
+  },
+  "HT": {
+   "iso": 10
+  },
+  "HN": {
+   "iso": 18
+  },
+  "HK": {
+   "no gbOpen ADM1 for country": 18
+  },
+  "HU": {
+   "iso": 18,
+   "unmatched": 23,
+   "ambiguous": 2
+  },
+  "IS": {
+   "iso": 8
+  },
+  "IN": {
+   "iso": 35,
+   "name": 1
+  },
+  "ID": {
+   "iso": 34
+  },
+  "IR": {
+   "iso": 26,
+   "ambiguous": 5
+  },
+  "IQ": {
+   "iso": 18
+  },
+  "IE": {
+   "unmatched": 25,
+   "iso": 4
+  },
+  "IL": {
+   "iso": 6
+  },
+  "IT": {
+   "unmatched": 111
+  },
+  "JM": {
+   "iso": 14
+  },
+  "JP": {
+   "iso": 47
+  },
+  "JO": {
+   "iso": 12
+  },
+  "KZ": {
+   "iso": 16,
+   "unmatched": 1
+  },
+  "KE": {
+   "iso": 47
+  },
+  "KI": {
+   "iso": 3
+  },
+  "XK": {
+   "unmatched": 5,
+   "name": 2
+  },
+  "KW": {
+   "iso": 6
+  },
+  "KG": {
+   "iso": 6,
+   "unmatched": 1,
+   "ambiguous": 2
+  },
+  "LA": {
+   "iso": 17,
+   "ambiguous": 2
+  },
+  "LV": {
+   "unmatched": 79,
+   "iso": 36,
+   "ambiguous": 3
+  },
+  "LB": {
+   "iso": 8
+  },
+  "LS": {
+   "iso": 10
+  },
+  "LR": {
+   "iso": 15
+  },
+  "LY": {
+   "iso": 20,
+   "unmatched": 1
+  },
+  "LI": {
+   "iso": 11
+  },
+  "LT": {
+   "unmatched": 43,
+   "ambiguous": 26
+  },
+  "LU": {
+   "iso": 9,
+   "ambiguous": 6
+  },
+  "MG": {
+   "unmatched": 6
+  },
+  "MW": {
+   "unmatched": 27,
+   "iso": 3
+  },
+  "MY": {
+   "iso": 16
+  },
+  "MV": {
+   "iso": 20,
+   "unmatched": 6
+  },
+  "ML": {
+   "iso": 9,
+   "unmatched": 2
+  },
+  "MT": {
+   "iso": 65,
+   "ambiguous": 1,
+   "name": 1
+  },
+  "MH": {
+   "unmatched": 2
+  },
+  "MR": {
+   "name": 12,
+   "unmatched": 3
+  },
+  "MU": {
+   "iso": 11,
+   "name": 1
+  },
+  "MX": {
+   "iso": 30,
+   "alt name": 1,
+   "ambiguous": 1
+  },
+  "FM": {
+   "iso": 4
+  },
+  "MD": {
+   "iso": 36
+  },
+  "MC": {
+   "unmatched": 3
+  },
+  "MN": {
+   "iso": 21
+  },
+  "ME": {
+   "iso": 22
+  },
+  "MA": {
+   "unmatched": 75,
+   "iso": 12
+  },
+  "MZ": {
+   "iso": 9,
+   "ambiguous": 2
+  },
+  "MM": {
+   "iso": 14,
+   "unmatched": 1
+  },
+  "NA": {
+   "iso": 12,
+   "unmatched": 2
+  },
+  "NR": {
+   "iso": 14
+  },
+  "NP": {
+   "name": 4,
+   "unmatched": 15
+  },
+  "NL": {
+   "unmatched": 3,
+   "iso": 12
+  },
+  "NC": {
+   "no gbOpen ADM1 for country": 3
+  },
+  "NZ": {
+   "iso": 16,
+   "name": 1
+  },
+  "NI": {
+   "iso": 17
+  },
+  "NE": {
+   "iso": 5,
+   "ambiguous": 2,
+   "unmatched": 1
+  },
+  "NG": {
+   "iso": 37
+  },
+  "KP": {
+   "unmatched": 2,
+   "name": 9
+  },
+  "MK": {
+   "unmatched": 84
+  },
+  "NO": {
+   "iso": 11,
+   "unmatched": 2
+  },
+  "OM": {
+   "name": 6,
+   "unmatched": 7
+  },
+  "PK": {
+   "iso": 7,
+   "unmatched": 1
+  },
+  "PW": {
+   "iso": 16
+  },
+  "PS": {
+   "unmatched": 15,
+   "name": 1
+  },
+  "PA": {
+   "iso": 13
+  },
+  "PG": {
+   "iso": 19,
+   "name": 2
+  },
+  "PY": {
+   "iso": 18
+  },
+  "PE": {
+   "iso": 25
+  },
+  "PH": {
+   "unmatched": 82,
+   "iso": 16
+  },
+  "PL": {
+   "iso": 16
+  },
+  "PT": {
+   "iso": 20
+  },
+  "PR": {
+   "no gbOpen ADM1 for country": 88
+  },
+  "QA": {
+   "iso": 8
+  },
+  "RO": {
+   "iso": 42
+  },
+  "RU": {
+   "iso": 83
+  },
+  "RW": {
+   "iso": 5
+  },
+  "KN": {
+   "iso": 13,
+   "unmatched": 2
+  },
+  "LC": {
+   "iso": 10,
+   "unmatched": 2
+  },
+  "VC": {
+   "iso": 6
+  },
+  "WS": {
+   "name": 10,
+   "unmatched": 1
+  },
+  "SM": {
+   "iso": 9
+  },
+  "ST": {
+   "iso": 2
+  },
+  "SA": {
+   "iso": 13
+  },
+  "SN": {
+   "iso": 14
+  },
+  "RS": {
+   "iso": 25,
+   "unmatched": 1
+  },
+  "SC": {
+   "unmatched": 16,
+   "name": 8
+  },
+  "SL": {
+   "iso": 4
+  },
+  "SG": {
+   "unmatched": 4,
+   "name": 1
+  },
+  "SK": {
+   "iso": 8
+  },
+  "SI": {
+   "unmatched": 211
+  },
+  "SB": {
+   "iso": 10
+  },
+  "SO": {
+   "iso": 16
+  },
+  "ZA": {
+   "name": 8,
+   "unmatched": 1
+  },
+  "KR": {
+   "iso": 17
+  },
+  "SS": {
+   "iso": 10
+  },
+  "ES": {
+   "unmatched": 49,
+   "name": 4
+  },
+  "LK": {
+   "unmatched": 24,
+   "iso": 9
+  },
+  "SD": {
+   "iso": 18
+  },
+  "SR": {
+   "iso": 10
+  },
+  "SE": {
+   "iso": 20,
+   "unmatched": 1
+  },
+  "CH": {
+   "iso": 26
+  },
+  "SY": {
+   "unmatched": 8,
+   "name": 6
+  },
+  "TW": {
+   "iso": 22
+  },
+  "TJ": {
+   "iso": 4
+  },
+  "TZ": {
+   "iso": 30,
+   "unmatched": 1
+  },
+  "TH": {
+   "iso": 77,
+   "unmatched": 1
+  },
+  "BS": {
+   "iso": 31,
+   "unmatched": 11
+  },
+  "TL": {
+   "iso": 12
+  },
+  "TG": {
+   "iso": 5
+  },
+  "TO": {
+   "iso": 5
+  },
+  "TT": {
+   "unmatched": 3,
+   "iso": 13
+  },
+  "TN": {
+   "iso": 24
+  },
+  "TR": {
+   "iso": 81
+  },
+  "TM": {
+   "iso": 5,
+   "unmatched": 1
+  },
+  "TV": {
+   "iso": 8
+  },
+  "UG": {
+   "unmatched": 121,
+   "iso": 4
+  },
+  "UA": {
+   "iso": 27
+  },
+  "AE": {
+   "iso": 7
+  },
+  "GB": {
+   "unmatched": 243,
+   "iso": 4
+  },
+  "US": {
+   "iso": 55,
+   "unmatched": 10,
+   "name": 1
+  },
+  "UM": {
+   "no gbOpen ADM1 for country": 9
+  },
+  "UY": {
+   "iso": 19
+  },
+  "UZ": {
+   "iso": 14
+  },
+  "VU": {
+   "iso": 6
+  },
+  "VE": {
+   "iso": 25
+  },
+  "VN": {
+   "iso": 62,
+   "ambiguous": 1
+  },
+  "VI": {
+   "no gbOpen ADM1 for country": 3
+  },
+  "YE": {
+   "iso": 21
+  },
+  "ZM": {
+   "iso": 10
+  },
+  "ZW": {
+   "name": 10
+  }
+ },
+ "gb_shape_counts": {
+  "AFG": 34,
+  "AGO": 18,
+  "ALB": 12,
+  "AND": 7,
+  "ARE": 7,
+  "ARG": 23,
+  "ARM": 11,
+  "ATG": 8,
+  "AUS": 9,
+  "AUT": 9,
+  "AZE": 2,
+  "BDI": 18,
+  "BEL": 3,
+  "BEN": 12,
+  "BFA": 13,
+  "BGD": 8,
+  "BGR": 28,
+  "BHR": 4,
+  "BHS": 32,
+  "BIH": 3,
+  "BLR": 7,
+  "BLZ": 6,
+  "BOL": 9,
+  "BRA": 27,
+  "BRB": 11,
+  "BRN": 4,
+  "BTN": 20,
+  "BWA": 10,
+  "CAF": 17,
+  "CAN": 13,
+  "CHE": 26,
+  "CHL": 16,
+  "CHN": 34,
+  "CIV": 14,
+  "CMR": 10,
+  "COD": 26,
+  "COG": 12,
+  "COL": 33,
+  "COM": 3,
+  "CPV": 22,
+  "CRI": 7,
+  "CUB": 16,
+  "CYP": 6,
+  "CZE": 14,
+  "DEU": 16,
+  "DJI": 6,
+  "DMA": 10,
+  "DNK": 5,
+  "DOM": 32,
+  "DZA": 48,
+  "ECU": 24,
+  "EGY": 27,
+  "ERI": 6,
+  "ESP": 19,
+  "EST": 15,
+  "ETH": 11,
+  "FIN": 19,
+  "FJI": 4,
+  "FRA": 13,
+  "FSM": 4,
+  "GAB": 9,
+  "GBR": 4,
+  "GEO": 12,
+  "GHA": 16,
+  "GIN": 8,
+  "GMB": 8,
+  "GNB": 9,
+  "GNQ": 7,
+  "GRC": 8,
+  "GRD": 7,
+  "GRL": 6,
+  "GTM": 22,
+  "GUY": 10,
+  "HND": 18,
+  "HRV": 21,
+  "HTI": 10,
+  "HUN": 19,
+  "IDN": 34,
+  "IND": 36,
+  "IRL": 4,
+  "IRN": 32,
+  "IRQ": 18,
+  "ISL": 8,
+  "ISR": 6,
+  "ITA": 5,
+  "JAM": 14,
+  "JOR": 12,
+  "JPN": 47,
+  "KAZ": 16,
+  "KEN": 47,
+  "KGZ": 7,
+  "KHM": 25,
+  "KIR": 3,
+  "KNA": 14,
+  "KOR": 17,
+  "KWT": 6,
+  "LAO": 18,
+  "LBN": 9,
+  "LBR": 15,
+  "LBY": 22,
+  "LCA": 10,
+  "LIE": 11,
+  "LKA": 9,
+  "LSO": 10,
+  "LTU": 10,
+  "LUX": 12,
+  "LVA": 43,
+  "MAR": 12,
+  "MCO": 1,
+  "MDA": 37,
+  "MDG": 22,
+  "MDV": 21,
+  "MEX": 32,
+  "MHL": 24,
+  "MKD": 8,
+  "MLI": 9,
+  "MLT": 68,
+  "MMR": 14,
+  "MNE": 23,
+  "MNG": 22,
+  "MOZ": 10,
+  "MRT": 13,
+  "MUS": 12,
+  "MWI": 3,
+  "MYS": 16,
+  "NAM": 14,
+  "NER": 6,
+  "NGA": 37,
+  "NIC": 17,
+  "NIU": 14,
+  "NLD": 12,
+  "NOR": 11,
+  "NPL": 7,
+  "NRU": 14,
+  "NZL": 17,
+  "OMN": 7,
+  "PAK": 7,
+  "PAN": 13,
+  "PER": 26,
+  "PHL": 17,
+  "PLW": 16,
+  "PNG": 22,
+  "POL": 16,
+  "PRK": 11,
+  "PRT": 20,
+  "PRY": 18,
+  "PSE": 2,
+  "QAT": 8,
+  "ROU": 42,
+  "RUS": 83,
+  "RWA": 5,
+  "SAU": 13,
+  "SDN": 19,
+  "SEN": 14,
+  "SGP": 5,
+  "SLB": 10,
+  "SLE": 4,
+  "SLV": 14,
+  "SMR": 9,
+  "SOM": 18,
+  "SRB": 25,
+  "SSD": 10,
+  "STP": 2,
+  "SUR": 10,
+  "SVK": 8,
+  "SVN": 2,
+  "SWE": 21,
+  "SWZ": 4,
+  "SYC": 26,
+  "SYR": 14,
+  "TCD": 23,
+  "TGO": 5,
+  "THA": 77,
+  "TJK": 5,
+  "TKM": 5,
+  "TLS": 13,
+  "TON": 5,
+  "TTO": 14,
+  "TUN": 24,
+  "TUR": 81,
+  "TUV": 8,
+  "TWN": 22,
+  "TZA": 30,
+  "UGA": 4,
+  "UKR": 27,
+  "URY": 19,
+  "USA": 56,
+  "UZB": 14,
+  "VCT": 6,
+  "VEN": 25,
+  "VNM": 64,
+  "VUT": 6,
+  "WSM": 11,
+  "XKX": 7,
+  "YEM": 22,
+  "ZAF": 9,
+  "ZMB": 10,
+  "ZWE": 10
+ },
+ "iso2to3_missing": [],
+ "no_gb": [
+  "BM",
+  "BQ",
+  "HK",
+  "NC",
+  "PR",
+  "UM",
+  "VI"
+ ],
+ "licenses": {
+  "Public Domain": 27,
+  "Open Data Commons Open Database License 1.0": 84,
+  "Creative Commons Attribution 2.5 Generic": 9,
+  "Creative Commons Attribution 4.0 International (CC BY 4.0)": 18,
+  "Creative Commons Attribution-ShareAlike 2.0": 9,
+  "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication": 7,
+  "Creative Commons Attribution 4.0 (CC BY 4.0)": 10,
+  "Creative Commons Attribution 3.0 License": 6,
+  "Open Government Canada 2.0": 1,
+  "Federal Office of Topography swisstopo License": 1,
+  "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)": 18,
+  "Data license Germany - Attribution - Version 2.0": 1,
+  "Etalab Open License 2.0": 1,
+  "Creative Commons Attribution-ShareAlike 3.0 Unported": 5,
+  "Creative Commons Attribution 2.5 India (CC BY 2.5 IN)": 2
+ },
+ "license_by_country": {
+  "AFG": "Public Domain",
+  "AGO": "Public Domain",
+  "ALB": "Public Domain",
+  "AND": "Public Domain",
+  "ARE": "Open Data Commons Open Database License 1.0",
+  "ARG": "Creative Commons Attribution 2.5 Generic",
+  "ARM": "Creative Commons Attribution 2.5 Generic",
+  "ATG": "Public Domain",
+  "AUS": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "AUT": "Creative Commons Attribution-ShareAlike 2.0",
+  "AZE": "Open Data Commons Open Database License 1.0",
+  "BDI": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+  "BEL": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+  "BEN": "Public Domain",
+  "BFA": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+  "BGD": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+  "BGR": "Public Domain",
+  "BHR": "Open Data Commons Open Database License 1.0",
+  "BHS": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "BIH": "Public Domain",
+  "BLR": "Creative Commons Attribution 3.0 License",
+  "BLZ": "Creative Commons Attribution 2.5 Generic",
+  "BOL": "Public Domain",
+  "BRA": "Creative Commons Attribution 2.5 Generic",
+  "BRB": "Creative Commons Attribution 2.5 Generic",
+  "BRN": "Public Domain",
+  "BTN": "Creative Commons Attribution 3.0 License",
+  "BWA": "Creative Commons Attribution-ShareAlike 2.0",
+  "CAF": "Creative Commons Attribution 2.5 Generic",
+  "CAN": "Open Government Canada 2.0",
+  "CHE": "Federal Office of Topography swisstopo License",
+  "CHL": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "CHN": "Public Domain",
+  "CIV": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "CMR": "Creative Commons Attribution 3.0 License",
+  "COD": "Open Data Commons Open Database License 1.0",
+  "COG": "Open Data Commons Open Database License 1.0",
+  "COL": "Open Data Commons Open Database License 1.0",
+  "COM": "Open Data Commons Open Database License 1.0",
+  "CPV": "Open Data Commons Open Database License 1.0",
+  "CRI": "Open Data Commons Open Database License 1.0",
+  "CUB": "Open Data Commons Open Database License 1.0",
+  "CYP": "Open Data Commons Open Database License 1.0",
+  "CZE": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "DEU": "Data license Germany - Attribution - Version 2.0",
+  "DJI": "Public Domain",
+  "DMA": "Creative Commons Attribution 2.5 Generic",
+  "DNK": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "DOM": "Public Domain",
+  "DZA": "Open Data Commons Open Database License 1.0",
+  "ECU": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+  "EGY": "Open Data Commons Open Database License 1.0",
+  "ERI": "Open Data Commons Open Database License 1.0",
+  "ESP": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "EST": "Open Data Commons Open Database License 1.0",
+  "ETH": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+  "FIN": "Open Data Commons Open Database License 1.0",
+  "FJI": "Creative Commons Attribution 2.5 Generic",
+  "FRA": "Etalab Open License 2.0",
+  "FSM": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "GAB": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+  "GBR": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "GEO": "Creative Commons Attribution 3.0 License",
+  "GHA": "Creative Commons Attribution-ShareAlike 2.0",
+  "GIN": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "GMB": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+  "GNB": "Open Data Commons Open Database License 1.0",
+  "GNQ": "Open Data Commons Open Database License 1.0",
+  "GRC": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "GRD": "Creative Commons Attribution-ShareAlike 2.0",
+  "GRL": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+  "GTM": "Open Data Commons Open Database License 1.0",
+  "GUY": "Open Data Commons Open Database License 1.0",
+  "HND": "Open Data Commons Open Database License 1.0",
+  "HRV": "Open Data Commons Open Database License 1.0",
+  "HTI": "Open Data Commons Open Database License 1.0",
+  "HUN": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+  "IDN": "Open Data Commons Open Database License 1.0",
+  "IND": "Creative Commons Attribution 2.5 India (CC BY 2.5 IN)",
+  "IRL": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+  "IRN": "Open Data Commons Open Database License 1.0",
+  "IRQ": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+  "ISL": "Open Data Commons Open Database License 1.0",
+  "ISR": "Public Domain",
+  "ITA": "Creative Commons Attribution 3.0 License",
+  "JAM": "Creative Commons Attribution-ShareAlike 2.0",
+  "JOR": "Creative Commons Attribution 2.5 Generic",
+  "JPN": "Open Data Commons Open Database License 1.0",
+  "KAZ": "Open Data Commons Open Database License 1.0",
+  "KEN": "Public Domain",
+  "KGZ": "Open Data Commons Open Database License 1.0",
+  "KHM": "Open Data Commons Open Database License 1.0",
+  "KIR": "Open Data Commons Open Database License 1.0",
+  "KNA": "Creative Commons Attribution-ShareAlike 2.0",
+  "KOR": "Public Domain",
+  "KWT": "Open Data Commons Open Database License 1.0",
+  "LAO": "Open Data Commons Open Database License 1.0",
+  "LBN": "Public Domain",
+  "LBR": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "LBY": "Public Domain",
+  "LCA": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+  "LIE": "Open Data Commons Open Database License 1.0",
+  "LKA": "Open Data Commons Open Database License 1.0",
+  "LSO": "Open Data Commons Open Database License 1.0",
+  "LTU": "Open Data Commons Open Database License 1.0",
+  "LUX": "Open Data Commons Open Database License 1.0",
+  "LVA": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "MAR": "Open Data Commons Open Database License 1.0",
+  "MCO": "Open Data Commons Open Database License 1.0",
+  "MDA": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "MDG": "Open Data Commons Open Database License 1.0",
+  "MDV": "Open Data Commons Open Database License 1.0",
+  "MEX": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "MHL": "Open Data Commons Open Database License 1.0",
+  "MKD": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "MLI": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "MLT": "Public Domain",
+  "MMR": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+  "MNE": "Open Data Commons Open Database License 1.0",
+  "MNG": "Open Data Commons Open Database License 1.0",
+  "MOZ": "Open Data Commons Open Database License 1.0",
+  "MRT": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+  "MUS": "Open Data Commons Open Database License 1.0",
+  "MWI": "Open Data Commons Open Database License 1.0",
+  "MYS": "Open Data Commons Open Database License 1.0",
+  "NAM": "Public Domain",
+  "NER": "Open Data Commons Open Database License 1.0",
+  "NGA": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "NIC": "Open Data Commons Open Database License 1.0",
+  "NIU": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "NLD": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+  "NOR": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+  "NPL": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "NRU": "Public Domain",
+  "NZL": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "OMN": "Open Data Commons Open Database License 1.0",
+  "PAK": "Public Domain",
+  "PAN": "Open Data Commons Open Database License 1.0",
+  "PER": "Public Domain",
+  "PHL": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "PLW": "Open Data Commons Open Database License 1.0",
+  "PNG": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "POL": "Open Data Commons Open Database License 1.0",
+  "PRK": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "PRT": "Open Data Commons Open Database License 1.0",
+  "PRY": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "PSE": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+  "QAT": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "ROU": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "RUS": "Open Data Commons Open Database License 1.0",
+  "RWA": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+  "SAU": "Open Data Commons Open Database License 1.0",
+  "SDN": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "SEN": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "SGP": "Open Data Commons Open Database License 1.0",
+  "SLB": "Public Domain",
+  "SLE": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "SLV": "Creative Commons Attribution-ShareAlike 2.0",
+  "SMR": "Open Data Commons Open Database License 1.0",
+  "SOM": "Open Data Commons Open Database License 1.0",
+  "SRB": "Open Data Commons Open Database License 1.0",
+  "SSD": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "STP": "Open Data Commons Open Database License 1.0",
+  "SUR": "Open Data Commons Open Database License 1.0",
+  "SVK": "Open Data Commons Open Database License 1.0",
+  "SVN": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+  "SWE": "Creative Commons Attribution 3.0 License",
+  "SWZ": "Open Data Commons Open Database License 1.0",
+  "SYC": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+  "SYR": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "TCD": "Open Data Commons Open Database License 1.0",
+  "TGO": "Open Data Commons Open Database License 1.0",
+  "THA": "Open Data Commons Open Database License 1.0",
+  "TJK": "Open Data Commons Open Database License 1.0",
+  "TKM": "Public Domain",
+  "TLS": "Open Data Commons Open Database License 1.0",
+  "TON": "Open Data Commons Open Database License 1.0",
+  "TTO": "Open Data Commons Open Database License 1.0",
+  "TUN": "Open Data Commons Open Database License 1.0",
+  "TUR": "Creative Commons Attribution-ShareAlike 2.0",
+  "TUV": "Open Data Commons Open Database License 1.0",
+  "TWN": "Open Data Commons Open Database License 1.0",
+  "TZA": "Open Data Commons Open Database License 1.0",
+  "UGA": "Open Data Commons Open Database License 1.0",
+  "UKR": "Open Data Commons Open Database License 1.0",
+  "URY": "Open Data Commons Open Database License 1.0",
+  "USA": "Public Domain",
+  "UZB": "Open Data Commons Open Database License 1.0",
+  "VCT": "Open Data Commons Open Database License 1.0",
+  "VEN": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "VNM": "Public Domain",
+  "VUT": "Open Data Commons Open Database License 1.0",
+  "WSM": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+  "XKX": "Creative Commons Attribution-ShareAlike 2.0",
+  "YEM": "Open Data Commons Open Database License 1.0",
+  "ZAF": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "ZMB": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "ZWE": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)"
+ },
+ "release": {
+  "build_dates": {
+   "Dec 12, 2023": 193,
+   "Feb 21, 2024": 4,
+   "Jul 05, 2023": 2
+  },
+  "commits": {
+   "9469f09": 194,
+   "90a1d52": 3,
+   "41af8f1": 2
+  }
+ },
+ "katanga": {
+  "minmod_cd_states": [
+   [
+    "Q2998",
+    "Bas-Uélé",
+    "BU"
+   ],
+   [
+    "Q2999",
+    "Équateur",
+    "EQ"
+   ],
+   [
+    "Q3000",
+    "Haut-Katanga",
+    "HK"
+   ],
+   [
+    "Q3001",
+    "Haut-Lomami",
+    "HL"
+   ],
+   [
+    "Q3002",
+    "Haut-Uélé",
+    "HU"
+   ],
+   [
+    "Q3003",
+    "Ituri",
+    "IT"
+   ],
+   [
+    "Q3004",
+    "Kasaï",
+    "KS"
+   ],
+   [
+    "Q3005",
+    "Kasaï Central",
+    "KC"
+   ],
+   [
+    "Q3006",
+    "Kasaï Oriental",
+    "KE"
+   ],
+   [
+    "Q3007",
+    "Kinshasa",
+    "KN"
+   ],
+   [
+    "Q3008",
+    "Kongo Central",
+    "BC"
+   ],
+   [
+    "Q3009",
+    "Kwango",
+    "KG"
+   ],
+   [
+    "Q3010",
+    "Kwilu",
+    "KL"
+   ],
+   [
+    "Q3011",
+    "Lomami",
+    "LO"
+   ],
+   [
+    "Q3012",
+    "Lualaba",
+    "LU"
+   ],
+   [
+    "Q3013",
+    "Mai-Ndombe",
+    "MN"
+   ],
+   [
+    "Q3014",
+    "Maniema",
+    "MA"
+   ],
+   [
+    "Q3015",
+    "Mongala",
+    "MO"
+   ],
+   [
+    "Q3016",
+    "Nord-Kivu",
+    "NK"
+   ],
+   [
+    "Q3017",
+    "Nord-Ubangi",
+    "NU"
+   ],
+   [
+    "Q3018",
+    "Sankuru",
+    "SA"
+   ],
+   [
+    "Q3019",
+    "Sud-Kivu",
+    "SK"
+   ],
+   [
+    "Q3020",
+    "Sud-Ubangi",
+    "SU"
+   ],
+   [
+    "Q3021",
+    "Tanganyika",
+    "TA"
+   ],
+   [
+    "Q3022",
+    "Tshopo",
+    "TO"
+   ],
+   [
+    "Q3023",
+    "Tshuapa",
+    "TU"
+   ]
+  ],
+  "gb_cod_shapes": [
+   [
+    "CD-HU",
+    "Upper Uele"
+   ],
+   [
+    "CD-IT",
+    "Ituri"
+   ],
+   [
+    "CD-TO",
+    "Tshopo"
+   ],
+   [
+    "CD-BU",
+    "Lower Uele"
+   ],
+   [
+    "CD-MO",
+    "Mongala"
+   ],
+   [
+    "CD-NU",
+    "Nord-Ubangi"
+   ],
+   [
+    "CD-TU",
+    "Tshuapa"
+   ],
+   [
+    "CD-EQ",
+    "Équateur"
+   ],
+   [
+    "CD-HK",
+    "Haut-Katanga"
+   ],
+   [
+    "CD-HL",
+    "Haut-Lomami"
+   ],
+   [
+    "CD-BC",
+    "Kongo-Central"
+   ],
+   [
+    "CD-KG",
+    "Kwango"
+   ],
+   [
+    "CD-SA",
+    "Sankuru"
+   ],
+   [
+    "CD-SU",
+    "Sud-Ubangi"
+   ],
+   [
+    "CD-TA",
+    "Tanganyika"
+   ],
+   [
+    "CD-KS",
+    "Kasai"
+   ],
+   [
+    "CD-KE",
+    "Kasai-Oriental"
+   ],
+   [
+    "CD-MA",
+    "Maniema"
+   ],
+   [
+    "CD-NK",
+    "North Kivu"
+   ],
+   [
+    "CD-SK",
+    "South Kivu"
+   ],
+   [
+    "CD-KC",
+    "Central Kasai"
+   ],
+   [
+    "CD-LO",
+    "Lomami"
+   ],
+   [
+    "CD-LU",
+    "Lualaba"
+   ],
+   [
+    "CD-KN",
+    "Kinshasa"
+   ],
+   [
+    "CD-KL",
+    "Kwilu"
+   ],
+   [
+    "CD-MN",
+    "Mai-Ndombe"
+   ]
+  ],
+  "records": 261,
+  "by_group": {
+   "drop list (state -> Q6152 Tanga)": {
+    "records": 111,
+    "status": {
+     "usable": 102,
+     "no location": 8,
+     "round placeholder": 1
+    },
+    "usable_by_shape": {
+     "none": 4,
+     "Lualaba": 43,
+     "Haut-Katanga": 50,
+     "Tanganyika": 4,
+     "Haut-Lomami": 1
+    }
+   },
+   "state never normalized": {
+    "records": 148,
+    "status": {
+     "usable": 148
+    },
+    "usable_by_shape": {
+     "Lualaba": 71,
+     "Haut-Katanga": 77
+    }
+   },
+   "state normalized to Q3000": {
+    "records": 2,
+    "status": {
+     "usable": 1,
+     "no location": 1
+    },
+    "usable_by_shape": {
+     "Lualaba": 1
+    }
+   }
+  },
+  "status": {
+   "usable": 251,
+   "no location": 9,
+   "round placeholder": 1
+  },
+  "usable_by_shape": {
+   "none": 4,
+   "Lualaba": 115,
+   "Haut-Katanga": 127,
+   "Tanganyika": 4,
+   "Haut-Lomami": 1
+  },
+  "outside_cod": [
+   {
+    "group": "drop list (state -> Q6152 Tanga)",
+    "record_id": "02a714ece70c0d9a72c3d36078290086dd8d7a9aa659f97c7aefe3c35d78020e76",
+    "source_id": "https://api.cdr.land/v1/docs/documents",
+    "location": "POINT(-26.05861 -10.55333)",
+    "crs": "Q701",
+    "status": "usable",
+    "shape": "none",
+    "inside_cod": false,
+    "flag": "lon sign"
+   },
+   {
+    "group": "drop list (state -> Q6152 Tanga)",
+    "record_id": "029506dffe37f93eeb0fcd8e37db36e05b09e7ec7ac4f84b1e5ec21c45031838dc",
+    "source_id": "https://api.cdr.land/v1/docs/documents",
+    "location": "MULTIPOINT(26.5 10.75)",
+    "crs": "",
+    "status": "usable",
+    "shape": "none",
+    "inside_cod": false,
+    "flag": "lat sign"
+   },
+   {
+    "group": "drop list (state -> Q6152 Tanga)",
+    "record_id": "02ecce4ba42721f620ae2000567a88f606d11bde7b441f483b7b47c5b932d96858",
+    "source_id": "https://api.cdr.land/v1/docs/documents",
+    "location": "MULTIPOINT(23.499 10.934)",
+    "crs": "Q701",
+    "status": "usable",
+    "shape": "none",
+    "inside_cod": false,
+    "flag": "lat sign"
+   },
+   {
+    "group": "drop list (state -> Q6152 Tanga)",
+    "record_id": "10400569",
+    "source_id": "https://mrdata.usgs.gov/mrds",
+    "location": "POINT (26.2227999999999994 10.6202000000000005)",
+    "crs": "Q701",
+    "status": "usable",
+    "shape": "none",
+    "inside_cod": false,
+    "flag": "lat sign"
+   }
+  ]
+ }
+}

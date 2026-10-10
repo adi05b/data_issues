@@ -1,0 +1,936 @@
+{ "head": {
+    "vars": [ "obs" , "label" , "conf" , "src" , "matcher" , "records" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "obs": { "type": "literal" , "value": "Construction" } ,
+        "label": { "type": "literal" , "value": "Strontium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5453337996531422" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "46221" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Crushed/Broken" } ,
+        "label": { "type": "literal" , "value": "Stone > Crushed/Broken" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7714968911730966" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "17461" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "General" } ,
+        "label": { "type": "literal" , "value": "Clay > General" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7798200451146162" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3427" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Dimension" } ,
+        "label": { "type": "literal" , "value": "Limestone > Dimension" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7468642245520716" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3081" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Fire Clay (Refractory)" } ,
+        "label": { "type": "literal" , "value": "Clay > Fire (Refractory)" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8494402903493812" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2391" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Kaolin" } ,
+        "label": { "type": "literal" , "value": "Clay > Kaolin" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7553298794785579" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1033" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Bentonite" } ,
+        "label": { "type": "literal" , "value": "Clay > Bentonite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8118545741001275" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1008" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Construc" } ,
+        "label": { "type": "literal" , "value": "Cobalt" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5368033988749895" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "980" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Metal" } ,
+        "label": { "type": "literal" , "value": "Nonmetal" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7598965847432124" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "840" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Sulfur-Pyrite" } ,
+        "label": { "type": "literal" , "value": "Sulfur > Iron Pyrite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7160588604611158" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "723" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Niobium (Columbium)" } ,
+        "label": { "type": "literal" , "value": "Niobium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.681477127840932" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "710" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Volcanic Materials" } ,
+        "label": { "type": "literal" , "value": "Clay > Bloating Material" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5950150974770503" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "487" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Halite" } ,
+        "label": { "type": "literal" , "value": "Alunite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6753153216976067" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "466" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Salt" } ,
+        "label": { "type": "literal" , "value": "Aluminum" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6734066857533134" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "456" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Garnet" } ,
+        "label": { "type": "literal" , "value": "Abrasive > Garnet" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6704687284002351" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "449" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Oil Shale" } ,
+        "label": { "type": "literal" , "value": "Petroleum (Oil) > Oil Shale" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6281009876554962" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "261" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Water" } ,
+        "label": { "type": "literal" , "value": "Slate" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5555555555555556" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "221" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Crushed/Broken" } ,
+        "label": { "type": "literal" , "value": "Stone > Crushed/Broken" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7714968911730966" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "221" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Sulfuric Acid" } ,
+        "label": { "type": "literal" , "value": "Sulfur > Sulfuric Acid" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8072920621514816" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "170" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Contained Or Metal" } ,
+        "label": { "type": "literal" , "value": "Aluminum > Contained Or Metal" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8430814953184439" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "148" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Corundum" } ,
+        "label": { "type": "literal" , "value": "Abrasive > Corundum" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.696960839660197" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "119" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Kaolin" } ,
+        "label": { "type": "literal" , "value": "Clay > Kaolin" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7553298794785579" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "99" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Metal" } ,
+        "label": { "type": "literal" , "value": "Nonmetal" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7598965847432124" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "76" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Ferrochrome" } ,
+        "label": { "type": "literal" , "value": "Chromium > Ferrochrome" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7901547992374542" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "67" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Pigment" } ,
+        "label": { "type": "literal" , "value": "Mineral Pigments" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6225955311160446" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "65" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Refiner" } ,
+        "label": { "type": "literal" , "value": "Gold > Refinery" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7461639154949706" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "64" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "High Calcium" } ,
+        "label": { "type": "literal" , "value": "Limestone > High Calcium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7611163264780054" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "63" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Fullers Earth" } ,
+        "label": { "type": "literal" , "value": "Clay > Fullers Earth" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8631806097056378" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "62" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Ultra Pure" } ,
+        "label": { "type": "literal" , "value": "Limestone > Ultra Pure" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7343085125966367" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "60" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Dimension" } ,
+        "label": { "type": "literal" , "value": "Limestone > Dimension" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7468642245520716" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "60" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Emery" } ,
+        "label": { "type": "literal" , "value": "Gemstone > Emerald" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6871786338602186" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "49" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Lignite" } ,
+        "label": { "type": "literal" , "value": "Coal > Lignite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.774668663761801" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "48" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Sodium Sulfate" } ,
+        "label": { "type": "literal" , "value": "Sodium > Salt" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7016722863755561" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "40" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Aggregate" } ,
+        "label": { "type": "literal" , "value": "Aggregate > Light Weight" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6663369700005818" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "38" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Light Weight" } ,
+        "label": { "type": "literal" , "value": "Aggregate > Light Weight" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7570632350960106" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "38" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Bloating Material" } ,
+        "label": { "type": "literal" , "value": "Clay > Bloating Material" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8906091180969744" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "37" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Oil Sands" } ,
+        "label": { "type": "literal" , "value": "Petroleum (Oil) > Oil Sands" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6281009876554962" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "32" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Bituminous" } ,
+        "label": { "type": "literal" , "value": "Coal > Bituminous" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8256204595380294" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "31" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Sodium Carbonate" } ,
+        "label": { "type": "literal" , "value": "Sodium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6264668861815601" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "30" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Smelter" } ,
+        "label": { "type": "literal" , "value": "Lead > Smelter" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6474305774673472" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "28" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Corundum" } ,
+        "label": { "type": "literal" , "value": "Abrasive > Corundum" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.696960839660197" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "28" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Ferrosilicon" } ,
+        "label": { "type": "literal" , "value": "Silica > Ferrosilicon" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7590560645139681" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "28" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Talc" } ,
+        "label": { "type": "literal" , "value": "Talc-Soapstone" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6985042339640731" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "25" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Montmorillonite" } ,
+        "label": { "type": "literal" , "value": "Clay > Montmorillonite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8739816500118125" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "25" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Iron-Pyrite" } ,
+        "label": { "type": "literal" , "value": "Iron > Pyrite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8034648726246919" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "24" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "General" } ,
+        "label": { "type": "literal" , "value": "Clay > General" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7798200451146162" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "22" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Sulfur-Pyrite" } ,
+        "label": { "type": "literal" , "value": "Sulfur > Iron Pyrite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7160588604611158" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "18" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Niobium (Columbium)" } ,
+        "label": { "type": "literal" , "value": "Niobium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.681477127840932" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "17" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Mica?" } ,
+        "label": { "type": "literal" , "value": "Mica" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8852616746904621" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "17" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Rock Asphalt" } ,
+        "label": { "type": "literal" , "value": "Petroleum (Oil) > Rock Asphalt" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6047641170897083" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Industrial/Frac Sand" } ,
+        "label": { "type": "literal" , "value": "Sand" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5003968253968254" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Crushed Stone" } ,
+        "label": { "type": "literal" , "value": "Stone > Crushed/Broken" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.645381477339216" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "14" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Ferromanganese" } ,
+        "label": { "type": "literal" , "value": "Manganese > Ferromanganese" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8332006585507986" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Industrial" } ,
+        "label": { "type": "literal" , "value": "Indium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.4998398503937435" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Monazite" } ,
+        "label": { "type": "literal" , "value": "Magnesite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5173565025301907" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Garnet" } ,
+        "label": { "type": "literal" , "value": "Abrasive > Garnet" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6704687284002351" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Refinery" } ,
+        "label": { "type": "literal" , "value": "Gold > Refinery" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7930782869591524" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "11" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Soda Ash" } ,
+        "label": { "type": "literal" , "value": "Ash" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5833333333333334" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Clay (Halloysite)" } ,
+        "label": { "type": "literal" , "value": "Clay > Chlorite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6423492836917639" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Fire Clay (Refractory)" } ,
+        "label": { "type": "literal" , "value": "Clay > Fire (Refractory)" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8494402903493812" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "8" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Mill Concentrate" } ,
+        "label": { "type": "literal" , "value": "Tungsten > Mill Concentrate" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7604006650767883" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Soapstone" } ,
+        "label": { "type": "literal" , "value": "Talc-Soapstone" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7840714852406568" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Titanium-Ilmenite" } ,
+        "label": { "type": "literal" , "value": "Titanium > Ilmenite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8717951590843223" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Magnesium Compounds" } ,
+        "label": { "type": "literal" , "value": "Magnesium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7183665237918626" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Beryl" } ,
+        "label": { "type": "literal" , "value": "Beryllium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7521239231099324" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Subbituminous" } ,
+        "label": { "type": "literal" , "value": "Coal > Subbituminous" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.860924883712409" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "6" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Columbite-Tantalite" } ,
+        "label": { "type": "literal" , "value": "Tantalum" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5851271035573562" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Sandstone" } ,
+        "label": { "type": "literal" , "value": "Stone" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.697793610107163" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "High Calcium" } ,
+        "label": { "type": "literal" , "value": "Limestone > High Calcium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7611163264780054" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Titanium-Rutile" } ,
+        "label": { "type": "literal" , "value": "Titanium > Rutile" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8568553063954016" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Galena" } ,
+        "label": { "type": "literal" , "value": "Gallium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5953703703703703" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Stn?" } ,
+        "label": { "type": "literal" , "value": "Stone" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8512820117418509" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Chalcopyrite" } ,
+        "label": { "type": "literal" , "value": "Clay > Chlorite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5575519829370762" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Sillimanite" } ,
+        "label": { "type": "literal" , "value": "Silica" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.591260428230334" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Chlorite" } ,
+        "label": { "type": "literal" , "value": "Chlorine" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8367063492063491" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "High Alumina Clay" } ,
+        "label": { "type": "literal" , "value": "Aluminum > High Alumina Clay" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8602381503966008" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Dimension Stone" } ,
+        "label": { "type": "literal" , "value": "Limestone > Dimension" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8779491369787645" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Bloating Material" } ,
+        "label": { "type": "literal" , "value": "Clay > Bloating Material" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8906091180969744" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Iron Oxide Pigments" } ,
+        "label": { "type": "literal" , "value": "Iron > Pig Iron" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6261260357258065" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Bornite" } ,
+        "label": { "type": "literal" , "value": "Granite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6349206349206349" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Alabaster" } ,
+        "label": { "type": "literal" , "value": "Gypsum-Anhydrite > Alabaster" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6449490588485243" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Anthophyllite" } ,
+        "label": { "type": "literal" , "value": "Pyrophyllite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7326188197534158" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Molybdenite" } ,
+        "label": { "type": "literal" , "value": "Molybdenum" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7878051500000426" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Hectorite" } ,
+        "label": { "type": "literal" , "value": "Clay > Hectorite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8122241971567976" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Magnetite" } ,
+        "label": { "type": "literal" , "value": "Magnesite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8566289364025346" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Tantalum From Tin Slag" } ,
+        "label": { "type": "literal" , "value": "Tantalum > Tin Slag" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8749932626017942" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Tripoli" } ,
+        "label": { "type": "literal" , "value": "Lithium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5186447809914086" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Tourmaline" } ,
+        "label": { "type": "literal" , "value": "Staurolite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.531838046783699" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Muscovite Mica" } ,
+        "label": { "type": "literal" , "value": "Mica" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5454505262007152" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Halloysite" } ,
+        "label": { "type": "literal" , "value": "Alunite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5487914848005359" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Vesuvianite" } ,
+        "label": { "type": "literal" , "value": "Kyanite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.56228726332573" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Hematite" } ,
+        "label": { "type": "literal" , "value": "Diatomite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5632020329328107" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Gilsonite" } ,
+        "label": { "type": "literal" , "value": "Wollastonite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.58560585873268" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Apatite" } ,
+        "label": { "type": "literal" , "value": "Graphite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.5909727011463893" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Copper And Garnet" } ,
+        "label": { "type": "literal" , "value": "Copper" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.616507214399085" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Kaolin/ Feldspar" } ,
+        "label": { "type": "literal" , "value": "Feldspar" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6197666196787329" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Road Gravel??" } ,
+        "label": { "type": "literal" , "value": "Sand and Gravel" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6242014565618499" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Feld?" } ,
+        "label": { "type": "literal" , "value": "Feldspar" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6313183462480368" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Ilmenite" } ,
+        "label": { "type": "literal" , "value": "Titanium > Ilmenite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6574174694713655" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Pyrrrhotite" } ,
+        "label": { "type": "literal" , "value": "Pyrite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6636720949214773" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Aggregate" } ,
+        "label": { "type": "literal" , "value": "Aggregate > Light Weight" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6663369700005818" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Lime" } ,
+        "label": { "type": "literal" , "value": "Limestone" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6795017807794553" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Quartz Crystal" } ,
+        "label": { "type": "literal" , "value": "Quartz" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6875731185901993" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Iron? Feldspar?" } ,
+        "label": { "type": "literal" , "value": "Feldspar" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6901845843665904" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Mica? Feldspar?" } ,
+        "label": { "type": "literal" , "value": "Feldspar" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.6971290288110348" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Allanite?" } ,
+        "label": { "type": "literal" , "value": "Alunite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7138453856369965" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Soapstone?" } ,
+        "label": { "type": "literal" , "value": "Talc-Soapstone" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.736943265067092" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Tailings" } ,
+        "label": { "type": "literal" , "value": "Tin > Tailings" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7563180627732196" } ,
+        "src": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Allanite" } ,
+        "label": { "type": "literal" , "value": "Alunite" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7583601563722244" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Iron Sulfides" } ,
+        "label": { "type": "literal" , "value": "Sulfides" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.766622393704339" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Chromite" } ,
+        "label": { "type": "literal" , "value": "Chromium" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7740880923382814" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Contained Or Me" } ,
+        "label": { "type": "literal" , "value": "Aluminum > Contained Or Metal" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.7816611190587871" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Sulfuric Acid" } ,
+        "label": { "type": "literal" , "value": "Sulfur > Sulfuric Acid" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8072920621514816" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Dimension Stone?" } ,
+        "label": { "type": "literal" , "value": "Limestone > Dimension" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8489201804190158" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "Olvine" } ,
+        "label": { "type": "literal" , "value": "Olivine" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8519330172390733" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "obs": { "type": "literal" , "value": "K-Feldspar" } ,
+        "label": { "type": "literal" , "value": "Feldspar" } ,
+        "conf": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#decimal" , "value": "0.8837934207222082" } ,
+        "src": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "records": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+# Problem 3, Amandeep's funnel, row 1, on the live graph: merge groups with >= 2
+# records = owl:sameAs hubs (see p3_amandeep.rq). Read-only SELECT.
+SELECT (COUNT(DISTINCT ?hub) AS ?row1_two_plus_members)
+WHERE { ?hub owl:sameAs ?m . FILTER(?hub != ?m) }

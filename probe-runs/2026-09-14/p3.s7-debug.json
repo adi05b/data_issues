@@ -1,0 +1,14 @@
+{ "head": {
+    "vars": [ "sameas_subj" , "sameas_with_li" , "sameas_with_loc" , "sameas_with_crs" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "sameas_subj": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "198118" } ,
+        "sameas_with_li": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10890" } ,
+        "sameas_with_loc": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9529" } ,
+        "sameas_with_crs": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10480" }
+      }
+    ]
+  }
+}

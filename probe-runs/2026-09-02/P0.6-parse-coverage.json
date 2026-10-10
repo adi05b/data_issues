@@ -1,0 +1,12 @@
+{ "head": {
+    "vars": [ "total" , "parses" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "total": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "446426" } ,
+        "parses": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "446209" }
+      }
+    ]
+  }
+}

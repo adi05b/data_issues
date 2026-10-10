@@ -1,0 +1,7 @@
+site,state_obs,state_ent,state_label,state_cty,country_obs,country_ent,country_label
+https://minmod.isi.edu/resource/site__mrdata-usgs-gov-phosphate__95__umn,Queensland,https://minmod.isi.edu/resource/Q2209,Queensland,Q1013,Australia,https://minmod.isi.edu/resource/Q1013,Australia
+https://minmod.isi.edu/resource/site__mrdata-usgs-gov-phosphate__1__umn,Helmand,https://minmod.isi.edu/resource/Q2011,Helmand,Q1000,Afghanistan,https://minmod.isi.edu/resource/Q1000,Afghanistan
+https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0283468d8e32eb2151b91e8f29b005238f1438c1258edddbc4f40471ae044bb892__inferlink,British Columbia,https://minmod.isi.edu/resource/Q2654,British Columbia,Q1038,Canada,https://minmod.isi.edu/resource/Q1038,Canada
+https://minmod.isi.edu/resource/site__mrdata-usgs-gov-phosphate__1210__umn,Roi Et,https://minmod.isi.edu/resource/Q6210,Roi Et,Q1219,Thailand,https://minmod.isi.edu/resource/Q1219,Thailand
+https://minmod.isi.edu/resource/site__doi-org-10-5066-p96mmrfd__md055__umn,Alaska,https://minmod.isi.edu/resource/Q6840,Alaska,Q1235,United States,https://minmod.isi.edu/resource/Q1235,United States
+https://minmod.isi.edu/resource/site__mrdata-usgs-gov-sedznpb__493__umn,,https://minmod.isi.edu/resource/Q6840,Alaska,Q1235,,https://minmod.isi.edu/resource/Q1235,United States

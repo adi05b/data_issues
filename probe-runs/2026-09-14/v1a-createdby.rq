@@ -1,0 +1,4 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?created_by (COUNT(DISTINCT ?site) AS ?sites)
+WHERE { ?site a :MineralSite ; :created_by ?created_by }
+GROUP BY ?created_by ORDER BY DESC(?sites)

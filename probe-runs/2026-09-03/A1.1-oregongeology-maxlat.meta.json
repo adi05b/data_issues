@@ -1,0 +1,11 @@
+{
+  "id": "A1.1-oregongeology-maxlat",
+  "sent_at": "2026-09-03T00:02:14.353881+00:00",
+  "http_status": 200,
+  "elapsed_ms": 3903,
+  "bytes": 8752,
+  "curl_exit": 0,
+  "row_count": 10,
+  "truncated_by_limit": true,
+  "error": null
+}

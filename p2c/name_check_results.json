@@ -1,0 +1,81 @@
+{
+ "dropped_338.csv": {
+  "fillable": 191,
+  "name_check": {
+   "agrees": 59,
+   "n/a": 98,
+   "contradicts": 25,
+   "unclear": 9
+  },
+  "by_reason": {
+   "Katanga": {
+    "n/a": 98
+   },
+   "Option A": {
+    "contradicts": 2
+   },
+   "abolished unit": {
+    "agrees": 21,
+    "contradicts": 6
+   },
+   "city": {
+    "agrees": 4,
+    "contradicts": 1
+   },
+   "county": {
+    "agrees": 14,
+    "contradicts": 3
+   },
+   "island": {
+    "agrees": 12
+   },
+   "other": {
+    "agrees": 8,
+    "contradicts": 12,
+    "unclear": 6
+   },
+   "wrong recorded country": {
+    "unclear": 3,
+    "contradicts": 1
+   }
+  }
+ },
+ "emptied_313.csv": {
+  "fillable": 173,
+  "name_check": {
+   "contradicts": 22,
+   "agrees": 49,
+   "n/a": 94,
+   "unclear": 8
+  },
+  "by_reason": {
+   "Katanga": {
+    "n/a": 94
+   },
+   "abolished unit": {
+    "agrees": 19,
+    "contradicts": 6
+   },
+   "city": {
+    "contradicts": 1,
+    "agrees": 3
+   },
+   "county": {
+    "contradicts": 3,
+    "agrees": 8
+   },
+   "island": {
+    "agrees": 12
+   },
+   "other": {
+    "contradicts": 11,
+    "agrees": 7,
+    "unclear": 6
+   },
+   "wrong recorded country": {
+    "contradicts": 1,
+    "unclear": 2
+   }
+  }
+ }
+}

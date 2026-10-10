@@ -1,0 +1,233 @@
+{ "head": {
+    "vars": [ "source" , "matcher" , "candidates" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "292148" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9HTERGK" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "42744" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "http://www.oregongeology.org" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "23316" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/nicrpge" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10282" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "9842" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.34191/OFR-757" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7793" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P96MMRFD" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7720" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7008" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4393" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/pp577" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2181" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://www.idahogeology.org" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2000" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "matcher": { "type": "literal" , "value": "Inferlink Extraction v3" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1140" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/asbestos" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "913" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/vms" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System-ProcMinev2" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "889" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/podchrome" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "830" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/phosphate" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "711" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "684" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sir20105090z" } ,
+        "matcher": { "type": "literal" , "value": "UMN Exact Match v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "495" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/deposit" } ,
+        "matcher": { "type": "literal" , "value": "UMN Exact Match v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "423" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "400" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/major-deposits" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "372" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedcu" } ,
+        "matcher": { "type": "literal" , "value": "UMN Exact Match v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "359" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ree" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "346" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/porcu" } ,
+        "matcher": { "type": "literal" , "value": "UMN Exact Match v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "298" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedznpb" } ,
+        "matcher": { "type": "literal" , "value": "UMN Exact Match v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "264" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.2113/econgeo.110.8.1925" } ,
+        "matcher": { "type": "literal" , "value": "SAND" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "173" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/ofr20151121" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "170" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/sedau" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "115" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.3133/pp1802J" } ,
+        "matcher": { "type": "literal" , "value": "SAND" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "91" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P99RK9SU" } ,
+        "matcher": { "type": "literal" , "value": "SAND" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "72" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/carbonatite" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "30" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.31035/cg2020009" } ,
+        "matcher": { "type": "literal" , "value": "SAND" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "20" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "http://minmod.isi.edu/unpublished/lithium-in-nevada-simon-jowitt-2024" } ,
+        "matcher": { "type": "literal" , "value": "SAND" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "16" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/laterite" } ,
+        "matcher": { "type": "literal" , "value": "UMN Matching System v1" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "15" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/mrds" } ,
+        "matcher": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "12" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "matcher": { "type": "literal" , "value": "Inferlink Extraction v2" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "5" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource" } ,
+        "matcher": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "4" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "matcher": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "3" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "matcher": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/caknoblock" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.1007/s00126-023-01161-3" } ,
+        "matcher": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://mrdata.usgs.gov/pp1802" } ,
+        "matcher": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "2" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.4095/295581" } ,
+        "matcher": { "type": "literal" , "value": "https://minmod.isi.edu/users/a/bvu" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://api.cdr.land/v1/docs/documents" } ,
+        "matcher": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/glederer" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://doi.org/10.5066/P9K1HBNT" } ,
+        "matcher": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      } ,
+      { 
+        "source": { "type": "literal" , "value": "https://pubs.usgs.gov/bul/0615/report.pdf" } ,
+        "matcher": { "type": "literal" , "value": "https://minmod.isi.edu/users/u/jhammars" } ,
+        "candidates": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" }
+      }
+    ]
+  }
+}

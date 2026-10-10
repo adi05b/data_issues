@@ -1,0 +1,108 @@
+{ "head": {
+    "vars": [ "label" , "ent" , "country_label" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "label": { "type": "literal" , "value": "Bolívar" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q2785" } ,
+        "country_label": { "type": "literal" , "value": "Colombia" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Bolívar" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q3077" } ,
+        "country_label": { "type": "literal" , "value": "Ecuador" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Bolívar" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q6958" } ,
+        "country_label": { "type": "literal" , "value": "Venezuela" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Camagüey Province" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q2887" } ,
+        "country_label": { "type": "literal" , "value": "Cuba" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Haut-Katanga" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q3000" } ,
+        "country_label": { "type": "literal" , "value": "Democratic Republic of the Congo" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "La Paz Department" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q2453" } ,
+        "country_label": { "type": "literal" , "value": "Bolivia" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "La Paz Department" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q3132" } ,
+        "country_label": { "type": "literal" , "value": "El Salvador" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "La Paz Department" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q3556" } ,
+        "country_label": { "type": "literal" , "value": "Honduras" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Odisha" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q3657" } ,
+        "country_label": { "type": "literal" , "value": "India" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Oruro Department" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q2454" } ,
+        "country_label": { "type": "literal" , "value": "Bolivia" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Potosí Department" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q2456" } ,
+        "country_label": { "type": "literal" , "value": "Bolivia" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint Andrew" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q2374" } ,
+        "country_label": { "type": "literal" , "value": "Barbados" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint Andrew" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q3902" } ,
+        "country_label": { "type": "literal" , "value": "Jamaica" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint Andrew Parish" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q3035" } ,
+        "country_label": { "type": "literal" , "value": "Dominica" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint Andrew Parish" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q3447" } ,
+        "country_label": { "type": "literal" , "value": "Grenada" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Saint Andrew Parish" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q5531" } ,
+        "country_label": { "type": "literal" , "value": "Saint Vincent and the Grenadines" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Santa Cruz" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q2190" } ,
+        "country_label": { "type": "literal" , "value": "Argentina" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Santa Cruz" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q2680" } ,
+        "country_label": { "type": "literal" , "value": "Cape Verde" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Santa Cruz Department" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q2457" } ,
+        "country_label": { "type": "literal" , "value": "Bolivia" }
+      } ,
+      { 
+        "label": { "type": "literal" , "value": "Santa Cruz de Tenerife" } ,
+        "ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q5966" } ,
+        "country_label": { "type": "literal" , "value": "Spain" }
+      }
+    ]
+  }
+}

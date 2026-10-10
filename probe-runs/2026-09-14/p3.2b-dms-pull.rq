@@ -1,0 +1,19 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?site ?record_id ?source ?label ?wkt
+WHERE {
+  VALUES ?source {
+    "https://mrdata.usgs.gov/vms" "https://mrdata.usgs.gov/carbonatite"
+    "https://mrdata.usgs.gov/podchrome" "https://mrdata.usgs.gov/laterite"
+    "https://mrdata.usgs.gov/sedznpb" "https://mrdata.usgs.gov/sedau"
+    "https://mrdata.usgs.gov/porcu" "https://mrdata.usgs.gov/sedcu"
+    "https://mrdata.usgs.gov/ree" "https://mrdata.usgs.gov/major-deposits"
+  }
+  ?site a :MineralSite ; :source_id ?source ; :location_info ?li .
+  ?li :location ?wkt ; :crs ?c .
+  ?c :normalized_uri ?ce . ?ce rdfs:label ?crs . FILTER(STR(?crs) = "EPSG:4326")
+  OPTIONAL { ?site :record_id ?record_id }
+  OPTIONAL { ?site rdfs:label ?label }
+}
+ORDER BY ?site

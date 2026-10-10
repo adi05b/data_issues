@@ -1,0 +1,33 @@
+{ "head": {
+    "vars": [ "p" , "n" , "subjects" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "451527" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "451527" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/country" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "450574" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "450572" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/crs" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "450247" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "450247" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/location" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "446426" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "446426" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/state_or_province" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "421592" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "421555" }
+      }
+    ]
+  }
+}

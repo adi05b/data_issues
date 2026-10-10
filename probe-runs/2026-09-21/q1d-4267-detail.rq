@@ -1,0 +1,12 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT (COUNT(DISTINCT ?site) AS ?records) (COUNT(DISTINCT ?src) AS ?sources)
+       (COUNT(DISTINCT ?by) AS ?creators) (COUNT(DISTINCT ?conf) AS ?confs)
+       (SAMPLE(?conf) AS ?conf_val) (SAMPLE(?by) AS ?creator) (SAMPLE(?st) AS ?state)
+WHERE {
+  ?site a :MineralSite ; :source_id ?src ; :location_info ?li .
+  ?li :crs ?c . ?c :normalized_uri ?ce . ?ce rdfs:label ?k . FILTER(STR(?k)="EPSG:4267")
+  OPTIONAL { ?c :confidence ?conf }
+  OPTIONAL { ?site :created_by ?by }
+  OPTIONAL { ?li :state_or_province ?sc . ?sc :observed_name ?st }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "1.2d-normalized-by-matcher",
+  "sent_at": "2026-09-08T06:14:32.915272+00:00",
+  "http_status": 200,
+  "elapsed_ms": 6029,
+  "bytes": 2281,
+  "curl_exit": 0,
+  "row_count": 10,
+  "truncated_by_limit": false,
+  "error": null
+}

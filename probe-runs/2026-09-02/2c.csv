@@ -1,0 +1,51 @@
+_site,label,label_bound,entities,entities_bound,countries,countries_bound
+,Central Province,1,5,1,"Q1131, Q1170, Q1202, Q1209, Q1248",1
+,Western Province,1,5,1,"Q1170, Q1182, Q1202, Q1209, Q1248",1
+,Eastern Province,1,5,1,"Q1182, Q1193, Q1197, Q1209, Q1248",1
+,Saint George Parish,1,4,1,"Q1009, Q1061, Q1087, Q1187",1
+,Amazonas,1,4,1,"Q1030, Q1047, Q1172, Q1241",1
+,Northern Province,1,4,1,"Q1182, Q1197, Q1209, Q1248",1
+,Southern Province,1,4,1,"Q1182, Q1197, Q1209, Q1248",1
+,Saint John Parish,1,3,1,"Q1009, Q1061, Q1087",1
+,Córdoba,1,3,1,"Q1010, Q1047, Q1208",1
+,San Juan,1,3,1,"Q1010, Q1177",1
+,Northern,1,3,1,"Q1016, Q1083, Q1210",1
+,La Paz Department,1,3,1,"Q1025, Q1065, Q1097",1
+,Centre,1,3,1,"Q1034, Q1037, Q1095",1
+,North,1,3,1,"Q1037, Q1098, Q1120",1
+,Bolívar,1,3,1,"Q1047, Q1063, Q1241",1
+,Saint Andrew Parish,1,3,1,"Q1061, Q1087, Q1187",1
+,Saint David Parish,1,3,1,"Q1061, Q1087, Q1187",1
+,Saint Patrick Parish,1,3,1,"Q1061, Q1087, Q1187",1
+,Western Region,1,3,1,"Q1100, Q1152, Q1231",1
+,Central Region,1,3,1,"Q1129, Q1152, Q1231",1
+,Florida,1,3,1,"Q1177, Q1235, Q1237",1
+,Adrar,1,2,1,"Q1003, Q1137",1
+,Saint Paul Parish,1,2,1,"Q1009, Q1061",1
+,Saint Peter Parish,1,2,1,"Q1009, Q1061",1
+,Saint Mary Parish,1,2,1,"Q1009, Q1108",1
+,Santa Cruz,1,2,1,"Q1010, Q1039",1
+,La Rioja,1,2,1,"Q1010, Q1208",1
+,Río Negro,1,2,1,"Q1010, Q1237",1
+,Victoria,1,2,1,"Q1013, Q1133",1
+,Central,1,2,1,"Q1016, Q1083",1
+,Southern,1,2,1,"Q1016, Q1098",1
+,Capital,1,2,1,"Q1016, Q1116",1
+,Saint Andrew,1,2,1,"Q1018, Q1108",1
+,Saint John,1,2,1,"Q1018, Q1244",1
+,Saint Thomas,1,2,1,"Q1018, Q1244",1
+,Limburg,1,2,1,"Q1020, Q1153",1
+,Pembroke,1,2,1,"Q1023, Q1133",1
+,Bonaire,1,2,1,"Q1026, Q1153",1
+,Saba,1,2,1,"Q1026, Q1153",1
+,Sint Eustatius,1,2,1,"Q1026, Q1153",1
+,Central District,1,2,1,"Q1028, Q1106",1
+,Southern District,1,2,1,"Q1028, Q1106",1
+,Santa Catarina,1,2,1,"Q1030, Q1039",1
+,South,1,2,1,"Q1037, Q1120",1
+,Adamawa,1,2,1,"Q1037, Q1158",1
+,Los Ríos,1,2,1,"Q1043, Q1063",1
+,Sucre,1,2,1,"Q1047, Q1241",1
+,Savanes Region,1,2,1,"Q1052, Q1222",1
+,Zagreb,1,2,1,Q1053,1
+,Saint Mark Parish,1,2,1,"Q1061, Q1087",1

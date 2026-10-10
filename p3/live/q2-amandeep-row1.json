@@ -1,0 +1,11 @@
+{ "head": {
+    "vars": [ "row1_two_plus_members" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "row1_two_plus_members": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "198131" }
+      }
+    ]
+  }
+}

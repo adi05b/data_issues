@@ -1,0 +1,52 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# Problem 3, Amandeep's funnel, rows 2-3, on the live graph. Read-only SELECT.
+# Row 1 is p3_amandeep_row1.rq.
+#
+# The KG has no merged-site nodes. It writes each merge group of >= 2 records as
+# a star, hub owl:sameAs member (minmodkg/etl/same_as.py, step4_save), so a
+# group is a hub plus its owl:sameAs objects.
+#
+# Only members with a coordinate (a :location WKT) take part. Score as
+# SiteScore.get_score, times 100: a creator outside /users/s/ is an
+# expert/curator (100); otherwise the source's DataSource :score, 50 when missing
+# or negative, capped at 99; cast to xsd:integer, since GROUP BY keeps 50 and
+# 50.0 apart.
+#
+# key = score * 1e8 + members at that score * 1e4 + distinct sources among them;
+# MAX(key) per group is the top score's row (group sizes and source counts < 1e4).
+
+SELECT (COUNT(*)                                                 AS ?row2_two_plus_with_coordinate)
+       (SUM(IF(?top = 100, 1, 0))                                AS ?row2a_top_is_expert)
+       (SUM(IF(?top < 100 && ?n_top >= 2, 1, 0))                 AS ?row3_top_score_tied)
+       (SUM(IF(?top < 100 && ?n_top >= 2 && ?n_src = 1, 1, 0))   AS ?row3_same_source)
+       (SUM(IF(?top < 100 && ?n_top >= 2 && ?n_src >= 2, 1, 0))  AS ?row3_different_sources)
+WHERE {
+  {
+    SELECT ?hub (SUM(?n) AS ?n_coord) (MAX(?key) AS ?topkey)
+    WHERE {
+      {
+        SELECT ?hub ?sc (COUNT(DISTINCT ?m) AS ?n) (COUNT(DISTINCT ?src) AS ?nsrc)
+        WHERE {
+          { ?hub owl:sameAs ?m }
+          UNION
+          { SELECT DISTINCT ?hub (?hub AS ?m) WHERE { ?hub owl:sameAs ?any } }
+          ?m :location_info/:location ?wkt ; :source_id ?src ; :created_by ?by .
+          BIND(IRI(STR(?src)) AS ?ds)
+          OPTIONAL { ?ds :score ?dss }
+          BIND(xsd:integer(IF(!STRSTARTS(STR(?by), "https://minmod.isi.edu/users/s/"), 100,
+                  IF(BOUND(?dss) && ?dss >= 0, IF(?dss > 0.99, 99, ROUND(?dss * 100)), 50))) AS ?sc)
+        }
+        GROUP BY ?hub ?sc
+      }
+      BIND(?sc * 100000000 + ?n * 10000 + ?nsrc AS ?key)
+    }
+    GROUP BY ?hub
+  }
+  FILTER(?n_coord >= 2)
+  BIND(FLOOR(?topkey / 100000000) AS ?top)
+  BIND(FLOOR((?topkey - ?top * 100000000) / 10000) AS ?n_top)
+  BIND(?topkey - ?top * 100000000 - ?n_top * 10000 AS ?n_src)
+}

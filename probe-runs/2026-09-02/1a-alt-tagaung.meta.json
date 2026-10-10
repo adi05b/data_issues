@@ -1,0 +1,11 @@
+{
+  "id": "1a-alt-tagaung",
+  "sent_at": "2026-09-02T21:54:32.500820+00:00",
+  "http_status": 200,
+  "elapsed_ms": 3098,
+  "bytes": 4231,
+  "curl_exit": 0,
+  "row_count": 6,
+  "truncated_by_limit": false,
+  "error": null
+}

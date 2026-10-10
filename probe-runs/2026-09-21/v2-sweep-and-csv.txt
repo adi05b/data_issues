@@ -1,0 +1,67 @@
+==========================================================================
+PRE-FLIGHT / S1 fields, from the real CSV (her extract - grain: raw record)
+==========================================================================
+  crs_observed_name             1 distinct | 'EPSG:4267'x7720
+  crs_qid                       1 distinct | 'Q702'x7720
+  crs_epsg                      1 distinct | 'EPSG:4267'x7720
+  crs_asserted_by               1 distinct | 'UMN Matching System v1'x7720
+  crs_confidence                1 distinct | '1'x7720
+  source                        1 distinct | 'ardf'x7720
+  source_id                     1 distinct | 'https://doi.org/10.5066/P96MMRFD'x7720
+  state                         1 distinct | 'Alaska'x7720
+  country                       1 distinct | 'United States'x7720
+  passes_wgs84_range_check      1 distinct | 't'x7720
+  fix_decision                  1 distinct | 'reprojected'x7720
+
+==========================================================================
+SECTION 2 - merged-entity roll-up (from her dedup_site_id column)
+==========================================================================
+  raw records                 : 7720
+  distinct dedup_site_id      : 7218
+  entities holding >1 NAD27 rec: 353
+  largest entity              : 16 records
+  entity_coord_taken_from_this_record: {'t': 7140, 'f': 580}
+  NOTE: this is HER column, at HER grain. The dedup REST API is unreachable,
+        so it is not independently verified. Tagged as her figure.
+
+==========================================================================
+SECTION 3 - which geographic CRSs silently no-op without always_xy
+==========================================================================
+CRS         in corpus  geog axis0     no-op?   median shift  area of use
+EPSG:4326      403550  True north     n/a - is target            -  (-180.0, -90.0, 180.0, 90.0)
+EPSG:2994       23316  Falseeast      n/a - projected            -  (-124.6, 41.98, -116.47, 46.26)
+EPSG:26912       7792  Falseeast      n/a - projected            -  (-114.0, 31.33, -108.0, 84.0)
+EPSG:4267        7720  True north     YES 3/3         0.0 m  (167.65, 7.15, -47.74, 83.17)
+EPSG:4269           -  True north     YES 3/3         0.0 m  (167.65, 14.92, -40.73, 86.45)
+EPSG:4322           -  True north     no             12.6 m  (-180.0, -90.0, 180.0, 90.0)
+EPSG:4019           -  True north     YES 3/3         0.0 m  (-180.0, -90.0, 180.0, 90.0)
+EPSG:4030           -  True north     YES 3/3         0.0 m  (-180.0, -90.0, 180.0, 90.0)
+EPSG:4268           -  True north     YES 3/3         0.0 m  (-90.42, 41.69, -82.13, 48.32)
+EPSG:4270           -  True north     YES 3/3       222.3 m  (50.55, 22.63, 57.13, 27.05)
+EPSG:4272           -  True north     no            192.4 m  (165.87, -47.65, 179.27, -33.89)
+EPSG:4301           -  True north     no            480.7 m  (122.83, 20.37, 154.05, 45.54)
+EPSG:4302           -  True north     no            418.4 m  (-62.09, 9.83, -60.0, 11.51)
+
+  Corpus CRSs only (what actually matters):
+    EPSG:4326    403550 nodes  geographic=True  silently no-ops=n/a - is target
+    EPSG:2994     23316 nodes  geographic=False  silently no-ops=n/a - projected
+    EPSG:26912     7792 nodes  geographic=False  silently no-ops=n/a - projected
+    EPSG:4267      7720 nodes  geographic=True  silently no-ops=YES 3/3
+
+==========================================================================
+SECTION 5 - her convergence claim, as recorded in HER file (not rebuilt)
+==========================================================================
+  rows carrying a non-NAD27 sibling: 1602
+  median distance before : 159.1 m
+  median distance after  : 32.2 m
+  within 50 m before     : 6.6 %
+  within 50 m after      : 64.7 %
+  pairs that improve     : 1239 / 1602 (77.3 %)
+  pairs that get WORSE   : 363
+       330  https://mrdata.usgs.gov/mrds
+        17  https://doi.org/10.5066/P9K1HBNT
+        13  https://mrdata.usgs.gov/deposit
+         1  https://doi.org/10.5066/P99RK9SU
+         1  https://doi.org/10.4095/295581
+         1  https://mrdata.usgs.gov/sedznpb
+  her own improved flag  : {'t': 1239, 'f': 363}

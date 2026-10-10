@@ -1,0 +1,820 @@
+{ "head": {
+    "vars": [ "qid" , "country_label" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "qid": { "type": "literal" , "value": "Q1000" } ,
+        "country_label": { "type": "literal" , "value": "Afghanistan" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1002" } ,
+        "country_label": { "type": "literal" , "value": "Albania" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1003" } ,
+        "country_label": { "type": "literal" , "value": "Algeria" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1005" } ,
+        "country_label": { "type": "literal" , "value": "Andorra" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1006" } ,
+        "country_label": { "type": "literal" , "value": "Angola" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1009" } ,
+        "country_label": { "type": "literal" , "value": "Antigua and Barbuda" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1010" } ,
+        "country_label": { "type": "literal" , "value": "Argentina" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1011" } ,
+        "country_label": { "type": "literal" , "value": "Armenia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1013" } ,
+        "country_label": { "type": "literal" , "value": "Australia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1014" } ,
+        "country_label": { "type": "literal" , "value": "Austria" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1015" } ,
+        "country_label": { "type": "literal" , "value": "Azerbaijan" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1016" } ,
+        "country_label": { "type": "literal" , "value": "Bahrain" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1017" } ,
+        "country_label": { "type": "literal" , "value": "Bangladesh" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1018" } ,
+        "country_label": { "type": "literal" , "value": "Barbados" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1019" } ,
+        "country_label": { "type": "literal" , "value": "Belarus" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1020" } ,
+        "country_label": { "type": "literal" , "value": "Belgium" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1021" } ,
+        "country_label": { "type": "literal" , "value": "Belize" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1022" } ,
+        "country_label": { "type": "literal" , "value": "Benin" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1023" } ,
+        "country_label": { "type": "literal" , "value": "Bermuda" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1024" } ,
+        "country_label": { "type": "literal" , "value": "Bhutan" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1025" } ,
+        "country_label": { "type": "literal" , "value": "Bolivia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1026" } ,
+        "country_label": { "type": "literal" , "value": "Bonaire, Sint Eustatius and Saba" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1027" } ,
+        "country_label": { "type": "literal" , "value": "Bosnia and Herzegovina" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1028" } ,
+        "country_label": { "type": "literal" , "value": "Botswana" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1030" } ,
+        "country_label": { "type": "literal" , "value": "Brazil" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1032" } ,
+        "country_label": { "type": "literal" , "value": "Brunei" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1033" } ,
+        "country_label": { "type": "literal" , "value": "Bulgaria" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1034" } ,
+        "country_label": { "type": "literal" , "value": "Burkina Faso" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1035" } ,
+        "country_label": { "type": "literal" , "value": "Burundi" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1036" } ,
+        "country_label": { "type": "literal" , "value": "Cambodia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1037" } ,
+        "country_label": { "type": "literal" , "value": "Cameroon" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1038" } ,
+        "country_label": { "type": "literal" , "value": "Canada" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1039" } ,
+        "country_label": { "type": "literal" , "value": "Cape Verde" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1041" } ,
+        "country_label": { "type": "literal" , "value": "Central African Republic" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1042" } ,
+        "country_label": { "type": "literal" , "value": "Chad" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1043" } ,
+        "country_label": { "type": "literal" , "value": "Chile" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1044" } ,
+        "country_label": { "type": "literal" , "value": "China" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1047" } ,
+        "country_label": { "type": "literal" , "value": "Colombia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1048" } ,
+        "country_label": { "type": "literal" , "value": "Comoros" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1049" } ,
+        "country_label": { "type": "literal" , "value": "Congo" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1051" } ,
+        "country_label": { "type": "literal" , "value": "Costa Rica" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1052" } ,
+        "country_label": { "type": "literal" , "value": "Cote D'Ivoire (Ivory Coast)" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1053" } ,
+        "country_label": { "type": "literal" , "value": "Croatia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1054" } ,
+        "country_label": { "type": "literal" , "value": "Cuba" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1056" } ,
+        "country_label": { "type": "literal" , "value": "Cyprus" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1057" } ,
+        "country_label": { "type": "literal" , "value": "Czech Republic" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1058" } ,
+        "country_label": { "type": "literal" , "value": "Democratic Republic of the Congo" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1059" } ,
+        "country_label": { "type": "literal" , "value": "Denmark" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1060" } ,
+        "country_label": { "type": "literal" , "value": "Djibouti" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1061" } ,
+        "country_label": { "type": "literal" , "value": "Dominica" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1062" } ,
+        "country_label": { "type": "literal" , "value": "Dominican Republic" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1063" } ,
+        "country_label": { "type": "literal" , "value": "Ecuador" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1064" } ,
+        "country_label": { "type": "literal" , "value": "Egypt" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1065" } ,
+        "country_label": { "type": "literal" , "value": "El Salvador" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1066" } ,
+        "country_label": { "type": "literal" , "value": "Equatorial Guinea" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1067" } ,
+        "country_label": { "type": "literal" , "value": "Eritrea" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1068" } ,
+        "country_label": { "type": "literal" , "value": "Estonia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1069" } ,
+        "country_label": { "type": "literal" , "value": "Eswatini" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1070" } ,
+        "country_label": { "type": "literal" , "value": "Ethiopia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1073" } ,
+        "country_label": { "type": "literal" , "value": "Fiji Islands" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1074" } ,
+        "country_label": { "type": "literal" , "value": "Finland" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1075" } ,
+        "country_label": { "type": "literal" , "value": "France" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1079" } ,
+        "country_label": { "type": "literal" , "value": "Gabon" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1080" } ,
+        "country_label": { "type": "literal" , "value": "Gambia The" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1081" } ,
+        "country_label": { "type": "literal" , "value": "Georgia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1082" } ,
+        "country_label": { "type": "literal" , "value": "Germany" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1083" } ,
+        "country_label": { "type": "literal" , "value": "Ghana" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1085" } ,
+        "country_label": { "type": "literal" , "value": "Greece" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1087" } ,
+        "country_label": { "type": "literal" , "value": "Grenada" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1090" } ,
+        "country_label": { "type": "literal" , "value": "Guatemala" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1092" } ,
+        "country_label": { "type": "literal" , "value": "Guinea" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1093" } ,
+        "country_label": { "type": "literal" , "value": "Guinea-Bissau" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1094" } ,
+        "country_label": { "type": "literal" , "value": "Guyana" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1095" } ,
+        "country_label": { "type": "literal" , "value": "Haiti" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1097" } ,
+        "country_label": { "type": "literal" , "value": "Honduras" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1098" } ,
+        "country_label": { "type": "literal" , "value": "Hong Kong S.A.R." }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1099" } ,
+        "country_label": { "type": "literal" , "value": "Hungary" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1100" } ,
+        "country_label": { "type": "literal" , "value": "Iceland" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1101" } ,
+        "country_label": { "type": "literal" , "value": "India" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1102" } ,
+        "country_label": { "type": "literal" , "value": "Indonesia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1103" } ,
+        "country_label": { "type": "literal" , "value": "Iran" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1104" } ,
+        "country_label": { "type": "literal" , "value": "Iraq" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1105" } ,
+        "country_label": { "type": "literal" , "value": "Ireland" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1106" } ,
+        "country_label": { "type": "literal" , "value": "Israel" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1107" } ,
+        "country_label": { "type": "literal" , "value": "Italy" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1108" } ,
+        "country_label": { "type": "literal" , "value": "Jamaica" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1109" } ,
+        "country_label": { "type": "literal" , "value": "Japan" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1111" } ,
+        "country_label": { "type": "literal" , "value": "Jordan" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1112" } ,
+        "country_label": { "type": "literal" , "value": "Kazakhstan" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1113" } ,
+        "country_label": { "type": "literal" , "value": "Kenya" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1114" } ,
+        "country_label": { "type": "literal" , "value": "Kiribati" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1115" } ,
+        "country_label": { "type": "literal" , "value": "Kosovo" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1116" } ,
+        "country_label": { "type": "literal" , "value": "Kuwait" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1117" } ,
+        "country_label": { "type": "literal" , "value": "Kyrgyzstan" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1118" } ,
+        "country_label": { "type": "literal" , "value": "Laos" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1119" } ,
+        "country_label": { "type": "literal" , "value": "Latvia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1120" } ,
+        "country_label": { "type": "literal" , "value": "Lebanon" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1121" } ,
+        "country_label": { "type": "literal" , "value": "Lesotho" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1122" } ,
+        "country_label": { "type": "literal" , "value": "Liberia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1123" } ,
+        "country_label": { "type": "literal" , "value": "Libya" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1124" } ,
+        "country_label": { "type": "literal" , "value": "Liechtenstein" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1125" } ,
+        "country_label": { "type": "literal" , "value": "Lithuania" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1126" } ,
+        "country_label": { "type": "literal" , "value": "Luxembourg" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1128" } ,
+        "country_label": { "type": "literal" , "value": "Madagascar" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1129" } ,
+        "country_label": { "type": "literal" , "value": "Malawi" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1130" } ,
+        "country_label": { "type": "literal" , "value": "Malaysia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1131" } ,
+        "country_label": { "type": "literal" , "value": "Maldives" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1132" } ,
+        "country_label": { "type": "literal" , "value": "Mali" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1133" } ,
+        "country_label": { "type": "literal" , "value": "Malta" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1135" } ,
+        "country_label": { "type": "literal" , "value": "Marshall Islands" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1137" } ,
+        "country_label": { "type": "literal" , "value": "Mauritania" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1138" } ,
+        "country_label": { "type": "literal" , "value": "Mauritius" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1140" } ,
+        "country_label": { "type": "literal" , "value": "Mexico" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1141" } ,
+        "country_label": { "type": "literal" , "value": "Micronesia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1142" } ,
+        "country_label": { "type": "literal" , "value": "Moldova" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1143" } ,
+        "country_label": { "type": "literal" , "value": "Monaco" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1144" } ,
+        "country_label": { "type": "literal" , "value": "Mongolia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1145" } ,
+        "country_label": { "type": "literal" , "value": "Montenegro" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1147" } ,
+        "country_label": { "type": "literal" , "value": "Morocco" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1148" } ,
+        "country_label": { "type": "literal" , "value": "Mozambique" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1149" } ,
+        "country_label": { "type": "literal" , "value": "Myanmar" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1150" } ,
+        "country_label": { "type": "literal" , "value": "Namibia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1151" } ,
+        "country_label": { "type": "literal" , "value": "Nauru" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1152" } ,
+        "country_label": { "type": "literal" , "value": "Nepal" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1153" } ,
+        "country_label": { "type": "literal" , "value": "Netherlands" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1154" } ,
+        "country_label": { "type": "literal" , "value": "New Caledonia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1155" } ,
+        "country_label": { "type": "literal" , "value": "New Zealand" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1156" } ,
+        "country_label": { "type": "literal" , "value": "Nicaragua" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1157" } ,
+        "country_label": { "type": "literal" , "value": "Niger" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1158" } ,
+        "country_label": { "type": "literal" , "value": "Nigeria" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1161" } ,
+        "country_label": { "type": "literal" , "value": "North Korea" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1162" } ,
+        "country_label": { "type": "literal" , "value": "North Macedonia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1164" } ,
+        "country_label": { "type": "literal" , "value": "Norway" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1165" } ,
+        "country_label": { "type": "literal" , "value": "Oman" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1166" } ,
+        "country_label": { "type": "literal" , "value": "Pakistan" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1167" } ,
+        "country_label": { "type": "literal" , "value": "Palau" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1168" } ,
+        "country_label": { "type": "literal" , "value": "Palestinian Territory Occupied" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1169" } ,
+        "country_label": { "type": "literal" , "value": "Panama" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1170" } ,
+        "country_label": { "type": "literal" , "value": "Papua New Guinea" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1171" } ,
+        "country_label": { "type": "literal" , "value": "Paraguay" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1172" } ,
+        "country_label": { "type": "literal" , "value": "Peru" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1173" } ,
+        "country_label": { "type": "literal" , "value": "Philippines" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1175" } ,
+        "country_label": { "type": "literal" , "value": "Poland" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1176" } ,
+        "country_label": { "type": "literal" , "value": "Portugal" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1177" } ,
+        "country_label": { "type": "literal" , "value": "Puerto Rico" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1178" } ,
+        "country_label": { "type": "literal" , "value": "Qatar" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1180" } ,
+        "country_label": { "type": "literal" , "value": "Romania" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1181" } ,
+        "country_label": { "type": "literal" , "value": "Russia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1182" } ,
+        "country_label": { "type": "literal" , "value": "Rwanda" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1184" } ,
+        "country_label": { "type": "literal" , "value": "Saint Kitts and Nevis" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1185" } ,
+        "country_label": { "type": "literal" , "value": "Saint Lucia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1187" } ,
+        "country_label": { "type": "literal" , "value": "Saint Vincent and the Grenadines" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1190" } ,
+        "country_label": { "type": "literal" , "value": "Samoa" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1191" } ,
+        "country_label": { "type": "literal" , "value": "San Marino" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1192" } ,
+        "country_label": { "type": "literal" , "value": "Sao Tome and Principe" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1193" } ,
+        "country_label": { "type": "literal" , "value": "Saudi Arabia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1194" } ,
+        "country_label": { "type": "literal" , "value": "Senegal" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1195" } ,
+        "country_label": { "type": "literal" , "value": "Serbia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1196" } ,
+        "country_label": { "type": "literal" , "value": "Seychelles" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1197" } ,
+        "country_label": { "type": "literal" , "value": "Sierra Leone" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1198" } ,
+        "country_label": { "type": "literal" , "value": "Singapore" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1200" } ,
+        "country_label": { "type": "literal" , "value": "Slovakia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1201" } ,
+        "country_label": { "type": "literal" , "value": "Slovenia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1202" } ,
+        "country_label": { "type": "literal" , "value": "Solomon Islands" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1203" } ,
+        "country_label": { "type": "literal" , "value": "Somalia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1204" } ,
+        "country_label": { "type": "literal" , "value": "South Africa" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1206" } ,
+        "country_label": { "type": "literal" , "value": "South Korea" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1207" } ,
+        "country_label": { "type": "literal" , "value": "South Sudan" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1208" } ,
+        "country_label": { "type": "literal" , "value": "Spain" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1209" } ,
+        "country_label": { "type": "literal" , "value": "Sri Lanka" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1210" } ,
+        "country_label": { "type": "literal" , "value": "Sudan" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1211" } ,
+        "country_label": { "type": "literal" , "value": "Suriname" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1213" } ,
+        "country_label": { "type": "literal" , "value": "Sweden" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1214" } ,
+        "country_label": { "type": "literal" , "value": "Switzerland" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1215" } ,
+        "country_label": { "type": "literal" , "value": "Syria" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1216" } ,
+        "country_label": { "type": "literal" , "value": "Taiwan" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1217" } ,
+        "country_label": { "type": "literal" , "value": "Tajikistan" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1218" } ,
+        "country_label": { "type": "literal" , "value": "Tanzania" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1219" } ,
+        "country_label": { "type": "literal" , "value": "Thailand" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1220" } ,
+        "country_label": { "type": "literal" , "value": "The Bahamas" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1221" } ,
+        "country_label": { "type": "literal" , "value": "Timor-Leste" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1222" } ,
+        "country_label": { "type": "literal" , "value": "Togo" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1224" } ,
+        "country_label": { "type": "literal" , "value": "Tonga" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1225" } ,
+        "country_label": { "type": "literal" , "value": "Trinidad and Tobago" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1226" } ,
+        "country_label": { "type": "literal" , "value": "Tunisia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1227" } ,
+        "country_label": { "type": "literal" , "value": "Turkey" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1228" } ,
+        "country_label": { "type": "literal" , "value": "Turkmenistan" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1230" } ,
+        "country_label": { "type": "literal" , "value": "Tuvalu" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1231" } ,
+        "country_label": { "type": "literal" , "value": "Uganda" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1232" } ,
+        "country_label": { "type": "literal" , "value": "Ukraine" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1233" } ,
+        "country_label": { "type": "literal" , "value": "United Arab Emirates" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1234" } ,
+        "country_label": { "type": "literal" , "value": "United Kingdom" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1235" } ,
+        "country_label": { "type": "literal" , "value": "United States" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1236" } ,
+        "country_label": { "type": "literal" , "value": "United States Minor Outlying Islands" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1237" } ,
+        "country_label": { "type": "literal" , "value": "Uruguay" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1238" } ,
+        "country_label": { "type": "literal" , "value": "Uzbekistan" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1239" } ,
+        "country_label": { "type": "literal" , "value": "Vanuatu" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1241" } ,
+        "country_label": { "type": "literal" , "value": "Venezuela" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1242" } ,
+        "country_label": { "type": "literal" , "value": "Vietnam" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1244" } ,
+        "country_label": { "type": "literal" , "value": "Virgin Islands (US)" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1247" } ,
+        "country_label": { "type": "literal" , "value": "Yemen" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1248" } ,
+        "country_label": { "type": "literal" , "value": "Zambia" }
+      } ,
+      { 
+        "qid": { "type": "literal" , "value": "Q1249" } ,
+        "country_label": { "type": "literal" , "value": "Zimbabwe" }
+      }
+    ]
+  }
+}

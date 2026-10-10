@@ -1,0 +1,11 @@
+{
+  "id": "p6-n2-typed-counts",
+  "sent_at": "2026-10-08T00:51:53.499842+00:00",
+  "http_status": 200,
+  "elapsed_ms": 38061,
+  "bytes": 542,
+  "curl_exit": 0,
+  "row_count": 2,
+  "truncated_by_limit": false,
+  "error": null
+}

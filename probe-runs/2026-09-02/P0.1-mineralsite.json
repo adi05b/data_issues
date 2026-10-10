@@ -1,0 +1,93 @@
+{ "head": {
+    "vars": [ "p" , "n" , "subjects" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/mineral_inventory" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1379833" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "652827" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "679781" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "679781" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/created_by" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "679781" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "679781" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/modified_at" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "679781" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "679781" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/record_id" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "679781" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "679781" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/reference" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "679781" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "679781" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/source_id" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "679781" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "679781" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/location_info" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "451527" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "451527" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "http://www.w3.org/2000/01/rdf-schema#label" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "438655" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "438655" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/deposit_type_candidate" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "373865" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "255764" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/site_type" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "340128" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "340128" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "http://www.w3.org/2002/07/owl#sameAs" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "260654" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "198118" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/site_rank" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "175130" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "175130" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/aliases" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "142965" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "72287" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/mineral_form" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "131248" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "42970" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/geology_info" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "38442" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "38442" }
+      } ,
+      { 
+        "p": { "type": "uri" , "value": "https://minmod.isi.edu/ontology/discovered_year" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10933" } ,
+        "subjects": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "10933" }
+      }
+    ]
+  }
+}

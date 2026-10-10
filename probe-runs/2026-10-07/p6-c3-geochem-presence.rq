@@ -1,0 +1,6 @@
+# Is the GeoChem extension (samples/elements) loaded in this store at all?
+PREFIX mo: <https://minmod.isi.edu/ontology/>
+PREFIX gco: <https://geochemistry.isi.edu/ontology/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT (COUNT(*) AS ?n) WHERE { ?e gco:grade ?g }

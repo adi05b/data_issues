@@ -1,0 +1,8 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?state_src (COUNT(DISTINCT ?site) AS ?sites)
+WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :state_or_province ?sc .
+  ?sc :source ?state_src .
+}
+GROUP BY ?state_src ORDER BY DESC(?sites)

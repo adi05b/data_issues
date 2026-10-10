@@ -1,0 +1,20 @@
+{ "head": {
+    "vars": [ "site" , "label" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10228202__umn" } ,
+        "label": { "type": "literal" , "value": "Pay Off-Harts Draw" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-mrds__10078772__umn" } ,
+        "label": { "type": "literal" , "value": "Harts Draw Deposits" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-34191-ofr-757__0__umn" } ,
+        "label": { "type": "literal" , "value": "Harts Draw Deposits" }
+      }
+    ]
+  }
+}

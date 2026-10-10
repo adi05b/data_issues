@@ -1,0 +1,11 @@
+{
+  "id": "A2.4b-unmatched-total",
+  "sent_at": "2026-09-03T00:00:48.221295+00:00",
+  "http_status": 200,
+  "elapsed_ms": 14126,
+  "bytes": 729,
+  "curl_exit": 0,
+  "row_count": 3,
+  "truncated_by_limit": false,
+  "error": null
+}

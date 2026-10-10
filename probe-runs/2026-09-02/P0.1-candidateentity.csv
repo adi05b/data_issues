@@ -1,0 +1,6 @@
+_site,p,p_bound,n,n_bound,subjects,subjects_bound
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,1,3407081,1,3407081,1
+https://minmod.isi.edu/ontology/confidence,https://minmod.isi.edu/ontology/confidence,1,3407081,1,3407081,1
+https://minmod.isi.edu/ontology/source,https://minmod.isi.edu/ontology/source,1,3407081,1,3407081,1
+https://minmod.isi.edu/ontology/observed_name,https://minmod.isi.edu/ontology/observed_name,1,3366629,1,3366629,1
+https://minmod.isi.edu/ontology/normalized_uri,https://minmod.isi.edu/ontology/normalized_uri,1,3182495,1,3182495,1

@@ -1,0 +1,16 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?source ?matcher (COUNT(DISTINCT ?site) AS ?affected)
+WHERE {
+  ?site a :MineralSite ; :source_id ?source ; :location_info ?li .
+  ?li :state_or_province ?sc ; :country ?cc .
+  ?sc :normalized_uri ?state_ent .
+  ?cc :normalized_uri ?country_ent .
+  ?state_ent :country ?scr .
+  BIND(REPLACE(STR(?scr), "^.*/", "") AS ?a)
+  BIND(REPLACE(STR(?country_ent), "^.*/", "") AS ?b)
+  FILTER(?a != ?b)
+  ?sc :source ?matcher .
+}
+GROUP BY ?source ?matcher ORDER BY DESC(?affected)

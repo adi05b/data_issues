@@ -1,0 +1,11 @@
+{
+  "id": "p5-s4-single-char",
+  "sent_at": "2026-09-22T03:17:00.965752+00:00",
+  "http_status": 200,
+  "elapsed_ms": 22945,
+  "bytes": 57262,
+  "curl_exit": 0,
+  "row_count": 116,
+  "truncated_by_limit": false,
+  "error": null
+}

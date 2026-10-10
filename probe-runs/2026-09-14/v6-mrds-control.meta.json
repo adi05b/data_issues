@@ -1,0 +1,11 @@
+{
+  "id": "v6-mrds-control",
+  "sent_at": "2026-09-15T06:25:55.427980+00:00",
+  "http_status": 200,
+  "elapsed_ms": 9725,
+  "bytes": 4838411,
+  "curl_exit": 0,
+  "row_count": 20000,
+  "truncated_by_limit": true,
+  "error": null
+}

@@ -1,0 +1,66 @@
+{ "head": {
+    "vars": [ "site" , "state_obs" , "state_ent" , "state_label" , "state_cty" , "country_obs" , "country_ent" , "country_label" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-phosphate__95__umn" } ,
+        "state_obs": { "type": "literal" , "value": "Queensland" } ,
+        "state_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q2209" } ,
+        "state_label": { "type": "literal" , "value": "Queensland" } ,
+        "state_cty": { "type": "literal" , "value": "Q1013" } ,
+        "country_obs": { "type": "literal" , "value": "Australia" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1013" } ,
+        "country_label": { "type": "literal" , "value": "Australia" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-phosphate__1__umn" } ,
+        "state_obs": { "type": "literal" , "value": "Helmand" } ,
+        "state_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q2011" } ,
+        "state_label": { "type": "literal" , "value": "Helmand" } ,
+        "state_cty": { "type": "literal" , "value": "Q1000" } ,
+        "country_obs": { "type": "literal" , "value": "Afghanistan" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1000" } ,
+        "country_label": { "type": "literal" , "value": "Afghanistan" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__api-cdr-land-v1-docs-documents__0283468d8e32eb2151b91e8f29b005238f1438c1258edddbc4f40471ae044bb892__inferlink" } ,
+        "state_obs": { "type": "literal" , "value": "British Columbia" } ,
+        "state_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q2654" } ,
+        "state_label": { "type": "literal" , "value": "British Columbia" } ,
+        "state_cty": { "type": "literal" , "value": "Q1038" } ,
+        "country_obs": { "type": "literal" , "value": "Canada" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1038" } ,
+        "country_label": { "type": "literal" , "value": "Canada" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-phosphate__1210__umn" } ,
+        "state_obs": { "type": "literal" , "value": "Roi Et" } ,
+        "state_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q6210" } ,
+        "state_label": { "type": "literal" , "value": "Roi Et" } ,
+        "state_cty": { "type": "literal" , "value": "Q1219" } ,
+        "country_obs": { "type": "literal" , "value": "Thailand" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1219" } ,
+        "country_label": { "type": "literal" , "value": "Thailand" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__doi-org-10-5066-p96mmrfd__md055__umn" } ,
+        "state_obs": { "type": "literal" , "value": "Alaska" } ,
+        "state_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q6840" } ,
+        "state_label": { "type": "literal" , "value": "Alaska" } ,
+        "state_cty": { "type": "literal" , "value": "Q1235" } ,
+        "country_obs": { "type": "literal" , "value": "United States" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1235" } ,
+        "country_label": { "type": "literal" , "value": "United States" }
+      } ,
+      { 
+        "site": { "type": "uri" , "value": "https://minmod.isi.edu/resource/site__mrdata-usgs-gov-sedznpb__493__umn" } ,
+        "state_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q6840" } ,
+        "state_label": { "type": "literal" , "value": "Alaska" } ,
+        "state_cty": { "type": "literal" , "value": "Q1235" } ,
+        "country_ent": { "type": "uri" , "value": "https://minmod.isi.edu/resource/Q1235" } ,
+        "country_label": { "type": "literal" , "value": "United States" }
+      }
+    ]
+  }
+}

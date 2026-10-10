@@ -1,0 +1,12 @@
+{ "head": {
+    "vars": [ "dt" , "n" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "dt": { "type": "uri" , "value": "http://www.w3.org/2001/XMLSchema#string" } ,
+        "n": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "446426" }
+      }
+    ]
+  }
+}

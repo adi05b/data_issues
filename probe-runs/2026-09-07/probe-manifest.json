@@ -1,0 +1,189 @@
+[
+  {
+    "id": "1.1-alt-country-side-full",
+    "sent_at": "2026-09-08T06:12:44.024994+00:00",
+    "http_status": 200,
+    "elapsed_ms": 8339,
+    "bytes": 145516,
+    "curl_exit": 0,
+    "row_count": 358,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "1.1-conflict-observed",
+    "sent_at": "2026-09-08T06:06:58.686447+00:00",
+    "http_status": 200,
+    "elapsed_ms": 9867,
+    "bytes": 145516,
+    "curl_exit": 0,
+    "row_count": 358,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "1.1-country-side",
+    "sent_at": "2026-09-08T06:12:35.268503+00:00",
+    "http_status": 200,
+    "elapsed_ms": 8714,
+    "bytes": 81032,
+    "curl_exit": 0,
+    "row_count": 200,
+    "truncated_by_limit": true,
+    "error": null
+  },
+  {
+    "id": "1.1b-countrywide-verify",
+    "sent_at": "2026-09-08T06:08:25.613952+00:00",
+    "http_status": 200,
+    "elapsed_ms": 1467,
+    "bytes": 25555,
+    "curl_exit": 0,
+    "row_count": 50,
+    "truncated_by_limit": true,
+    "error": null
+  },
+  {
+    "id": "1.2a-conflicts-by-matcher",
+    "sent_at": "2026-09-08T06:14:10.460982+00:00",
+    "http_status": 200,
+    "elapsed_ms": 9424,
+    "bytes": 1361,
+    "curl_exit": 0,
+    "row_count": 6,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "1.2b-all-state-candidates-by-matcher",
+    "sent_at": "2026-09-08T06:14:19.926961+00:00",
+    "http_status": 200,
+    "elapsed_ms": 7281,
+    "bytes": 2281,
+    "curl_exit": 0,
+    "row_count": 10,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "1.2c-nevermatched-by-matcher",
+    "sent_at": "2026-09-08T06:14:27.249651+00:00",
+    "http_status": 200,
+    "elapsed_ms": 5626,
+    "bytes": 735,
+    "curl_exit": 0,
+    "row_count": 3,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "1.2d-normalized-by-matcher",
+    "sent_at": "2026-09-08T06:14:32.915272+00:00",
+    "http_status": 200,
+    "elapsed_ms": 6029,
+    "bytes": 2281,
+    "curl_exit": 0,
+    "row_count": 10,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "1.3-conflicts-sitelevel",
+    "sent_at": "2026-09-08T06:15:20.316615+00:00",
+    "http_status": 200,
+    "elapsed_ms": 9929,
+    "bytes": 5135676,
+    "curl_exit": 0,
+    "row_count": 6159,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "1.4a-lat-dp-4326",
+    "sent_at": "2026-09-08T06:17:42.592173+00:00",
+    "http_status": 200,
+    "elapsed_ms": 13421,
+    "bytes": 9105,
+    "curl_exit": 0,
+    "row_count": 27,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "1.4b-lon-dp-4326",
+    "sent_at": "2026-09-08T06:17:56.050515+00:00",
+    "http_status": 200,
+    "elapsed_ms": 9738,
+    "bytes": 10094,
+    "curl_exit": 0,
+    "row_count": 30,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "1.4c-source-totals-4326",
+    "sent_at": "2026-09-08T06:18:05.831227+00:00",
+    "http_status": 200,
+    "elapsed_ms": 8996,
+    "bytes": 7503,
+    "curl_exit": 0,
+    "row_count": 33,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "1.6-gap-histogram",
+    "sent_at": "2026-09-08T06:18:48.745823+00:00",
+    "http_status": 200,
+    "elapsed_ms": 9046,
+    "bytes": 3499,
+    "curl_exit": 0,
+    "row_count": 14,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "1.6b-largest-gap-records",
+    "sent_at": "2026-09-08T06:19:15.295193+00:00",
+    "http_status": 200,
+    "elapsed_ms": 10751,
+    "bytes": 8798,
+    "curl_exit": 0,
+    "row_count": 12,
+    "truncated_by_limit": true,
+    "error": null
+  },
+  {
+    "id": "1.6c-gap3plus-sample",
+    "sent_at": "2026-09-08T06:20:31.497873+00:00",
+    "http_status": 200,
+    "elapsed_ms": 2028,
+    "bytes": 119806,
+    "curl_exit": 0,
+    "row_count": 400,
+    "truncated_by_limit": true,
+    "error": null
+  },
+  {
+    "id": "1.6d-coarse-lat0-sample",
+    "sent_at": "2026-09-08T06:20:33.567769+00:00",
+    "http_status": 200,
+    "elapsed_ms": 8506,
+    "bytes": 71663,
+    "curl_exit": 0,
+    "row_count": 400,
+    "truncated_by_limit": true,
+    "error": null
+  },
+  {
+    "id": "_smoke",
+    "sent_at": "2026-09-08T06:12:11.269786+00:00",
+    "http_status": 200,
+    "elapsed_ms": 177,
+    "bytes": 41,
+    "curl_exit": 0,
+    "row_count": "ASK=True",
+    "truncated_by_limit": null,
+    "error": null
+  }
+]

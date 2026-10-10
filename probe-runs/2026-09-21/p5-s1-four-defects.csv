@@ -1,0 +1,15 @@
+obs,src,conf,matcher,label,records
+Construction,https://mrdata.usgs.gov/mrds,0.5453337996531422,UMN Matching System-ProcMinev2,Strontium,46221
+SC,http://www.oregongeology.org,1.0,UMN Matching System v1,Scandium,7076
+Construction,https://doi.org/10.5066/P9HTERGK,0.001,UMN Matching System v1,,2503
+S,http://www.oregongeology.org,1.0,UMN Matching System v1,Sulfur,2349
+Construc,https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,0.5368033988749895,UMN Matching System-ProcMinev2,Cobalt,980
+S,https://mrdata.usgs.gov/nicrpge,0.9,UMN Matching System v1,,229
+S,https://mrdata.usgs.gov/nicrpge,1.0,SRI database agent v0,,210
+S,https://mrdata.usgs.gov/major-deposits,1.0,UMN Matching System v1,Sulfur,35
+S,https://doi.org/10.5066/P96MMRFD,1.0,UMN Matching System v1,Sulfur,7
+S,https://doi.org/10.34191/OFR-757,1.0,UMN Matching System v1,Sulfur,6
+S,https://mrdata.usgs.gov/potash,1.0,SRI database agent v0,,5
+S,https://mrdata.usgs.gov/potash,1.0,UMN Matching System v1,Sulfur,5
+S,https://mrdata.usgs.gov/sir20105090z,0.9,UMN Exact Match v1,Sulfur,1
+S,https://doi.org/10.5066/P96MMRFD,1.0,SRI database agent v0,,1

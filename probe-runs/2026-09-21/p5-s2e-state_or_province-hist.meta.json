@@ -1,0 +1,11 @@
+{
+  "id": "p5-s2e-state_or_province-hist",
+  "sent_at": "2026-09-22T03:21:22.895803+00:00",
+  "http_status": 200,
+  "elapsed_ms": 6998,
+  "bytes": 4879,
+  "curl_exit": 0,
+  "row_count": 13,
+  "truncated_by_limit": false,
+  "error": null
+}

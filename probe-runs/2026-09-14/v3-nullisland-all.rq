@@ -1,0 +1,27 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?site ?record_id ?label ?created_by ?modified_at ?wkt ?crs_label ?crs_obs
+       ?country_obs ?state_obs ?ref ?doc ?doc_uri ?doc_title
+WHERE {
+  ?site a :MineralSite ; :source_id "https://api.cdr.land/v1/docs/documents" ; :location_info ?li .
+  ?li :location ?wkt .
+  BIND(REPLACE(STR(?wkt), "^[A-Z]*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$1") AS ?lons)
+  BIND(REPLACE(STR(?wkt), "^[A-Z]*POINT\\s*\\(\\s*([-+0-9.eE]+)\\s+([-+0-9.eE]+)\\s*\\).*$", "$2") AS ?lats)
+  FILTER(xsd:double(?lons) = 0.0 && xsd:double(?lats) = 0.0)
+  OPTIONAL { ?site :record_id ?record_id }
+  OPTIONAL { ?site rdfs:label ?label }
+  OPTIONAL { ?site :created_by ?created_by }
+  OPTIONAL { ?site :modified_at ?modified_at }
+  OPTIONAL { ?li :crs ?c .
+             OPTIONAL { ?c :observed_name ?crs_obs }
+             OPTIONAL { ?c :normalized_uri ?ce . ?ce rdfs:label ?crs_label } }
+  OPTIONAL { ?li :country ?cc . ?cc :observed_name ?country_obs }
+  OPTIONAL { ?li :state_or_province ?sc . ?sc :observed_name ?state_obs }
+  OPTIONAL { ?site :reference ?ref .
+             OPTIONAL { ?ref :document ?doc .
+                        OPTIONAL { ?doc :uri ?doc_uri }
+                        OPTIONAL { ?doc :title ?doc_title } } }
+}
+ORDER BY ?site

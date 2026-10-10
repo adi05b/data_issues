@@ -1,0 +1,4 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?p (COUNT(*) AS ?n) (COUNT(DISTINCT ?s) AS ?subjects)
+WHERE { ?s a :MineralSite ; ?p ?o }
+GROUP BY ?p ORDER BY DESC(?n)

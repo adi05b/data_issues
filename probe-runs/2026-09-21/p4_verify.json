@@ -1,0 +1,39 @@
+{
+ "grids_absent": {
+  "op": "NAD27 to WGS 84 (3) (with axis order normalized for visualization)",
+  "accuracy": 20.0,
+  "declined": 24,
+  "declined_ids": [
+   "GI001",
+   "SL004",
+   "SL005",
+   "SL006",
+   "SL003",
+   "SL009",
+   "SL011",
+   "SL002",
+   "SL008",
+   "SL010",
+   "SL001",
+   "SL007",
+   "SL012",
+   "SL013",
+   "SL014",
+   "SL015",
+   "SL016",
+   "SL017",
+   "SL018",
+   "SL019",
+   "SL020",
+   "SL021",
+   "SL022",
+   "SL023"
+  ]
+ },
+ "grids_present": {
+  "op": "NAD27 to WGS 84 (33) (with axis order normalized for visualization)",
+  "accuracy": 2.0,
+  "declined": 0,
+  "declined_ids": []
+ }
+}

@@ -1,0 +1,729 @@
+{
+  "4267": {
+    "name": "NAD27",
+    "rows": [
+      {
+        "in_lon": -179,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -179.0,
+          60.0
+        ],
+        "fix_out": [
+          -179.0,
+          60.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -170,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -170.0,
+          60.0
+        ],
+        "fix_out": [
+          -170.0,
+          60.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -160,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -160.0,
+          60.0
+        ],
+        "fix_out": [
+          -160.00230403710353,
+          59.999241808755436
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -150,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -150.0,
+          60.0
+        ],
+        "fix_out": [
+          -150.00213998464335,
+          59.99941045349415
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -140,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -140.0,
+          60.0
+        ],
+        "fix_out": [
+          -140.00198885821624,
+          59.99961264654504
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -130,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -130.0,
+          60.0
+        ],
+        "fix_out": [
+          -130.0017766855153,
+          59.99995799897261
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -120,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -120.0,
+          45.0
+        ],
+        "fix_out": [
+          -120.00109615319572,
+          44.999823350280245
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -110,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -110.0,
+          45.0
+        ],
+        "fix_out": [
+          -110.00078505277386,
+          44.99990592226618
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -100,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -100.0,
+          45.0
+        ],
+        "fix_out": [
+          -100.00045009662082,
+          44.99996013694773
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -95,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -95.0,
+          45.0
+        ],
+        "fix_out": [
+          -95.00027683341243,
+          44.999976060201185
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -91,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -91.0,
+          45.0
+        ],
+        "fix_out": [
+          -91.00013664181955,
+          44.99998330421975
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -90.5,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -90.5,
+          45.0
+        ],
+        "fix_out": [
+          -90.50011905700084,
+          44.999983863971096
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -90,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -90.0,
+          45.0
+        ],
+        "fix_out": [
+          -90.00010146311452,
+          44.9999843467126
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -89.5,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -89.5,
+          45.0
+        ],
+        "fix_out": [
+          -89.50008375084143,
+          44.9999974777966
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -89,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -89.0,
+          45.0
+        ],
+        "fix_out": [
+          -89.00006603216723,
+          44.999997805687286
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -85,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -85.0,
+          45.0
+        ],
+        "fix_out": [
+          -84.99992421513635,
+          44.99999763482157
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -80,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -80.0,
+          45.0
+        ],
+        "fix_out": [
+          -79.99974754396543,
+          44.99999044476705
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -70,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -70.0,
+          45.0
+        ],
+        "fix_out": [
+          -69.99956814791312,
+          45.000072631547106
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -60,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -60.0,
+          60.0
+        ],
+        "fix_out": [
+          -59.998907743349136,
+          60.00016280284882
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -50,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -50.0,
+          60.0
+        ],
+        "fix_out": [
+          -49.998317202718944,
+          59.999977536739515
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": 172,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          172.0,
+          60.0
+        ],
+        "fix_out": [
+          172.0,
+          60.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      }
+    ]
+  },
+  "4269": {
+    "name": "NAD83",
+    "rows": [
+      {
+        "in_lon": -179,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -179.0,
+          60.0
+        ],
+        "fix_out": [
+          -179.0,
+          60.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -170,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -170.0,
+          60.0
+        ],
+        "fix_out": [
+          -170.0,
+          60.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -160,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -160.0,
+          60.0
+        ],
+        "fix_out": [
+          -160.0,
+          60.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -150,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -150.0,
+          60.0
+        ],
+        "fix_out": [
+          -150.0,
+          60.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -140,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -140.0,
+          60.0
+        ],
+        "fix_out": [
+          -140.0,
+          60.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -130,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -130.0,
+          60.0
+        ],
+        "fix_out": [
+          -130.0,
+          60.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -120,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -120.0,
+          45.0
+        ],
+        "fix_out": [
+          -120.0,
+          45.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -110,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -110.0,
+          45.0
+        ],
+        "fix_out": [
+          -110.0,
+          45.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -100,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -100.0,
+          45.0
+        ],
+        "fix_out": [
+          -100.0,
+          45.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -95,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -95.0,
+          45.0
+        ],
+        "fix_out": [
+          -95.0,
+          45.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -91,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -91.0,
+          45.0
+        ],
+        "fix_out": [
+          -91.0,
+          45.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -90.5,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          -90.5,
+          45.0
+        ],
+        "fix_out": [
+          -90.5,
+          45.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -90,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -90.0,
+          45.0
+        ],
+        "fix_out": [
+          -90.0,
+          45.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -89.5,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -89.5,
+          45.0
+        ],
+        "fix_out": [
+          -89.5,
+          45.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -89,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -89.0,
+          45.0
+        ],
+        "fix_out": [
+          -89.0,
+          45.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -85,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -85.0,
+          45.0
+        ],
+        "fix_out": [
+          -85.0,
+          45.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -80,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -80.0,
+          45.0
+        ],
+        "fix_out": [
+          -80.0,
+          45.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -70,
+        "in_lat": 45.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -70.0,
+          45.0
+        ],
+        "fix_out": [
+          -70.0,
+          45.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -60,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -60.0,
+          60.0
+        ],
+        "fix_out": [
+          -60.0,
+          60.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": -50,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": false,
+        "bug_out": [
+          -50.0,
+          60.0
+        ],
+        "fix_out": [
+          -50.0,
+          60.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      },
+      {
+        "in_lon": 172,
+        "in_lat": 60.0,
+        "abs_lon_gt_90": true,
+        "bug_out": [
+          172.0,
+          60.0
+        ],
+        "fix_out": [
+          172.0,
+          60.0
+        ],
+        "noop": true,
+        "bug_nonfinite": false
+      }
+    ]
+  },
+  "discriminating": [
+    {
+      "epsg": 4267,
+      "name": "NAD27",
+      "in_lon": -80.0,
+      "in_lat": 35.0,
+      "abs_lon_le_90": true,
+      "bug_out": [
+        -80.0,
+        35.0
+      ],
+      "fix_out": [
+        -79.99978194993851,
+        35.00010851121537
+      ],
+      "noop": true,
+      "bug_equals_swapped_fix": false
+    },
+    {
+      "epsg": 4267,
+      "name": "NAD27",
+      "in_lon": -45.0,
+      "in_lat": 20.0,
+      "abs_lon_le_90": true,
+      "bug_out": [
+        -45.0,
+        20.0
+      ],
+      "fix_out": [
+        -45.0,
+        20.0
+      ],
+      "noop": true,
+      "bug_equals_swapped_fix": false
+    },
+    {
+      "epsg": 4269,
+      "name": "NAD83",
+      "in_lon": -80.0,
+      "in_lat": 35.0,
+      "abs_lon_le_90": true,
+      "bug_out": [
+        -80.0,
+        35.0
+      ],
+      "fix_out": [
+        -80.0,
+        35.0
+      ],
+      "noop": true,
+      "bug_equals_swapped_fix": false
+    },
+    {
+      "epsg": 4275,
+      "name": "NTF",
+      "in_lon": 2.4,
+      "in_lat": 46.2,
+      "abs_lon_le_90": true,
+      "bug_out": [
+        2.4026882407782515,
+        46.200716830822074
+      ],
+      "fix_out": [
+        2.399314468726515,
+        46.19995675175757
+      ],
+      "noop": false,
+      "bug_equals_swapped_fix": false
+    },
+    {
+      "epsg": 4301,
+      "name": "Tokyo",
+      "in_lon": 139.7,
+      "in_lat": 35.7,
+      "abs_lon_le_90": false,
+      "bug_out": [
+        Infinity,
+        Infinity
+      ],
+      "fix_out": [
+        139.69677095938636,
+        35.703234968378325
+      ],
+      "noop": false,
+      "bug_equals_swapped_fix": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+SELECT (COUNT(DISTINCT ?o) AS ?obj_total)
+       (COUNT(DISTINCT ?o2) AS ?obj_with_loc)
+       (COUNT(DISTINCT ?o3) AS ?obj_is_mineralsite)
+WHERE {
+  { ?s a :MineralSite ; owl:sameAs ?o }
+  UNION { ?s2 a :MineralSite ; owl:sameAs ?o2 . ?o2 :location_info/:location [] }
+  UNION { ?s3 a :MineralSite ; owl:sameAs ?o3 . ?o3 a :MineralSite }
+}

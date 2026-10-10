@@ -1,0 +1,7 @@
+4986 groups (32 with an expert/curator record), 41214 triples
+  row2_two_plus_with_coordinate    sparql    616  python    616  ok
+  row2a_top_is_expert              sparql     23  python     23  ok
+  row3_top_score_tied              sparql    470  python    470  ok
+  row3_same_source                 sparql    450  python    450  ok
+  row3_different_sources           sparql     20  python     20  ok
+  row1_two_plus_members            sparql   4985  python   4985  ok

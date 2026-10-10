@@ -1,0 +1,11 @@
+{
+  "id": "p3.1c-popC-by-source",
+  "sent_at": "2026-09-14T20:38:38.629168+00:00",
+  "http_status": 200,
+  "elapsed_ms": 9695,
+  "bytes": 327,
+  "curl_exit": 0,
+  "row_count": 1,
+  "truncated_by_limit": false,
+  "error": null
+}

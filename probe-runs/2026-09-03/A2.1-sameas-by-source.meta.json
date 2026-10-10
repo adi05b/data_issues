@@ -1,0 +1,11 @@
+{
+  "id": "A2.1-sameas-by-source",
+  "sent_at": "2026-09-02T23:54:19.043724+00:00",
+  "http_status": 200,
+  "elapsed_ms": 11080,
+  "bytes": 16894,
+  "curl_exit": 0,
+  "row_count": 48,
+  "truncated_by_limit": false,
+  "error": null
+}

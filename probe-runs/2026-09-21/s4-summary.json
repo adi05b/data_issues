@@ -1,0 +1,168 @@
+{
+  "records": 7720,
+  "current_code_noop_count": 7720,
+  "current_code_noop_pct": 100.0,
+  "fix_declined_count": 24,
+  "fix_moved_count": 7696,
+  "fix_nonfinite_count": 0,
+  "shift_m_over_moved_only": {
+    "min": 99.7632337977834,
+    "p5": 104.85048944284307,
+    "p25": 120.08650856780515,
+    "median": 129.6159955574435,
+    "p75": 142.30657286934894,
+    "p95": 156.60780435729674,
+    "max": 273.83192723240575
+  },
+  "shift_m_over_all_7720": {
+    "min": 0.0,
+    "median": 129.5698309947398,
+    "max": 273.83192723240575
+  },
+  "declined_records": [
+    {
+      "record_id": "GI001",
+      "label": "Unnamed (on Gareloi Island)",
+      "stored_lon": -178.77,
+      "stored_lat": 51.76
+    },
+    {
+      "record_id": "SL001",
+      "label": "Tiflighak Bay",
+      "stored_lon": -171.65,
+      "stored_lat": 63.76
+    },
+    {
+      "record_id": "SL002",
+      "label": "Ikoygak Creek",
+      "stored_lon": -171.66,
+      "stored_lat": 63.68
+    },
+    {
+      "record_id": "SL003",
+      "label": "Kangik River",
+      "stored_lon": -171.72,
+      "stored_lat": 63.57
+    },
+    {
+      "record_id": "SL004",
+      "label": "Booshu Camp",
+      "stored_lon": -171.823,
+      "stored_lat": 63.458
+    },
+    {
+      "record_id": "SL005",
+      "label": "Unnamed",
+      "stored_lon": -171.81,
+      "stored_lat": 63.48
+    },
+    {
+      "record_id": "SL006",
+      "label": "Moghoweyik River",
+      "stored_lon": -171.742,
+      "stored_lat": 63.469
+    },
+    {
+      "record_id": "SL007",
+      "label": "Ikalooksik River",
+      "stored_lon": -171.5,
+      "stored_lat": 63.54
+    },
+    {
+      "record_id": "SL008",
+      "label": "Poovookpuk Mountain",
+      "stored_lon": -171.53,
+      "stored_lat": 63.45
+    },
+    {
+      "record_id": "SL009",
+      "label": "Moghoweyik R.; Upper",
+      "stored_lon": -171.61,
+      "stored_lat": 63.45
+    },
+    {
+      "record_id": "SL010",
+      "label": "Unnamed",
+      "stored_lon": -171.51,
+      "stored_lat": 63.43
+    },
+    {
+      "record_id": "SL011",
+      "label": "Boxer River",
+      "stored_lon": -171.54,
+      "stored_lat": 63.37
+    },
+    {
+      "record_id": "SL012",
+      "label": "Okok River",
+      "stored_lon": -171.4,
+      "stored_lat": 63.37
+    },
+    {
+      "record_id": "SL013",
+      "label": "Unnamed",
+      "stored_lon": -171.371,
+      "stored_lat": 63.331
+    },
+    {
+      "record_id": "SL014",
+      "label": "Powooiliak Point",
+      "stored_lon": -171.296,
+      "stored_lat": 63.365
+    },
+    {
+      "record_id": "SL015",
+      "label": "Unnamed",
+      "stored_lon": -171.21,
+      "stored_lat": 63.42
+    },
+    {
+      "record_id": "SL016",
+      "label": "Unnamed",
+      "stored_lon": -171.12,
+      "stored_lat": 63.44
+    },
+    {
+      "record_id": "SL017",
+      "label": "Unnamed",
+      "stored_lon": -171.04,
+      "stored_lat": 63.53
+    },
+    {
+      "record_id": "SL018",
+      "label": "Unnamed",
+      "stored_lon": -170.19,
+      "stored_lat": 63.28
+    },
+    {
+      "record_id": "SL019",
+      "label": "Ongoveyuk River",
+      "stored_lon": -169.86,
+      "stored_lat": 63.39
+    },
+    {
+      "record_id": "SL020",
+      "label": "Unnamed",
+      "stored_lon": -169.81,
+      "stored_lat": 63.37
+    },
+    {
+      "record_id": "SL021",
+      "label": "Myghapowit Mountain",
+      "stored_lon": -169.59,
+      "stored_lat": 63.22
+    },
+    {
+      "record_id": "SL022",
+      "label": "Kangukhsam Mountain",
+      "stored_lon": -168.95,
+      "stored_lat": 63.29
+    },
+    {
+      "record_id": "SL023",
+      "label": "Tapisaghak River",
+      "stored_lon": -168.91,
+      "stored_lat": 63.27
+    }
+  ]
+}

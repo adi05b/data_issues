@@ -1,0 +1,12 @@
+{ "head": {
+    "vars": [ "nodes" , "sites" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "nodes": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7720" } ,
+        "sites": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "7720" }
+      }
+    ]
+  }
+}

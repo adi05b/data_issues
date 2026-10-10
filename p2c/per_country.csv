@@ -1,0 +1,204 @@
+country_code,country,minmod_states,gb_adm1_shapes,matched,ambiguous,unmatched,no_gbopen,gb_license
+GB,United Kingdom,247,4,4,0,243,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+SI,Slovenia,211,2,0,0,211,0,Creative Commons Attribution 4.0 (CC BY 4.0)
+UG,Uganda,125,4,4,0,121,0,Open Data Commons Open Database License 1.0
+IT,Italy,111,5,0,0,111,0,Creative Commons Attribution 3.0 License
+FR,France,123,13,13,0,110,0,Etalab Open License 2.0
+PR,Puerto Rico,88,0,0,0,0,88,—
+MK,North Macedonia,84,8,0,0,84,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+PH,Philippines,98,17,16,0,82,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+LV,Latvia,118,43,36,3,79,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+CZ,Czech Republic,90,14,14,0,76,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+MA,Morocco,87,12,12,0,75,0,Open Data Commons Open Database License 1.0
+AZ,Azerbaijan,75,2,1,0,74,0,Open Data Commons Open Database License 1.0
+BD,Bangladesh,70,8,1,14,55,0,CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+ES,Spain,53,19,4,0,49,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+BF,Burkina Faso,57,13,13,0,44,0,Creative Commons Attribution 4.0 (CC BY 4.0)
+LT,Lithuania,69,10,0,26,43,0,Open Data Commons Open Database License 1.0
+GR,Greece,38,8,2,0,36,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+MW,Malawi,30,3,3,0,27,0,Open Data Commons Open Database License 1.0
+GN,Guinea,40,8,2,12,26,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+AL,Albania,47,12,2,20,25,0,Public Domain
+IE,Ireland,29,4,4,0,25,0,Creative Commons Attribution 4.0 (CC BY 4.0)
+LK,Sri Lanka,33,9,9,0,24,0,Open Data Commons Open Database License 1.0
+HU,Hungary,43,19,18,2,23,0,CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+HK,Hong Kong S.A.R.,18,0,0,0,0,18,—
+CI,Cote D'Ivoire (Ivory Coast),31,14,7,8,16,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+SC,Seychelles,24,26,8,0,16,0,Creative Commons Attribution-ShareAlike 3.0 Unported
+FJ,Fiji Islands,19,4,4,0,15,0,Creative Commons Attribution 2.5 Generic
+NP,Nepal,19,7,4,0,15,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+PS,Palestinian Territory Occupied,16,2,1,0,15,0,Creative Commons Attribution 4.0 (CC BY 4.0)
+BE,Belgium,13,3,0,0,13,0,Creative Commons Attribution 4.0 (CC BY 4.0)
+BS,The Bahamas,42,32,31,0,11,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+BA,Bosnia and Herzegovina,13,3,3,0,10,0,Public Domain
+DZ,Algeria,58,48,48,0,10,0,Open Data Commons Open Database License 1.0
+US,United States,66,56,56,0,10,0,Public Domain
+BM,Bermuda,9,0,0,0,0,9,—
+UM,United States Minor Outlying Islands,9,0,0,0,0,9,—
+SY,Syria,14,14,6,0,8,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+OM,Oman,13,7,6,0,7,0,Open Data Commons Open Database License 1.0
+MG,Madagascar,6,22,0,0,6,0,Open Data Commons Open Database License 1.0
+MV,Maldives,26,21,20,0,6,0,Open Data Commons Open Database License 1.0
+CN,China,34,34,29,0,5,0,Public Domain
+XK,Kosovo,7,7,2,0,5,0,Creative Commons Attribution-ShareAlike 2.0
+CL,Chile,16,16,12,0,4,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+SG,Singapore,5,5,1,0,4,0,Open Data Commons Open Database License 1.0
+BQ,"Bonaire, Sint Eustatius and Saba",3,0,0,0,0,3,—
+GW,Guinea-Bissau,11,9,8,0,3,0,Open Data Commons Open Database License 1.0
+MC,Monaco,3,1,0,0,3,0,Open Data Commons Open Database License 1.0
+MR,Mauritania,15,13,12,0,3,0,Creative Commons Attribution-ShareAlike 3.0 Unported
+NC,New Caledonia,3,0,0,0,0,3,—
+NL,Netherlands,15,12,12,0,3,0,CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+TT,Trinidad and Tobago,16,14,13,0,3,0,Open Data Commons Open Database License 1.0
+VI,Virgin Islands (US),3,0,0,0,0,3,—
+CV,Cape Verde,23,22,21,0,2,0,Open Data Commons Open Database License 1.0
+GE,Georgia,14,12,12,0,2,0,Creative Commons Attribution 3.0 License
+GQ,Equatorial Guinea,9,7,7,0,2,0,Open Data Commons Open Database License 1.0
+KN,Saint Kitts and Nevis,15,14,13,0,2,0,Creative Commons Attribution-ShareAlike 2.0
+KP,North Korea,11,11,9,0,2,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+LC,Saint Lucia,12,10,10,0,2,0,CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+MH,Marshall Islands,2,24,0,0,2,0,Open Data Commons Open Database License 1.0
+ML,Mali,11,9,9,0,2,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+NA,Namibia,14,14,12,0,2,0,Public Domain
+NO,Norway,13,11,11,0,2,0,Creative Commons Attribution 4.0 (CC BY 4.0)
+AR,Argentina,24,23,23,0,1,0,Creative Commons Attribution 2.5 Generic
+BH,Bahrain,5,4,4,0,1,0,Open Data Commons Open Database License 1.0
+BW,Botswana,10,10,9,0,1,0,Creative Commons Attribution-ShareAlike 2.0
+KG,Kyrgyzstan,9,7,6,2,1,0,Open Data Commons Open Database License 1.0
+KZ,Kazakhstan,17,16,16,0,1,0,Open Data Commons Open Database License 1.0
+LY,Libya,21,22,20,0,1,0,Public Domain
+MM,Myanmar,15,14,14,0,1,0,Creative Commons Attribution 4.0 (CC BY 4.0)
+NE,Niger,8,6,5,2,1,0,Open Data Commons Open Database License 1.0
+PK,Pakistan,8,7,7,0,1,0,Public Domain
+RS,Serbia,26,25,25,0,1,0,Open Data Commons Open Database License 1.0
+SE,Sweden,21,21,20,0,1,0,Creative Commons Attribution 3.0 License
+TH,Thailand,78,77,77,0,1,0,Open Data Commons Open Database License 1.0
+TM,Turkmenistan,6,5,5,0,1,0,Public Domain
+TZ,Tanzania,31,30,30,0,1,0,Open Data Commons Open Database License 1.0
+WS,Samoa,11,11,10,0,1,0,Creative Commons Attribution-ShareAlike 3.0 Unported
+ZA,South Africa,9,9,8,0,1,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+AD,Andorra,7,7,7,0,0,0,Public Domain
+AE,United Arab Emirates,7,7,7,0,0,0,Open Data Commons Open Database License 1.0
+AF,Afghanistan,33,34,33,0,0,0,Public Domain
+AG,Antigua and Barbuda,8,8,8,0,0,0,Public Domain
+AM,Armenia,11,11,11,0,0,0,Creative Commons Attribution 2.5 Generic
+AO,Angola,17,18,17,0,0,0,Public Domain
+AT,Austria,9,9,9,0,0,0,Creative Commons Attribution-ShareAlike 2.0
+AU,Australia,8,9,8,0,0,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+BB,Barbados,11,11,11,0,0,0,Creative Commons Attribution 2.5 Generic
+BG,Bulgaria,28,28,28,0,0,0,Public Domain
+BI,Burundi,18,18,18,0,0,0,CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+BJ,Benin,12,12,12,0,0,0,Public Domain
+BN,Brunei,4,4,4,0,0,0,Public Domain
+BO,Bolivia,9,9,9,0,0,0,Public Domain
+BR,Brazil,27,27,27,0,0,0,Creative Commons Attribution 2.5 Generic
+BT,Bhutan,19,20,19,0,0,0,Creative Commons Attribution 3.0 License
+BY,Belarus,7,7,7,0,0,0,Creative Commons Attribution 3.0 License
+BZ,Belize,6,6,6,0,0,0,Creative Commons Attribution 2.5 Generic
+CA,Canada,13,13,13,0,0,0,Open Government Canada 2.0
+CD,Democratic Republic of the Congo,26,26,26,0,0,0,Open Data Commons Open Database License 1.0
+CF,Central African Republic,17,17,16,1,0,0,Creative Commons Attribution 2.5 Generic
+CG,Congo,12,12,12,0,0,0,Open Data Commons Open Database License 1.0
+CH,Switzerland,26,26,26,0,0,0,Federal Office of Topography swisstopo License
+CM,Cameroon,10,10,10,0,0,0,Creative Commons Attribution 3.0 License
+CO,Colombia,33,33,33,0,0,0,Open Data Commons Open Database License 1.0
+CR,Costa Rica,7,7,7,0,0,0,Open Data Commons Open Database License 1.0
+CU,Cuba,16,16,16,0,0,0,Open Data Commons Open Database License 1.0
+CY,Cyprus,6,6,6,0,0,0,Open Data Commons Open Database License 1.0
+DE,Germany,16,16,16,0,0,0,Data license Germany - Attribution - Version 2.0
+DJ,Djibouti,6,6,6,0,0,0,Public Domain
+DK,Denmark,5,5,5,0,0,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+DM,Dominica,10,10,10,0,0,0,Creative Commons Attribution 2.5 Generic
+DO,Dominican Republic,31,32,31,0,0,0,Public Domain
+EC,Ecuador,24,24,23,1,0,0,CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+EE,Estonia,15,15,15,0,0,0,Open Data Commons Open Database License 1.0
+EG,Egypt,27,27,27,0,0,0,Open Data Commons Open Database License 1.0
+ER,Eritrea,6,6,6,0,0,0,Open Data Commons Open Database License 1.0
+ET,Ethiopia,11,11,11,0,0,0,Creative Commons Attribution 4.0 (CC BY 4.0)
+FI,Finland,19,19,19,0,0,0,Open Data Commons Open Database License 1.0
+FM,Micronesia,4,4,4,0,0,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+GA,Gabon,9,9,9,0,0,0,Creative Commons Attribution-ShareAlike 3.0 Unported
+GD,Grenada,7,7,7,0,0,0,Creative Commons Attribution-ShareAlike 2.0
+GH,Ghana,16,16,16,0,0,0,Creative Commons Attribution-ShareAlike 2.0
+GM,Gambia The,6,8,4,2,0,0,Creative Commons Attribution 4.0 (CC BY 4.0)
+GT,Guatemala,22,22,22,0,0,0,Open Data Commons Open Database License 1.0
+GY,Guyana,10,10,10,0,0,0,Open Data Commons Open Database License 1.0
+HN,Honduras,18,18,18,0,0,0,Open Data Commons Open Database License 1.0
+HR,Croatia,21,21,21,0,0,0,Open Data Commons Open Database License 1.0
+HT,Haiti,10,10,10,0,0,0,Open Data Commons Open Database License 1.0
+ID,Indonesia,34,34,34,0,0,0,Open Data Commons Open Database License 1.0
+IL,Israel,6,6,6,0,0,0,Public Domain
+IN,India,36,36,36,0,0,0,Creative Commons Attribution 2.5 India (CC BY 2.5 IN)
+IQ,Iraq,18,18,18,0,0,0,CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+IR,Iran,31,32,26,5,0,0,Open Data Commons Open Database License 1.0
+IS,Iceland,8,8,8,0,0,0,Open Data Commons Open Database License 1.0
+JM,Jamaica,14,14,14,0,0,0,Creative Commons Attribution-ShareAlike 2.0
+JO,Jordan,12,12,12,0,0,0,Creative Commons Attribution 2.5 Generic
+JP,Japan,47,47,47,0,0,0,Open Data Commons Open Database License 1.0
+KE,Kenya,47,47,47,0,0,0,Public Domain
+KH,Cambodia,24,25,24,0,0,0,Open Data Commons Open Database License 1.0
+KI,Kiribati,3,3,3,0,0,0,Open Data Commons Open Database License 1.0
+KM,Comoros,3,3,3,0,0,0,Open Data Commons Open Database License 1.0
+KR,South Korea,17,17,17,0,0,0,Public Domain
+KW,Kuwait,6,6,6,0,0,0,Open Data Commons Open Database License 1.0
+LA,Laos,19,18,17,2,0,0,Open Data Commons Open Database License 1.0
+LB,Lebanon,8,9,8,0,0,0,Public Domain
+LI,Liechtenstein,11,11,11,0,0,0,Open Data Commons Open Database License 1.0
+LR,Liberia,15,15,15,0,0,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+LS,Lesotho,10,10,10,0,0,0,Open Data Commons Open Database License 1.0
+LU,Luxembourg,15,12,9,6,0,0,Open Data Commons Open Database License 1.0
+MD,Moldova,36,37,36,0,0,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+ME,Montenegro,22,23,22,0,0,0,Open Data Commons Open Database License 1.0
+MN,Mongolia,21,22,21,0,0,0,Open Data Commons Open Database License 1.0
+MT,Malta,67,68,66,1,0,0,Public Domain
+MU,Mauritius,12,12,12,0,0,0,Open Data Commons Open Database License 1.0
+MX,Mexico,32,32,31,1,0,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+MY,Malaysia,16,16,16,0,0,0,Open Data Commons Open Database License 1.0
+MZ,Mozambique,11,10,9,2,0,0,Open Data Commons Open Database License 1.0
+NG,Nigeria,37,37,37,0,0,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+NI,Nicaragua,17,17,17,0,0,0,Open Data Commons Open Database License 1.0
+NR,Nauru,14,14,14,0,0,0,Public Domain
+NZ,New Zealand,17,17,17,0,0,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+PA,Panama,13,13,13,0,0,0,Open Data Commons Open Database License 1.0
+PE,Peru,25,26,25,0,0,0,Public Domain
+PG,Papua New Guinea,21,22,21,0,0,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+PL,Poland,16,16,16,0,0,0,Open Data Commons Open Database License 1.0
+PT,Portugal,20,20,20,0,0,0,Open Data Commons Open Database License 1.0
+PW,Palau,16,16,16,0,0,0,Open Data Commons Open Database License 1.0
+PY,Paraguay,18,18,18,0,0,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+QA,Qatar,8,8,8,0,0,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+RO,Romania,42,42,42,0,0,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+RU,Russia,83,83,83,0,0,0,Open Data Commons Open Database License 1.0
+RW,Rwanda,5,5,5,0,0,0,Creative Commons Attribution 4.0 (CC BY 4.0)
+SA,Saudi Arabia,13,13,13,0,0,0,Open Data Commons Open Database License 1.0
+SB,Solomon Islands,10,10,10,0,0,0,Public Domain
+SD,Sudan,18,19,18,0,0,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+SK,Slovakia,8,8,8,0,0,0,Open Data Commons Open Database License 1.0
+SL,Sierra Leone,4,4,4,0,0,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+SM,San Marino,9,9,9,0,0,0,Open Data Commons Open Database License 1.0
+SN,Senegal,14,14,14,0,0,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+SO,Somalia,16,18,16,0,0,0,Open Data Commons Open Database License 1.0
+SR,Suriname,10,10,10,0,0,0,Open Data Commons Open Database License 1.0
+SS,South Sudan,10,10,10,0,0,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+ST,Sao Tome and Principe,2,2,2,0,0,0,Open Data Commons Open Database License 1.0
+SV,El Salvador,14,14,14,0,0,0,Creative Commons Attribution-ShareAlike 2.0
+SZ,Eswatini,4,4,4,0,0,0,Open Data Commons Open Database License 1.0
+TD,Chad,23,23,23,0,0,0,Open Data Commons Open Database License 1.0
+TG,Togo,5,5,5,0,0,0,Open Data Commons Open Database License 1.0
+TJ,Tajikistan,4,5,4,0,0,0,Open Data Commons Open Database License 1.0
+TL,Timor-Leste,12,13,12,0,0,0,Open Data Commons Open Database License 1.0
+TN,Tunisia,24,24,24,0,0,0,Open Data Commons Open Database License 1.0
+TO,Tonga,5,5,5,0,0,0,Open Data Commons Open Database License 1.0
+TR,Turkey,81,81,81,0,0,0,Creative Commons Attribution-ShareAlike 2.0
+TV,Tuvalu,8,8,8,0,0,0,Open Data Commons Open Database License 1.0
+TW,Taiwan,22,22,22,0,0,0,Open Data Commons Open Database License 1.0
+UA,Ukraine,27,27,27,0,0,0,Open Data Commons Open Database License 1.0
+UY,Uruguay,19,19,19,0,0,0,Open Data Commons Open Database License 1.0
+UZ,Uzbekistan,14,14,14,0,0,0,Open Data Commons Open Database License 1.0
+VC,Saint Vincent and the Grenadines,6,6,6,0,0,0,Open Data Commons Open Database License 1.0
+VE,Venezuela,25,25,25,0,0,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)
+VN,Vietnam,63,64,62,1,0,0,Public Domain
+VU,Vanuatu,6,6,6,0,0,0,Open Data Commons Open Database License 1.0
+YE,Yemen,21,22,21,0,0,0,Open Data Commons Open Database License 1.0
+ZM,Zambia,10,10,10,0,0,0,Creative Commons Attribution 4.0 International (CC BY 4.0)
+ZW,Zimbabwe,10,10,10,0,0,0,Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)

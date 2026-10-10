@@ -1,0 +1,79 @@
+[
+  {
+    "id": "C1-control-mrds-lat",
+    "sent_at": "2026-09-08T09:54:18.788835+00:00",
+    "http_status": 200,
+    "elapsed_ms": 11855,
+    "bytes": 929,
+    "curl_exit": 0,
+    "row_count": 4,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "C1-control-mrds-lon",
+    "sent_at": "2026-09-08T09:54:05.510566+00:00",
+    "http_status": 200,
+    "elapsed_ms": 13228,
+    "bytes": 929,
+    "curl_exit": 0,
+    "row_count": 4,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "C1-control-mrds",
+    "sent_at": "2026-09-08T09:53:47.053689+00:00",
+    "http_status": 200,
+    "elapsed_ms": 712,
+    "bytes": 110,
+    "curl_exit": 0,
+    "row_count": 0,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "P2-pairclass-by-source",
+    "sent_at": "2026-09-08T09:55:32.607978+00:00",
+    "http_status": 200,
+    "elapsed_ms": 16895,
+    "bytes": 21443,
+    "curl_exit": 0,
+    "row_count": 72,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "P3-dms-dp-distribution",
+    "sent_at": "2026-09-08T09:56:58.374056+00:00",
+    "http_status": 200,
+    "elapsed_ms": 16170,
+    "bytes": 129149,
+    "curl_exit": 0,
+    "row_count": 255,
+    "truncated_by_limit": false,
+    "error": null
+  },
+  {
+    "id": "P3b-worst-cases",
+    "sent_at": "2026-09-08T09:58:48.361950+00:00",
+    "http_status": 200,
+    "elapsed_ms": 2947,
+    "bytes": 6657,
+    "curl_exit": 0,
+    "row_count": 10,
+    "truncated_by_limit": true,
+    "error": null
+  },
+  {
+    "id": "P5-dp-histogram-by-source",
+    "sent_at": "2026-09-08T09:59:22.679170+00:00",
+    "http_status": 200,
+    "elapsed_ms": 9676,
+    "bytes": 3423,
+    "curl_exit": 0,
+    "row_count": 10,
+    "truncated_by_limit": false,
+    "error": null
+  }
+]

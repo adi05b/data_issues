@@ -1,0 +1,11 @@
+{
+  "id": "PF-0-ask",
+  "sent_at": "2026-09-21T21:14:29.749674+00:00",
+  "http_status": 0,
+  "elapsed_ms": 75038,
+  "bytes": 0,
+  "curl_exit": 28,
+  "row_count": 0,
+  "truncated_by_limit": false,
+  "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+}

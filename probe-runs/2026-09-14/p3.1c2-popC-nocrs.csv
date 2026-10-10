@@ -1,0 +1,3 @@
+source,crs,affected
+https://api.cdr.land/v1/docs/documents,EPSG:4326,23
+https://api.cdr.land/v1/docs/documents,,13

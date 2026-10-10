@@ -1,0 +1,5 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT DISTINCT ?p WHERE {
+  ?site a :MineralSite ; :location_info ?li .
+  ?li :crs ?c . ?c ?p ?o .
+}

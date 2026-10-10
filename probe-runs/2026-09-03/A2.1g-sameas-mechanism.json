@@ -1,0 +1,23 @@
+{ "head": {
+    "vars": [ "same_record_id" , "same_source" , "pairs" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "same_record_id": { "type": "literal" , "value": "same_record_id" } ,
+        "same_source": { "type": "literal" , "value": "same_source" } ,
+        "pairs": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "188253" }
+      } ,
+      { 
+        "same_record_id": { "type": "literal" , "value": "different_record_id" } ,
+        "same_source": { "type": "literal" , "value": "same_source" } ,
+        "pairs": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "52008" }
+      } ,
+      { 
+        "same_record_id": { "type": "literal" , "value": "different_record_id" } ,
+        "same_source": { "type": "literal" , "value": "different_source" } ,
+        "pairs": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "20392" }
+      }
+    ]
+  }
+}

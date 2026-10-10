@@ -1,0 +1,14 @@
+PREFIX : <https://minmod.isi.edu/ontology/>
+SELECT ?metric ?n WHERE {
+  { SELECT ("a_sites_state_cand_unmatched" AS ?metric) (COUNT(DISTINCT ?site) AS ?n) WHERE {
+      ?site a :MineralSite ; :location_info ?li . ?li :state_or_province ?sc .
+      ?sc :observed_name ?o . FILTER NOT EXISTS { ?sc :normalized_uri ?a } } }
+  UNION
+  { SELECT ("b_distinct_unmatched_names" AS ?metric) (COUNT(DISTINCT ?o) AS ?n) WHERE {
+      ?li a :LocationInfo ; :state_or_province ?sc .
+      ?sc :observed_name ?o . FILTER NOT EXISTS { ?sc :normalized_uri ?a } } }
+  UNION
+  { SELECT ("c_sites_country_cand_unmatched" AS ?metric) (COUNT(DISTINCT ?site) AS ?n) WHERE {
+      ?site a :MineralSite ; :location_info ?li . ?li :country ?cc .
+      ?cc :observed_name ?o . FILTER NOT EXISTS { ?cc :normalized_uri ?a } } }
+}

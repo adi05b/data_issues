@@ -1,0 +1,11 @@
+{
+  "id": "P0.7-country-cardinality",
+  "sent_at": "2026-09-02T21:53:14.548274+00:00",
+  "http_status": 200,
+  "elapsed_ms": 14759,
+  "bytes": 855,
+  "curl_exit": 0,
+  "row_count": 3,
+  "truncated_by_limit": false,
+  "error": null
+}

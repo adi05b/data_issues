@@ -1,0 +1,34 @@
+ISO matches: 2803; names disagree after folding: 402; of those, another shape in the same country carries the MinMod name exactly (match very likely wrong): 29
+ by country: {'IR': 23, 'CG': 2, 'PG': 2, 'LV': 1, 'LR': 1}
+   CG Lékoumou Department -> Likouala CG-2
+   CG Likouala Department -> Lékoumou CG-7
+   IR Alborz -> Razavi Khorasan IR-30
+   IR Ardabil -> Hamadan IR-24
+   IR Bushehr -> Kohgiluyeh and Boyer-Ahmad IR-18
+   IR East Azerbaijan -> Ardabil IR-03
+   IR Gilan -> East Azerbaijan IR-01
+   IR Hamadan -> Sistan and Baluchestan IR-13
+   IR Ilam -> Kurdistan IR-16
+   IR Isfahan -> Khuzestan IR-10
+   IR Kerman -> Chaharmahal and Bakhtiari IR-08
+   IR Kermanshah -> Ilam IR-05
+   IR Khuzestan -> Bushehr IR-06
+   IR Kohgiluyeh and Boyer-Ahmad -> Kermanshah IR-17
+   IR Kurdistan -> Semnan IR-12
+   IR Lorestan -> Kerman IR-15
+   IR Mazandaran -> West Azerbaijan IR-02
+   IR North Khorasan -> Qazvin IR-28
+   IR Qazvin -> Qom IR-26
+   IR Qom -> Yazd IR-25
+   IR Razavi Khorasan -> Alborz IR-09
+   IR Semnan -> Lorestan IR-20
+   IR Sistan and Baluchestan -> Zanjan IR-11
+   IR Tehran -> Hormozgan IR-23
+   IR Zanjan -> Gilan IR-19
+   LV Ventspils Municipality -> Ventspils novads LV-106
+   LR River Gee County -> Rivercess LR-RG
+   PG Western Highlands Province -> Western Province PG-WHM
+   PG Western Province -> Western Highlands Province PG-WPD
+
+dropped_338.csv fillable rows: 191 ; shape name differs from the state it fills: 6 {('Beneshangul Gumu', 'Q3178 Benishangul-Gumuz Region'): 1, ('East Nusa Tenggara', 'Q3690 Nusa Tenggara Timur'): 1, ('Gävleborgs län', 'Q6040 Gävleborg County'): 3, ('Norrbottens län', 'Q6047 Norrbotten County'): 1}
+emptied_313.csv fillable rows: 173 ; shape name differs from the state it fills: 6 {('Norrbottens län', 'Q6047 Norrbotten County'): 1, ('Gävleborgs län', 'Q6040 Gävleborg County'): 3, ('Beneshangul Gumu', 'Q3178 Benishangul-Gumuz Region'): 1, ('East Nusa Tenggara', 'Q3690 Nusa Tenggara Timur'): 1}
