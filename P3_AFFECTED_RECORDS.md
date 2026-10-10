@@ -153,13 +153,14 @@ Precision is compared as **angular resolution**, not decimal count, because deci
 
 | Mine | Group | Elected | Better | Factor |
 |---|---|---|---|---|
-| **SONORA LITHIUM PROJECT** | 6 | `POINT(0 0)` *(Null Island)* | `POINT(-109.103889 29.774722)` | 10⁶× |
 | **Turnagain Nickel Project** | 4 | `MULTIPOINT(-128.0 53.0)` | `POINT(-129.220000 57.420000)` | 10⁵× |
 | **Kleinsorge Group** | 7 | `POINT (-122.644444444444 40)` | `POINT (-122.63809 39.99386)` | 10⁵× |
 | **Asmaradebara** | 2 | `POINT (38.75 15)` | `POINT (38.75121 15.00025)` | 10⁵× |
 | **Sidi Driss** | 2 | `POINT (9 34)` | `POINT (9.00173 33.99925)` | 10⁵× |
 | **Aitik** | 3 | `POINT (21 67.1166666666667)` | `POINT (21.17016 67.01533)` | 10⁵× |
 | **Ann Mason** | 4 | `POINT (-119.27 38.96)` | `POINT(-116.571728 39.000740)` | 10⁴× |
+
+Correction (10 Oct): Sonora was wrongly listed. The first election script broke ties by list order; MinMod keeps POINT(-109.103889 29.774722). See p3/P3_AMANDEEP_AND_SONORA.md.
 
 **Two groups elect a `(0,0)` placeholder over a real coordinate** — populations C and section 4 intersect, and that intersection is the most clearly wrong outcome in the whole of Problem 3. 🟢
 
