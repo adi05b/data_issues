@@ -91,8 +91,3 @@ pytest-*.txt
 
 # ---- Left out on review: IP addresses, internal hostnames/ports, server paths ----
 /probe-runs/2026-09-21/00_connectivity.md
-/probe-runs/2026-09-21/MANIFEST.md
-/probe-runs/2026-10-07/MANIFEST.md
-/probe-runs/2026-10-07/p6_repro.py
-/probe-runs/2026-10-07/p6-issue107.json
-/probe-runs/2026-10-09-p6-fix/p6_repro.py
