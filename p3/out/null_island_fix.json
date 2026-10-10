@@ -1,0 +1,877 @@
+{
+  "records with a (0, 0) point": 37,
+  "(0, 0) records by case": {
+    "POINT at (0, 0)": 34,
+    "MULTIPOINT, all at (0, 0)": 3
+  },
+  "(0, 0) records by source": {
+    "https://api.cdr.land/v1/docs/documents": 37
+  },
+  "records whose view changed": 37,
+  "changed records: fields [record] / view [location_view]": {
+    "['location_view'] / view ['lat', 'lon']": 37
+  },
+  "changed records by case": {
+    "POINT at (0, 0): lat/lon removed": 34,
+    "MULTIPOINT, all at (0, 0): lat/lon removed": 3
+  },
+  "partial merged sites changed, by field": {
+    "coordinates": 37
+  },
+  "merged sites with different inputs (rebuilt)": 34,
+  "merged sites that changed": 29,
+  "changed merged sites: fields": {
+    "['coordinates']": 29
+  },
+  "... now no coordinate": 25,
+  "... now another member's coordinate": 4,
+  "unexpected": [],
+  "fallbacks": [
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__021c1446132f9a25c69d97437586151f0700b11bedb2dc2146065224353baeb19f__inferlink",
+      "name": "Oropesa",
+      "country": [
+        "Q1208"
+      ],
+      "state_or_province": [
+        "Q3186"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02e2708fd068bc74a6b38dbe83dda8bb588d154686286c2019d358faef0e5bb380__inferlink",
+      "old_wkt": "POINT(0.0 0.0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": "site__api-cdr-land-v1-docs-documents__02bb6d116d8846748f146bcf00145f1a05bf8f7b3435a5f928e1178a7ed5b78ac9__inferlink",
+      "new_wkt": "MULTIPOINT(-5.475 -19.00)",
+      "new_point": {
+        "lat": -19.0,
+        "lon": -5.475
+      }
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__022513c39fa4e92fb35d33a742eed6dda037bd96ca815470c3e2bd52132633bf30__inferlink",
+      "name": "Ambatovy Nickel Project",
+      "country": [
+        "Q1128"
+      ],
+      "state_or_province": [
+        "Q3199"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02cc95706ba61fd93103a3fd3ca0de0bf05aefd3b54ddf9f23c7be84c36c00aaf8__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": "site__api-cdr-land-v1-docs-documents__02c1b00d631c8993f206677024cd9e47c438f3d15ba31253a96f79f423b732de20__inferlink",
+      "new_wkt": "MULTIPOINT(48.0 17.5)",
+      "new_point": {
+        "lat": 17.5,
+        "lon": 48.0
+      }
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__022da331592e472e5ccaadf09abc517789a6a3fd97b60f04efa335c841db192571__inferlink",
+      "name": "Lynn Lake",
+      "country": [
+        "Q1038"
+      ],
+      "state_or_province": [
+        "Q2661"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02eaa7ecdafee042f10d8b3ed043abb94941bde19c1bdd08733053f8bdcfe53f8d__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": "site__api-cdr-land-v1-docs-documents__0280c84bf0827121919b1f5801e6a61f290cffbeada88ffd6ed0bb45584533bcbb__inferlink",
+      "new_wkt": "POINT(-97.8601 56.8013)",
+      "new_point": {
+        "lat": 56.8013,
+        "lon": -97.8601
+      }
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__0254ffd63b70e870b16fd718a001cb736b9025e3df1575b3b9aedf9c13987dfde2__inferlink",
+      "name": "Munali",
+      "country": [
+        "Q1248"
+      ],
+      "state_or_province": [
+        "Q2302"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02e5350a155714691da13553b49d70e0ac19661f3889c804a43e5221335324bd2f__inferlink",
+      "old_wkt": "POINT(0.0 0.0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": "site__mrdata-usgs-gov-mrds__10231516__umn",
+      "new_wkt": "POINT (28.1180500000000002 -15.8971699999999991)",
+      "new_point": {
+        "lat": -15.89717,
+        "lon": 28.11805
+      }
+    }
+  ],
+  "changed": [
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__02056bff0e49090c45a110521a11aa2d03ff1461420d315fd1cd58a88ad6c0fc98__inferlink",
+      "name": "Lola Graphite Project",
+      "country": [],
+      "state_or_province": [],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02056bff0e49090c45a110521a11aa2d03ff1461420d315fd1cd58a88ad6c0fc98__inferlink",
+      "old_wkt": "MULTIPOINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__020d3f906a634e9526c27a5e34d4eb042fccd394a3a23401e640f1b65657e5d958__inferlink",
+      "name": "Bethlehem Project",
+      "country": [],
+      "state_or_province": [],
+      "old_record": "site__api-cdr-land-v1-docs-documents__020d3f906a634e9526c27a5e34d4eb042fccd394a3a23401e640f1b65657e5d958__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__02127ab53e01dbd78c1f2f8d0e72e53382fa73fe92f64519863e0aed1d62ad7ef2__inferlink",
+      "name": "Ferguson Lake Project",
+      "country": [
+        "Q1038"
+      ],
+      "state_or_province": [
+        "Q2660"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02127ab53e01dbd78c1f2f8d0e72e53382fa73fe92f64519863e0aed1d62ad7ef2__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__0215aad4ec1402eb5388b75bc65d5905524a6a4a999e16ec8496fb7a8b8c6c3c96__inferlink",
+      "name": "Douay Deposit",
+      "country": [
+        "Q1038"
+      ],
+      "state_or_province": [
+        "Q2655"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__0215aad4ec1402eb5388b75bc65d5905524a6a4a999e16ec8496fb7a8b8c6c3c96__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__021c1446132f9a25c69d97437586151f0700b11bedb2dc2146065224353baeb19f__inferlink",
+      "name": "Oropesa",
+      "country": [
+        "Q1208"
+      ],
+      "state_or_province": [
+        "Q3186"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02e2708fd068bc74a6b38dbe83dda8bb588d154686286c2019d358faef0e5bb380__inferlink",
+      "old_wkt": "POINT(0.0 0.0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": "site__api-cdr-land-v1-docs-documents__02bb6d116d8846748f146bcf00145f1a05bf8f7b3435a5f928e1178a7ed5b78ac9__inferlink",
+      "new_wkt": "MULTIPOINT(-5.475 -19.00)",
+      "new_point": {
+        "lat": -19.0,
+        "lon": -5.475
+      }
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__022513c39fa4e92fb35d33a742eed6dda037bd96ca815470c3e2bd52132633bf30__inferlink",
+      "name": "Ambatovy Nickel Project",
+      "country": [
+        "Q1128"
+      ],
+      "state_or_province": [
+        "Q3199"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02cc95706ba61fd93103a3fd3ca0de0bf05aefd3b54ddf9f23c7be84c36c00aaf8__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": "site__api-cdr-land-v1-docs-documents__02c1b00d631c8993f206677024cd9e47c438f3d15ba31253a96f79f423b732de20__inferlink",
+      "new_wkt": "MULTIPOINT(48.0 17.5)",
+      "new_point": {
+        "lat": 17.5,
+        "lon": 48.0
+      }
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__0226cb80ce39e7a4976d0ceeaf3afbd324ea7b808f365c7477474cb885d78bfdc6__inferlink",
+      "name": "Galore Creek",
+      "country": [
+        "Q1038"
+      ],
+      "state_or_province": [
+        "Q2654"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__0226cb80ce39e7a4976d0ceeaf3afbd324ea7b808f365c7477474cb885d78bfdc6__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__022da331592e472e5ccaadf09abc517789a6a3fd97b60f04efa335c841db192571__inferlink",
+      "name": "Lynn Lake",
+      "country": [
+        "Q1038"
+      ],
+      "state_or_province": [
+        "Q2661"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02eaa7ecdafee042f10d8b3ed043abb94941bde19c1bdd08733053f8bdcfe53f8d__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": "site__api-cdr-land-v1-docs-documents__0280c84bf0827121919b1f5801e6a61f290cffbeada88ffd6ed0bb45584533bcbb__inferlink",
+      "new_wkt": "POINT(-97.8601 56.8013)",
+      "new_point": {
+        "lat": 56.8013,
+        "lon": -97.8601
+      }
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__0231f8c81ba8440db92cded3e73732613be96fcfd716b7ce53d9a58922cc9e0714__inferlink",
+      "name": "Sarfartoq Rare Earth Element Project",
+      "country": [
+        "Q1086"
+      ],
+      "state_or_province": [],
+      "old_record": "site__api-cdr-land-v1-docs-documents__0231f8c81ba8440db92cded3e73732613be96fcfd716b7ce53d9a58922cc9e0714__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__0232adc7d9164e58f56de673680c8d1b5cb207c6397dfca0bd18e48478d590b8b4__inferlink",
+      "name": "LAC DES MONTAGNES PROPERTY",
+      "country": [
+        "Q1038"
+      ],
+      "state_or_province": [
+        "Q2663"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02db88806a98f5c60d5fc1e340283848a0fe9511d5ab46b624637634f28769a545__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__0254ffd63b70e870b16fd718a001cb736b9025e3df1575b3b9aedf9c13987dfde2__inferlink",
+      "name": "Munali",
+      "country": [
+        "Q1248"
+      ],
+      "state_or_province": [
+        "Q2302"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02e5350a155714691da13553b49d70e0ac19661f3889c804a43e5221335324bd2f__inferlink",
+      "old_wkt": "POINT(0.0 0.0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": "site__mrdata-usgs-gov-mrds__10231516__umn",
+      "new_wkt": "POINT (28.1180500000000002 -15.8971699999999991)",
+      "new_point": {
+        "lat": -15.89717,
+        "lon": 28.11805
+      }
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__0256ca3ba78f0ec6b77d2d4d4973d2da775cee7a534dfc71f56ee416cb5c437bec__inferlink",
+      "name": "Schevchenko Nickel Project",
+      "country": [
+        "Q1112"
+      ],
+      "state_or_province": [],
+      "old_record": "site__api-cdr-land-v1-docs-documents__0256ca3ba78f0ec6b77d2d4d4973d2da775cee7a534dfc71f56ee416cb5c437bec__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__025dad46c2d1ac501f013c416dadae9d91684a8c129f928657a780b394435450dc__inferlink",
+      "name": "Peñasquito Polymetallic Operation",
+      "country": [
+        "Q1140"
+      ],
+      "state_or_province": [
+        "Q4561"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__025dad46c2d1ac501f013c416dadae9d91684a8c129f928657a780b394435450dc__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__025e71162fd48b8067eb33f63d83679ae4b564b63e1bd27441bfc2c88d01511ddc__inferlink",
+      "name": "Kipawa Project",
+      "country": [
+        "Q1038"
+      ],
+      "state_or_province": [
+        "Q2663"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__025e71162fd48b8067eb33f63d83679ae4b564b63e1bd27441bfc2c88d01511ddc__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__026059eb3cc3b41e748b34afaebe846b9374593c53661085b8bd5604f931175af4__inferlink",
+      "name": "Martison Phosphate Project",
+      "country": [
+        "Q1038"
+      ],
+      "state_or_province": [
+        "Q2661"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__026059eb3cc3b41e748b34afaebe846b9374593c53661085b8bd5604f931175af4__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__026351c77e3027b3db9d4290e3b7e4f5b7062db40dae5cdf320ea726fa5e59123d__inferlink",
+      "name": "Kylylahti",
+      "country": [
+        "Q1074"
+      ],
+      "state_or_province": [],
+      "old_record": "site__api-cdr-land-v1-docs-documents__026351c77e3027b3db9d4290e3b7e4f5b7062db40dae5cdf320ea726fa5e59123d__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__026562095c61b0e69e3d97069935a1348db770e5035900887176bc2b3298964b3e__inferlink",
+      "name": "Crawford Nickel Sulphide Project",
+      "country": [
+        "Q1038"
+      ],
+      "state_or_province": [
+        "Q2661"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__026562095c61b0e69e3d97069935a1348db770e5035900887176bc2b3298964b3e__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__026b22dd9cce535c80d578f5598ade2801434de617f98c423706b74b21b3ae0842__inferlink",
+      "name": "Rovina Valley Project",
+      "country": [
+        "Q1180"
+      ],
+      "state_or_province": [],
+      "old_record": "site__api-cdr-land-v1-docs-documents__026b22dd9cce535c80d578f5598ade2801434de617f98c423706b74b21b3ae0842__inferlink",
+      "old_wkt": "POINT(0.0 0.0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__0274452b874b201ce3aa34f220fcb9aa6a0c15d90c7f2c9cf39f700d5dd9cd59fc__inferlink",
+      "name": "Whabouchi Lithium Mine",
+      "country": [
+        "Q1038"
+      ],
+      "state_or_province": [
+        "Q2663"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__0274452b874b201ce3aa34f220fcb9aa6a0c15d90c7f2c9cf39f700d5dd9cd59fc__inferlink",
+      "old_wkt": "POINT(0.0 0.0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__029aae55599abf47ce32031ffa6dc594c63936ebe582cfc3104d67ba69aa85658b__inferlink",
+      "name": "Hakkari Zinc Project",
+      "country": [
+        "Q1227"
+      ],
+      "state_or_province": [
+        "Q4196",
+        "Q2150"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02b1bc77a60905d55d8dc25976904ac69de5165d898f9c5e2317eb37b3a43a4768__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__02b51467dc99411ba9a24d2c5c9ba307310bae6c04576019098ea9676a825af089__inferlink",
+      "name": "Kamativi Lithium Tailings Project",
+      "country": [
+        "Q1249"
+      ],
+      "state_or_province": [
+        "Q7082"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02b51467dc99411ba9a24d2c5c9ba307310bae6c04576019098ea9676a825af089__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__02b5dafea360e36c4b96581d28a659da4eec1d56aa817a4a7e20374e8455201534__inferlink",
+      "name": "Halfmile Lake",
+      "country": [],
+      "state_or_province": [],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02b5dafea360e36c4b96581d28a659da4eec1d56aa817a4a7e20374e8455201534__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__02c01eeed442b31fe61b70d39ec01a77052798f7aecc2d9d401da47d1e3c3ff075__inferlink",
+      "name": "Maly Krumkon",
+      "country": [
+        "Q1181"
+      ],
+      "state_or_province": [
+        "Q5416"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02c01eeed442b31fe61b70d39ec01a77052798f7aecc2d9d401da47d1e3c3ff075__inferlink",
+      "old_wkt": "MULTIPOINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__02c1e1ca772fe97dfc2d3a8923ccccd3a090b79c3c74a92e6f1ff093b08cbf0a57__inferlink",
+      "name": "Kun-Manie Group",
+      "country": [
+        "Q1181"
+      ],
+      "state_or_province": [],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02c1e1ca772fe97dfc2d3a8923ccccd3a090b79c3c74a92e6f1ff093b08cbf0a57__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__02da8f2d18a0c8cc6ad9285bef270bddf4148b06770e1f8715587151aab9014601__inferlink",
+      "name": "Casino Project",
+      "country": [
+        "Q1038"
+      ],
+      "state_or_province": [
+        "Q2665"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02da8f2d18a0c8cc6ad9285bef270bddf4148b06770e1f8715587151aab9014601__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__02dd6a62cc34af285bacd9155ce898b56b1338bbf12797420a5e59ec82b6bab849__inferlink",
+      "name": "Woxna Graphite Restart Project",
+      "country": [],
+      "state_or_province": [],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02dd6a62cc34af285bacd9155ce898b56b1338bbf12797420a5e59ec82b6bab849__inferlink",
+      "old_wkt": "MULTIPOINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__02e5f5c32040e7d906e2bb85e29e4956bbe7a0b531c4ec98f559e855e256f65616__inferlink",
+      "name": "Keivitsa",
+      "country": [
+        "Q1074"
+      ],
+      "state_or_province": [],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02e5f5c32040e7d906e2bb85e29e4956bbe7a0b531c4ec98f559e855e256f65616__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__02e7ff83ac75a4749dcd3be7c2987b1402d9dc7f7f38b56299212c4f59a8cb4d64__inferlink",
+      "name": "Desert Lion Energy Lithium Project",
+      "country": [],
+      "state_or_province": [],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02e7ff83ac75a4749dcd3be7c2987b1402d9dc7f7f38b56299212c4f59a8cb4d64__inferlink",
+      "old_wkt": "POINT(-0.0 0.0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    },
+    {
+      "dedup_site_id": "dedup_site__api-cdr-land-v1-docs-documents__02ee2d7c9e7a88c26e2fb1bd42bb4bbd845da365fced615ad9f83e9fe39ed0f845__inferlink",
+      "name": "El Rayo Project",
+      "country": [
+        "Q1140"
+      ],
+      "state_or_province": [
+        "Q4544"
+      ],
+      "old_record": "site__api-cdr-land-v1-docs-documents__02ee2d7c9e7a88c26e2fb1bd42bb4bbd845da365fced615ad9f83e9fe39ed0f845__inferlink",
+      "old_wkt": "POINT(0 0)",
+      "old_point": {
+        "lat": 0.0,
+        "lon": 0.0
+      },
+      "new_record": null,
+      "new_wkt": null,
+      "new_point": null
+    }
+  ],
+  "zero_records": [
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02b1bc77a60905d55d8dc25976904ac69de5165d898f9c5e2317eb37b3a43a4768__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__025e71162fd48b8067eb33f63d83679ae4b564b63e1bd27441bfc2c88d01511ddc__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02b5dafea360e36c4b96581d28a659da4eec1d56aa817a4a7e20374e8455201534__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02e5350a155714691da13553b49d70e0ac19661f3889c804a43e5221335324bd2f__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0.0 0.0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__026b22dd9cce535c80d578f5598ade2801434de617f98c423706b74b21b3ae0842__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0.0 0.0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02f9bdca89777efc0cf59f340a52cf5e8c3b21d1656a95fd1d08e54430c2a4160f__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02127ab53e01dbd78c1f2f8d0e72e53382fa73fe92f64519863e0aed1d62ad7ef2__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__021c1446132f9a25c69d97437586151f0700b11bedb2dc2146065224353baeb19f__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0.0 0.0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__0256ca3ba78f0ec6b77d2d4d4973d2da775cee7a534dfc71f56ee416cb5c437bec__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__0215aad4ec1402eb5388b75bc65d5905524a6a4a999e16ec8496fb7a8b8c6c3c96__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02e7ff83ac75a4749dcd3be7c2987b1402d9dc7f7f38b56299212c4f59a8cb4d64__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(-0.0 0.0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02eaa7ecdafee042f10d8b3ed043abb94941bde19c1bdd08733053f8bdcfe53f8d__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02b51467dc99411ba9a24d2c5c9ba307310bae6c04576019098ea9676a825af089__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02c01eeed442b31fe61b70d39ec01a77052798f7aecc2d9d401da47d1e3c3ff075__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "MULTIPOINT(0 0)",
+      "case": "MULTIPOINT, all at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__029f415bc1c712b75e198f8befd01be9c0089b49ce2869598d7aebfe93e84b262c__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02db88806a98f5c60d5fc1e340283848a0fe9511d5ab46b624637634f28769a545__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__0226cb80ce39e7a4976d0ceeaf3afbd324ea7b808f365c7477474cb885d78bfdc6__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__0296bc0c1b6d9d80aaeee594d72e8a5eec483c81b090ffff23afbb73b0c1d2b151__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02cc95706ba61fd93103a3fd3ca0de0bf05aefd3b54ddf9f23c7be84c36c00aaf8__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__0274452b874b201ce3aa34f220fcb9aa6a0c15d90c7f2c9cf39f700d5dd9cd59fc__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0.0 0.0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__026059eb3cc3b41e748b34afaebe846b9374593c53661085b8bd5604f931175af4__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__0254ffd63b70e870b16fd718a001cb736b9025e3df1575b3b9aedf9c13987dfde2__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02c1e1ca772fe97dfc2d3a8923ccccd3a090b79c3c74a92e6f1ff093b08cbf0a57__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02e2708fd068bc74a6b38dbe83dda8bb588d154686286c2019d358faef0e5bb380__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0.0 0.0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__026351c77e3027b3db9d4290e3b7e4f5b7062db40dae5cdf320ea726fa5e59123d__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02dd6a62cc34af285bacd9155ce898b56b1338bbf12797420a5e59ec82b6bab849__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "MULTIPOINT(0 0)",
+      "case": "MULTIPOINT, all at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__0204fc707f5b1944308624520cd422c4f1cb478046f66487b06a27e8fbd8f0fd86__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0.0 0.0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02056bff0e49090c45a110521a11aa2d03ff1461420d315fd1cd58a88ad6c0fc98__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "MULTIPOINT(0 0)",
+      "case": "MULTIPOINT, all at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__024bd314d6313d345d7847ca2984dc449c2d1d49da43ad1a1631b3dd4744228bd8__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02ee2d7c9e7a88c26e2fb1bd42bb4bbd845da365fced615ad9f83e9fe39ed0f845__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02e5f5c32040e7d906e2bb85e29e4956bbe7a0b531c4ec98f559e855e256f65616__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__026562095c61b0e69e3d97069935a1348db770e5035900887176bc2b3298964b3e__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__02da8f2d18a0c8cc6ad9285bef270bddf4148b06770e1f8715587151aab9014601__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__020d3f906a634e9526c27a5e34d4eb042fccd394a3a23401e640f1b65657e5d958__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__0231f8c81ba8440db92cded3e73732613be96fcfd716b7ce53d9a58922cc9e0714__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__025dad46c2d1ac501f013c416dadae9d91684a8c129f928657a780b394435450dc__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    },
+    {
+      "site_id": "site__api-cdr-land-v1-docs-documents__0205e384bede4889373d9e9788b27e984c76aec51a0ba876f098cd08541ac7ab54__inferlink",
+      "source_id": "https://api.cdr.land/v1/docs/documents",
+      "wkt": "POINT(0 0)",
+      "case": "POINT at (0, 0)"
+    }
+  ]
+}
