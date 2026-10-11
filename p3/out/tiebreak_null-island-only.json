@@ -1,0 +1,43 @@
+{
+  "label": "null-island-only",
+  "merged sites rebuilt": 23308,
+  "records changed (fields)": {
+    "['location_view']": 37
+  },
+  "merged sites changed": 29,
+  "by driver": {
+    "null island": 29
+  },
+  "fields changed": {
+    "['coordinates']": 29
+  },
+  "null island: now no coordinate": 25,
+  "null island: another member's point": 4,
+  "tie-break moves": {
+    "n": 0,
+    "median_km": null,
+    "p95_km": null,
+    "max_km": null,
+    "gt_100m": 0,
+    "gt_1km": 0
+  },
+  "tie-break by source pair": {},
+  "invariant violations (tie-break changes)": {},
+  "null island fallbacks to a lower score (by design)": [
+    {
+      "name": "Munali",
+      "old_source": "api-cdr-land-v1-docs-documents",
+      "old_score": 0.8,
+      "new_source": "mrdata-usgs-gov-mrds",
+      "new_score": 0.1
+    }
+  ],
+  "vs amandeep_row5.csv": {
+    "row5": 168,
+    "tie-break changes": 0,
+    "in both": 0,
+    "only in row5": 168,
+    "only here": 0,
+    "same new record": 0
+  }
+}
