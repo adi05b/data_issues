@@ -1,0 +1,166 @@
+verify_p3.py -- local test run, 2026-10-11
+
+Setup: a throwaway Postgres 14 on this machine, filled by p3_verify_load.py from p3/run-main
+(ta2-minmod-data 3a086a5) with main's code (ab1c352), so the stored merged coordinates are
+main's own picks: 419,098 merged sites, 679,778 records, 5 CRSs, 250 countries.
+Run from the ta2-minmod-kg checkout of fix/p3-null-island (e021ab2), with no CFG_FILE set:
+
+    python verify_p3.py --db <the throwaway Postgres> --out p3_check/
+
+================ 1. The run ================
+[   0.0s] code: fix/p3-null-island @ e021ab2 Prefer a more precise coordinate on trust-score ties when it refines the same point
+[   0.0s] database: kgrel; read-only transaction: on
+[   0.1s] CRS names: 5; countries: 250
+[   3.7s]   loaded 100,000 member records
+[   6.8s]   loaded 200,000 member records
+[   9.8s]   loaded 300,000 member records
+[  13.8s]   loaded 400,000 member records
+[  18.8s] merged sites with >= 2 records: 198,129 (458,809 records)
+[  21.1s] stored merged coordinates read: 198,129
+[  29.7s]   re-elected 25,000 / 198,129 merged sites
+[  37.1s]   re-elected 50,000 / 198,129 merged sites
+[  46.0s]   re-elected 75,000 / 198,129 merged sites
+[  53.0s]   re-elected 100,000 / 198,129 merged sites
+[  60.2s]   re-elected 125,000 / 198,129 merged sites
+[  67.1s]   re-elected 150,000 / 198,129 merged sites
+[  73.7s]   re-elected 175,000 / 198,129 merged sites
+[  80.5s] re-elected 198,129 merged sites
+
+Control (both steps bypassed) against the stored coordinates
+  equal on all 198,129 merged sites: the baseline is this code's own
+
+Funnel
+  merged sites with >= 2 records             198,129
+  ... >= 2 with a coordinate                  23,283
+  ... top trust score tied                    18,583
+
+Changes: 197 merged sites
+  null island -> no point                         25
+  null island -> another member                    4
+  tie-break refinement                           168
+
+Tie-break moves: median 4.3 m, p95 807 m, max 2.82 km; 26 over 100 m, 6 over 1 km
+  top source pairs:
+       75  mrdata.usgs.gov/mrds -> mrdata.usgs.gov/mrds
+       32  mrdata.usgs.gov/porcu -> mrdata.usgs.gov/major-deposits
+       11  doi.org/10.5066/P9HTERGK -> doi.org/10.5066/P9HTERGK
+       10  mrdata.usgs.gov/ree -> doi.org/10.5066/P9K1HBNT
+        8  mrdata.usgs.gov/ree -> mrdata.usgs.gov/carbonatite
+        7  mrdata.usgs.gov/sedcu -> mrdata.usgs.gov/major-deposits
+        4  mrdata.usgs.gov/sir20105090z -> mrdata.usgs.gov/sedcu
+        3  mrdata.usgs.gov/ree -> mrdata.usgs.gov/major-deposits
+        3  mrdata.usgs.gov/ree -> mrdata.usgs.gov/pp1802
+        2  mrdata.usgs.gov/sedznpb -> mrdata.usgs.gov/sedexmvt
+
+Safety checks (each must be 0)
+  PASS       0  tie-break change: top record is expert/curator
+  PASS       0  tie-break change: moves to a lower score
+  PASS       0  tie-break change: outside the old point's rounding box
+  PASS       0  tie-break change: not strictly finer
+  PASS       0  a field other than the coordinate changed (country, state, ...)
+  PASS       0  a new coordinate at (0, 0)
+
+Examples: tie-break changes across the distance range
+       0 m  Oak Grove  [dedup_site__doi-org-10-5066-p9k1hbnt__445__umn]
+            old: POINT (-88.166666666667 36.383333333333) (EPSG:4326, mrdata.usgs.gov/ree, score 0.5)
+            new: POINT (-88.1666669997 36.3833329996) (EPSG:4326, mrdata.usgs.gov/pp1802, score 0.5)
+       1 m  White Crow  [dedup_site__mrdata-usgs-gov-mrds__10091231__sri]
+            old: POINT (-107.6181399999999968 37.9436000000000035) (EPSG:4326, mrdata.usgs.gov/mrds, score 0.1)
+            new: POINT (-107.6181399999999968 37.9436099999999996) (EPSG:4326, mrdata.usgs.gov/mrds, score 0.1)
+       2 m  Longshot  [dedup_site__mrdata-usgs-gov-mrds__10093059__umn]
+            old: POINT (-117.6919000000000040 48.6223499999999973) (EPSG:4326, mrdata.usgs.gov/mrds, score 0.1)
+            new: POINT (-117.6919299999999993 48.6223499999999973) (EPSG:4326, mrdata.usgs.gov/mrds, score 0.1)
+       3 m  Moctezuma  [dedup_site__mrdata-usgs-gov-mrds__10049553__sri]
+            old: POINT (-106.4505500000000069 30.1668999999999983) (EPSG:4326, mrdata.usgs.gov/mrds, score 0.1)
+            new: POINT (-106.4505500000000069 30.1668699999999994) (EPSG:4326, mrdata.usgs.gov/mrds, score 0.1)
+       4 m  Tangse  [dedup_site__mrdata-usgs-gov-major-deposits__283__sri]
+            old: POINT (95.95 5.03333333333333) (EPSG:4326, mrdata.usgs.gov/porcu, score 0.5)
+            new: POINT (95.95 5.0333) (EPSG:4326, mrdata.usgs.gov/major-deposits, score 0.5)
+       4 m  Dry Creek Prospect  [dedup_site__mrdata-usgs-gov-mrds__10094997__sri]
+            old: POINT (-85.9299599999999941 35.9682000000000031) (EPSG:4326, mrdata.usgs.gov/mrds, score 0.1)
+            new: POINT (-85.9299599999999941 35.9681599999999975) (EPSG:4326, mrdata.usgs.gov/mrds, score 0.1)
+       5 m  Mamut  [dedup_site__mrdata-usgs-gov-major-deposits__334__umn]
+            old: POINT (116.466666666667 6.03333333333333) (EPSG:4326, mrdata.usgs.gov/porcu, score 0.5)
+            new: POINT (116.4667 6.0333) (EPSG:4326, mrdata.usgs.gov/major-deposits, score 0.5)
+      22 m  Pitchers Farm - 1  [dedup_site__mrdata-usgs-gov-sedcu__629__sri]
+            old: POINT (-61.985 45.537222) (EPSG:4326, mrdata.usgs.gov/sir20105090z, score 0.5)
+            new: POINT (-61.9847222222222 45.5372222222222) (EPSG:4326, mrdata.usgs.gov/sedcu, score 0.5)
+     391 m  Ruri Complex  [dedup_site__mrdata-usgs-gov-carbonatite__34__sri]
+            old: POINT (34.333333333333 -0.53333333333333) (EPSG:4326, mrdata.usgs.gov/ree, score 0.5)
+            new: POINT (34.3344444444444 -0.53) (EPSG:4326, mrdata.usgs.gov/carbonatite, score 0.5)
+    2.8 km  Kwanika  [dedup_site__api-cdr-land-v1-docs-documents__02282971b6ef3459b289f53b69054519af9a099a7590ec1178cedd4bd35aa7b9f8__inferlink]
+            old: POINT(-125.3 55.5) (EPSG:4326, api.cdr.land/v1/docs/documents, score 0.8)
+            new: POINT(-125.333333 55.516944) (EPSG:4326, api.cdr.land/v1/docs/documents, score 0.8)
+
+Every Null Island fallback to another member
+  2195.6 km  Oropesa  [dedup_site__api-cdr-land-v1-docs-documents__021c1446132f9a25c69d97437586151f0700b11bedb2dc2146065224353baeb19f__inferlink]
+            old: POINT(0.0 0.0) (EPSG:4326, api.cdr.land/v1/docs/documents, score 0.8)
+            new: MULTIPOINT(-5.475 -19.00) (EPSG:4326, api.cdr.land/v1/docs/documents, score 0.8)
+            ! looks sign-flipped: lat -19, but 99.3% of 271 records in Spain have the other sign
+  5598.1 km  Ambatovy Nickel Project  [dedup_site__api-cdr-land-v1-docs-documents__022513c39fa4e92fb35d33a742eed6dda037bd96ca815470c3e2bd52132633bf30__inferlink]
+            old: POINT(0 0) (EPSG:4326, api.cdr.land/v1/docs/documents, score 0.8)
+            new: MULTIPOINT(48.0 17.5) (EPSG:4326, api.cdr.land/v1/docs/documents, score 0.8)
+            ! looks sign-flipped: lat +17.5, but 99.5% of 186 records in Madagascar have the other sign
+  10485.1 km  Lynn Lake  [dedup_site__api-cdr-land-v1-docs-documents__022da331592e472e5ccaadf09abc517789a6a3fd97b60f04efa335c841db192571__inferlink]
+            old: POINT(0 0) (EPSG:4326, api.cdr.land/v1/docs/documents, score 0.8)
+            new: POINT(-97.8601 56.8013) (EPSG:4326, api.cdr.land/v1/docs/documents, score 0.8)
+  3555.9 km  Munali  [dedup_site__api-cdr-land-v1-docs-documents__0254ffd63b70e870b16fd718a001cb736b9025e3df1575b3b9aedf9c13987dfde2__inferlink]
+            old: POINT(0.0 0.0) (EPSG:4326, api.cdr.land/v1/docs/documents, score 0.8)
+            new: POINT (28.1180500000000002 -15.8971699999999991) (EPSG:4326, mrdata.usgs.gov/mrds, score 0.1)
+
+Wrote p3_check/changes.csv and p3_check/summary.json
+RESULT: PASS (81s)
+exit code: 0
+
+================ 2. The change sets against the earlier measurements ================
+tie-break changes: 168; identical to out/amandeep_row5.csv (168): True; same new record for every site: True
+null island changes: 29; identical to P3_NULL_ISLAND_FIX (29): True; same new record for every site: True
+
+================ 3. Venus (porcu -> P96MMRFD, 516 m) ================
+Venus  dedup_site__doi-org-10-5066-p96mmrfd__ch065__sri  moved 516 m
+  old (picked today)  https://mrdata.usgs.gov/porcu  record 599  score 0.5
+      raw WKT  POINT (-149.333333333333 67.6333333333333)  in EPSG:4326
+      WGS84    lat 67.6333333333333  lon -149.333333333333
+      precision: 1855.3 m  (DMS grid: 60, real decimals per value: [12, 13])
+  new (tie-break)     https://doi.org/10.5066/P96MMRFD  record CH065  score 0.5
+      raw WKT  POINT (-149.3223 67.6303)  in EPSG:4267
+      WGS84    lat 67.62991723014389  lon -149.32509269936682
+      precision: 11.1 m  (DMS grid: None, real decimals per value: [4, 4])
+  old point's box: DMS arcminute grid, +-1/120 deg = +-0.008333 deg on each axis
+      = +-928 m north-south, +-353 m east-west at lat 67.63
+  CRSs differ (EPSG:4326 vs EPSG:4267), so the WGS84 views are compared:
+      dlat -0.003416 deg  (|.| <= 0.008333: True)
+      dlon +0.008241 deg  (|.| <= 0.008333: True)
+  inside the box: True;  strictly finer: True
+  for reference, raw NAD27 numbers vs the old WGS84 point: dlon +0.011033, dlat -0.003033;
+      the NAD27 -> WGS84 shift here is dlon -0.002793, dlat -0.000383 deg
+
+================ 4. Negative test ================
+Temporary edit in minmodkg/misc/coord_precision.py, finest_refinement: the tie-break accepts any
+strictly finer tied point, inside the box or not.
+
+        if (r := c.resolution_km()) is not None
+        and r < resolution
+-       and picked.contains(c)
+
+Control (both steps bypassed) against the stored coordinates
+  equal on all 198,129 merged sites: the baseline is this code's own
+
+Changes: 3,400 merged sites
+  null island -> no point                         25
+  null island -> another member                    4
+  tie-break refinement                         3,371
+
+Tie-break moves: median 389.9 m, p95 22881 m, max 12377.98 km; 2388 over 100 m, 1056 over 1 km
+Safety checks (each must be 0)
+  PASS       0  tie-break change: top record is expert/curator
+  PASS       0  tie-break change: moves to a lower score
+  FAIL    3211  tie-break change: outside the old point's rounding box
+  PASS       0  tie-break change: not strictly finer
+  PASS       0  a field other than the coordinate changed (country, state, ...)
+  PASS       0  a new coordinate at (0, 0)
+
+RESULT: FAIL (88s)
+exit code: 1
+
+Reverted with git checkout; git diff against e021ab2 is empty afterwards.

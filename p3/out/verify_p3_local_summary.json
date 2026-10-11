@@ -1,0 +1,81 @@
+{
+  "code": "fix/p3-null-island @ e021ab2 Prefer a more precise coordinate on trust-score ties when it refines the same point",
+  "database": "kgrel",
+  "merged_sites_with_2plus_records": 198129,
+  "member_records": 458809,
+  "control_equals_stored": true,
+  "funnel": {
+    "merged sites with >= 2 records": 198129,
+    "... >= 2 with a coordinate": 23283,
+    "... top trust score tied": 18583
+  },
+  "changes": 197,
+  "changes_by_reason": {
+    "null island -> no point": 25,
+    "null island -> another member": 4,
+    "tie-break refinement": 168
+  },
+  "tie_break_moves_km": {
+    "median": 0.0043,
+    "p95": 0.8067,
+    "max": 2.8205,
+    "over_100m": 26,
+    "over_1km": 6
+  },
+  "tie_break_source_pairs": {
+    "mrdata.usgs.gov/mrds -> mrdata.usgs.gov/mrds": 75,
+    "mrdata.usgs.gov/porcu -> mrdata.usgs.gov/major-deposits": 32,
+    "doi.org/10.5066/P9HTERGK -> doi.org/10.5066/P9HTERGK": 11,
+    "mrdata.usgs.gov/ree -> doi.org/10.5066/P9K1HBNT": 10,
+    "mrdata.usgs.gov/ree -> mrdata.usgs.gov/carbonatite": 8,
+    "mrdata.usgs.gov/sedcu -> mrdata.usgs.gov/major-deposits": 7,
+    "mrdata.usgs.gov/sir20105090z -> mrdata.usgs.gov/sedcu": 4,
+    "mrdata.usgs.gov/ree -> mrdata.usgs.gov/major-deposits": 3,
+    "mrdata.usgs.gov/ree -> mrdata.usgs.gov/pp1802": 3,
+    "mrdata.usgs.gov/sedznpb -> mrdata.usgs.gov/sedexmvt": 2,
+    "api.cdr.land/v1/docs/documents -> api.cdr.land/v1/docs/documents": 1,
+    "mrdata.usgs.gov/sedcu -> doi.org/10.34191/OFR-757": 1,
+    "mrdata.usgs.gov/porcu -> doi.org/10.5066/P96MMRFD": 1,
+    "doi.org/10.5066/P96MMRFD -> doi.org/10.5066/P96MMRFD": 1,
+    "doi.org/10.5066/P9K1HBNT -> doi.org/10.5066/P96MMRFD": 1,
+    "mrdata.usgs.gov/vms -> doi.org/10.5066/P9HTERGK": 1,
+    "mrdata.usgs.gov/podchrome -> doi.org/10.5066/P9HTERGK": 1,
+    "mrdata.usgs.gov/major-deposits -> doi.org/10.5066/P9K1HBNT": 1,
+    "mrdata.usgs.gov/vms -> mrdata.usgs.gov/major-deposits": 1,
+    "mrdata.usgs.gov/phosphate -> mrdata.usgs.gov/major-deposits": 1,
+    "mrdata.usgs.gov/podchrome -> www.oregongeology.org": 1,
+    "mrdata.usgs.gov/sedznpb -> mrdata.usgs.gov/pp1802": 1,
+    "www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource -> www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource": 1
+  },
+  "checks": {
+    "tie-break change: top record is expert/curator": {
+      "count": 0,
+      "result": "PASS"
+    },
+    "tie-break change: moves to a lower score": {
+      "count": 0,
+      "result": "PASS"
+    },
+    "tie-break change: outside the old point's rounding box": {
+      "count": 0,
+      "result": "PASS"
+    },
+    "tie-break change: not strictly finer": {
+      "count": 0,
+      "result": "PASS"
+    },
+    "a field other than the coordinate changed (country, state, ...)": {
+      "count": 0,
+      "result": "PASS"
+    },
+    "a new coordinate at (0, 0)": {
+      "count": 0,
+      "result": "PASS"
+    }
+  },
+  "sign_flagged_fallbacks": [
+    "Oropesa",
+    "Ambatovy Nickel Project"
+  ],
+  "runtime_s": 80.6
+}

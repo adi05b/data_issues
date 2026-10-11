@@ -1,0 +1,17 @@
+Venus  dedup_site__doi-org-10-5066-p96mmrfd__ch065__sri  moved 516 m
+  old (picked today)  https://mrdata.usgs.gov/porcu  record 599  score 0.5
+      raw WKT  POINT (-149.333333333333 67.6333333333333)  in EPSG:4326
+      WGS84    lat 67.6333333333333  lon -149.333333333333
+      precision: 1855.3 m  (DMS grid: 60, real decimals per value: [12, 13])
+  new (tie-break)     https://doi.org/10.5066/P96MMRFD  record CH065  score 0.5
+      raw WKT  POINT (-149.3223 67.6303)  in EPSG:4267
+      WGS84    lat 67.62991723014389  lon -149.32509269936682
+      precision: 11.1 m  (DMS grid: None, real decimals per value: [4, 4])
+  old point's box: DMS arcminute grid, +-1/120 deg = +-0.008333 deg on each axis
+      = +-928 m north-south, +-353 m east-west at lat 67.63
+  CRSs differ (EPSG:4326 vs EPSG:4267), so the WGS84 views are compared:
+      dlat -0.003416 deg  (|.| <= 0.008333: True)
+      dlon +0.008241 deg  (|.| <= 0.008333: True)
+  inside the box: True;  strictly finer: True
+  for reference, raw NAD27 numbers vs the old WGS84 point: dlon +0.011033, dlat -0.003033;
+      the NAD27 -> WGS84 shift here is dlon -0.002793, dlat -0.000383 deg

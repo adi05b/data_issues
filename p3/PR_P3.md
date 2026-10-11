@@ -27,3 +27,13 @@
   - The full suite with Docker fails the same 23 tests on main and on this branch; nothing new.
 - **Cache:** `merge-v107` → `merge-v108`, because `location_view` is computed inside the merge. #110 also bumps `merge-v107` → `merge-v108`, so **whichever of this PR and #110 merges second should move it to `merge-v109`**.
 - **Out of scope:** Inferlink lat/lon sign errors are a separate issue. Two of the four Null Island fallbacks look sign-flipped: Oropesa (Spain) → `MULTIPOINT(-5.475 -19.00)` and Ambatovy (Madagascar) → `MULTIPOINT(48.0 17.5)`.
+
+## How to verify
+
+Read-only, against any kgrel Postgres (dev or prod), with this branch checked out:
+
+    python verify_p3.py --db "$KGREL_URL" --out p3_check/
+
+Script: https://github.com/adi05b/data_issues/blob/main/p3/verify_p3.py
+
+On the 28 Jul data it reports 197 changed merged sites (29 Null Island, 168 tie-break), every safety check PASS, and exit code 0. It writes nothing to the database.
