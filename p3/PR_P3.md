@@ -23,6 +23,9 @@
   - 8 precision cases in `tests/misc/test_coord_precision.py` (padded zeros, DMS grid, float noise in a projected CRS, a per-axis box).
   - 7 election cases in `tests/models/kgrel/test_dedup_mineral_site.py`: switches inside the box, keeps outside it, keeps a higher score, keeps an expert/curator, keeps equal precision, skips (0, 0), and switches across partials in `from_dedup_sites`.
   - The two new files are added to the Tests workflow.
+  - 2 service-level cases in `tests/services/test_mineral_site_service.py` (they need the Docker test database):
+    - `MineralSiteService.create` re-elects a merged site with the tie-break, with `crs_names` coming from a stubbed `EntityService.get_instance()`;
+    - `EntityService.get_instance()` is a cached singleton that reads the CRS names once.
   - With either change reverted, its switching cases fail and its "keeps" cases still pass.
   - The full suite with Docker fails the same 23 tests on main and on this branch; nothing new.
 - **Cache:** `merge-v107` → `merge-v108`, because `location_view` is computed inside the merge. #110 also bumps `merge-v107` → `merge-v108`, so **whichever of this PR and #110 merges second should move it to `merge-v109`**.
