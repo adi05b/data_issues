@@ -37,3 +37,5 @@ Read-only, against any kgrel Postgres (dev or prod), with this branch checked ou
 Script: https://github.com/adi05b/data_issues/blob/main/p3/verify_p3.py
 
 On the 28 Jul data it reports 197 changed merged sites (29 Null Island, 168 tie-break), every safety check PASS, and exit code 0. It writes nothing to the database.
+
+Run it on a kgrel database built from current main (after #108). Prod was built before #108, so the control will report a mismatch there (exit code 2) for sites with non-WGS84 points.
