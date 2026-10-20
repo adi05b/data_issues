@@ -1,0 +1,24 @@
+observed_name,normalized_qid,label,confidence,inventories,verdict,why
+Construction,Q609,Strontium,0.5453,46223,WRONG,"MRDS subtype of 'Sand and Gravel, Construction'"
+Construc,Q537,Cobalt,0.5368,980,WRONG,truncated 'Construction'
+Volcanic Materials,Q523,Clay > Bloating Material,0.595,487,WRONG,pumice/cinder class; Q679 Volcanic Materials exists
+Water,Q659,Slate,0.5556,260,WRONG,Q680 Water exists
+Rock Asphalt,Q652,Petroleum (Oil) > Rock Asphalt,0.6048,15,RIGHT,
+Industrial/Frac Sand,Q655,Sand,0.5004,14,RIGHT,
+Industrial,Q559,Indium,0.4998,11,WRONG,subtype word
+Monazite,Q570,Magnesite,0.5174,11,WRONG,REE phosphate vs Mg carbonate
+Soda Ash,Q619,Ash,0.5833,8,WRONG,sodium carbonate
+Columbite-Tantalite,Q610,Tantalum,0.5851,5,PARTIAL,Nb and Ta ore; Nb missing
+Galena,Q594,Gallium,0.5954,4,WRONG,lead sulfide
+Chalcopyrite,Q525,Clay > Chlorite,0.5576,3,WRONG,copper sulfide
+Sillimanite,Q657,Silica,0.5913,3,WRONG,Al silicate (kyanite group)
+Gilsonite,Q636,Wollastonite,0.5856,1,WRONG,asphaltite
+Tripoli,Q569,Lithium,0.5186,1,WRONG,microcrystalline silica
+Halloysite,Q10004,Alunite,0.5488,1,WRONG,clay mineral
+Apatite,Q553,Graphite,0.591,1,WRONG,phosphate mineral; the earlier list called this correct
+Copper And Garnet,Q538,Copper,0.6165,1,PARTIAL,garnet missing
+Kaolin/ Feldspar,Q542,Feldspar,0.6198,1,PARTIAL,kaolin missing
+Muscovite Mica,Q574,Mica,0.5455,1,RIGHT,
+Tourmaline,Q632,Staurolite,0.5318,1,WRONG,different mineral
+Hematite,Q593,Diatomite,0.5632,1,WRONG,iron oxide
+Vesuvianite,Q564,Kyanite,0.5623,1,WRONG,different mineral

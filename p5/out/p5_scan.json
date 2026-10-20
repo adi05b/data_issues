@@ -1,0 +1,6440 @@
+{
+ "files": 3769,
+ "records": 679778,
+ "inventories": 1379833,
+ "inventory_keys": {
+  "reference": 1379833,
+  "commodity": 1379833,
+  "category": 88441,
+  "grade": 97183,
+  "ore": 94136,
+  "date": 43053,
+  "zone": 26190,
+  "cutoff_grade": 26917,
+  "material_form": 7979,
+  "resource_year": 34767
+ },
+ "graded_below_floor_inventories": 48034,
+ "graded_below_floor_distinct_pairs": 23,
+ "defects": {
+  "Construction->Strontium": {
+   "inventories": 46223,
+   "records": 46221,
+   "inventories_with_gt": 2,
+   "records_with_gt": 2,
+   "records_no_other_matched_commodity": 0,
+   "records_also_sand_and_gravel_Q656": 46221,
+   "records_also_sand_Q655_or_Q656": 46221,
+   "by_source": {
+    "https://mrdata.usgs.gov/mrds": 46223
+   },
+   "top_siblings": [
+    [
+     "Sand And Gravel",
+     45546
+    ],
+    [
+     "Crushed/Broken | Sand And Gravel | Stone",
+     236
+    ],
+    [
+     "Clay | Sand And Gravel",
+     95
+    ],
+    [
+     "Gold | Sand And Gravel",
+     65
+    ],
+    [
+     "Sand And Gravel | Silica",
+     50
+    ],
+    [
+     "General | Limestone | Sand And Gravel",
+     26
+    ],
+    [
+     "Sand And Gravel | Stone",
+     25
+    ],
+    [
+     "Gold | Sand And Gravel | Silver",
+     19
+    ],
+    [
+     "Iron | Sand And Gravel",
+     8
+    ],
+    [
+     "Cerium | Dysprosium | Erbium | Europium | Gadolinium | Holmium | Kyanite | Lanthanum | Lutetium | Metal | Neodymium | Praseodymium | Samarium | Sand And Gravel | Terbium | Thulium | Titanium | Ytterbium | Yttrium | Zirconium",
+     8
+    ],
+    [
+     "Iron | Metal | Sand And Gravel | Titanium",
+     6
+    ],
+    [
+     "Pumice | Sand And Gravel",
+     6
+    ]
+   ],
+   "example": {
+    "file": "data/mineral-sites/umn/mrdata_mrds/b000.json",
+    "record_id": "10004382",
+    "name": "Portaluppi And Vita Pits",
+    "commodity": {
+     "confidence": 0.5453337996531422,
+     "normalized_uri": "https://minmod.isi.edu/resource/Q609",
+     "observed_name": "Construction",
+     "source": "UMN Matching System-ProcMinev2"
+    },
+    "siblings": [
+     {
+      "confidence": 0.9999,
+      "normalized_uri": "https://minmod.isi.edu/resource/Q656",
+      "observed_name": "Sand And Gravel",
+      "source": "UMN Matching System-ProcMinev2"
+     }
+    ]
+   }
+  },
+  "SC->Scandium (Oregon)": {
+   "inventories": 7076,
+   "records": 7076,
+   "inventories_with_gt": 0,
+   "records_with_gt": 0,
+   "records_no_other_matched_commodity": 0,
+   "records_also_sand_and_gravel_Q656": 2,
+   "records_also_sand_Q655_or_Q656": 2,
+   "by_source": {
+    "http://www.oregongeology.org": 7076
+   },
+   "top_siblings": [
+    [
+     "stone",
+     7074
+    ],
+    [
+     "sand and gravel",
+     2
+    ]
+   ],
+   "example": {
+    "file": "data/mineral-sites/umn/oregon_department_geology_mineral_industries/b000.json",
+    "record_id": "ID_05048",
+    "name": "quarry",
+    "commodity": {
+     "source": "UMN Matching System v1",
+     "confidence": 1.0,
+     "observed_name": "SC",
+     "normalized_uri": "https://minmod.isi.edu/resource/Q607"
+    },
+    "siblings": [
+     {
+      "source": "UMN Matching System v1",
+      "confidence": 1.0,
+      "observed_name": "stone",
+      "normalized_uri": "https://minmod.isi.edu/resource/Q663"
+     },
+     {
+      "source": "UMN Matching System v1",
+      "confidence": 0.001,
+      "observed_name": "crushed"
+     }
+    ]
+   }
+  },
+  "S->Sulfur (Oregon)": {
+   "inventories": 2349,
+   "records": 2349,
+   "inventories_with_gt": 0,
+   "records_with_gt": 0,
+   "records_no_other_matched_commodity": 1,
+   "records_also_sand_and_gravel_Q656": 2337,
+   "records_also_sand_Q655_or_Q656": 2337,
+   "by_source": {
+    "http://www.oregongeology.org": 2349
+   },
+   "top_siblings": [
+    [
+     "sand and gravel",
+     2337
+    ],
+    [
+     "stone",
+     11
+    ],
+    [
+     "(none)",
+     1
+    ]
+   ],
+   "example": {
+    "file": "data/mineral-sites/umn/oregon_department_geology_mineral_industries/b000.json",
+    "record_id": "ID_20680",
+    "name": "Bristol Mine Tailings",
+    "commodity": {
+     "source": "UMN Matching System v1",
+     "confidence": 1.0,
+     "observed_name": "S",
+     "normalized_uri": "https://minmod.isi.edu/resource/Q633"
+    },
+    "siblings": [
+     {
+      "source": "UMN Matching System v1",
+      "confidence": 1.0,
+      "observed_name": "stone",
+      "normalized_uri": "https://minmod.isi.edu/resource/Q663"
+     },
+     {
+      "source": "UMN Matching System v1",
+      "confidence": 0.001,
+      "observed_name": "crushed"
+     },
+     {
+      "source": "UMN Matching System v1",
+      "confidence": 0.001,
+      "observed_name": "G"
+     }
+    ]
+   }
+  },
+  "Construc->Cobalt": {
+   "inventories": 980,
+   "records": 980,
+   "inventories_with_gt": 0,
+   "records_with_gt": 0,
+   "records_no_other_matched_commodity": 0,
+   "records_also_sand_and_gravel_Q656": 980,
+   "records_also_sand_Q655_or_Q656": 980,
+   "by_source": {
+    "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey": 980
+   },
+   "top_siblings": [
+    [
+     "Sand And Gravel",
+     977
+    ],
+    [
+     "Clay | Sand And Gravel",
+     2
+    ],
+    [
+     "Cerium | Dysprosium | Erbium | Europium | Gadolinium | Gold | Holmium | Lanthanum | Lutetium | Metal | Neodymium | Praseodymium | Samarium | Sand And Gravel | Terbium | Thulium | Tin | Titanium | Vanadium | Ytterbium | Yttrium",
+     1
+    ]
+   ],
+   "example": {
+    "file": "data/mineral-sites/umn/nc_geological_survey/b000.json",
+    "record_id": "1886",
+    "name": "Delbert E Barefoot Pit",
+    "commodity": {
+     "confidence": 0.5368033988749895,
+     "normalized_uri": "https://minmod.isi.edu/resource/Q537",
+     "observed_name": "Construc",
+     "source": "UMN Matching System-ProcMinev2"
+    },
+    "siblings": [
+     {
+      "confidence": 0.9999,
+      "normalized_uri": "https://minmod.isi.edu/resource/Q656",
+      "observed_name": "Sand And Gravel",
+      "source": "UMN Matching System-ProcMinev2"
+     }
+    ]
+   }
+  },
+  "CS->Cesium (Oregon)": {
+   "inventories": 6,
+   "records": 6,
+   "inventories_with_gt": 0,
+   "records_with_gt": 0,
+   "records_no_other_matched_commodity": 0,
+   "records_also_sand_and_gravel_Q656": 0,
+   "records_also_sand_Q655_or_Q656": 0,
+   "by_source": {
+    "http://www.oregongeology.org": 6
+   },
+   "top_siblings": [
+    [
+     "stone",
+     6
+    ]
+   ],
+   "example": {
+    "file": "data/mineral-sites/umn/oregon_department_geology_mineral_industries/b008.json",
+    "record_id": "ID_21586",
+    "name": "quarry",
+    "commodity": {
+     "source": "UMN Matching System v1",
+     "confidence": 1.0,
+     "observed_name": "CS",
+     "normalized_uri": "https://minmod.isi.edu/resource/Q591"
+    },
+    "siblings": [
+     {
+      "source": "UMN Matching System v1",
+      "confidence": 1.0,
+      "observed_name": "stone",
+      "normalized_uri": "https://minmod.isi.edu/resource/Q663"
+     },
+     {
+      "source": "UMN Matching System v1",
+      "confidence": 0.001,
+      "observed_name": "crushed"
+     }
+    ]
+   }
+  },
+  "SD->Sand (Oregon)": {
+   "inventories": 41,
+   "records": 41,
+   "inventories_with_gt": 0,
+   "records_with_gt": 0,
+   "records_no_other_matched_commodity": 0,
+   "records_also_sand_and_gravel_Q656": 0,
+   "records_also_sand_Q655_or_Q656": 0,
+   "by_source": {
+    "http://www.oregongeology.org": 41
+   },
+   "top_siblings": [
+    [
+     "stone",
+     41
+    ]
+   ],
+   "example": {
+    "file": "data/mineral-sites/umn/oregon_department_geology_mineral_industries/b001.json",
+    "record_id": "ID_03975",
+    "name": "G.Heden No.5,6,7,8",
+    "commodity": {
+     "source": "UMN Matching System v1",
+     "confidence": 1.0,
+     "observed_name": "SD",
+     "normalized_uri": "https://minmod.isi.edu/resource/Q655"
+    },
+    "siblings": [
+     {
+      "source": "UMN Matching System v1",
+      "confidence": 1.0,
+      "observed_name": "stone",
+      "normalized_uri": "https://minmod.isi.edu/resource/Q663"
+     },
+     {
+      "source": "UMN Matching System v1",
+      "confidence": 0.001,
+      "observed_name": "dimension"
+     }
+    ]
+   }
+  },
+  "Metal->Nonmetal": {
+   "inventories": 937,
+   "records": 916,
+   "inventories_with_gt": 21,
+   "records_with_gt": 18,
+   "records_no_other_matched_commodity": 0,
+   "records_also_sand_and_gravel_Q656": 21,
+   "records_also_sand_Q655_or_Q656": 21,
+   "by_source": {
+    "https://mrdata.usgs.gov/mrds": 861,
+    "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey": 76
+   },
+   "top_siblings": [
+    [
+     "Iron | Titanium",
+     248
+    ],
+    [
+     "Iron | Titanium | Vanadium",
+     115
+    ],
+    [
+     "Titanium",
+     110
+    ],
+    [
+     "Titanium | Zirconium",
+     44
+    ],
+    [
+     "Iron | Thorium | Titanium | Zirconium",
+     40
+    ],
+    [
+     "Cerium | Dysprosium | Erbium | Europium | Gadolinium | Holmium | Lanthanum | Lutetium | Neodymium | Praseodymium | Samarium | Terbium | Thulium | Titanium | Ytterbium | Yttrium | Zirconium",
+     22
+    ],
+    [
+     "Aluminum | Iron | Titanium",
+     20
+    ],
+    [
+     "Thorium | Titanium | Zirconium",
+     19
+    ],
+    [
+     "Iron | Titanium | Zirconium",
+     14
+    ],
+    [
+     "Iron | Thorium | Titanium",
+     12
+    ],
+    [
+     "Cerium | Dysprosium | Erbium | Europium | Gadolinium | Holmium | Lanthanum | Lutetium | Neodymium | Praseodymium | Samarium | Terbium | Thorium | Thulium | Titanium | Ytterbium | Yttrium | Zirconium",
+     11
+    ],
+    [
+     "Mineral Pigments | Phosphorus-Phosphates | Titanium",
+     10
+    ]
+   ],
+   "example": {
+    "file": "data/mineral-sites/umn/mrdata_mrds/b000.json",
+    "record_id": "10008252",
+    "name": "Deposits Other Than Rodsand Mine",
+    "commodity": {
+     "confidence": 0.7598965847432124,
+     "normalized_uri": "https://minmod.isi.edu/resource/Q581",
+     "observed_name": "Metal",
+     "source": "UMN Matching System-ProcMinev2"
+    },
+    "siblings": [
+     {
+      "confidence": 0.9999,
+      "normalized_uri": "https://minmod.isi.edu/resource/Q616",
+      "observed_name": "Vanadium",
+      "source": "UMN Matching System-ProcMinev2"
+     },
+     {
+      "confidence": 0.9999,
+      "normalized_uri": "https://minmod.isi.edu/resource/Q614",
+      "observed_name": "Titanium",
+      "source": "UMN Matching System-ProcMinev2"
+     },
+     {
+      "confidence": 0.9999,
+      "normalized_uri": "https://minmod.isi.edu/resource/Q561",
+      "observed_name": "Iron",
+      "source": "UMN Matching System-ProcMinev2"
+     }
+    ]
+   }
+  }
+ },
+ "oregon_cooccurrence": {
+  "gold": [
+   [
+    "gold",
+    2735
+   ],
+   [
+    "Au Ag | gold | silver",
+    1028
+   ],
+   [
+    "Zn Au Ag Pb | gold | lead | silver | zinc",
+    452
+   ],
+   [
+    "Au Ag Cu | copper | gold | silver",
+    260
+   ],
+   [
+    "Au-ex | gold",
+    140
+   ],
+   [
+    "Hg Au | gold | mercury",
+    137
+   ],
+   [
+    "Au Cu | copper | gold",
+    88
+   ],
+   [
+    "gold | silver",
+    70
+   ]
+  ],
+  "coal": [
+   [
+    "coal | energy minerals",
+    337
+   ]
+  ],
+  "energy minerals": [
+   [
+    "coal | energy minerals",
+    337
+   ],
+   [
+    "clays | coal clay | energy minerals",
+    2
+   ],
+   [
+    "energy minerals | lignite",
+    2
+   ],
+   [
+    "coal-ex | energy minerals",
+    1
+   ],
+   [
+    "coal S | energy minerals | pyrite and sulfur",
+    1
+   ]
+  ],
+  "Cu Ag Au": [
+   [
+    "Cu Ag Au | copper | gold | silver",
+    10
+   ]
+  ],
+  "copper": [
+   [
+    "Au Ag Cu | copper | gold | silver",
+    260
+   ],
+   [
+    "copper",
+    120
+   ],
+   [
+    "Au Cu | copper | gold",
+    88
+   ],
+   [
+    "Au Ag Cu Pb Zn | copper | gold | lead | silver | zinc",
+    61
+   ],
+   [
+    "Au Pb Zn Cu | copper | gold | lead | zinc",
+    59
+   ],
+   [
+    "Hg Cu | copper | mercury",
+    55
+   ],
+   [
+    "Au Ag Pb Zn Cu | copper | gold | lead | silver | zinc",
+    52
+   ],
+   [
+    "Au Ag Zn Pb Cu | copper | gold | lead | silver | zinc",
+    48
+   ]
+  ],
+  "silver": [
+   [
+    "Au Ag | gold | silver",
+    1028
+   ],
+   [
+    "Zn Au Ag Pb | gold | lead | silver | zinc",
+    452
+   ],
+   [
+    "Au Ag Cu | copper | gold | silver",
+    260
+   ],
+   [
+    "gold | silver",
+    70
+   ],
+   [
+    "Au Ag Zn | gold | silver | zinc",
+    66
+   ],
+   [
+    "Au Ag Cu Pb Zn | copper | gold | lead | silver | zinc",
+    61
+   ],
+   [
+    "Au Ag Pb Zn Cu | copper | gold | lead | silver | zinc",
+    52
+   ],
+   [
+    "Au Ag Zn Pb Cu | copper | gold | lead | silver | zinc",
+    48
+   ]
+  ],
+  "gravel": [
+   [
+    "gravel | sand and gravel",
+    363
+   ]
+  ],
+  "sand and gravel": [
+   [
+    "G | S | sand and gravel",
+    2337
+   ],
+   [
+    "gravel | sand and gravel",
+    363
+   ],
+   [
+    "sand | sand and gravel",
+    71
+   ],
+   [
+    "sand and gravel | topsoil",
+    26
+   ],
+   [
+    "bar run | sand and gravel",
+    8
+   ],
+   [
+    "gravel basalt bar run | sand and gravel",
+    5
+   ],
+   [
+    "pit run | sand and gravel",
+    5
+   ],
+   [
+    "bar run fill | sand and gravel",
+    3
+   ]
+  ],
+  "mercury": [
+   [
+    "mercury",
+    688
+   ],
+   [
+    "Hg Au | gold | mercury",
+    137
+   ],
+   [
+    "Hg Cu | copper | mercury",
+    55
+   ],
+   [
+    "U Hg | mercury | uranium",
+    24
+   ],
+   [
+    "Hg U Li | lithium | mercury | uranium",
+    21
+   ],
+   [
+    "Au Hg | gold | mercury",
+    16
+   ],
+   [
+    "Hg Sb As | antimony | arsenic | mercury",
+    16
+   ],
+   [
+    "Ni Cr Co Hg Au Pt | chromium | cobalt | gold | mercury | nickel | platinum",
+    15
+   ]
+  ],
+  "Cu Au Ag": [
+   [
+    "Cu Au Ag | copper | gold | silver",
+    46
+   ],
+   [
+    "Cu Au Ag | barium | copper | gold | silver",
+    1
+   ]
+  ],
+  "SC": [
+   [
+    "SC | crushed | stone",
+    7074
+   ],
+   [
+    "SC | sand and gravel",
+    2
+   ]
+  ],
+  "crushed": [
+   [
+    "SC | crushed | stone",
+    7074
+   ],
+   [
+    "basalt | crushed | stone",
+    492
+   ],
+   [
+    "cinders | crushed | stone",
+    423
+   ],
+   [
+    "basalt base | crushed | stone",
+    58
+   ],
+   [
+    "basalt aggregate | crushed | stone",
+    43
+   ],
+   [
+    "crushed | granite | stone",
+    33
+   ],
+   [
+    "crushed | shale | stone",
+    25
+   ],
+   [
+    "andesite | crushed | stone",
+    16
+   ]
+  ],
+  "stone": [
+   [
+    "SC | crushed | stone",
+    7074
+   ],
+   [
+    "basalt | crushed | stone",
+    492
+   ],
+   [
+    "cinders | crushed | stone",
+    423
+   ],
+   [
+    "basalt base | crushed | stone",
+    58
+   ],
+   [
+    "basalt aggregate | crushed | stone",
+    43
+   ],
+   [
+    "SD | dimension | stone",
+    41
+   ],
+   [
+    "crushed | granite | stone",
+    33
+   ],
+   [
+    "crushed | shale | stone",
+    25
+   ]
+  ],
+  "diatomaceous earth": [
+   [
+    "diatomaceous earth | diatomite",
+    127
+   ]
+  ],
+  "diatomite": [
+   [
+    "diatomaceous earth | diatomite",
+    127
+   ]
+  ],
+  "Hg Au": [
+   [
+    "Hg Au | gold | mercury",
+    137
+   ]
+  ],
+  "Mo Ag Au": [
+   [
+    "Mo Ag Au | gold | molybdenum | silver",
+    1
+   ]
+  ],
+  "molybdenum": [
+   [
+    "Au Mo Cu Ag quartz | copper | gold | molybdenum | quartz(crystal) | silver",
+    12
+   ],
+   [
+    "molybdenum",
+    11
+   ],
+   [
+    "Cu Mo | copper | molybdenum",
+    8
+   ],
+   [
+    "Au Mo Cu Ag | copper | gold | molybdenum | silver",
+    6
+   ],
+   [
+    "Au Ag Cu Mo | copper | gold | molybdenum | silver",
+    5
+   ],
+   [
+    "Au Ag Cu Zn Mo | copper | gold | molybdenum | silver | zinc",
+    5
+   ],
+   [
+    "Hg Mo | mercury | molybdenum",
+    4
+   ],
+   [
+    "Cu Ag Mo Au | copper | gold | molybdenum | silver",
+    4
+   ]
+  ],
+  "G": [
+   [
+    "G | S | sand and gravel",
+    2337
+   ],
+   [
+    "G | S | crushed | stone",
+    10
+   ],
+   [
+    "Au Ag S | G | gold | sand and gravel",
+    2
+   ],
+   [
+    "Au Ag S | G | gold | sand and gravel | silver",
+    2
+   ]
+  ],
+  "S": [
+   [
+    "G | S | sand and gravel",
+    2337
+   ],
+   [
+    "G | S | crushed | stone",
+    10
+   ],
+   [
+    "G pumice | S | crushed | stone",
+    1
+   ],
+   [
+    "S | sulfur and pyrite",
+    1
+   ]
+  ],
+  "Au Pt Pd Ag": [
+   [
+    "Au Pt Pd Ag | gold | palladium | platinum | silver",
+    1
+   ]
+  ],
+  "palladium": [
+   [
+    "Cr Pd | chromium | palladium",
+    5
+   ],
+   [
+    "Cr Pt Pd Rh | chromium | palladium | platinum | rhenium",
+    4
+   ],
+   [
+    "Cr Pt Pl Rh | chromium | palladium | platinum | rhodium",
+    4
+   ],
+   [
+    "Cr Pt Pl Ir Ru Rh | chromium | iridium | palladium | platinum | rhodium | ruthenium",
+    2
+   ],
+   [
+    "Pt Pd | palladium | platinum",
+    2
+   ],
+   [
+    "Au Pt Pd Ag | gold | palladium | platinum | silver",
+    1
+   ],
+   [
+    "Au Pd | gold | palladium",
+    1
+   ],
+   [
+    "Ni Co Pt Pl Ru Rh Ir | cobalt | iridium | nickel | palladium | platinum | rhodium | ruthenium",
+    1
+   ]
+  ],
+  "platinum": [
+   [
+    "Au Pt | gold | platinum",
+    29
+   ],
+   [
+    "gold | metal | nickel | platinum",
+    21
+   ],
+   [
+    "Ni Cr Co Hg Au Pt | chromium | cobalt | gold | mercury | nickel | platinum",
+    15
+   ],
+   [
+    "Au Ag Pt | gold | platinum | silver",
+    7
+   ],
+   [
+    "Au Pt Cr | chromium | gold | platinum",
+    7
+   ],
+   [
+    "gold | metal | platinum",
+    5
+   ],
+   [
+    "platinum",
+    5
+   ],
+   [
+    "Cr Pt Pd Rh | chromium | palladium | platinum | rhenium",
+    4
+   ]
+  ],
+  "natural zeolite": [
+   [
+    "natural zeolite | zeolite minerals",
+    56
+   ],
+   [
+    "clinoptilolite | natural zeolite",
+    18
+   ],
+   [
+    "erionite | natural zeolite",
+    12
+   ],
+   [
+    "natural zeolite | zeolite minerals SD",
+    3
+   ],
+   [
+    "heulandite | natural zeolite",
+    2
+   ],
+   [
+    "heulandite clinoptilolite | natural zeolite",
+    1
+   ],
+   [
+    "erioinite | natural zeolite",
+    1
+   ]
+  ],
+  "zeolite minerals": [
+   [
+    "natural zeolite | zeolite minerals",
+    56
+   ]
+  ],
+  "Mn": [
+   [
+    "Mn | manganese ore",
+    132
+   ]
+  ],
+  "manganese ore": [
+   [
+    "Mn | manganese ore",
+    132
+   ],
+   [
+    "Mn Fe | iron | manganese ore",
+    8
+   ],
+   [
+    "Mn W | manganese ore | tungsten",
+    5
+   ],
+   [
+    "Mn Au | gold | manganese ore",
+    4
+   ],
+   [
+    "Mn Cu Ni Co Pt | cobalt | copper | manganese ore | nickel | platinum",
+    1
+   ],
+   [
+    "Mn Hg | manganese ore | mercury",
+    1
+   ]
+  ],
+  "Au Hg": [
+   [
+    "Au Hg | gold | mercury",
+    16
+   ],
+   [
+    "Au Hg | gold | mercruy",
+    1
+   ]
+  ],
+  "chromium": [
+   [
+    "chromium",
+    639
+   ],
+   [
+    "Au Cr | chromium | gold",
+    43
+   ],
+   [
+    "Ni Cr Fe Co | chromium | cobalt | iron | nickel",
+    31
+   ],
+   [
+    "Ni Cr Co Fe | chromium | cobalt | iron | nickel",
+    21
+   ],
+   [
+    "Cr Rh | chromium | rhenium",
+    21
+   ],
+   [
+    "Ni Cr Co Hg Au Pt | chromium | cobalt | gold | mercury | nickel | platinum",
+    15
+   ],
+   [
+    "chromium | metal",
+    13
+   ],
+   [
+    "Ni Cr Co | chromium | cobalt | nickel",
+    9
+   ]
+  ],
+  "basalt": [
+   [
+    "basalt | crushed | stone",
+    492
+   ]
+  ],
+  "Au Cu Hg": [
+   [
+    "Au Cu Hg | copper | gold | mercury",
+    1
+   ]
+  ],
+  "Zn Au Ag Pb": [
+   [
+    "Zn Au Ag Pb | gold | lead | silver | zinc",
+    452
+   ]
+  ],
+  "lead": [
+   [
+    "Zn Au Ag Pb | gold | lead | silver | zinc",
+    452
+   ],
+   [
+    "Au Ag Cu Pb Zn | copper | gold | lead | silver | zinc",
+    61
+   ],
+   [
+    "Au Pb Zn Cu | copper | gold | lead | zinc",
+    59
+   ],
+   [
+    "Au Ag Pb Zn Cu | copper | gold | lead | silver | zinc",
+    52
+   ],
+   [
+    "Au Ag Zn Pb Cu | copper | gold | lead | silver | zinc",
+    48
+   ],
+   [
+    "Au Ag Cu Pb | copper | gold | lead | silver",
+    43
+   ],
+   [
+    "Au Ag Zn Pb | gold | lead | silver | zinc",
+    42
+   ],
+   [
+    "Ag Pb Cu Zn Au As Sb | antimony | arsenic | copper | gold | lead | silver | zinc",
+    35
+   ]
+  ],
+  "zinc": [
+   [
+    "Zn Au Ag Pb | gold | lead | silver | zinc",
+    452
+   ],
+   [
+    "Au Ag Zn | gold | silver | zinc",
+    66
+   ],
+   [
+    "Au Ag Cu Pb Zn | copper | gold | lead | silver | zinc",
+    61
+   ],
+   [
+    "Au Pb Zn Cu | copper | gold | lead | zinc",
+    59
+   ],
+   [
+    "Au Ag Pb Zn Cu | copper | gold | lead | silver | zinc",
+    52
+   ],
+   [
+    "Au Ag Zn Pb Cu | copper | gold | lead | silver | zinc",
+    48
+   ],
+   [
+    "Au Ag Zn Pb | gold | lead | silver | zinc",
+    42
+   ],
+   [
+    "Ag Pb Cu Zn Au As Sb | antimony | arsenic | copper | gold | lead | silver | zinc",
+    35
+   ]
+  ],
+  "cinders": [
+   [
+    "cinders | crushed | stone",
+    423
+   ],
+   [
+    "cinders | lightweight aggregates | pumice and pumicite cinders",
+    1
+   ]
+  ],
+  "basalt aggregate": [
+   [
+    "basalt aggregate | crushed | stone",
+    43
+   ]
+  ],
+  "metal": [
+   [
+    "metal",
+    835
+   ],
+   [
+    "gold | metal | nickel | platinum",
+    21
+   ],
+   [
+    "chromium | metal",
+    13
+   ],
+   [
+    "gold | metal | platinum",
+    5
+   ],
+   [
+    "metal | metal-ex",
+    2
+   ],
+   [
+    "chromium | metal | nickel",
+    1
+   ],
+   [
+    "gold | metal",
+    1
+   ],
+   [
+    "gold | metal | silver",
+    1
+   ]
+  ],
+  "Cu Au": [
+   [
+    "Cu Au | copper | gold",
+    47
+   ]
+  ],
+  "Au Ag": [
+   [
+    "Au Ag | gold | silver",
+    1028
+   ]
+  ],
+  "Cu Au Ag Ba": [
+   [
+    "Cu Au Ag Ba | barium | copper | gold | silver",
+    11
+   ]
+  ],
+  "barium": [
+   [
+    "Au Cu Ag Ba | barium | copper | gold | silver",
+    24
+   ],
+   [
+    "Hg Ba Cu | barium | copper | mercury",
+    14
+   ],
+   [
+    "Cu Au Ag Ba | barium | copper | gold | silver",
+    11
+   ],
+   [
+    "Hg Cu Ba | barium | copper | mercury",
+    9
+   ],
+   [
+    "Au Cu Ag Pb Zn Sb Ba | antimony | barium | copper | gold | lead | silver | zinc",
+    4
+   ],
+   [
+    "Au Ba | barium | gold",
+    4
+   ],
+   [
+    "Hg Ba | barium | mercury",
+    3
+   ],
+   [
+    "Cu Au Ba | barium | copper | gold",
+    3
+   ]
+  ],
+  "emery": [
+   [
+    "emery | granules",
+    2
+   ]
+  ],
+  "granules": [
+   [
+    "emery | granules",
+    2
+   ]
+  ],
+  "antimony": [
+   [
+    "Ag Pb Cu Zn Au As Sb | antimony | arsenic | copper | gold | lead | silver | zinc",
+    35
+   ],
+   [
+    "Au Ag Sb Cu Pb | antimony | copper | gold | lead | silver",
+    26
+   ],
+   [
+    "Au Ag Cu Pb Zn Sb | antimony | copper | gold | lead | silver | zinc",
+    21
+   ],
+   [
+    "Zn Pb Au Ag Cu Sb | antimony | copper | gold | lead | silver | zinc",
+    16
+   ],
+   [
+    "Hg Sb As | antimony | arsenic | mercury",
+    16
+   ],
+   [
+    "antimony",
+    15
+   ],
+   [
+    "Ag Au Cu Sb | antimony | copper | gold | silver",
+    12
+   ],
+   [
+    "Au Ag Cu Pb Zn As Sb | antimony | arsenic | copper | gold | lead | silver | zinc",
+    11
+   ]
+  ],
+  "bar run gravel": [
+   [
+    "bar run gravel | sand and gravel",
+    1
+   ]
+  ],
+  "sand": [
+   [
+    "sand | sand and gravel",
+    71
+   ]
+  ],
+  "beryllium": [
+   [
+    "beryllium",
+    6
+   ]
+  ],
+  "Ni Cr Co Fe": [
+   [
+    "Ni Cr Co Fe | chromium | cobalt | iron | nickel",
+    21
+   ]
+  ],
+  "cobalt": [
+   [
+    "Ni Cr Fe Co | chromium | cobalt | iron | nickel",
+    31
+   ],
+   [
+    "Ni Cr Co Fe | chromium | cobalt | iron | nickel",
+    21
+   ],
+   [
+    "Ni Cr Co Hg Au Pt | chromium | cobalt | gold | mercury | nickel | platinum",
+    15
+   ],
+   [
+    "Ni Cr Co | chromium | cobalt | nickel",
+    9
+   ],
+   [
+    "Ni Co Cr | chromium | cobalt | nickel",
+    7
+   ],
+   [
+    "Ni Cr Co Cu Au Ag | chromium | cobalt | copper | gold | nickel | silver",
+    6
+   ],
+   [
+    "Cu Au Ag Zn Co Ni As | arsenic | cobalt | copper | gold | nickel | silver | zinc",
+    6
+   ],
+   [
+    "Cu Co | cobalt | copper",
+    2
+   ]
+  ],
+  "iron": [
+   [
+    "iron",
+    35
+   ],
+   [
+    "Ni Cr Fe Co | chromium | cobalt | iron | nickel",
+    31
+   ],
+   [
+    "Ni Cr Co Fe | chromium | cobalt | iron | nickel",
+    21
+   ],
+   [
+    "Al Fe Ti | bauxite | iron | titanium",
+    12
+   ],
+   [
+    "Mn Fe | iron | manganese ore",
+    8
+   ],
+   [
+    "Fe Mn | iron | manganese",
+    8
+   ],
+   [
+    "Cu Au Fe | copper | gold | iron",
+    6
+   ],
+   [
+    "Al Fe | aluminum | iron",
+    6
+   ]
+  ],
+  "nickel": [
+   [
+    "nickel",
+    86
+   ],
+   [
+    "Ni Cr Fe Co | chromium | cobalt | iron | nickel",
+    31
+   ],
+   [
+    "Ni Cr Co Fe | chromium | cobalt | iron | nickel",
+    21
+   ],
+   [
+    "gold | metal | nickel | platinum",
+    21
+   ],
+   [
+    "Ni Cr Co Hg Au Pt | chromium | cobalt | gold | mercury | nickel | platinum",
+    15
+   ],
+   [
+    "Ni Cr Co | chromium | cobalt | nickel",
+    9
+   ],
+   [
+    "Ni Co Cr | chromium | cobalt | nickel",
+    7
+   ],
+   [
+    "Cr Ni | chromium | nickel",
+    6
+   ]
+  ],
+  "gem materials": [
+   [
+    "gem materials | jasper",
+    107
+   ],
+   [
+    "agate | gem materials",
+    105
+   ],
+   [
+    "gem materials | thunderegg",
+    86
+   ],
+   [
+    "gem materials | gemstone",
+    78
+   ],
+   [
+    "gem materials | picture rocks or petrified wood",
+    52
+   ],
+   [
+    "gem materials | obsidian",
+    50
+   ],
+   [
+    "gem materials | petrified wood",
+    40
+   ],
+   [
+    "gem materials | picture rock",
+    23
+   ]
+  ],
+  "jasper": [
+   [
+    "gem materials | jasper",
+    107
+   ]
+  ],
+  "Au Cu Zn": [
+   [
+    "Au Cu Zn | copper | gold | zinc",
+    7
+   ]
+  ],
+  "Cr Cu": [
+   [
+    "Cr Cu | chromium | copper",
+    1
+   ]
+  ],
+  "Au Ag Pb Zn Cu": [
+   [
+    "Au Ag Pb Zn Cu | copper | gold | lead | silver | zinc",
+    52
+   ]
+  ],
+  "clinoptilolite": [
+   [
+    "clinoptilolite | natural zeolite",
+    18
+   ]
+  ],
+  "bentonite": [
+   [
+    "bentonite | oil drilling materials and fillers",
+    258
+   ]
+  ],
+  "oil drilling materials and fillers": [
+   [
+    "bentonite | oil drilling materials and fillers",
+    258
+   ],
+   [
+    "bentonite diatomite | oil drilling materials and fillers",
+    1
+   ],
+   [
+    "bentonite gypsum | oil drilling materials and fillers",
+    1
+   ]
+  ],
+  "basalt base": [
+   [
+    "basalt base | crushed | stone",
+    58
+   ],
+   [
+    "basalt base | crushed | decomposed granite | stone",
+    1
+   ]
+  ],
+  "rhyolite": [
+   [
+    "crushed | rhyolite | stone",
+    2
+   ]
+  ],
+  "lightweight aggregates": [
+   [
+    "lightweight aggregates | pumice and pumicite",
+    100
+   ],
+   [
+    "lightweight aggregates | perlite",
+    26
+   ],
+   [
+    "lightweight aggregates | peat",
+    1
+   ],
+   [
+    "lightweight aggregates | perlite Au Ag",
+    1
+   ],
+   [
+    "cinders | lightweight aggregates | pumice and pumicite cinders",
+    1
+   ],
+   [
+    "lightweight aggregates | volcanic ash",
+    1
+   ]
+  ],
+  "pumice and pumicite": [
+   [
+    "lightweight aggregates | pumice and pumicite",
+    100
+   ]
+  ],
+  "picture rocks or petrified wood": [
+   [
+    "gem materials | picture rocks or petrified wood",
+    52
+   ]
+  ],
+  "Cr Rh": [
+   [
+    "Cr Rh | chromium | rhenium",
+    21
+   ]
+  ],
+  "rhenium": [
+   [
+    "Cr Rh | chromium | rhenium",
+    21
+   ],
+   [
+    "Cr Pt Pd Rh | chromium | palladium | platinum | rhenium",
+    4
+   ],
+   [
+    "Cr Pt Rh | chromium | platinum | rhenium",
+    3
+   ],
+   [
+    "Cr Pd Pt Rh | chromium | palladium | platinum | rhenium",
+    1
+   ],
+   [
+    "Pd Rh Pt | palladium | platinum | rhenium",
+    1
+   ]
+  ],
+  "peat": [
+   [
+    "lightweight aggregates | peat",
+    1
+   ]
+  ],
+  "Au Ag Pb Cu As Zn": [
+   [
+    "Au Ag Pb Cu As Zn | asenic | copper | gold | lead | silver | zinc",
+    3
+   ],
+   [
+    "Au Ag Pb Cu As Zn | arsenic | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "asenic": [
+   [
+    "Au Ag Pb Cu As Zn | asenic | copper | gold | lead | silver | zinc",
+    3
+   ],
+   [
+    "Au Ag As | asenic | gold | silver",
+    1
+   ]
+  ],
+  "gemstone": [
+   [
+    "gem materials | gemstone",
+    78
+   ]
+  ],
+  "Au Ag Cu Zn Pb As": [
+   [
+    "Au Ag Cu Zn Pb As | arsenic | copper | gold | lead | silver | zinc",
+    4
+   ]
+  ],
+  "arsenic": [
+   [
+    "Au Ag As | arsenic | gold | silver",
+    46
+   ],
+   [
+    "Ag Pb Cu Zn Au As Sb | antimony | arsenic | copper | gold | lead | silver | zinc",
+    35
+   ],
+   [
+    "Hg Sb As | antimony | arsenic | mercury",
+    16
+   ],
+   [
+    "Au Ag Cu As | arsenic | copper | gold | silver",
+    15
+   ],
+   [
+    "Au Ag Cu Pb Zn As Sb | antimony | arsenic | copper | gold | lead | silver | zinc",
+    11
+   ],
+   [
+    "Au Ag As Pb Zn | arsenic | gold | lead | silver | zinc",
+    10
+   ],
+   [
+    "Au Ag As Zn | arsenic | gold | silver | zinc",
+    7
+   ],
+   [
+    "arsenic",
+    6
+   ]
+  ],
+  "Au Zn Cu Ag": [
+   [
+    "Au Zn Cu Ag | copper | gold | silver | zinc",
+    10
+   ]
+  ],
+  "borrow": [
+   [
+    "borrow | fill | topsoil",
+    48
+   ],
+   [
+    "borrow | crushed | stone",
+    8
+   ],
+   [
+    "borrow | sand and gravel",
+    1
+   ]
+  ],
+  "fill": [
+   [
+    "borrow | fill | topsoil",
+    48
+   ]
+  ],
+  "topsoil": [
+   [
+    "borrow | fill | topsoil",
+    48
+   ],
+   [
+    "sand and gravel | topsoil",
+    26
+   ]
+  ],
+  "shale": [
+   [
+    "crushed | shale | stone",
+    25
+   ],
+   [
+    "clay shale | clays | shale",
+    1
+   ],
+   [
+    "clays | shale",
+    1
+   ]
+  ],
+  "Au Pb Ag Cu": [
+   [
+    "Au Pb Ag Cu | copper | gold | lead | silver",
+    2
+   ]
+  ],
+  "Au Mn": [
+   [
+    "Au Mn | gold | manganese",
+    19
+   ]
+  ],
+  "manganese": [
+   [
+    "Au Cu Mn | copper | gold | manganese",
+    33
+   ],
+   [
+    "Au Mn | gold | manganese",
+    19
+   ],
+   [
+    "Au Ag Mn | gold | manganese | silver",
+    11
+   ],
+   [
+    "Fe Mn | iron | manganese",
+    8
+   ],
+   [
+    "Au Ag Cu Mn | copper | gold | manganese | silver",
+    3
+   ],
+   [
+    "Au Ag Pb Cu Mn | copper | gold | lead | manganese | silver",
+    2
+   ],
+   [
+    "Au Mn Ag | gold | manganese | silver",
+    2
+   ],
+   [
+    "Au Ag Cu Mn Te | copper | gold | manganese | silver | tellurium",
+    2
+   ]
+  ],
+  "uranium": [
+   [
+    "uranium",
+    94
+   ],
+   [
+    "U Hg | mercury | uranium",
+    24
+   ],
+   [
+    "Hg U Li | lithium | mercury | uranium",
+    21
+   ],
+   [
+    "U Ag Zn | silver | uranium | zinc",
+    10
+   ],
+   [
+    "Au Ag Cu U | copper | gold | silver | uranium",
+    2
+   ],
+   [
+    "U-ex | uranium",
+    2
+   ],
+   [
+    "Au U Hg | gold | mercury | uranium",
+    2
+   ],
+   [
+    "U Cu | copper | uranium",
+    2
+   ]
+  ],
+  "Au Ag Pt": [
+   [
+    "Au Ag Pt | gold | platinum | silver",
+    7
+   ]
+  ],
+  "Au Cu Ag": [
+   [
+    "Au Cu Ag | copper | gold | silver",
+    35
+   ]
+  ],
+  "Au Ag Cu": [
+   [
+    "Au Ag Cu | copper | gold | silver",
+    260
+   ]
+  ],
+  "U Ag Zn": [
+   [
+    "U Ag Zn | silver | uranium | zinc",
+    10
+   ]
+  ],
+  "Au Cu Au": [
+   [
+    "Au Cu Au | copper | gold",
+    1
+   ]
+  ],
+  "cement materials": [
+   [
+    "cement materials | limestone",
+    190
+   ],
+   [
+    "cement materials | travertine",
+    2
+   ],
+   [
+    "cement materials | limestone clay cement",
+    1
+   ],
+   [
+    "cement materials | limestone clay",
+    1
+   ],
+   [
+    "cement materials | limestone pyrite",
+    1
+   ],
+   [
+    "cement materials | limestone shale",
+    1
+   ],
+   [
+    "cement materials | oil shale",
+    1
+   ],
+   [
+    "cement materials | limestone marble",
+    1
+   ]
+  ],
+  "limestone": [
+   [
+    "cement materials | limestone",
+    190
+   ]
+  ],
+  "talc": [
+   [
+    "talc | talc and soapstone",
+    144
+   ],
+   [
+    "Au talc | gold | talc",
+    3
+   ]
+  ],
+  "talc and soapstone": [
+   [
+    "talc | talc and soapstone",
+    144
+   ],
+   [
+    "soapstone | talc and soapstone",
+    2
+   ]
+  ],
+  "Au Ag Zn Pb Cu": [
+   [
+    "Au Ag Zn Pb Cu | copper | gold | lead | silver | zinc",
+    48
+   ]
+  ],
+  "andesite": [
+   [
+    "andesite | crushed | stone",
+    16
+   ]
+  ],
+  "thunderegg": [
+   [
+    "gem materials | thunderegg",
+    86
+   ],
+   [
+    "gem materials | quartz | thunderegg",
+    1
+   ]
+  ],
+  "Au Ag Cu U": [
+   [
+    "Au Ag Cu U | copper | gold | silver | uranium",
+    2
+   ]
+  ],
+  "Au Ag Cu Pb": [
+   [
+    "Au Ag Cu Pb | copper | gold | lead | silver",
+    43
+   ]
+  ],
+  "Au": [
+   [
+    "Au | Cu | gold copper",
+    2
+   ],
+   [
+    "Ag | Au | Cu | gold silver copper",
+    1
+   ],
+   [
+    "Ag | Au | gold silver",
+    1
+   ]
+  ],
+  "Cu": [
+   [
+    "Au | Cu | gold copper",
+    2
+   ],
+   [
+    "Ag | Au | Cu | gold silver copper",
+    1
+   ]
+  ],
+  "gold copper": [
+   [
+    "Au | Cu | gold copper",
+    2
+   ]
+  ],
+  "Au Ag Zn": [
+   [
+    "Au Ag Zn | gold | silver | zinc",
+    66
+   ]
+  ],
+  "Au Cu": [
+   [
+    "Au Cu | copper | gold",
+    88
+   ]
+  ],
+  "Cu Zn": [
+   [
+    "Cu Zn | copper | zinc",
+    26
+   ]
+  ],
+  "Hg Mo": [
+   [
+    "Hg Mo | mercury | molybdenum",
+    4
+   ]
+  ],
+  "clay": [
+   [
+    "clay | clays",
+    100
+   ],
+   [
+    "clay | sand and gravel",
+    1
+   ]
+  ],
+  "clays": [
+   [
+    "clay | clays",
+    100
+   ],
+   [
+    "clays | coal clay | energy minerals",
+    2
+   ],
+   [
+    "clay shale | clays | shale",
+    1
+   ],
+   [
+    "clays | shale",
+    1
+   ],
+   [
+    "clay Hg | clays | mercury",
+    1
+   ],
+   [
+    "clays | fire clay (refractory)",
+    1
+   ],
+   [
+    "clay high alumina | clays",
+    1
+   ],
+   [
+    "Au Clay | clays | gold",
+    1
+   ]
+  ],
+  "Au Cu Mn": [
+   [
+    "Au Cu Mn | copper | gold | manganese",
+    33
+   ]
+  ],
+  "W Au": [
+   [
+    "W Au | gold | tungsten",
+    12
+   ]
+  ],
+  "tungsten": [
+   [
+    "tungsten",
+    19
+   ],
+   [
+    "W Au | gold | tungsten",
+    12
+   ],
+   [
+    "Au W | gold | tungsten",
+    10
+   ],
+   [
+    "Hg W | mercury | tungsten",
+    6
+   ],
+   [
+    "Mn W | manganese ore | tungsten",
+    5
+   ],
+   [
+    "Wo | tungsten",
+    3
+   ],
+   [
+    "Au Ag Pb W | gold | lead | silver | tungsten",
+    3
+   ],
+   [
+    "Au Ag Sb W | antimony | gold | silver | tungsten",
+    2
+   ]
+  ],
+  "sunstone": [
+   [
+    "gem materials | sunstone",
+    14
+   ]
+  ],
+  "agate": [
+   [
+    "agate | gem materials",
+    105
+   ]
+  ],
+  "Ag Au Cu Sb": [
+   [
+    "Ag Au Cu Sb | antimony | copper | gold | silver",
+    12
+   ]
+  ],
+  "Ni Cr": [
+   [
+    "Ni Cr | chromium | nickel",
+    5
+   ]
+  ],
+  "Ni Cr Co Hg Au Pt": [
+   [
+    "Ni Cr Co Hg Au Pt | chromium | cobalt | gold | mercury | nickel | platinum",
+    15
+   ]
+  ],
+  "Au Pb Cu Ag": [
+   [
+    "Au Pb Cu Ag | copper | gold | lead | silver",
+    3
+   ]
+  ],
+  "Au Ag Zn Pb": [
+   [
+    "Au Ag Zn Pb | gold | lead | silver | zinc",
+    42
+   ]
+  ],
+  "Au Pt Ni Fe": [
+   [
+    "Au Pt Ni Fe | gold | iron | nickel | platinum",
+    1
+   ]
+  ],
+  "Au Ag Cu Pb Zn Pt Ni Co Cr": [
+   [
+    "Au Ag Cu Pb Zn Pt Ni Co Cr | chromium | cobalt | copper | gold | lead | nickel | platinum | silver | zinc",
+    1
+   ]
+  ],
+  "Ni Co Cr": [
+   [
+    "Ni Co Cr | chromium | cobalt | nickel",
+    7
+   ]
+  ],
+  "Au Ag Cu Pb Zn": [
+   [
+    "Au Ag Cu Pb Zn | copper | gold | lead | silver | zinc",
+    61
+   ],
+   [
+    "Au Ag Cu Pb Zn | copper | gold | silver | zinc",
+    1
+   ]
+  ],
+  "obsidian": [
+   [
+    "gem materials | obsidian",
+    50
+   ]
+  ],
+  "mason sand": [
+   [
+    "mason sand | sand and gravel",
+    1
+   ]
+  ],
+  "Au Ag Hg Pt": [
+   [
+    "Au Ag Hg Pt | gold | mercury | platinum | silver",
+    1
+   ]
+  ],
+  "Hg Cu": [
+   [
+    "Hg Cu | copper | mercury",
+    55
+   ]
+  ],
+  "Cu Co": [
+   [
+    "Cu Co | cobalt | copper",
+    2
+   ]
+  ],
+  "Au Ag Sb W": [
+   [
+    "Au Ag Sb W | antimony | gold | silver | tungsten",
+    2
+   ]
+  ],
+  "Ag Au": [
+   [
+    "Ag Au | gold | silver",
+    11
+   ]
+  ],
+  "Au-ex": [
+   [
+    "Au-ex | gold",
+    140
+   ]
+  ],
+  "Au Cu Ag Ba": [
+   [
+    "Au Cu Ag Ba | barium | copper | gold | silver",
+    24
+   ]
+  ],
+  "calcium sulfate": [
+   [
+    "calcium sulfate | gypsum",
+    7
+   ]
+  ],
+  "gypsum": [
+   [
+    "calcium sulfate | gypsum",
+    7
+   ],
+   [
+    "calcium sulfate anhydrite | gypsum",
+    1
+   ]
+  ],
+  "Au Cu Ag Pb": [
+   [
+    "Au Cu Ag Pb | copper | gold | lead | silver",
+    13
+   ]
+  ],
+  "opal": [
+   [
+    "gem materials | opal",
+    7
+   ],
+   [
+    "gem materials | opal | petrified wood",
+    1
+   ]
+  ],
+  "Au Ag As": [
+   [
+    "Au Ag As | arsenic | gold | silver",
+    46
+   ],
+   [
+    "Au Ag As | asenic | gold | silver",
+    1
+   ]
+  ],
+  "Hg U Li": [
+   [
+    "Hg U Li | lithium | mercury | uranium",
+    21
+   ]
+  ],
+  "lithium": [
+   [
+    "Hg U Li | lithium | mercury | uranium",
+    21
+   ],
+   [
+    "lithium | mercury | uranium",
+    2
+   ],
+   [
+    "Hg Li U | lithium | mercury | uranium",
+    1
+   ]
+  ],
+  "granite": [
+   [
+    "crushed | granite | stone",
+    33
+   ]
+  ],
+  "picture rock petrified wood": [
+   [
+    "gem materials | picture rock petrified wood",
+    3
+   ]
+  ],
+  "heulandite clinoptilolite": [
+   [
+    "heulandite clinoptilolite | natural zeolite",
+    1
+   ]
+  ],
+  "Ag Pb Cu": [
+   [
+    "Ag Pb Cu | copper | lead | silver",
+    24
+   ]
+  ],
+  "Ca Au": [
+   [
+    "Ca Au | quartz crystals and optical calcite",
+    2
+   ],
+   [
+    "Ca Au | quartz crystals and opitcal calcite",
+    1
+   ]
+  ],
+  "quartz crystals and optical calcite": [
+   [
+    "Ca | quartz crystals and optical calcite",
+    11
+   ],
+   [
+    "Ca Au | quartz crystals and optical calcite",
+    2
+   ]
+  ],
+  "SD": [
+   [
+    "SD | dimension | stone",
+    41
+   ]
+  ],
+  "dimension": [
+   [
+    "SD | dimension | stone",
+    41
+   ],
+   [
+    "SD tuff | dimension | stone",
+    9
+   ],
+   [
+    "SD picture rock | dimension | stone",
+    7
+   ]
+  ],
+  "Al": [
+   [
+    "Al | bauxite",
+    1
+   ]
+  ],
+  "bauxite": [
+   [
+    "Al Fe Ti | bauxite | iron | titanium",
+    12
+   ],
+   [
+    "Al Fe | bauxite | iron",
+    2
+   ],
+   [
+    "Al | bauxite",
+    1
+   ]
+  ],
+  "Au Pb Zn Cu": [
+   [
+    "Au Pb Zn Cu | copper | gold | lead | zinc",
+    59
+   ]
+  ],
+  "Zn Pb Au Ag Cu Sb": [
+   [
+    "Zn Pb Au Ag Cu Sb | antimony | copper | gold | lead | silver | zinc",
+    16
+   ]
+  ],
+  "Au Ag Sb Cu Pb": [
+   [
+    "Au Ag Sb Cu Pb | antimony | copper | gold | lead | silver",
+    26
+   ]
+  ],
+  "obsidian (apache tears)": [
+   [
+    "gem materials | obsidian (apache tears)",
+    2
+   ]
+  ],
+  "Au Ag Pb": [
+   [
+    "Au Ag Pb | gold | lead | silver",
+    24
+   ]
+  ],
+  "Cu Ag Au Zn Bi": [
+   [
+    "Cu Ag Au Zn Bi | bismuth | copper | gold | silver | zinc",
+    5
+   ]
+  ],
+  "bismuth": [
+   [
+    "Cu Ag Au Zn Bi | bismuth | copper | gold | silver | zinc",
+    5
+   ],
+   [
+    "Au Ag Te Bi | bismuth | gold | silver | tellurium",
+    5
+   ],
+   [
+    "Mo Bi Te | bismuth | molybdenum | tellurium",
+    1
+   ],
+   [
+    "Cu Au Ag Co Bi Ni U Sb | antimony | bismuth | cobalt | copper | gold | nickel | silver | uranium",
+    1
+   ],
+   [
+    "Mo Cu Ag Au Bi Sn Te | bismuth | copper | gold | molybdenum | silver | tellurium | tin",
+    1
+   ]
+  ],
+  "Cr Ni Ag": [
+   [
+    "Cr Ni Ag | chromium | nickel | silver",
+    1
+   ]
+  ],
+  "Au Ag Cu Pb Zn As Te": [
+   [
+    "Au Ag Cu Pb Zn As Te | arsenic | copper | gold | lead | silver | tellurium | zinc",
+    2
+   ]
+  ],
+  "tellurium": [
+   [
+    "Au Te | gold | tellurium",
+    7
+   ],
+   [
+    "Au Ag Te Bi | bismuth | gold | silver | tellurium",
+    5
+   ],
+   [
+    "Au Ag Cu Pb Zn As Te | arsenic | copper | gold | lead | silver | tellurium | zinc",
+    2
+   ],
+   [
+    "Au Ag Te | gold | silver | tellurium",
+    2
+   ],
+   [
+    "Au Ag Cu Mn Te | copper | gold | manganese | silver | tellurium",
+    2
+   ],
+   [
+    "Au Ag Cu Pb Te | copper | gold | lead | silver | tellurium",
+    2
+   ],
+   [
+    "Au Te Ag | gold | silver | tellurium",
+    1
+   ],
+   [
+    "Au Ag Cu Te U | copper | gold | silver | tellurium | uranium",
+    1
+   ]
+  ],
+  "U Hg": [
+   [
+    "U Hg | mercury | uranium",
+    24
+   ]
+  ],
+  "Au Ag W Cu": [
+   [
+    "Au Ag W Cu | copper | gold | silver | tungsten",
+    1
+   ]
+  ],
+  "Ag Pb Cu Zn Au As Sb": [
+   [
+    "Ag Pb Cu Zn Au As Sb | antimony | arsenic | copper | gold | lead | silver | zinc",
+    35
+   ]
+  ],
+  "Au Pt Hg": [
+   [
+    "Au Pt Hg | gold | mercury | platinum",
+    2
+   ]
+  ],
+  "Cu Ag abrasive": [
+   [
+    "Cu Ag abrasive | abrasive | copper | silver",
+    1
+   ]
+  ],
+  "abrasive": [
+   [
+    "Cu Ag abrasive | abrasive | copper | silver",
+    1
+   ],
+   [
+    "Cu Mo abrasive | abrasive | copper | molybdenum",
+    1
+   ]
+  ],
+  "Sb Ag Au": [
+   [
+    "Sb Ag Au | antimony | gold | silver",
+    2
+   ]
+  ],
+  "picture rock": [
+   [
+    "gem materials | picture rock",
+    23
+   ]
+  ],
+  "agate jaspe": [
+   [
+    "agate jaspe | gem materials | petrified wood",
+    1
+   ]
+  ],
+  "petrified wood": [
+   [
+    "gem materials | petrified wood",
+    40
+   ],
+   [
+    "agate jaspe | gem materials | petrified wood",
+    1
+   ],
+   [
+    "gem materials | opal | petrified wood",
+    1
+   ]
+  ],
+  "Fe Ni": [
+   [
+    "Fe Ni | iron | nickel",
+    1
+   ]
+  ],
+  "silica sand": [
+   [
+    "silica sand | silica sand and pebbles",
+    23
+   ],
+   [
+    "clay silica sand | clays | silica sand",
+    1
+   ]
+  ],
+  "silica sand and pebbles": [
+   [
+    "silica sand | silica sand and pebbles",
+    23
+   ],
+   [
+    "quartz | silica sand and pebbles",
+    7
+   ],
+   [
+    "cristobalite | silica sand and pebbles",
+    3
+   ],
+   [
+    "sandstone | silica sand and pebbles",
+    1
+   ],
+   [
+    "silica sand and pebbles | silica sand clay",
+    1
+   ]
+  ],
+  "Au Ag Cu Hg As Sb": [
+   [
+    "Au Ag Cu Hg As Sb | antimony | arsenic | copper | gold | mercury | silver",
+    1
+   ]
+  ],
+  "riprap": [
+   [
+    "crushed | riprap | stone",
+    10
+   ]
+  ],
+  "Au Te": [
+   [
+    "Au Te | gold | tellurium",
+    7
+   ]
+  ],
+  "Au Ag Cu Pb Zn As Sb": [
+   [
+    "Au Ag Cu Pb Zn As Sb | antimony | arsenic | copper | gold | lead | silver | zinc",
+    11
+   ]
+  ],
+  "Cu Au Ag Pb Zn Mo": [
+   [
+    "Cu Au Ag Pb Zn Mo | copper | gold | lead | molybdenum | silver | zinc",
+    1
+   ]
+  ],
+  "Au Te Ag": [
+   [
+    "Au Te Ag | gold | silver | tellurium",
+    1
+   ]
+  ],
+  "Au Mo Cu Ag quartz": [
+   [
+    "Au Mo Cu Ag quartz | copper | gold | molybdenum | quartz(crystal) | silver",
+    12
+   ]
+  ],
+  "quartz(crystal)": [
+   [
+    "Au Mo Cu Ag quartz | copper | gold | molybdenum | quartz(crystal) | silver",
+    12
+   ]
+  ],
+  "soapstone": [
+   [
+    "soapstone | talc and soapstone",
+    2
+   ]
+  ],
+  "Cu Ni Co": [
+   [
+    "Cu Ni Co | cobalt | copper | nickel",
+    1
+   ]
+  ],
+  "agate petrified wood": [
+   [
+    "agate petrified wood | gem materials",
+    2
+   ]
+  ],
+  "Au Cu Ag Hg": [
+   [
+    "Au Cu Ag Hg | copper | gold | mercury | silver",
+    10
+   ]
+  ],
+  "Au Pt Ag": [
+   [
+    "Au Pt Ag | gold | platinum | silver",
+    3
+   ]
+  ],
+  "Au Pt Cu Zn As Pb Ag": [
+   [
+    "Au Pt Cu Zn As Pb Ag | arsenic | copper | gold | lead | platinum | silver | zinc",
+    1
+   ]
+  ],
+  "asbestos": [
+   [
+    "asbestos",
+    32
+   ],
+   [
+    "Cr asbestos | asbestos | chromium",
+    1
+   ],
+   [
+    "Ni asbestos | asbestos | nickel",
+    1
+   ],
+   [
+    "Au asbestos | asbestos | gold",
+    1
+   ]
+  ],
+  "Hg Sb As": [
+   [
+    "Hg Sb As | antimony | arsenic | mercury",
+    16
+   ]
+  ],
+  "agate calcite quartz": [
+   [
+    "agate calcite quartz | gem materials",
+    1
+   ]
+  ],
+  "Al Fe": [
+   [
+    "Al Fe | aluminum | iron",
+    6
+   ],
+   [
+    "Al Fe | bauxite | iron",
+    2
+   ]
+  ],
+  "Au Pb Zn Cu Ag": [
+   [
+    "Au Pb Zn Cu Ag | copper | gold | lead | silver | zinc",
+    2
+   ]
+  ],
+  "Au Ag Cu Pb Zn Sb": [
+   [
+    "Au Ag Cu Pb Zn Sb | antimony | copper | gold | lead | silver | zinc",
+    21
+   ]
+  ],
+  "Au Ag Cu Au": [
+   [
+    "Au Ag Cu Au | copper | gold | silver",
+    1
+   ]
+  ],
+  "Au Pd": [
+   [
+    "Au Pd | gold | palladium",
+    1
+   ]
+  ],
+  "Au Ag Sb": [
+   [
+    "Au Ag Sb | antimony | gold | silver",
+    9
+   ]
+  ],
+  "Cu Zn Au Ag Pb": [
+   [
+    "Cu Zn Au Ag Pb | copper | gold | lead | silver | zinc",
+    34
+   ]
+  ],
+  "Mn Fe": [
+   [
+    "Mn Fe | iron | manganese ore",
+    8
+   ]
+  ],
+  "shale base": [
+   [
+    "crushed | shale base | stone",
+    9
+   ]
+  ],
+  "Ni Co Pt Pl Ru Rh Ir": [
+   [
+    "Ni Co Pt Pl Ru Rh Ir | cobalt | iridium | nickel | palladium | platinum | rhodium | ruthenium",
+    1
+   ]
+  ],
+  "iridium": [
+   [
+    "Au Pt Ir | gold | iridium | platinum",
+    3
+   ],
+   [
+    "Cr Pt Pl Ir Ru Rh | chromium | iridium | palladium | platinum | rhodium | ruthenium",
+    2
+   ],
+   [
+    "Ni Co Pt Pl Ru Rh Ir | cobalt | iridium | nickel | palladium | platinum | rhodium | ruthenium",
+    1
+   ],
+   [
+    "Au Pt Cr Hg Ir | chromium | gold | iridium | mercury | platinum",
+    1
+   ],
+   [
+    "Au Ag Pt Ir | gold | iridium | platinum | silver",
+    1
+   ],
+   [
+    "Au Pt Ag Os Pd Rh Ru Ir | gold | iridium | osmium | palladium | platinum | rhodium | ruthenium | silver",
+    1
+   ]
+  ],
+  "rhodium": [
+   [
+    "Cr Pt Pl Rh | chromium | palladium | platinum | rhodium",
+    4
+   ],
+   [
+    "Cr Pt Pl Ir Ru Rh | chromium | iridium | palladium | platinum | rhodium | ruthenium",
+    2
+   ],
+   [
+    "Ni Co Pt Pl Ru Rh Ir | cobalt | iridium | nickel | palladium | platinum | rhodium | ruthenium",
+    1
+   ],
+   [
+    "Cr Pt Pl Rh Au | chromium | gold | palladium | platinum | rhodium",
+    1
+   ],
+   [
+    "Cr Rh Pt Pl | chromium | palladium | platinum | rhodium",
+    1
+   ],
+   [
+    "Au Pt Ag Os Pd Rh Ru Ir | gold | iridium | osmium | palladium | platinum | rhodium | ruthenium | silver",
+    1
+   ]
+  ],
+  "ruthenium": [
+   [
+    "Cr Pt Pl Ir Ru Rh | chromium | iridium | palladium | platinum | rhodium | ruthenium",
+    2
+   ],
+   [
+    "Ni Co Pt Pl Ru Rh Ir | cobalt | iridium | nickel | palladium | platinum | rhodium | ruthenium",
+    1
+   ],
+   [
+    "Au Pt Ag Os Pd Rh Ru Ir | gold | iridium | osmium | palladium | platinum | rhodium | ruthenium | silver",
+    1
+   ]
+  ],
+  "Au Cr": [
+   [
+    "Au Cr | chromium | gold",
+    43
+   ]
+  ],
+  "Au Ag Cu Pb As": [
+   [
+    "Au Ag Cu Pb As | arsenic | copper | gold | lead | silver",
+    3
+   ]
+  ],
+  "volcanic ash": [
+   [
+    "crushed | stone | volcanic ash",
+    1
+   ],
+   [
+    "lightweight aggregates | volcanic ash",
+    1
+   ]
+  ],
+  "Au Ag-ex": [
+   [
+    "Au Ag-ex | gold | silver",
+    2
+   ]
+  ],
+  "perlite": [
+   [
+    "lightweight aggregates | perlite",
+    26
+   ]
+  ],
+  "Ag Au Pb Cu": [
+   [
+    "Ag Au Pb Cu | copper | gold | lead | silver",
+    1
+   ]
+  ],
+  "Al Fe Ti": [
+   [
+    "Al Fe Ti | bauxite | iron | titanium",
+    12
+   ],
+   [
+    "Al Fe Ti | aluminum | iron | titanium",
+    4
+   ]
+  ],
+  "titanium": [
+   [
+    "Al Fe Ti | bauxite | iron | titanium",
+    12
+   ],
+   [
+    "Al Fe Ti | aluminum | iron | titanium",
+    4
+   ],
+   [
+    "titanium",
+    4
+   ],
+   [
+    "Fe Ti | iron | titanium",
+    3
+   ],
+   [
+    "Ti Fe | iron | titanium",
+    3
+   ],
+   [
+    "Ti Al | aluminum | titanium",
+    1
+   ],
+   [
+    "Ti Fe Zr | iron | titanium | zirconium",
+    1
+   ],
+   [
+    "Au Fe Ti | gold | iron | titanium",
+    1
+   ]
+  ],
+  "clay shale": [
+   [
+    "clay shale | clays | shale",
+    1
+   ]
+  ],
+  "Au Ag As Pb Zn": [
+   [
+    "Au Ag As Pb Zn | arsenic | gold | lead | silver | zinc",
+    10
+   ]
+  ],
+  "perlite Au Ag": [
+   [
+    "lightweight aggregates | perlite Au Ag",
+    1
+   ]
+  ],
+  "pumice and pumicite cinders": [
+   [
+    "cinders | lightweight aggregates | pumice and pumicite cinders",
+    1
+   ]
+  ],
+  "Hg As Cu": [
+   [
+    "Hg As Cu | arsenic | copper | mercury",
+    1
+   ]
+  ],
+  "Au Ag Pb Cu": [
+   [
+    "Au Ag Pb Cu | copper | gold | lead | silver",
+    10
+   ]
+  ],
+  "Ni Cr Fe Co": [
+   [
+    "Ni Cr Fe Co | chromium | cobalt | iron | nickel",
+    31
+   ]
+  ],
+  "Cr Ag Ni": [
+   [
+    "Cr Ag Ni | chromium | nickel | silver",
+    1
+   ]
+  ],
+  "Au Cu Mo": [
+   [
+    "Au Cu Mo | copper | gold | molybdenum",
+    1
+   ]
+  ],
+  "Hg Cu Ba": [
+   [
+    "Hg Cu Ba | barium | copper | mercury",
+    9
+   ]
+  ],
+  "Au Zn": [
+   [
+    "Au Zn | gold | zinc",
+    9
+   ]
+  ],
+  "Cr Pt Pl Ir Ru Rh": [
+   [
+    "Cr Pt Pl Ir Ru Rh | chromium | iridium | palladium | platinum | rhodium | ruthenium",
+    2
+   ]
+  ],
+  "Sb Ag W Au": [
+   [
+    "Sb Ag W Au | antimony | gold | silver | tungsten",
+    1
+   ]
+  ],
+  "basalt asphalt aggregate": [
+   [
+    "basalt asphalt aggregate | crushed | stone",
+    15
+   ]
+  ],
+  "Cr Fe": [
+   [
+    "Cr Fe | chromium | iron",
+    2
+   ]
+  ],
+  "quartz": [
+   [
+    "quartz | silica sand and pebbles",
+    7
+   ],
+   [
+    "gem materials | quartz",
+    6
+   ],
+   [
+    "quartz | quartz crystal and optical calcite",
+    3
+   ],
+   [
+    "gem materials | quartz | thunderegg",
+    1
+   ]
+  ],
+  "bar run": [
+   [
+    "bar run | sand and gravel",
+    8
+   ]
+  ],
+  "Mn W": [
+   [
+    "Mn W | manganese ore | tungsten",
+    5
+   ]
+  ],
+  "Zn Pb Cu": [
+   [
+    "Zn Pb Cu | copper | lead | zinc",
+    10
+   ]
+  ],
+  "Mn Cu Ni Co Pt": [
+   [
+    "Mn Cu Ni Co Pt | cobalt | copper | manganese ore | nickel | platinum",
+    1
+   ]
+  ],
+  "nitrate": [
+   [
+    "nitrate | nitrogen compounds",
+    1
+   ]
+  ],
+  "nitrogen compounds": [
+   [
+    "nitrate | nitrogen compounds",
+    1
+   ],
+   [
+    "nitrogen compounds | sodium nitrate",
+    1
+   ],
+   [
+    "N Na | nitrogen compounds | sodium",
+    1
+   ],
+   [
+    "N nitrate | nitrogen compounds",
+    1
+   ]
+  ],
+  "Cu Au Ag Ni": [
+   [
+    "Cu Au Ag Ni | copper | gold | nickel | silver",
+    1
+   ]
+  ],
+  "Au Ag As Zn Pb": [
+   [
+    "Au Ag As Zn Pb | arsenic | gold | lead | silver | zinc",
+    3
+   ]
+  ],
+  "Zn Ag Pb Au": [
+   [
+    "Zn Ag Pb Au | gold | lead | silver | zinc",
+    12
+   ]
+  ],
+  "Au Ag Mo Pb Zn Cu Ni Mn Cr": [
+   [
+    "Au Ag Mo Pb Zn Cu Ni Mn Cr | chromium | copper | gold | lead | manganese | molybdenum | nickel | silver | zinc",
+    1
+   ]
+  ],
+  "Cu Ag": [
+   [
+    "Cu Ag | copper | silver",
+    10
+   ]
+  ],
+  "U-ex": [
+   [
+    "U-ex | uranium",
+    2
+   ]
+  ],
+  "Au Ag Te": [
+   [
+    "Au Ag Te | gold | silver | tellurium",
+    2
+   ],
+   [
+    "Au Ag Te | gold | silver | telurium",
+    2
+   ]
+  ],
+  "Cu Au Ag Pb": [
+   [
+    "Cu Au Ag Pb | copper | gold | lead | silver",
+    10
+   ],
+   [
+    "Cu Au Ag Pb | copper | gold | lead | sliver",
+    2
+   ]
+  ],
+  "sliver": [
+   [
+    "Cu Au Ag Pb | copper | gold | lead | sliver",
+    2
+   ]
+  ],
+  "Cu Zn Au Ag Pb Ba": [
+   [
+    "Cu Zn Au Ag Pb Ba | barium | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Au Pt": [
+   [
+    "Au Pt | gold | platinum",
+    29
+   ]
+  ],
+  "Au Ag Cu Sb": [
+   [
+    "Au Ag Cu Sb | antimony | copper | gold | silver",
+    5
+   ]
+  ],
+  "Cu Co Ag Au": [
+   [
+    "Cu Co Ag Au | cobalt | copper | gold | silver",
+    1
+   ]
+  ],
+  "Ag Cu Pb Zn": [
+   [
+    "Ag Cu Pb Zn | copper | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Cr Pt Pl Rh Au": [
+   [
+    "Cr Pt Pl Rh Au | chromium | gold | palladium | platinum | rhodium",
+    1
+   ]
+  ],
+  "jasper Ag": [
+   [
+    "gem materials | jasper Ag | silver",
+    2
+   ]
+  ],
+  "Au Ag Cu Zn Pb": [
+   [
+    "Au Ag Cu Zn Pb | copper | gold | lead | silver | zinc",
+    9
+   ]
+  ],
+  "Cu Au Fe": [
+   [
+    "Cu Au Fe | copper | gold | iron",
+    6
+   ]
+  ],
+  "Hg W": [
+   [
+    "Hg W | mercury | tungsten",
+    6
+   ]
+  ],
+  "Au Ag Pb Zn": [
+   [
+    "Au Ag Pb Zn | gold | lead | silver | zinc",
+    16
+   ]
+  ],
+  "Cu Ag Au Co Mo": [
+   [
+    "Cu Ag Au Co Mo | cobalt | copper | gold | molybdenum | silver",
+    1
+   ]
+  ],
+  "Hg Cr Au Ni": [
+   [
+    "Hg Cr Au Ni | chromium | gold | mercury | nickel",
+    3
+   ]
+  ],
+  "Zn Pb Au Ag Cu": [
+   [
+    "Zn Pb Au Ag Cu | copper | gold | lead | silver | zinc",
+    10
+   ]
+  ],
+  "deminsion SC": [
+   [
+    "crushed | deminsion SC | stone",
+    1
+   ]
+  ],
+  "Cu Ag Mo W Pb": [
+   [
+    "Cu Ag Mo W Pb | copper | lead | molybdenum | silver | tungsten",
+    1
+   ]
+  ],
+  "Au Ag Sb Cu": [
+   [
+    "Au Ag Sb Cu | antimony | copper | gold | silver",
+    7
+   ]
+  ],
+  "Au Ag Cu Zn Co As Ni": [
+   [
+    "Au Ag Cu Zn Co As Ni | arsenic | cobalt | copper | gold | nickel | silver | zinc",
+    1
+   ]
+  ],
+  "basalt gravel": [
+   [
+    "basalt gravel | sand and gravel",
+    2
+   ],
+   [
+    "basalt gravel | crushed | stone",
+    1
+   ]
+  ],
+  "Au Ag Cu Te U": [
+   [
+    "Au Ag Cu Te U | copper | gold | silver | tellurium | uranium",
+    1
+   ]
+  ],
+  "Au Ag Pb Zn Cu Sb As": [
+   [
+    "Au Ag Pb Zn Cu Sb As | antimony | arsenic | copper | gold | lead | silver | zinc",
+    6
+   ]
+  ],
+  "Au Cu Pb Zn": [
+   [
+    "Au Cu Pb Zn | copper | gold | lead | zinc",
+    1
+   ]
+  ],
+  "Au Ag Cu Mn": [
+   [
+    "Au Ag Cu Mn | copper | gold | manganese | silver",
+    3
+   ]
+  ],
+  "Au Cu Pb Ag Zn": [
+   [
+    "Au Cu Pb Ag Zn | copper | gold | lead | silver | zinc",
+    2
+   ]
+  ],
+  "Cr Ni": [
+   [
+    "Cr Ni | chromium | nickel",
+    6
+   ]
+  ],
+  "Au Wo": [
+   [
+    "Au Wo | gold | tungsten",
+    2
+   ]
+  ],
+  "Ag SC": [
+   [
+    "Ag SC | silver",
+    1
+   ]
+  ],
+  "Cr Pt Pd Rh": [
+   [
+    "Cr Pt Pd Rh | chromium | palladium | platinum | rhenium",
+    4
+   ]
+  ],
+  "quartz crystal": [
+   [
+    "quartz crystal | quartz crystal and optical calcite",
+    1
+   ]
+  ],
+  "quartz crystal and optical calcite": [
+   [
+    "quartz | quartz crystal and optical calcite",
+    3
+   ],
+   [
+    "quartz crystal | quartz crystal and optical calcite",
+    1
+   ],
+   [
+    "gold | quartz Au | quartz crystal and optical calcite",
+    1
+   ],
+   [
+    "quartz crystal and optical calcite | quartz serpentine | serpentine",
+    1
+   ]
+  ],
+  "Au Pb Ag Mn": [
+   [
+    "Au Pb Ag Mn | gold | lead | manganese | silver",
+    1
+   ]
+  ],
+  "Hg Sb Cu Au Ag": [
+   [
+    "Hg Sb Cu Au Ag | antimony | copper | gold | mercury | silver",
+    1
+   ]
+  ],
+  "Au Ag Pb As": [
+   [
+    "Au Ag Pb As | arsenic | gold | lead | silver",
+    2
+   ]
+  ],
+  "Hg Ba Cu": [
+   [
+    "Hg Ba Cu | barium | copper | mercury",
+    14
+   ]
+  ],
+  "Pb Zn Cu Au Ag": [
+   [
+    "Pb Zn Cu Au Ag | copper | gold | lead | silver | zinc",
+    13
+   ]
+  ],
+  "jasper Au": [
+   [
+    "gem materials | gold | jasper Au",
+    3
+   ]
+  ],
+  "aluminum": [
+   [
+    "Al Fe | aluminum | iron",
+    6
+   ],
+   [
+    "Al Fe Ti | aluminum | iron | titanium",
+    4
+   ],
+   [
+    "Ti Al | aluminum | titanium",
+    1
+   ],
+   [
+    "Al Ti P Fe | aluminum | iron | phosphorus | titanium",
+    1
+   ],
+   [
+    "aluminum",
+    1
+   ],
+   [
+    "Al Ti | aluminum | titanium",
+    1
+   ],
+   [
+    "Al Fe P Si Ti | aluminum | iron | phosphorus | silica | titanium",
+    1
+   ],
+   [
+    "Fe Al | aluminum | iron",
+    1
+   ]
+  ],
+  "Au Ag Cu As": [
+   [
+    "Au Ag Cu As | arsenic | copper | gold | silver",
+    15
+   ]
+  ],
+  "sandstone": [
+   [
+    "crushed | sandstone | stone",
+    8
+   ],
+   [
+    "sandstone | silica sand and pebbles",
+    1
+   ]
+  ],
+  "quartz zeolite": [
+   [
+    "gem materials | quartz zeolite",
+    1
+   ]
+  ],
+  "Au Zn Cu A": [
+   [
+    "Au Zn Cu A | gold | zinc",
+    8
+   ]
+  ],
+  "Ni Co": [
+   [
+    "Ni Co | cobalt | nickel",
+    1
+   ]
+  ],
+  "Cu Ag Pb Au": [
+   [
+    "Cu Ag Pb Au | copper | gold | lead | silver",
+    1
+   ]
+  ],
+  "coal clay": [
+   [
+    "clays | coal clay | energy minerals",
+    2
+   ]
+  ],
+  "Fe Ti": [
+   [
+    "Fe Ti | iron | titanium",
+    3
+   ]
+  ],
+  "Au Ag Cu Mo": [
+   [
+    "Au Ag Cu Mo | copper | gold | molybdenum | silver",
+    5
+   ]
+  ],
+  "Zn Cu": [
+   [
+    "Zn Cu | copper | zinc",
+    3
+   ]
+  ],
+  "Au Ag Te Bi": [
+   [
+    "Au Ag Te Bi | bismuth | gold | silver | tellurium",
+    5
+   ]
+  ],
+  "quartz crystals and opitcal calcite": [
+   [
+    "Ca Au | quartz crystals and opitcal calcite",
+    1
+   ],
+   [
+    "Ca | quartz crystals and opitcal calcite",
+    1
+   ]
+  ],
+  "Cu Mo Ag Au Pb": [
+   [
+    "Cu Mo Ag Au Pb | copper | gold | lead | molybdenum | silver",
+    1
+   ]
+  ],
+  "serpentine": [
+   [
+    "crushed | serpentine | stone",
+    2
+   ],
+   [
+    "quartz crystal and optical calcite | quartz serpentine | serpentine",
+    1
+   ]
+  ],
+  "Cu Mo": [
+   [
+    "Cu Mo | copper | molybdenum",
+    8
+   ]
+  ],
+  "Cr Pd": [
+   [
+    "Cr Pd | chromium | palladium",
+    5
+   ]
+  ],
+  "limestone clay cement": [
+   [
+    "cement materials | limestone clay cement",
+    1
+   ]
+  ],
+  "Au Ag Cu Sb Hg": [
+   [
+    "Au Ag Cu Sb Hg | antimony | copper | gold | mercury | silver",
+    1
+   ]
+  ],
+  "Au Ag As Cu": [
+   [
+    "Au Ag As Cu | arsenic | copper | gold | silver",
+    4
+   ]
+  ],
+  "Au Ag As Cu Pb Zn Mo": [
+   [
+    "Au Ag As Cu Pb Zn Mo | arsenic | copper | gold | lead | molybdenum | silver | zinc",
+    1
+   ]
+  ],
+  "Au Mo Cu Ag": [
+   [
+    "Au Mo Cu Ag | copper | gold | molybdenum | silver",
+    6
+   ]
+  ],
+  "Au Ag Zn Cu Co Ni": [
+   [
+    "Au Ag Zn Cu Co Ni | cobalt | copper | gold | nickel | silver | zinc",
+    2
+   ]
+  ],
+  "Au Pb Zn": [
+   [
+    "Au Pb Zn | gold | lead | zinc",
+    2
+   ]
+  ],
+  "Au Cu As": [
+   [
+    "Au Cu As | arsenic | copper | gold",
+    1
+   ]
+  ],
+  "Au Ag Zn Pb Cu Sb": [
+   [
+    "Au Ag Zn Pb Cu Sb | antimony | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "CS": [
+   [
+    "CS | crushed | stone",
+    6
+   ]
+  ],
+  "Au Cu Ag Pb Zn": [
+   [
+    "Au Cu Ag Pb Zn | copper | gold | silver | zinc",
+    1
+   ]
+  ],
+  "SD picture rock": [
+   [
+    "SD picture rock | dimension | stone",
+    7
+   ]
+  ],
+  "Ag Au As Zn Pb Cu Sb": [
+   [
+    "Ag Au As Zn Pb Cu Sb | antimony | arsenic | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Cu Mo Zn Pb": [
+   [
+    "Cu Mo Zn Pb | copper | lead | molybdenum | zinc",
+    1
+   ]
+  ],
+  "tuff": [
+   [
+    "crushed | stone | tuff",
+    4
+   ]
+  ],
+  "Au Ag As Pb Zn Cu": [
+   [
+    "Au Ag As Pb Zn Cu | arsenic | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Au Pt Cr Hg Ir": [
+   [
+    "Au Pt Cr Hg Ir | chromium | gold | iridium | mercury | platinum",
+    1
+   ]
+  ],
+  "Cu Ag Mo": [
+   [
+    "Cu Ag Mo | copper | molybdenum | silver",
+    3
+   ]
+  ],
+  "Au As Cu": [
+   [
+    "Au As Cu | arsenic | copper | gold",
+    1
+   ]
+  ],
+  "pyrite": [
+   [
+    "pyrite",
+    9
+   ],
+   [
+    "calcite | pyrite | pyrite calcite",
+    1
+   ]
+  ],
+  "Au Ag Cu Hg Zn As Sb": [
+   [
+    "Au Ag Cu Hg Zn As Sb | antimony | arsenic | copper | gold | mercury | silver | zinc",
+    5
+   ]
+  ],
+  "Au As": [
+   [
+    "Au As | arsenic | gold",
+    6
+   ]
+  ],
+  "Au Pt Cr": [
+   [
+    "Au Pt Cr | chromium | gold | platinum",
+    7
+   ]
+  ],
+  "Au As Pb Zn": [
+   [
+    "Au As Pb Zn | arsenic | gold | lead | zinc",
+    3
+   ]
+  ],
+  "granite rip rap": [
+   [
+    "crushed | granite rip rap | stone",
+    1
+   ]
+  ],
+  "Zn Au Ag": [
+   [
+    "Zn Au Ag | gold | silver | zinc",
+    2
+   ]
+  ],
+  "Cu Zn Au Ag": [
+   [
+    "Cu Zn Au Ag | copper | gold | silver | zinc",
+    5
+   ]
+  ],
+  "Cu Ag Au Zn": [
+   [
+    "Cu Ag Au Zn | copper | gold | silver | zinc",
+    10
+   ]
+  ],
+  "Na": [
+   [
+    "Na | salt",
+    3
+   ]
+  ],
+  "salt": [
+   [
+    "Na | salt",
+    3
+   ],
+   [
+    "salt | sodium",
+    3
+   ],
+   [
+    "saline brines | salt",
+    2
+   ],
+   [
+    "B borates Na | borax and borates | salt",
+    1
+   ]
+  ],
+  "Cu Mo Pb": [
+   [
+    "Cu Mo Pb | copper | lead | molybdenum",
+    1
+   ]
+  ],
+  "decomposed granite": [
+   [
+    "basalt base | crushed | decomposed granite | stone",
+    1
+   ]
+  ],
+  "coal-ex": [
+   [
+    "coal-ex | energy minerals",
+    1
+   ]
+  ],
+  "clay Hg": [
+   [
+    "clay Hg | clays | mercury",
+    1
+   ]
+  ],
+  "Ni Cr Co Cu Au Ag": [
+   [
+    "Ni Cr Co Cu Au Ag | chromium | cobalt | copper | gold | nickel | silver",
+    6
+   ]
+  ],
+  "agate Au": [
+   [
+    "agate Au | gem materials | gold",
+    2
+   ]
+  ],
+  "Cu Au Ag Zn Ni": [
+   [
+    "Cu Au Ag Zn Ni | copper | gold | nickel | silver | zinc",
+    3
+   ]
+  ],
+  "Au Ag Pb Zn Cu Sb": [
+   [
+    "Au Ag Pb Zn Cu Sb | antimony | copper | gold | lead | silver | zinc",
+    4
+   ]
+  ],
+  "Fe Au Ag": [
+   [
+    "Fe Au Ag | gold | iron | silver",
+    2
+   ]
+  ],
+  "Au Cu Pb Hg": [
+   [
+    "Au Cu Pb Hg | copper | gold | lead | mercury",
+    1
+   ]
+  ],
+  "Fe Mn": [
+   [
+    "Fe Mn | iron | manganese",
+    8
+   ]
+  ],
+  "Au Zn Sb Pb Cu": [
+   [
+    "Au Zn Sb Pb Cu | antimony | copper | gold | lead | zinc",
+    1
+   ]
+  ],
+  "sandstone base": [
+   [
+    "crushed | sandstone base | stone",
+    2
+   ]
+  ],
+  "SC rubble": [
+   [
+    "SC rubble | crushed | stone",
+    1
+   ]
+  ],
+  "feldspar": [
+   [
+    "feldspar | gem materials",
+    2
+   ],
+   [
+    "Au feldspar | feldspar | gold",
+    1
+   ]
+  ],
+  "Ca": [
+   [
+    "Ca | quartz crystals and optical calcite",
+    11
+   ],
+   [
+    "Ca | quartz crystals and opitcal calcite",
+    1
+   ]
+  ],
+  "Au Cu As Ag Pb Zn": [
+   [
+    "Au Cu As Ag Pb Zn | arsenic | copper | gold | lead | silver | zinc",
+    4
+   ]
+  ],
+  "Zn Cu Au Ag": [
+   [
+    "Zn Cu Au Ag | copper | gold | silver | zinc",
+    5
+   ]
+  ],
+  "erionite": [
+   [
+    "erionite | natural zeolite",
+    12
+   ]
+  ],
+  "Au Ag Pb Zn Cu As": [
+   [
+    "Au Ag Pb Zn Cu As | arsenic | copper | gold | lead | silver | zinc",
+    3
+   ]
+  ],
+  "Au Ag Cu Zn As Co": [
+   [
+    "Au Ag Cu Zn As Co | arsenic | cobalt | copper | gold | silver | zinc",
+    1
+   ]
+  ],
+  "Cu Pb Mo SC": [
+   [
+    "Cu Pb Mo SC | copper | crushed | lead | molybdenum | stone",
+    1
+   ]
+  ],
+  "Au Ag As Zn": [
+   [
+    "Au Ag As Zn | arsenic | gold | silver | zinc",
+    7
+   ]
+  ],
+  "Ag Au Pb Zn Cu": [
+   [
+    "Ag Au Pb Zn Cu | copper | gold | lead | silver | zinc",
+    2
+   ]
+  ],
+  "Cu Au Ag Zn Co Ni As": [
+   [
+    "Cu Au Ag Zn Co Ni As | arsenic | cobalt | copper | gold | nickel | silver | zinc",
+    6
+   ]
+  ],
+  "Au Pt Ni": [
+   [
+    "Au Pt Ni | gold | nickel | platinum",
+    2
+   ]
+  ],
+  "gravel basalt bar run": [
+   [
+    "gravel basalt bar run | sand and gravel",
+    5
+   ]
+  ],
+  "Au Ag Pb Cu As": [
+   [
+    "Au Ag Pb Cu As | arsenic | copper | gold | lead | silver",
+    1
+   ]
+  ],
+  "Pb Zn Cu": [
+   [
+    "Pb Zn Cu | copper | lead | zinc",
+    1
+   ]
+  ],
+  "Au Ag Mn": [
+   [
+    "Au Ag Mn | gold | manganese | silver",
+    11
+   ]
+  ],
+  "Hg As Sb S Au-ex": [
+   [
+    "Hg As Sb S Au-ex | antimony | arsenic | gold | mercury | sulfur",
+    6
+   ]
+  ],
+  "sulfur": [
+   [
+    "Hg As Sb S Au-ex | antimony | arsenic | gold | mercury | sulfur",
+    6
+   ]
+  ],
+  "bentonite diatomite": [
+   [
+    "bentonite diatomite | oil drilling materials and fillers",
+    1
+   ]
+  ],
+  "cristobalite": [
+   [
+    "cristobalite | silica sand and pebbles",
+    3
+   ]
+  ],
+  "SD tuff": [
+   [
+    "SD tuff | dimension | stone",
+    9
+   ]
+  ],
+  "Sb Pb Au Ag Cu": [
+   [
+    "Sb Pb Au Ag Cu | antimony | copper | gold | lead | silver",
+    1
+   ]
+  ],
+  "Cu Mn Au Ag": [
+   [
+    "Cu Mn Au Ag | copper | gold | manganese | silver",
+    1
+   ]
+  ],
+  "Ag Cu": [
+   [
+    "Ag Cu | copper | silver",
+    9
+   ]
+  ],
+  "heulandite": [
+   [
+    "heulandite | natural zeolite",
+    2
+   ]
+  ],
+  "Cu Pb Mo Zn": [
+   [
+    "Cu Pb Mo Zn | copper | lead | molybdenum | zinc",
+    2
+   ]
+  ],
+  "Ag Au Zn Sb": [
+   [
+    "Ag Au Zn Sb | antimony | gold | silver | zinc",
+    1
+   ]
+  ],
+  "Ti Al": [
+   [
+    "Ti Al | aluminum | titanium",
+    1
+   ]
+  ],
+  "Hg Au Cu Ag": [
+   [
+    "Hg Au Cu Ag | copper | gold | mercury | silver",
+    2
+   ]
+  ],
+  "Cu Ag Pb Mo Au": [
+   [
+    "Cu Ag Pb Mo Au | copper | gold | lead | molybdenum | silver",
+    1
+   ]
+  ],
+  "Cu Pb Zn V": [
+   [
+    "Cu Pb Zn V | copper | lead | vanadium | zinc",
+    1
+   ]
+  ],
+  "vanadium": [
+   [
+    "Cu Pb Zn V | copper | lead | vanadium | zinc",
+    1
+   ],
+   [
+    "Au Cu V | copper | gold | vanadium",
+    1
+   ]
+  ],
+  "bar run fill": [
+   [
+    "bar run fill | sand and gravel",
+    3
+   ]
+  ],
+  "Au As Cu Pb Ag Zn": [
+   [
+    "Au As Cu Pb Ag Zn | arsenic | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Au U Hg": [
+   [
+    "Au U Hg | gold | mercury | uranium",
+    2
+   ]
+  ],
+  "Au Pt Ir": [
+   [
+    "Au Pt Ir | gold | iridium | platinum",
+    3
+   ]
+  ],
+  "Ti Fe Zr": [
+   [
+    "Ti Fe Zr | iron | titanium | zirconium",
+    1
+   ]
+  ],
+  "zirconium": [
+   [
+    "Ti Fe Zr | iron | titanium | zirconium",
+    1
+   ],
+   [
+    "Fe Ti Cr Zr | chromium | iron | titanium | zirconium",
+    1
+   ]
+  ],
+  "plant site": [
+   [
+    "plant site | sand and gravel",
+    1
+   ]
+  ],
+  "Cr Pd Pt Rh": [
+   [
+    "Cr Pd Pt Rh | chromium | palladium | platinum | rhenium",
+    1
+   ]
+  ],
+  "Au Ag Cu Zn Mo": [
+   [
+    "Au Ag Cu Zn Mo | copper | gold | molybdenum | silver | zinc",
+    5
+   ]
+  ],
+  "Au Ag Hg": [
+   [
+    "Au Ag Hg | gold | mercury | silver",
+    3
+   ]
+  ],
+  "Au Ag Zn As Cu Sb Pb": [
+   [
+    "Au Ag Zn As Cu Sb Pb | antimony | arsenic | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Sb Fe W": [
+   [
+    "Sb Fe W | antimony | iron | tungsten",
+    1
+   ]
+  ],
+  "Au Sb": [
+   [
+    "Au Sb | antimony | gold",
+    6
+   ]
+  ],
+  "Pb Zn Ag Au Cu": [
+   [
+    "Pb Zn Ag Au Cu | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Au Fe Ti": [
+   [
+    "Au Fe Ti | gold | iron | titanium",
+    1
+   ]
+  ],
+  "Au Ag As Mo": [
+   [
+    "Au Ag As Mo | arsenic | gold | molybdenum | silver",
+    1
+   ]
+  ],
+  "Cu Ag Mo Au": [
+   [
+    "Cu Ag Mo Au | copper | gold | molybdenum | silver",
+    4
+   ]
+  ],
+  "Ni Cr Co": [
+   [
+    "Ni Cr Co | chromium | cobalt | nickel",
+    9
+   ]
+  ],
+  "Au Cu Ag Pb Zn Sb Ba": [
+   [
+    "Au Cu Ag Pb Zn Sb Ba | antimony | barium | copper | gold | lead | silver | zinc",
+    4
+   ]
+  ],
+  "Cr Pt Pl Rh": [
+   [
+    "Cr Pt Pl Rh | chromium | palladium | platinum | rhodium",
+    4
+   ]
+  ],
+  "Cr Pt Rh": [
+   [
+    "Cr Pt Rh | chromium | platinum | rhenium",
+    3
+   ]
+  ],
+  "Au W": [
+   [
+    "Au W | gold | tungsten",
+    10
+   ]
+  ],
+  "Zn Pb Au Ag": [
+   [
+    "Zn Pb Au Ag | gold | lead | silver | zinc",
+    4
+   ]
+  ],
+  "Au Cu Ag Zn": [
+   [
+    "Au Cu Ag Zn | copper | gold | zinc",
+    1
+   ],
+   [
+    "Au Cu Ag Zn | copper | gold | silver | zinc",
+    1
+   ]
+  ],
+  "Au Ag Sb As Zn": [
+   [
+    "Au Ag Sb As Zn | antimony | arsenic | gold | silver | zinc",
+    1
+   ]
+  ],
+  "picture rock Au Hg": [
+   [
+    "gem materials | gold | mercury | picture rock Au Hg",
+    1
+   ]
+  ],
+  "blueschist": [
+   [
+    "blueschist | crushed | stone",
+    1
+   ]
+  ],
+  "augite": [
+   [
+    "augite | gem materials",
+    1
+   ]
+  ],
+  "Cu Mo Wo": [
+   [
+    "Cu Mo Wo | copper | molybdenum | tungsten",
+    1
+   ]
+  ],
+  "Au Cu Pb Ag": [
+   [
+    "Au Cu Pb Ag | copper | gold | lead | silver",
+    2
+   ]
+  ],
+  "Cr asbestos": [
+   [
+    "Cr asbestos | asbestos | chromium",
+    1
+   ]
+  ],
+  "Au feldspar": [
+   [
+    "Au feldspar | feldspar | gold",
+    1
+   ]
+  ],
+  "Au Pb": [
+   [
+    "Au Pb | gold | lead",
+    3
+   ]
+  ],
+  "rip-rap": [
+   [
+    "crushed | rip-rap | stone",
+    5
+   ]
+  ],
+  "W Mo": [
+   [
+    "W Mo | molybdenum | tungsten",
+    1
+   ]
+  ],
+  "ballast SC": [
+   [
+    "ballast SC | crushed | stone",
+    2
+   ]
+  ],
+  "Au Pt Cr Sn Ti": [
+   [
+    "Au Pt Cr Sn Ti | chromium | gold | platinum | tin | titanium",
+    1
+   ]
+  ],
+  "tin": [
+   [
+    "Au Pt Cr Sn Ti | chromium | gold | platinum | tin | titanium",
+    1
+   ],
+   [
+    "Sn Au | gold | tin",
+    1
+   ],
+   [
+    "Mo Sn W Pt | molybdenum | platinum | tin | tungsten",
+    1
+   ],
+   [
+    "Mo Cu Ag Au Bi Sn Te | bismuth | copper | gold | molybdenum | silver | tellurium | tin",
+    1
+   ]
+  ],
+  "Cu W Mo Au Ag": [
+   [
+    "Cu W Mo Au Ag | copper | gold | molybdenum | silver | tungsten",
+    2
+   ]
+  ],
+  "Sb Au": [
+   [
+    "Sb Au | antimony | gold",
+    3
+   ]
+  ],
+  "Mo Cu": [
+   [
+    "Mo Cu | copper | molybdenum",
+    4
+   ]
+  ],
+  "Sb Au As": [
+   [
+    "Sb Au As | antimony | arsenic | gold",
+    1
+   ]
+  ],
+  "Cu Pb": [
+   [
+    "Cu Pb | copper | lead",
+    1
+   ]
+  ],
+  "Au Zn Cu": [
+   [
+    "Au Zn Cu | copper | gold | zinc",
+    1
+   ]
+  ],
+  "Au Ag mill site": [
+   [
+    "Au Ag mill site | gold | silver",
+    1
+   ]
+  ],
+  "Au Zn Pb Cu Ag": [
+   [
+    "Au Zn Pb Cu Ag | copper | gold | lead | silver | zinc",
+    2
+   ]
+  ],
+  "Au Mo Ag": [
+   [
+    "Au Mo Ag | gold | molybdenum | silver",
+    2
+   ]
+  ],
+  "Zn Au": [
+   [
+    "Zn Au | gold | zinc",
+    3
+   ]
+  ],
+  "Cu Ag Co Au": [
+   [
+    "Cu Ag Co Au | cobalt | copper | gold | silver",
+    1
+   ]
+  ],
+  "Au Ba": [
+   [
+    "Au Ba | barium | gold",
+    4
+   ]
+  ],
+  "basalt riprap": [
+   [
+    "basalt riprap | crushed | stone",
+    5
+   ]
+  ],
+  "Cu Pb Mo W": [
+   [
+    "Cu Pb Mo W | copper | lead | molybdenum | tungsten",
+    1
+   ]
+  ],
+  "Al Ti P Fe": [
+   [
+    "Al Ti P Fe | aluminum | iron | phosphorus | titanium",
+    1
+   ]
+  ],
+  "phosphorus": [
+   [
+    "Al Ti P Fe | aluminum | iron | phosphorus | titanium",
+    1
+   ],
+   [
+    "Al Fe P Si Ti | aluminum | iron | phosphorus | silica | titanium",
+    1
+   ]
+  ],
+  "Au-ex Hg": [
+   [
+    "Au-ex Hg | gold | mercury",
+    6
+   ]
+  ],
+  "Au Pb Zn Cu As Ag": [
+   [
+    "Au Pb Zn Cu As Ag | arsenic | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Ni asbestos": [
+   [
+    "Ni asbestos | asbestos | nickel",
+    1
+   ]
+  ],
+  "Mo Ag": [
+   [
+    "Mo Ag | molybdenum | silver",
+    1
+   ]
+  ],
+  "Cr Au": [
+   [
+    "Cr Au | chromium | gold",
+    2
+   ]
+  ],
+  "Sn Au": [
+   [
+    "Sn Au | gold | tin",
+    1
+   ]
+  ],
+  "Cr Rh Pt Pl": [
+   [
+    "Cr Rh Pt Pl | chromium | palladium | platinum | rhodium",
+    1
+   ]
+  ],
+  "Au Ag Hg As Cu": [
+   [
+    "Au Ag Hg As Cu | arsenic | copper | gold | mercury | silver",
+    1
+   ]
+  ],
+  "Cu Fe": [
+   [
+    "Cu Fe | copper | iron",
+    6
+   ]
+  ],
+  "Au Ag Cu Te": [
+   [
+    "Au Ag Cu Te | copper | gold | silver | tellurium",
+    1
+   ]
+  ],
+  "B borates Na": [
+   [
+    "B borates Na | borax and borates | salt",
+    1
+   ]
+  ],
+  "borax and borates": [
+   [
+    "borates | borax and borates",
+    2
+   ],
+   [
+    "B borates Na | borax and borates | salt",
+    1
+   ]
+  ],
+  "Cu U Zn": [
+   [
+    "Cu U Zn | copper | uranium | zinc",
+    1
+   ]
+  ],
+  "Pt Ag Cr Co Ni": [
+   [
+    "Pt Ag Cr Co Ni | chromium | cobalt | nickel | platinum | silver",
+    1
+   ]
+  ],
+  "Au Ag Zn As Pb": [
+   [
+    "Au Ag Zn As Pb | arsenic | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Hg As": [
+   [
+    "Hg As | arsenic | mercury",
+    1
+   ]
+  ],
+  "erionitie": [
+   [
+    "erionitie | zeolities",
+    1
+   ]
+  ],
+  "zeolities": [
+   [
+    "erionitie | zeolities",
+    1
+   ]
+  ],
+  "Au Ag Zn Pb Cu Sb Ba": [
+   [
+    "Au Ag Zn Pb Cu Sb Ba | antimony | barium | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Au SC": [
+   [
+    "Au SC | crushed | gold | stone",
+    1
+   ]
+  ],
+  "Au-ex calcite": [
+   [
+    "Au-ex calcite | calcite | gold",
+    1
+   ]
+  ],
+  "calcite": [
+   [
+    "Au-ex calcite | calcite | gold",
+    1
+   ],
+   [
+    "calcite | pyrite | pyrite calcite",
+    1
+   ]
+  ],
+  "Au Ag Pb Cu Mn": [
+   [
+    "Au Ag Pb Cu Mn | copper | gold | lead | manganese | silver",
+    2
+   ]
+  ],
+  "U Cu": [
+   [
+    "U Cu | copper | uranium",
+    2
+   ]
+  ],
+  "chert": [
+   [
+    "chert | crushed | stone",
+    1
+   ],
+   [
+    "chert | sand and gravel",
+    1
+   ]
+  ],
+  "lignite": [
+   [
+    "energy minerals | lignite",
+    2
+   ]
+  ],
+  "Au Ag Sb As Zn Pb Cu": [
+   [
+    "Au Ag Sb As Zn Pb Cu | antimony | arsenic | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Au Cu Ag As": [
+   [
+    "Au Cu Ag As | arsenic | copper | gold | silver",
+    2
+   ]
+  ],
+  "Fe Ti Cr": [
+   [
+    "Fe Ti Cr | chromium | iron | titanium",
+    1
+   ]
+  ],
+  "Ti Fe": [
+   [
+    "Ti Fe | iron | titanium",
+    3
+   ]
+  ],
+  "Ni Co Cu": [
+   [
+    "Ni Co Cu | cobalt | copper | nickel",
+    1
+   ]
+  ],
+  "concrete bar run": [
+   [
+    "concrete bar run | sand and gravel",
+    1
+   ]
+  ],
+  "Hg Ba": [
+   [
+    "Hg Ba | barium | mercury",
+    3
+   ]
+  ],
+  "Wo": [
+   [
+    "Wo | tungsten",
+    3
+   ]
+  ],
+  "Au Zn Ag": [
+   [
+    "Au Zn Ag | gold | silver | zinc",
+    1
+   ]
+  ],
+  "Cu Zn Pb Ag": [
+   [
+    "Cu Zn Pb Ag | copper | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Cu Au Ag Zn": [
+   [
+    "Cu Au Ag Zn | copper | gold | silver | zinc",
+    6
+   ]
+  ],
+  "U Cu Mo": [
+   [
+    "U Cu Mo | copper | molybdenum | uranium",
+    1
+   ]
+  ],
+  "Au Mn Ag": [
+   [
+    "Au Mn Ag | gold | manganese | silver",
+    2
+   ]
+  ],
+  "Zn": [
+   [
+    "Zn | copper | gold | lead | zine",
+    1
+   ]
+  ],
+  "zine": [
+   [
+    "Zn | copper | gold | lead | zine",
+    1
+   ]
+  ],
+  "Sb Au Ag": [
+   [
+    "Sb Au Ag | antimony | gold | silver",
+    3
+   ]
+  ],
+  "Au talc": [
+   [
+    "Au talc | gold | talc",
+    3
+   ]
+  ],
+  "magnesite": [
+   [
+    "magnesite | magnesite and related minerals",
+    1
+   ]
+  ],
+  "magnesite and related minerals": [
+   [
+    "magnesite | magnesite and related minerals",
+    1
+   ]
+  ],
+  "Au Ag As Pb Cu": [
+   [
+    "Au Ag As Pb Cu | arsenic | copper | gold | lead | silver",
+    1
+   ]
+  ],
+  "limestone clay": [
+   [
+    "cement materials | limestone clay",
+    1
+   ]
+  ],
+  "Ag Au Cu Pb Zn": [
+   [
+    "Ag Au Cu Pb Zn | copper | gold | lead | silver | zinc",
+    2
+   ]
+  ],
+  "basalt fill": [
+   [
+    "basalt fill | crushed | stone",
+    4
+   ]
+  ],
+  "telurium": [
+   [
+    "Au Ag Te | gold | silver | telurium",
+    2
+   ]
+  ],
+  "Au Ag Cu Mn Te": [
+   [
+    "Au Ag Cu Mn Te | copper | gold | manganese | silver | tellurium",
+    2
+   ]
+  ],
+  "sodium nitrate": [
+   [
+    "nitrogen compounds | sodium nitrate",
+    1
+   ]
+  ],
+  "Ag Cu Au Pb Zn Ba": [
+   [
+    "Ag Cu Au Pb Zn Ba | barium | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Au Ag Pb W": [
+   [
+    "Au Ag Pb W | gold | lead | silver | tungsten",
+    3
+   ]
+  ],
+  "N Na": [
+   [
+    "N Na | nitrogen compounds | sodium",
+    1
+   ]
+  ],
+  "sodium": [
+   [
+    "salt | sodium",
+    3
+   ],
+   [
+    "N Na | nitrogen compounds | sodium",
+    1
+   ]
+  ],
+  "Au Ag Cu As Zn": [
+   [
+    "Au Ag Cu As Zn | arsenic | copper | gold | silver | zinc",
+    2
+   ]
+  ],
+  "Au Ag Zn Cu Pb": [
+   [
+    "Au Ag Zn Cu Pb | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "U Ag": [
+   [
+    "U Ag | silver | uranium",
+    1
+   ]
+  ],
+  "borates": [
+   [
+    "borates | borax and borates",
+    2
+   ]
+  ],
+  "granite base": [
+   [
+    "crushed | granite base | stone",
+    2
+   ]
+  ],
+  "Au Ag Pb Sb": [
+   [
+    "Au Ag Pb Sb | antimony | gold | lead | silver",
+    2
+   ]
+  ],
+  "Ni Cr Co Ag": [
+   [
+    "Ni Cr Co Ag | chromium | cobalt | nickel | silver",
+    1
+   ]
+  ],
+  "Au Cu Zn Pb": [
+   [
+    "Au Cu Zn Pb | copper | gold | lead | zinc",
+    2
+   ]
+  ],
+  "Au Ag S": [
+   [
+    "Au Ag S | G | gold | sand and gravel",
+    2
+   ],
+   [
+    "Au Ag S | G | gold | sand and gravel | silver",
+    2
+   ]
+  ],
+  "jasper Au Ag": [
+   [
+    "gem materials | gold | jasper Au Ag | silver",
+    1
+   ]
+  ],
+  "silica sand clay": [
+   [
+    "silica sand and pebbles | silica sand clay",
+    1
+   ]
+  ],
+  "pyrite calcite": [
+   [
+    "calcite | pyrite | pyrite calcite",
+    1
+   ]
+  ],
+  "Cu Pb Zn": [
+   [
+    "Cu Pb Zn | copper | lead | zinc",
+    2
+   ]
+  ],
+  "Au Ag Zn Cu": [
+   [
+    "Au Ag Zn Cu | copper | gold | silver | zinc",
+    1
+   ]
+  ],
+  "asphalt aggregate": [
+   [
+    "asphalt aggregate | crushed | stone",
+    3
+   ]
+  ],
+  "zeolite minerals SD": [
+   [
+    "natural zeolite | zeolite minerals SD",
+    3
+   ]
+  ],
+  "Au As Cu Pb Zn Ag": [
+   [
+    "Au As Cu Pb Zn Ag | arsenic | copper | gold | lead | silver | zinc",
+    2
+   ]
+  ],
+  "Cu Cr Ni": [
+   [
+    "Cu Cr Ni | chromium | copper | nickel",
+    1
+   ]
+  ],
+  "graphite": [
+   [
+    "graphite | refractory",
+    1
+   ]
+  ],
+  "refractory": [
+   [
+    "graphite | refractory",
+    1
+   ]
+  ],
+  "Au Pt Cr Hg": [
+   [
+    "Au Pt Cr Hg | chromium | gold | mercury | platinum",
+    1
+   ]
+  ],
+  "Au Ag Zn Pb Cu Sb As": [
+   [
+    "Au Ag Zn Pb Cu Sb As | antimony | arsenic | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "bentonite gypsum": [
+   [
+    "bentonite gypsum | oil drilling materials and fillers",
+    1
+   ]
+  ],
+  "Au Ag Pt Cr": [
+   [
+    "Au Ag Pt Cr | chromium | gold | platinum | silver",
+    1
+   ]
+  ],
+  "Au Sb Wo": [
+   [
+    "Au Sb Wo | antimony | gold | tungsten",
+    1
+   ]
+  ],
+  "Hg Au-ex": [
+   [
+    "Hg Au-ex | gold | mercury",
+    2
+   ]
+  ],
+  "Au Pt Mo": [
+   [
+    "Au Pt Mo | gold | molybdenum | platinum",
+    1
+   ]
+  ],
+  "Au Ag Pb Mn": [
+   [
+    "Au Ag Pb Mn | gold | lead | manganese | silver",
+    1
+   ]
+  ],
+  "volcanic gravel": [
+   [
+    "sand and gravel | volcanic gravel",
+    1
+   ]
+  ],
+  "Au Mo": [
+   [
+    "Au Mo | gold | molybdenum",
+    3
+   ]
+  ],
+  "Au Cu Ag Au": [
+   [
+    "Au Cu Ag Au | copper | gold | silver",
+    1
+   ]
+  ],
+  "Cu Au Ba": [
+   [
+    "Cu Au Ba | barium | copper | gold",
+    3
+   ]
+  ],
+  "jasper Au exploration": [
+   [
+    "gem materials | gold | jasper Au exploration",
+    2
+   ]
+  ],
+  "Au Ag Zn Sb": [
+   [
+    "Au Ag Zn Sb | antimony | gold | silver | zinc",
+    4
+   ]
+  ],
+  "Ag Cu Au": [
+   [
+    "Ag Cu Au | copper | gold | silver",
+    2
+   ]
+  ],
+  "Ag Pb Au Cu Mo Zn": [
+   [
+    "Ag Pb Au Cu Mo Zn | copper | gold | lead | molybdenum | silver | zinc",
+    2
+   ]
+  ],
+  "Mo Bi Te": [
+   [
+    "Mo Bi Te | bismuth | molybdenum | tellurium",
+    1
+   ]
+  ],
+  "Au Zn Cu Pb As": [
+   [
+    "Au Zn Cu Pb As | arsenic | copper | gold | lead | zinc",
+    1
+   ]
+  ],
+  "Zn Pb Cu Au Ag Ba": [
+   [
+    "Zn Pb Cu Au Ag Ba | barium | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "quartz stilbite": [
+   [
+    "gem materials | quartz stilbite",
+    1
+   ]
+  ],
+  "Au Ag Cu As Zn Pb": [
+   [
+    "Au Ag Cu As Zn Pb | arsenic | copper | gold | lead | silver | zinc",
+    2
+   ]
+  ],
+  "Cu Mo Ag Zn": [
+   [
+    "Cu Mo Ag Zn | copper | molybdenum | silver | zinc",
+    1
+   ]
+  ],
+  "fire clay (refractory)": [
+   [
+    "clays | fire clay (refractory)",
+    1
+   ]
+  ],
+  "Au Cu Hg Ag": [
+   [
+    "Au Cu Hg Ag | copper | gold | mercury | silver",
+    5
+   ]
+  ],
+  "Au Ag Cu As Hg Sb": [
+   [
+    "Au Ag Cu As Hg Sb | antimony | arsenic | copper | gold | mercury | silver",
+    6
+   ]
+  ],
+  "Au Mn Pb": [
+   [
+    "Au Mn Pb | gold | lead | manganese",
+    1
+   ]
+  ],
+  "Zn Pb Cu Au Ag": [
+   [
+    "Zn Pb Cu Au Ag | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "pit run": [
+   [
+    "pit run | sand and gravel",
+    5
+   ]
+  ],
+  "Cu Co Au": [
+   [
+    "Cu Co Au | cobalt | copper | gold",
+    2
+   ]
+  ],
+  "U Cu Au Ag": [
+   [
+    "U Cu Au Ag | copper | gold | silver | uranium",
+    1
+   ]
+  ],
+  "Mn Au": [
+   [
+    "Mn Au | gold | manganese ore",
+    4
+   ]
+  ],
+  "U As Sb Hg Pb Mo": [
+   [
+    "U As Sb Hg Pb Mo | antimony | arsenic | lead | mercury | molybdenum | uranium",
+    1
+   ]
+  ],
+  "Fe Ti Cr Ni": [
+   [
+    "Fe Ti Cr Ni | chromium | iron | nickel | titanium",
+    1
+   ]
+  ],
+  "Hg Sb Au": [
+   [
+    "Hg Sb Au | antimony | gold | mercury",
+    1
+   ]
+  ],
+  "Cu Au Pb Zn": [
+   [
+    "Cu Au Pb Zn | copper | gold | lead | zinc",
+    1
+   ]
+  ],
+  "Au Cu V": [
+   [
+    "Au Cu V | copper | gold | vanadium",
+    1
+   ]
+  ],
+  "Cr Pt": [
+   [
+    "Cr Pt | chromium | platinum",
+    2
+   ]
+  ],
+  "Au Pb Ag Zn": [
+   [
+    "Au Pb Ag Zn | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "clay fill": [
+   [
+    "clay fill | sand and gravel",
+    1
+   ]
+  ],
+  "Mo Cu W": [
+   [
+    "Mo Cu W | copper | molybdenum | tungsten",
+    1
+   ]
+  ],
+  "Cu Au Mo Ag": [
+   [
+    "Cu Au Mo Ag | copper | gold | molybdenum | silver",
+    1
+   ]
+  ],
+  "Ni Fe Cr Co": [
+   [
+    "Ni Fe Cr Co | chromium | cobalt | iron | nickel",
+    1
+   ]
+  ],
+  "argillite": [
+   [
+    "argillite | crushed | stone",
+    1
+   ]
+  ],
+  "Au Ag Pt Ir": [
+   [
+    "Au Ag Pt Ir | gold | iridium | platinum | silver",
+    1
+   ]
+  ],
+  "Au Sb Cu Pb Zn": [
+   [
+    "Au Sb Cu Pb Zn | antimony | copper | gold | lead | zinc",
+    1
+   ]
+  ],
+  "Cu Zn Ag Au": [
+   [
+    "Cu Zn Ag Au | copper | gold | silver | zinc",
+    1
+   ]
+  ],
+  "basalt concrete aggregate": [
+   [
+    "basalt concrete aggregate | crushed | stone",
+    4
+   ]
+  ],
+  "metal-ex": [
+   [
+    "metal | metal-ex",
+    2
+   ]
+  ],
+  "clay high alumina": [
+   [
+    "clay high alumina | clays",
+    1
+   ]
+  ],
+  "W Ag Au": [
+   [
+    "W Ag Au | gold | silver | tungsten",
+    1
+   ]
+  ],
+  "opalite Au": [
+   [
+    "gem materials | gold | opalite Au",
+    1
+   ]
+  ],
+  "Au Cu Ni": [
+   [
+    "Au Cu Ni | copper | gold | nickel",
+    1
+   ]
+  ],
+  "Au Ag Hg Cu Pb": [
+   [
+    "Au Ag Hg Cu Pb | copper | gold | lead | mercury | silver",
+    1
+   ]
+  ],
+  "Au Ag Pb Pt": [
+   [
+    "Au Ag Pb Pt | gold | lead | platinum | silver",
+    1
+   ]
+  ],
+  "Ag Au Sb Cu Zn": [
+   [
+    "Ag Au Sb Cu Zn | antimony | copper | gold | silver | zinc",
+    1
+   ]
+  ],
+  "Au Zn Cu Pb": [
+   [
+    "Au Zn Cu Pb | copper | gold | lead | zinc",
+    1
+   ]
+  ],
+  "G pumice": [
+   [
+    "G pumice | S | crushed | stone",
+    1
+   ]
+  ],
+  "Cu Co Ni": [
+   [
+    "Cu Co Ni | cobalt | copper | nickel",
+    1
+   ]
+  ],
+  "Au As Pb Ag Zn": [
+   [
+    "Au As Pb Ag Zn | arsenic | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Au Ni Ag": [
+   [
+    "Au Ni Ag | gold | nickel | silver",
+    1
+   ]
+  ],
+  "Au Clay": [
+   [
+    "Au Clay | clays | gold",
+    1
+   ]
+  ],
+  "Ag Cu Au Mo": [
+   [
+    "Ag Cu Au Mo | copper | gold | molybdenum | silver",
+    1
+   ]
+  ],
+  "Au Hg Pt Ag": [
+   [
+    "Au Hg Pt Ag | gold | mercury | platinum | silver",
+    1
+   ]
+  ],
+  "Au Ag gem": [
+   [
+    "Au Ag gem | gemstones | gold | silver",
+    1
+   ]
+  ],
+  "gemstones": [
+   [
+    "Au Ag gem | gemstones | gold | silver",
+    1
+   ],
+   [
+    "Au-ex jasper | gemstones | gold",
+    1
+   ],
+   [
+    "Cu Ag Au Mo gem | copper | gemstones | gold | molybdenum | silver",
+    1
+   ]
+  ],
+  "rare earth": [
+   [
+    "rare earth",
+    1
+   ],
+   [
+    "rare earth | rare earth-ex",
+    1
+   ]
+  ],
+  "Cr Au Ag Cu": [
+   [
+    "Cr Au Ag Cu | chromium | copper | gold | silver",
+    1
+   ]
+  ],
+  "Hg silica": [
+   [
+    "Hg silica | mercury | silica",
+    1
+   ]
+  ],
+  "silica": [
+   [
+    "Hg silica | mercury | silica",
+    1
+   ],
+   [
+    "Al Fe P Si Ti | aluminum | iron | phosphorus | silica | titanium",
+    1
+   ]
+  ],
+  "Sb Hg As": [
+   [
+    "Sb Hg As | antimony | arsenic | mercury",
+    1
+   ]
+  ],
+  "Pt Fe": [
+   [
+    "Pt Fe | iron | platinum",
+    1
+   ]
+  ],
+  "agate jasper": [
+   [
+    "agate jasper | gem materials",
+    1
+   ]
+  ],
+  "Au Zn Pb Cu": [
+   [
+    "Au Zn Pb Cu | copper | gold | lead | zinc",
+    1
+   ]
+  ],
+  "Au Ag Mo Cu Zn W": [
+   [
+    "Au Ag Mo Cu Zn W | copper | gold | molybdenum | silver | tungsten | zinc",
+    1
+   ]
+  ],
+  "Au Ag Wo": [
+   [
+    "Au Ag Wo | gold | silver | tungsten",
+    1
+   ]
+  ],
+  "Ag Au Cu Mo": [
+   [
+    "Ag Au Cu Mo | copper | gold | molybdenum | silver",
+    1
+   ]
+  ],
+  "Ag Au Mo As Cu": [
+   [
+    "Ag Au Mo As Cu | arsenic | copper | gold | molybdenum | silver",
+    1
+   ]
+  ],
+  "Au Pb Zn Ag": [
+   [
+    "Au Pb Zn Ag | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Cu Co Au Ag": [
+   [
+    "Cu Co Au Ag | cobalt | copper | gold | silver",
+    1
+   ]
+  ],
+  "limestone pyrite": [
+   [
+    "cement materials | limestone pyrite",
+    1
+   ]
+  ],
+  "barite": [
+   [
+    "barite | barium minerals",
+    1
+   ]
+  ],
+  "barium minerals": [
+   [
+    "barite | barium minerals",
+    1
+   ],
+   [
+    "Ba Au | barium minerals | gold",
+    1
+   ]
+  ],
+  "Ag Au Cu": [
+   [
+    "Ag Au Cu | copper | gold | silver",
+    1
+   ]
+  ],
+  "Au Ag Stone": [
+   [
+    "Au Ag Stone | crushed | gold | silver | stone",
+    1
+   ]
+  ],
+  "Cu Ag Hg": [
+   [
+    "Cu Ag Hg | copper | mercury | silver",
+    1
+   ]
+  ],
+  "jasper agate": [
+   [
+    "gem materials | jasper agate",
+    1
+   ]
+  ],
+  "Au Pt Ag U Pt": [
+   [
+    "Au Pt Ag U Pt | gold | platinum | silver | uranium",
+    1
+   ]
+  ],
+  "clay silica sand": [
+   [
+    "clay silica sand | clays | silica sand",
+    1
+   ]
+  ],
+  "Au Hg Ba Cu": [
+   [
+    "Au Hg Ba Cu | barium | copper | gold | mercury",
+    1
+   ]
+  ],
+  "Au Pb Ag": [
+   [
+    "Au Pb Ag | gold | lead | silver",
+    1
+   ]
+  ],
+  "Au Pt Ag Os Pd Rh Ru Ir": [
+   [
+    "Au Pt Ag Os Pd Rh Ru Ir | gold | iridium | osmium | palladium | platinum | rhodium | ruthenium | silver",
+    1
+   ]
+  ],
+  "osmium": [
+   [
+    "Au Pt Ag Os Pd Rh Ru Ir | gold | iridium | osmium | palladium | platinum | rhodium | ruthenium | silver",
+    1
+   ],
+   [
+    "Au Pt Os Cr | chromium | gold | osmium | platinum",
+    1
+   ]
+  ],
+  "Hg zeolite": [
+   [
+    "Hg zeolite | mercury | zeolites",
+    3
+   ]
+  ],
+  "zeolites": [
+   [
+    "Hg zeolite | mercury | zeolites",
+    3
+   ],
+   [
+    "gem materials | jasper zeolite | zeolites",
+    1
+   ]
+  ],
+  "N nitrate": [
+   [
+    "N nitrate | nitrogen compounds",
+    1
+   ]
+  ],
+  "chlorite": [
+   [
+    "chlorite | mica",
+    1
+   ]
+  ],
+  "mica": [
+   [
+    "chlorite | mica",
+    1
+   ],
+   [
+    "mica",
+    1
+   ]
+  ],
+  "Au Ag As Cu Pb Zn": [
+   [
+    "Au Ag As Cu Pb Zn | arsenic | copper | gold | silver | zinc",
+    4
+   ]
+  ],
+  "Au Ag Cu Pb Te": [
+   [
+    "Au Ag Cu Pb Te | copper | gold | lead | silver | tellurium",
+    2
+   ]
+  ],
+  "limestone shale": [
+   [
+    "cement materials | limestone shale",
+    1
+   ]
+  ],
+  "Ag Au Zn": [
+   [
+    "Ag Au Zn | gold | silver | zinc",
+    1
+   ]
+  ],
+  "opalite": [
+   [
+    "gem materials | opalite",
+    1
+   ]
+  ],
+  "sulfur and pyrite": [
+   [
+    "S | sulfur and pyrite",
+    1
+   ]
+  ],
+  "thallium": [
+   [
+    "thallium",
+    1
+   ]
+  ],
+  "Cr Hg Ni": [
+   [
+    "Cr Hg Ni | chromium | mercury | nickel",
+    2
+   ]
+  ],
+  "geodes": [
+   [
+    "gem materials | geodes",
+    1
+   ]
+  ],
+  "oil shale": [
+   [
+    "cement materials | oil shale",
+    1
+   ]
+  ],
+  "erioinite": [
+   [
+    "erioinite | natural zeolite",
+    1
+   ]
+  ],
+  "quartz Au": [
+   [
+    "gold | quartz Au | quartz crystal and optical calcite",
+    1
+   ]
+  ],
+  "Au As Mn": [
+   [
+    "Au As Mn | arsenic | gold | manganese",
+    1
+   ]
+  ],
+  "rare earth-ex": [
+   [
+    "rare earth | rare earth-ex",
+    1
+   ]
+  ],
+  "agate jasper obsidian thunderegg": [
+   [
+    "agate jasper obsidian thunderegg | gem materials",
+    1
+   ]
+  ],
+  "Au Cu Co": [
+   [
+    "Au Cu Co | cobalt | copper | gold",
+    1
+   ]
+  ],
+  "bar run asphalt aggregate": [
+   [
+    "bar run asphalt aggregate | sand and gravel",
+    1
+   ]
+  ],
+  "Ag Au Pb Zn As": [
+   [
+    "Ag Au Pb Zn As | arsenic | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "U Mn": [
+   [
+    "U Mn | manganese | uranium",
+    1
+   ]
+  ],
+  "SC gravel": [
+   [
+    "SC gravel | crushed | stone",
+    2
+   ]
+  ],
+  "Au Cu As Ba": [
+   [
+    "Au Cu As Ba | arsenic | barium | copper | gold",
+    1
+   ]
+  ],
+  "opal thunderegg": [
+   [
+    "gem materials | opal thunderegg",
+    1
+   ]
+  ],
+  "Au Ag Pb Zn As": [
+   [
+    "Au Ag Pb Zn As | arsenic | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Ag Pb Zn Au": [
+   [
+    "Ag Pb Zn Au | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Au Ag Zn Cr": [
+   [
+    "Au Ag Zn Cr | chromium | gold | silver | zinc",
+    2
+   ]
+  ],
+  "Au Pb Ag Hg Sb Cu Zn": [
+   [
+    "Au Pb Ag Hg Sb Cu Zn | antimony | copper | gold | lead | mercury | silver | zinc",
+    2
+   ]
+  ],
+  "metzl": [
+   [
+    "metal | metzl",
+    1
+   ]
+  ],
+  "Sb Ag": [
+   [
+    "Sb Ag | antimony | silver",
+    1
+   ]
+  ],
+  "volcanic material": [
+   [
+    "crushed | stone | volcanic material",
+    1
+   ]
+  ],
+  "Cu Au Mn": [
+   [
+    "Cu Au Mn | copper | gold | manganese",
+    2
+   ]
+  ],
+  "Au Ag Ni Pt Cr Hg": [
+   [
+    "Au Ag Ni Pt Cr Hg | chromium | gold | mercury | nickel | platinum | silver",
+    2
+   ]
+  ],
+  "Ag Cu Ag": [
+   [
+    "Ag Cu Ag | copper | silver",
+    1
+   ]
+  ],
+  "Au Ag Pb Cu Zn As": [
+   [
+    "Au Ag Pb Cu Zn As | arsenic | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "granite clay": [
+   [
+    "crushed | granite clay | stone",
+    1
+   ]
+  ],
+  "agate opal": [
+   [
+    "agate opal | gem materials",
+    1
+   ]
+  ],
+  "Au Pt Os Cr": [
+   [
+    "Au Pt Os Cr | chromium | gold | osmium | platinum",
+    1
+   ]
+  ],
+  "Au Ag Cu Pb Zn As": [
+   [
+    "Au Ag Cu Pb Zn As | arsenic | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "opal (opalite)": [
+   [
+    "gem materials | opal (opalite)",
+    1
+   ]
+  ],
+  "Ag Hg": [
+   [
+    "Ag Hg | mercury | silver",
+    1
+   ]
+  ],
+  "Cu Ni Co Au Pd Pt": [
+   [
+    "Cu Ni Co Au Pd Pt | cobalt | copper | gold | nickel | palladium | platinum",
+    1
+   ]
+  ],
+  "saline brines": [
+   [
+    "saline brines | salt",
+    2
+   ]
+  ],
+  "Cu Mo abrasive": [
+   [
+    "Cu Mo abrasive | abrasive | copper | molybdenum",
+    1
+   ]
+  ],
+  "Au Sb Cu Ag": [
+   [
+    "Au Sb Cu Ag | antimony | copper | gold | silver",
+    1
+   ]
+  ],
+  "Au Cr Pt": [
+   [
+    "Au Cr Pt | chromium | gold | platinum",
+    1
+   ]
+  ],
+  "agate coral petrified": [
+   [
+    "agate coral petrified | gem materials",
+    1
+   ]
+  ],
+  "Mo Au": [
+   [
+    "Mo Au | gold | molybdenum",
+    1
+   ]
+  ],
+  "Ag Cu Pb": [
+   [
+    "Ag Cu Pb | copper | lead | silver",
+    1
+   ]
+  ],
+  "travertine": [
+   [
+    "cement materials | travertine",
+    2
+   ]
+  ],
+  "Au Ag Pb Cu Sb": [
+   [
+    "Au Ag Pb Cu Sb | antimony | copper | gold | lead | silver",
+    1
+   ]
+  ],
+  "shale fill": [
+   [
+    "crushed | shale fill | stone",
+    1
+   ]
+  ],
+  "Ag": [
+   [
+    "Ag | Au | Cu | gold silver copper",
+    1
+   ],
+   [
+    "Ag | Au | gold silver",
+    1
+   ]
+  ],
+  "gold silver copper": [
+   [
+    "Ag | Au | Cu | gold silver copper",
+    1
+   ]
+  ],
+  "sulfides": [
+   [
+    "sulfides",
+    1
+   ]
+  ],
+  "F zeolite minerals": [
+   [
+    "F zeolite minerals | fluorspare and cryolite | natural zeolites",
+    1
+   ]
+  ],
+  "fluorspare and cryolite": [
+   [
+    "F zeolite minerals | fluorspare and cryolite | natural zeolites",
+    1
+   ]
+  ],
+  "natural zeolites": [
+   [
+    "F zeolite minerals | fluorspare and cryolite | natural zeolites",
+    1
+   ]
+  ],
+  "iron oxide": [
+   [
+    "iron | iron oxide | pigment",
+    1
+   ]
+  ],
+  "pigment": [
+   [
+    "iron | iron oxide | pigment",
+    1
+   ]
+  ],
+  "Ba Au": [
+   [
+    "Ba Au | barium minerals | gold",
+    1
+   ]
+  ],
+  "Pt Pd": [
+   [
+    "Pt Pd | palladium | platinum",
+    2
+   ]
+  ],
+  "Pd Rh Pt": [
+   [
+    "Pd Rh Pt | palladium | platinum | rhenium",
+    1
+   ]
+  ],
+  "Cu Au Pb Ag Zn": [
+   [
+    "Cu Au Pb Ag Zn | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "rhodonite": [
+   [
+    "gem materials | rhodonite",
+    1
+   ]
+  ],
+  "Ni Cr Pt": [
+   [
+    "Ni Cr Pt | chromium | nickel | platinum",
+    1
+   ]
+  ],
+  "quartz serpentine": [
+   [
+    "quartz crystal and optical calcite | quartz serpentine | serpentine",
+    1
+   ]
+  ],
+  "Fe Ti Cr Zr": [
+   [
+    "Fe Ti Cr Zr | chromium | iron | titanium | zirconium",
+    1
+   ]
+  ],
+  "Cu Au Zn Ag": [
+   [
+    "Cu Au Zn Ag | copper | gold | silver | zinc",
+    1
+   ]
+  ],
+  "Mo Sn W Pt": [
+   [
+    "Mo Sn W Pt | molybdenum | platinum | tin | tungsten",
+    1
+   ]
+  ],
+  "sandy topsoil": [
+   [
+    "sand and gravel | sandy topsoil",
+    1
+   ]
+  ],
+  "Au Ag Pb Cu Zn": [
+   [
+    "Au Ag Pb Cu Zn | copper | gold | lead | silver | zinc",
+    2
+   ]
+  ],
+  "Pt Pd Cr Cu Ni": [
+   [
+    "Pt Pd Cr Cu Ni | chromium | copper | nickel | palladium | platinum",
+    1
+   ]
+  ],
+  "Au Ag Pb Zn As Cu": [
+   [
+    "Au Ag Pb Zn As Cu | arsenic | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Au Ag U": [
+   [
+    "Au Ag U | gold | silver | uranium",
+    1
+   ]
+  ],
+  "Cu Ag Au Co Zn": [
+   [
+    "Cu Ag Au Co Zn | cobalt | copper | gold | silver | zinc",
+    1
+   ]
+  ],
+  "mercruy": [
+   [
+    "Au Hg | gold | mercruy",
+    1
+   ]
+  ],
+  "picture rock Mn": [
+   [
+    "gem materials | manganese | picture rock Mn",
+    1
+   ]
+  ],
+  "Au Ag Cu As Co": [
+   [
+    "Au Ag Cu As Co | arsenic | cobalt | copper | gold | silver",
+    1
+   ]
+  ],
+  "Au-ex jasper": [
+   [
+    "Au-ex jasper | gemstones | gold",
+    1
+   ]
+  ],
+  "jasper Hg": [
+   [
+    "gem materials | jasper Hg | mercury",
+    1
+   ]
+  ],
+  "W Pb Mo Au Ag": [
+   [
+    "W Pb Mo Au Ag | gold | lead | molybdenum | silver | tungsten",
+    1
+   ]
+  ],
+  "Cu Au Ag Pb Mo": [
+   [
+    "Cu Au Ag Pb Mo | copper | gold | lead | molybdenum | silver",
+    1
+   ]
+  ],
+  "calcium sulfate anhydrite": [
+   [
+    "calcium sulfate anhydrite | gypsum",
+    1
+   ]
+  ],
+  "Pb Zn Cu Ag Au": [
+   [
+    "Pb Zn Cu Ag Au | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Mo Cu Au": [
+   [
+    "Mo Cu Au | copper | gold | molybdenum",
+    1
+   ]
+  ],
+  "Au As Zn Ag Cu Sb": [
+   [
+    "Au As Zn Ag Cu Sb | antimony | arsenic | copper | gold | silver | zinc",
+    2
+   ]
+  ],
+  "Cu Au Ag Zn Co": [
+   [
+    "Cu Au Ag Zn Co | cobalt | copper | gold | silver | zinc",
+    1
+   ]
+  ],
+  "Au Ag Wo Cu": [
+   [
+    "Au Ag Wo Cu | copper | gold | silver | tungsten",
+    1
+   ]
+  ],
+  "Au asbestos": [
+   [
+    "Au asbestos | asbestos | gold",
+    1
+   ]
+  ],
+  "gold silver": [
+   [
+    "Ag | Au | gold silver",
+    1
+   ]
+  ],
+  "Cu Zn Au": [
+   [
+    "Cu Zn Au | copper | gold | zinc",
+    1
+   ]
+  ],
+  "Fe Cu Ni Co": [
+   [
+    "Fe Cu Ni Co | cobalt | copper | iron | nickel",
+    1
+   ]
+  ],
+  "jasper Au exploratoin": [
+   [
+    "gem materials | gold | jasper Au exploratoin",
+    1
+   ]
+  ],
+  "Al Ti": [
+   [
+    "Al Ti | aluminum | titanium",
+    1
+   ]
+  ],
+  "Au Ag Zn Pb Cu Ba": [
+   [
+    "Au Ag Zn Pb Cu Ba | barium | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Au Ag Cu As Sb Te Hg": [
+   [
+    "Au Ag Cu As Sb Te Hg | antimony | arsenic | copper | gold | mercury | silver | tellurium",
+    1
+   ]
+  ],
+  "stilbite": [
+   [
+    "stilbite | zeolite",
+    1
+   ]
+  ],
+  "zeolite": [
+   [
+    "stilbite | zeolite",
+    1
+   ]
+  ],
+  "jasper Au Hg": [
+   [
+    "gem materials | gold | jasper Au Hg | mercury",
+    1
+   ]
+  ],
+  "sagenite (rutilated quartz)": [
+   [
+    "gem materials | sagenite (rutilated quartz)",
+    1
+   ]
+  ],
+  "Ni Co PGM": [
+   [
+    "Ni Co PGM | cobalt | nickel | platinum group metals",
+    1
+   ]
+  ],
+  "platinum group metals": [
+   [
+    "Ni Co PGM | cobalt | nickel | platinum group metals",
+    1
+   ]
+  ],
+  "agate zeolite": [
+   [
+    "agate zeolite | gem materials",
+    1
+   ]
+  ],
+  "Au Ba Cu Hg": [
+   [
+    "Au Ba Cu Hg | barium | copper | gold | mercury",
+    1
+   ]
+  ],
+  "Mo W": [
+   [
+    "Mo W | molybdenum | tungsten",
+    1
+   ]
+  ],
+  "limestone marble": [
+   [
+    "cement materials | limestone marble",
+    1
+   ]
+  ],
+  "clay As Sb": [
+   [
+    "antimony | arsenic | clay As Sb | clays",
+    1
+   ]
+  ],
+  "Hg Cu As": [
+   [
+    "Hg Cu As | arsenic | copper | mercury",
+    1
+   ]
+  ],
+  "Au Ag Cu Pb Mo Zn": [
+   [
+    "Au Ag Cu Pb Mo Zn | copper | gold | lead | molybdenum | silver | zinc",
+    1
+   ]
+  ],
+  "U Au Ag Cu": [
+   [
+    "U Au Ag Cu | copper | gold | silver | uranium",
+    1
+   ]
+  ],
+  "Ag Cu Au Mo Pb": [
+   [
+    "Ag Cu Au Mo Pb | copper | gold | lead | molybdenum | silver",
+    1
+   ]
+  ],
+  "Ag Cu Pb Mn": [
+   [
+    "Ag Cu Pb Mn | copper | gold | lead | manganese",
+    1
+   ]
+  ],
+  "Cu Mo Au Ag": [
+   [
+    "Cu Mo Au Ag | copper | gold | molybdenum | silver",
+    1
+   ]
+  ],
+  "river rock clay fill": [
+   [
+    "river rock clay fill | sand and gravel",
+    1
+   ]
+  ],
+  "Cr Au Pt": [
+   [
+    "Cr Au Pt | chromium | gold | platinum",
+    1
+   ]
+  ],
+  "limestone dolomite": [
+   [
+    "cement materials | limestone dolomite",
+    1
+   ]
+  ],
+  "Au Cu Pb": [
+   [
+    "Au Cu Pb | copper | gold | lead",
+    1
+   ]
+  ],
+  "Au Ag Cu Sb As": [
+   [
+    "Au Ag Cu Sb As | antimony | arsenic | copper | gold | silver",
+    1
+   ]
+  ],
+  "Hg Li U": [
+   [
+    "Hg Li U | lithium | mercury | uranium",
+    1
+   ]
+  ],
+  "Ni Cu": [
+   [
+    "Ni Cu | copper | nickel",
+    1
+   ]
+  ],
+  "Au Co Cu Ni Ag": [
+   [
+    "Au Co Cu Ni Ag | cobalt | copper | gold | nickel | silver",
+    1
+   ]
+  ],
+  "Al Fe P Si Ti": [
+   [
+    "Al Fe P Si Ti | aluminum | iron | phosphorus | silica | titanium",
+    1
+   ]
+  ],
+  "Pb Zn Cu As Au Ag": [
+   [
+    "Pb Zn Cu As Au Ag | arsenic | copper | gold | lead | silver | zinc",
+    2
+   ]
+  ],
+  "Au Ag As Cu Zn Sb": [
+   [
+    "Au Ag As Cu Zn Sb | antimony | arsenic | copper | gold | silver | zinc",
+    1
+   ]
+  ],
+  "Pb Zn Au Ag": [
+   [
+    "Pb Zn Au Ag | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "U Cu Ag Zn": [
+   [
+    "U Cu Ag Zn | copper | silver | uranium | zinc",
+    1
+   ]
+  ],
+  "Mo W Cu Ag": [
+   [
+    "Mo W Cu Ag | copper | molybdenum | silver | tungsten",
+    1
+   ]
+  ],
+  "Au Co Cu Pb Ni Ag Zn": [
+   [
+    "Au Co Cu Pb Ni Ag Zn | cobalt | copper | gold | lead | nickel | silver | zinc",
+    1
+   ]
+  ],
+  "Au Ag Cu Pb U": [
+   [
+    "Au Ag Cu Pb U | copper | gold | lead | silver | uranium",
+    1
+   ]
+  ],
+  "Au Ag Cu Zn As Sb": [
+   [
+    "Au Ag Cu Zn As Sb | antimony | arsenic | copper | gold | silver | zinc",
+    1
+   ]
+  ],
+  "Ag Au As Cu Sb": [
+   [
+    "Ag Au As Cu Sb | antimony | arsenic | copper | gold | silver",
+    1
+   ]
+  ],
+  "Cr Cu Pt Ni": [
+   [
+    "Cr Cu Pt Ni | chromium | copper | nickel | platinum",
+    1
+   ]
+  ],
+  "Cr Ag": [
+   [
+    "Cr Ag | chromium | silver",
+    1
+   ]
+  ],
+  "Ni Co Cr Fe": [
+   [
+    "Ni Co Cr Fe | chromium | cobalt | iron | nickel",
+    1
+   ]
+  ],
+  "olivine": [
+   [
+    "olivine | refractories",
+    1
+   ]
+  ],
+  "refractories": [
+   [
+    "olivine | refractories",
+    1
+   ]
+  ],
+  "Mn Hg": [
+   [
+    "Mn Hg | manganese ore | mercury",
+    1
+   ]
+  ],
+  "Hg Au Ag": [
+   [
+    "Hg Au Ag | gold | mercury | silver",
+    1
+   ]
+  ],
+  "Cu Au Ag Co Bi Ni U Sb": [
+   [
+    "Cu Au Ag Co Bi Ni U Sb | antimony | bismuth | cobalt | copper | gold | nickel | silver | uranium",
+    1
+   ]
+  ],
+  "Ag Au Zn As Cu Sb": [
+   [
+    "Ag Au Zn As Cu Sb | antimony | arsenic | copper | gold | silver | zinc",
+    1
+   ]
+  ],
+  "coal S": [
+   [
+    "coal S | energy minerals | pyrite and sulfur",
+    1
+   ]
+  ],
+  "pyrite and sulfur": [
+   [
+    "coal S | energy minerals | pyrite and sulfur",
+    1
+   ]
+  ],
+  "Au Ag Cu Zn As Sb Te": [
+   [
+    "Au Ag Cu Zn As Sb Te | antimony | arsenic | copper | gold | silver | tellurium | zinc",
+    1
+   ]
+  ],
+  "Au W Mn": [
+   [
+    "Au W Mn | gold | manganese | tungsten",
+    1
+   ]
+  ],
+  "Cu Ag Au Mo gem": [
+   [
+    "Cu Ag Au Mo gem | copper | gemstones | gold | molybdenum | silver",
+    1
+   ]
+  ],
+  "Au Ag Ag": [
+   [
+    "Au Ag Ag | gold | silver",
+    1
+   ]
+  ],
+  "granite sand": [
+   [
+    "granite sand | sand and gravel",
+    1
+   ]
+  ],
+  "Au Ag Zn Pb As Cu": [
+   [
+    "Au Ag Zn Pb As Cu | arsenic | copper | gold | lead | silver | zinc",
+    1
+   ]
+  ],
+  "Mo Cu Ag Au Bi Sn Te": [
+   [
+    "Mo Cu Ag Au Bi Sn Te | bismuth | copper | gold | molybdenum | silver | tellurium | tin",
+    1
+   ]
+  ],
+  "jasper zeolite": [
+   [
+    "gem materials | jasper zeolite | zeolites",
+    1
+   ]
+  ],
+  "Au Hg Ag": [
+   [
+    "Au Hg Ag | gold | mercury | silver",
+    1
+   ]
+  ],
+  "Cr Pd Pt": [
+   [
+    "Cr Pd Pt | chromium | palladium | platinum",
+    1
+   ]
+  ],
+  "Ag Pb": [
+   [
+    "Ag Pb | lead | silver",
+    1
+   ]
+  ],
+  "Cr U Pt": [
+   [
+    "Cr U Pt | chromium | platinum | uranium",
+    1
+   ]
+  ],
+  "Fe Al": [
+   [
+    "Fe Al | aluminum | iron",
+    1
+   ]
+  ],
+  "Au Ag Cu As Sb Hg": [
+   [
+    "Au Ag Cu As Sb Hg | antimony | arsenic | copper | gold | mercury | silver",
+    1
+   ]
+  ],
+  "Pb Zn": [
+   [
+    "Pb Zn | lead | zinc",
+    1
+   ]
+  ],
+  "Ag Au Pb Zn": [
+   [
+    "Ag Au Pb Zn | gold | lead | silver | zinc",
+    1
+   ]
+  ]
+ },
+ "oregon_code_patterns": {
+  "stone | crushed | SC": 7074,
+  "sand and gravel | S | G": 2337,
+  "stone | dimension | SD": 41,
+  "stone | crushed | S | G": 10,
+  "stone | crushed | CS": 6,
+  "sand and gravel | SC": 2,
+  "gold | sand and gravel | Au Ag S | G": 2,
+  "gold | silver | sand and gravel | Au Ag S | G": 2,
+  "stone | crushed | S | G pumice": 1,
+  "sulfur and pyrite | S": 1
+ },
+ "h8": [
+  {
+   "code": "PGE",
+   "matched": false,
+   "source_id": "https://mrdata.usgs.gov/nicrpge",
+   "matcher": "UMN Matching System v1",
+   "records": 5116,
+   "inventories": 5116
+  },
+  {
+   "code": "PGE",
+   "matched": false,
+   "source_id": "https://mrdata.usgs.gov/nicrpge",
+   "matcher": "SRI database agent v0",
+   "records": 4497,
+   "inventories": 4497
+  },
+  {
+   "code": "REE",
+   "matched": false,
+   "source_id": "https://mrdata.usgs.gov/mrds",
+   "matcher": "SRI database agent v0",
+   "records": 1294,
+   "inventories": 1295
+  },
+  {
+   "code": "PGE",
+   "matched": false,
+   "source_id": "https://mrdata.usgs.gov/mrds",
+   "matcher": "SRI database agent v0",
+   "records": 714,
+   "inventories": 714
+  },
+  {
+   "code": "HAL",
+   "matched": false,
+   "source_id": "https://mrdata.usgs.gov/potash",
+   "matcher": "SRI database agent v0",
+   "records": 462,
+   "inventories": 462
+  },
+  {
+   "code": "HAL",
+   "matched": false,
+   "source_id": "https://mrdata.usgs.gov/potash",
+   "matcher": "UMN Matching System v1",
+   "records": 462,
+   "inventories": 462
+  },
+  {
+   "code": "PGE",
+   "matched": true,
+   "source_id": "https://mrdata.usgs.gov/major-deposits",
+   "matcher": "UMN Matching System v1",
+   "records": 131,
+   "inventories": 131
+  },
+  {
+   "code": "REE",
+   "matched": true,
+   "source_id": "https://mrdata.usgs.gov/major-deposits",
+   "matcher": "UMN Matching System v1",
+   "records": 90,
+   "inventories": 90
+  },
+  {
+   "code": "REE",
+   "matched": false,
+   "source_id": "https://mrdata.usgs.gov/nicrpge",
+   "matcher": "UMN Matching System v1",
+   "records": 89,
+   "inventories": 89
+  },
+  {
+   "code": "REE",
+   "matched": false,
+   "source_id": "https://mrdata.usgs.gov/nicrpge",
+   "matcher": "SRI database agent v0",
+   "records": 83,
+   "inventories": 83
+  },
+  {
+   "code": "REE",
+   "matched": false,
+   "source_id": "https://doi.org/10.5066/P96MMRFD",
+   "matcher": "SRI database agent v0",
+   "records": 64,
+   "inventories": 64
+  },
+  {
+   "code": "PGE",
+   "matched": false,
+   "source_id": "https://doi.org/10.5066/P96MMRFD",
+   "matcher": "SRI database agent v0",
+   "records": 56,
+   "inventories": 56
+  },
+  {
+   "code": "REE",
+   "matched": true,
+   "source_id": "https://mrdata.usgs.gov/phosphate",
+   "matcher": "UMN Matching System v1",
+   "records": 44,
+   "inventories": 44
+  },
+  {
+   "code": "REE",
+   "matched": false,
+   "source_id": "https://mrdata.usgs.gov/phosphate",
+   "matcher": "SRI database agent v0",
+   "records": 39,
+   "inventories": 39
+  },
+  {
+   "code": "PGE",
+   "matched": false,
+   "source_id": "https://mrdata.usgs.gov/major-deposits",
+   "matcher": "SRI database agent v0",
+   "records": 16,
+   "inventories": 16
+  },
+  {
+   "code": "REE",
+   "matched": true,
+   "source_id": "https://mrdata.usgs.gov/ofr20151121",
+   "matcher": "UMN Matching System v1",
+   "records": 14,
+   "inventories": 14
+  },
+  {
+   "code": "HAL",
+   "matched": false,
+   "source_id": "https://doi.org/10.34191/OFR-757",
+   "matcher": "UMN Matching System v1",
+   "records": 11,
+   "inventories": 11
+  },
+  {
+   "code": "REE",
+   "matched": false,
+   "source_id": "https://mrdata.usgs.gov/major-deposits",
+   "matcher": "SRI database agent v0",
+   "records": 4,
+   "inventories": 4
+  },
+  {
+   "code": "PGE",
+   "matched": false,
+   "source_id": "https://mrdata.usgs.gov/sir20105090z",
+   "matcher": "SRI database agent v0",
+   "records": 1,
+   "inventories": 1
+  }
+ ]
+}

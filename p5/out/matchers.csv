@@ -1,0 +1,11 @@
+matcher,matched,unmatched,distinct_conf_matched,min_conf_matched,max_conf_matched,top_conf_matched,distinct_conf_unmatched,top_conf_unmatched
+UMN Matching System-ProcMinev2,635449,0,113,0.4998,0.9999,0.9999:552430; 0.5453:46223; 0.7715:17682,0,
+SRI database agent v0,299575,79480,1,1.0,1.0,1.0:299575,1,1.0:79480
+UMN Matching System v1,192018,102843,1,1.0,1.0,1.0:192018,3,0.9:46550; 0.001:42725; 1.0:13568
+Inferlink Extraction v3,39962,396,1,1,1,1:39962,1,1:396
+SAND,19683,27,2,0.99,1.0,1.0:19410; 0.99:273,1,0.0:27
+UMN Exact Match v1,10385,0,1,0.9,0.9,0.9:10385,0,
+Inferlink Extraction v2,9,0,1,1,1,1:9,0,
+https://minmod.isi.edu/users/u/jhammars,4,0,1,1.0,1.0,1.0:4,0,
+https://minmod.isi.edu/users/a/bvu,1,0,1,1.0,1.0,1.0:1,0,
+https://minmod.isi.edu/users/u/caknoblock,1,0,1,1.0,1.0,1.0:1,0,

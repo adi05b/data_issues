@@ -1,0 +1,325 @@
+{
+ "records_in_merge": 679778,
+ "merged_sites_in_merge": 419098,
+ "drop_behaviour": {
+  "(1) uri None": "inventory kept, no view row, still in KG export",
+  "(2) inventory removed": "gone from site, views and KG export; site kept",
+  "(3) commodity key removed": "KeyError in MineralInventory.from_dict: merge fails",
+  "merged site with no commodity": "built, with zero DedupMineralInventoryView rows"
+ },
+ "any_defect": {
+  "merged_sites": 53346,
+  "merged_sites_multi_member": 2112,
+  "merged_sites_with_no_commodity_after_drop": 1,
+  "merged_sites_with_no_commodity_now": 0
+ },
+ "record_grain_views": {
+  "Construction->Strontium": {
+   "records": 46221,
+   "view_row_for_wrong_commodity": 46221,
+   "view_row_with_gt": 2
+  },
+  "SC->Scandium (Oregon)": {
+   "records": 7076,
+   "view_row_for_wrong_commodity": 7076,
+   "view_row_with_gt": 0
+  },
+  "S->Sulfur (Oregon)": {
+   "records": 2349,
+   "view_row_for_wrong_commodity": 2349,
+   "view_row_with_gt": 0
+  },
+  "Construc->Cobalt": {
+   "records": 980,
+   "view_row_for_wrong_commodity": 980,
+   "view_row_with_gt": 0
+  },
+  "CS->Cesium (Oregon)": {
+   "records": 6,
+   "view_row_for_wrong_commodity": 6,
+   "view_row_with_gt": 0
+  },
+  "SD->Sand (Oregon)": {
+   "records": 41,
+   "view_row_for_wrong_commodity": 41,
+   "view_row_with_gt": 0
+  },
+  "Metal->Nonmetal": {
+   "records": 916,
+   "view_row_for_wrong_commodity": 916,
+   "view_row_with_gt": 10
+  }
+ },
+ "wrong_commodity_totals": {
+  "Q609 Strontium": {
+   "records": 47112,
+   "inventories": 47162,
+   "records_only_via_defect": 46220,
+   "inventories_via_defect": 46223,
+   "merged_sites": 46612,
+   "merged_sites_only_via_defect": 46219
+  },
+  "Q655 Sand": {
+   "records": 735,
+   "inventories": 735,
+   "records_only_via_defect": 41,
+   "inventories_via_defect": 41,
+   "merged_sites": 688,
+   "merged_sites_only_via_defect": 41
+  },
+  "Q607 Scandium": {
+   "records": 7139,
+   "inventories": 7200,
+   "records_only_via_defect": 7076,
+   "inventories_via_defect": 7076,
+   "merged_sites": 2998,
+   "merged_sites_only_via_defect": 2949
+  },
+  "Q581 Nonmetal": {
+   "records": 919,
+   "inventories": 982,
+   "records_only_via_defect": 916,
+   "inventories_via_defect": 937,
+   "merged_sites": 824,
+   "merged_sites_only_via_defect": 821
+  },
+  "Q537 Cobalt": {
+   "records": 6535,
+   "inventories": 10363,
+   "records_only_via_defect": 980,
+   "inventories_via_defect": 980,
+   "merged_sites": 4042,
+   "merged_sites_only_via_defect": 980
+  },
+  "Q591 Cesium": {
+   "records": 65,
+   "inventories": 97,
+   "records_only_via_defect": 6,
+   "inventories_via_defect": 6,
+   "merged_sites": 42,
+   "merged_sites_only_via_defect": 6
+  },
+  "Q633 Sulfur": {
+   "records": 5171,
+   "inventories": 5527,
+   "records_only_via_defect": 2349,
+   "inventories_via_defect": 2349,
+   "merged_sites": 4174,
+   "merged_sites_only_via_defect": 2349
+  }
+ },
+ "floor_062": {
+  "merged_sites_touched": 47977,
+  "merged_sites_losing_a_commodity": 47976,
+  "merged_sites_no_commodity_after": 291,
+  "merged_sites_losing_gt": 4,
+  "removed_from_merged_sites_by_label": {
+   "Strontium": 46219,
+   "Cobalt": 980,
+   "Clay > Bloating Material": 487,
+   "Slate": 220,
+   "Petroleum (Oil) > Rock Asphalt": 15,
+   "Sand": 14,
+   "Indium": 11,
+   "Magnesite": 11,
+   "Ash": 8,
+   "Tantalum": 5,
+   "Gallium": 4,
+   "Clay > Chlorite": 3,
+   "Silica": 3,
+   "Wollastonite": 1,
+   "Lithium": 1,
+   "Copper": 1,
+   "Alunite": 1,
+   "Feldspar": 1,
+   "Diatomite": 1,
+   "Mica": 1,
+   "Kyanite": 1,
+   "Staurolite": 1,
+   "Graphite": 1
+  },
+  "left_with_no_commodity_by_removed": {
+   "Clay > Bloating Material": 267,
+   "Magnesite": 11,
+   "Petroleum (Oil) > Rock Asphalt": 8,
+   "Silica": 2,
+   "Mica": 1,
+   "Kyanite": 1,
+   "Staurolite": 1
+  },
+  "losing_gt": [
+   {
+    "dedup_id": "dedup_site__doi-org-10-5066-p9htergk__15986__umn",
+    "commodity": "Strontium",
+    "site_id": "site__mrdata-usgs-gov-mrds__10115528__umn",
+    "tonnage": 1.92,
+    "grade": 65.0
+   },
+   {
+    "dedup_id": "dedup_site__doi-org-10-5066-p9htergk__33193__umn",
+    "commodity": "Strontium",
+    "site_id": "site__mrdata-usgs-gov-mrds__10236674__umn",
+    "tonnage": 0.82,
+    "grade": 64.99999999999999
+   },
+   {
+    "dedup_id": "dedup_site__doi-org-10-5382-econgeo-4950__santa-cruz__usc",
+    "commodity": "Slate",
+    "site_id": "site__mrdata-usgs-gov-mrds__10304195__umn",
+    "tonnage": 75.462,
+    "grade": 25.0
+   },
+   {
+    "dedup_id": "dedup_site__mrdata-usgs-gov-mrds__10280185__sri",
+    "commodity": "Slate",
+    "site_id": "site__mrdata-usgs-gov-mrds__10280185__umn",
+    "tonnage": 125.0,
+    "grade": 25.0
+   }
+  ]
+ },
+ "merged_grain": {
+  "Construction->Strontium": {
+   "merged_sites": 46220,
+   "multi_member": 771,
+   "wrong_commodity_listed_now": 46220,
+   "wrong_commodity_with_gt_now": 2,
+   "wrong_commodity_still_listed_after_drop": 1,
+   "sand_and_gravel_listed_now": 46220,
+   "no_commodity_after_drop": 0,
+   "commodity_count_now": 93813,
+   "commodity_count_after": 47574
+  },
+  "SC->Scandium (Oregon)": {
+   "merged_sites": 2949,
+   "multi_member": 579,
+   "wrong_commodity_listed_now": 2949,
+   "wrong_commodity_with_gt_now": 0,
+   "wrong_commodity_still_listed_after_drop": 0,
+   "sand_and_gravel_listed_now": 2,
+   "no_commodity_after_drop": 0,
+   "commodity_count_now": 5899,
+   "commodity_count_after": 2950
+  },
+  "S->Sulfur (Oregon)": {
+   "merged_sites": 2349,
+   "multi_member": 0,
+   "wrong_commodity_listed_now": 2349,
+   "wrong_commodity_with_gt_now": 0,
+   "wrong_commodity_still_listed_after_drop": 0,
+   "sand_and_gravel_listed_now": 2337,
+   "no_commodity_after_drop": 1,
+   "commodity_count_now": 4697,
+   "commodity_count_after": 2348
+  },
+  "Construc->Cobalt": {
+   "merged_sites": 980,
+   "multi_member": 1,
+   "wrong_commodity_listed_now": 980,
+   "wrong_commodity_with_gt_now": 0,
+   "wrong_commodity_still_listed_after_drop": 0,
+   "sand_and_gravel_listed_now": 980,
+   "no_commodity_after_drop": 0,
+   "commodity_count_now": 1984,
+   "commodity_count_after": 1002
+  },
+  "CS->Cesium (Oregon)": {
+   "merged_sites": 6,
+   "multi_member": 0,
+   "wrong_commodity_listed_now": 6,
+   "wrong_commodity_with_gt_now": 0,
+   "wrong_commodity_still_listed_after_drop": 0,
+   "sand_and_gravel_listed_now": 0,
+   "no_commodity_after_drop": 0,
+   "commodity_count_now": 12,
+   "commodity_count_after": 6
+  },
+  "SD->Sand (Oregon)": {
+   "merged_sites": 41,
+   "multi_member": 0,
+   "wrong_commodity_listed_now": 41,
+   "wrong_commodity_with_gt_now": 0,
+   "wrong_commodity_still_listed_after_drop": 0,
+   "sand_and_gravel_listed_now": 0,
+   "no_commodity_after_drop": 0,
+   "commodity_count_now": 82,
+   "commodity_count_after": 41
+  },
+  "Metal->Nonmetal": {
+   "merged_sites": 821,
+   "multi_member": 780,
+   "wrong_commodity_listed_now": 821,
+   "wrong_commodity_with_gt_now": 10,
+   "wrong_commodity_still_listed_after_drop": 0,
+   "sand_and_gravel_listed_now": 20,
+   "no_commodity_after_drop": 0,
+   "commodity_count_now": 5339,
+   "commodity_count_after": 4498
+  }
+ },
+ "examples": {
+  "Construction->Strontium gt": [
+   {
+    "dedup_id": "dedup_site__doi-org-10-5066-p9htergk__15986__umn",
+    "site_id": "site__mrdata-usgs-gov-mrds__10115528__umn",
+    "tonnage": 1.92,
+    "grade": 65.0,
+    "contained_metal": 1.248
+   },
+   {
+    "dedup_id": "dedup_site__doi-org-10-5066-p9htergk__33193__umn",
+    "site_id": "site__mrdata-usgs-gov-mrds__10236674__umn",
+    "tonnage": 0.82,
+    "grade": 64.99999999999999,
+    "contained_metal": 0.5329999999999999
+   }
+  ],
+  "Metal->Nonmetal gt": [
+   {
+    "dedup_id": "dedup_site__doi-org-10-5066-p9k1hbnt__356__umn",
+    "site_id": "site__mrdata-usgs-gov-mrds__10082830__umn",
+    "tonnage": 1.1e-05,
+    "grade": 15.000000000000002,
+    "contained_metal": 1.65e-06
+   },
+   {
+    "dedup_id": "dedup_site__mrdata-usgs-gov-carbonatite__11__sri",
+    "site_id": "site__mrdata-usgs-gov-mrds__10107260__umn",
+    "tonnage": 318.0,
+    "grade": 15.000000000000002,
+    "contained_metal": 47.7
+   },
+   {
+    "dedup_id": "dedup_site__mrdata-usgs-gov-major-deposits__2566__sri",
+    "site_id": "site__mrdata-usgs-gov-mrds__10023282__umn",
+    "tonnage": 4190.0,
+    "grade": 77.35000000000001,
+    "contained_metal": 3240.965
+   },
+   {
+    "dedup_id": "dedup_site__mrdata-usgs-gov-major-deposits__61__sri",
+    "site_id": "site__mrdata-usgs-gov-mrds__10079636__umn",
+    "tonnage": 9.0,
+    "grade": 7.800000000000002,
+    "contained_metal": 0.7020000000000001
+   },
+   {
+    "dedup_id": "dedup_site__mrdata-usgs-gov-mrds__10024938__sri",
+    "site_id": "site__mrdata-usgs-gov-mrds__10024938__umn",
+    "tonnage": 10.172,
+    "grade": 55.00000000000001,
+    "contained_metal": 5.594600000000001
+   }
+  ],
+  "Construction->Strontium": [
+   {
+    "dedup_id": "dedup_site__mrdata-usgs-gov-mrds__10186268__sri",
+    "members": [
+     "site__mrdata-usgs-gov-mrds__10186268__umn",
+     "site__mrdata-usgs-gov-mrds__10186268__sri"
+    ],
+    "kept_from": "site__mrdata-usgs-gov-mrds__10186268__umn"
+   }
+  ]
+ }
+}
