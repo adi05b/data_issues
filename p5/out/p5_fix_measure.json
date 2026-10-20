@@ -1,0 +1,302 @@
+{
+ "records": 679778,
+ "unintended_record_level": {},
+ "unintended_merged_sites": [],
+ "dropped_inventories_with_grade_tonnage": {
+  "with grade/tonnage": 2,
+  "duplicated on the same record": 2
+ },
+ "dropped_gt_examples": [
+  {
+   "site_id": "site__mrdata-usgs-gov-mrds__10115528__umn",
+   "observed": "Construction",
+   "grade_ore": [
+    65.0,
+    1920000.0
+   ],
+   "duplicated": true
+  },
+  {
+   "site_id": "site__mrdata-usgs-gov-mrds__10236674__umn",
+   "observed": "Construction",
+   "grade_ore": [
+    65.0,
+    820000.0
+   ],
+   "duplicated": true
+  }
+ ],
+ "defects_records_before_after": {
+  "Construction->Strontium": [
+   46221,
+   0
+  ],
+  "SC->Scandium (Oregon)": [
+   7076,
+   2
+  ],
+  "S->Sulfur (Oregon)": [
+   2349,
+   12
+  ],
+  "Construc->Cobalt": [
+   980,
+   0
+  ],
+  "CS->Cesium (Oregon)": [
+   6,
+   0
+  ],
+  "SD->Sand (Oregon)": [
+   41,
+   0
+  ],
+  "Metal->Nonmetal (mrds)": [
+   840,
+   0
+  ],
+  "Metal->Nonmetal (nc)": [
+   76,
+   0
+  ]
+ },
+ "defects_merged_sites_before_after": {
+  "Construction->Strontium": [
+   46220,
+   0
+  ],
+  "SC->Scandium (Oregon)": [
+   2949,
+   2
+  ],
+  "S->Sulfur (Oregon)": [
+   2349,
+   12
+  ],
+  "Construc->Cobalt": [
+   980,
+   0
+  ],
+  "CS->Cesium (Oregon)": [
+   6,
+   0
+  ],
+  "SD->Sand (Oregon)": [
+   41,
+   0
+  ],
+  "Metal->Nonmetal (mrds)": [
+   800,
+   0
+  ],
+  "Metal->Nonmetal (nc)": [
+   74,
+   0
+  ]
+ },
+ "left_out_records_after": {
+  "Apatite": 1,
+  "Chalcopyrite": 3,
+  "Galena": 4,
+  "Sillimanite": 3,
+  "Monazite": 11,
+  "Tourmaline": 1,
+  "Hematite": 1,
+  "Vesuvianite": 1
+ },
+ "records_carrying_qid_before_after": {
+  "Q10004": [
+   469,
+   468
+  ],
+  "Q523": [
+   527,
+   40
+  ],
+  "Q537": [
+   6535,
+   5555
+  ],
+  "Q559": [
+   130,
+   119
+  ],
+  "Q569": [
+   1682,
+   1681
+  ],
+  "Q581": [
+   919,
+   3
+  ],
+  "Q591": [
+   65,
+   59
+  ],
+  "Q607": [
+   7139,
+   65
+  ],
+  "Q609": [
+   47112,
+   892
+  ],
+  "Q619": [
+   14,
+   6
+  ],
+  "Q628": [
+   898,
+   1814
+  ],
+  "Q633": [
+   5171,
+   2834
+  ],
+  "Q636": [
+   195,
+   194
+  ],
+  "Q649": [
+   0,
+   1
+  ],
+  "Q655": [
+   735,
+   694
+  ],
+  "Q659": [
+   619,
+   398
+  ],
+  "Q664": [
+   18355,
+   25435
+  ],
+  "Q665": [
+   344,
+   385
+  ],
+  "Q679": [
+   256,
+   743
+  ],
+  "Q680": [
+   1,
+   222
+  ]
+ },
+ "merged_sites_listing_qid_before_after": {
+  "Q10004": [
+   468,
+   467
+  ],
+  "Q523": [
+   527,
+   40
+  ],
+  "Q537": [
+   4042,
+   3062
+  ],
+  "Q559": [
+   94,
+   83
+  ],
+  "Q569": [
+   773,
+   772
+  ],
+  "Q581": [
+   824,
+   3
+  ],
+  "Q591": [
+   42,
+   36
+  ],
+  "Q607": [
+   2998,
+   51
+  ],
+  "Q609": [
+   46612,
+   393
+  ],
+  "Q619": [
+   13,
+   5
+  ],
+  "Q628": [
+   857,
+   1674
+  ],
+  "Q633": [
+   4174,
+   1837
+  ],
+  "Q636": [
+   134,
+   133
+  ],
+  "Q649": [
+   0,
+   1
+  ],
+  "Q655": [
+   688,
+   647
+  ],
+  "Q659": [
+   618,
+   398
+  ],
+  "Q664": [
+   17689,
+   20643
+  ],
+  "Q665": [
+   344,
+   385
+  ],
+  "Q679": [
+   256,
+   562
+  ],
+  "Q680": [
+   1,
+   221
+  ]
+ },
+ "merged": {
+  "merged sites with a corrected member": 54057,
+  "commodity list changed": 54056,
+  "left with no commodity": 0,
+  "wrong QID kept because another candidate has it": 2,
+  "removed Q619": 8,
+  "removed Q581": 821,
+  "added Q628": 817,
+  "removed Q609": 46219,
+  "grade/tonnage row removed with Q609": 2,
+  "removed Q659": 220,
+  "added Q680": 220,
+  "grade/tonnage row removed with Q581": 10,
+  "grade/tonnage row now under Q628": 10,
+  "grade/tonnage row removed with Q659": 2,
+  "grade/tonnage row now under Q680": 2,
+  "removed Q523": 487,
+  "added Q679": 306,
+  "removed Q636": 1,
+  "added Q649": 1,
+  "removed Q537": 980,
+  "removed Q559": 11,
+  "removed Q569": 1,
+  "removed Q10004": 1,
+  "removed Q633": 2337,
+  "removed Q607": 2947,
+  "added Q664": 2954,
+  "removed Q655": 41,
+  "added Q665": 41,
+  "removed Q591": 6
+ }
+}

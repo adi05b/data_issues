@@ -1,0 +1,16 @@
+source_id,observed_name,context,action,normalized_uri,inventories,records,merged_sites
+https://mrdata.usgs.gov/mrds,Construction,,drop,,46223,46221,46220
+https://mrdata.usgs.gov/mrds,Industrial,,drop,,11,11,11
+https://mrdata.usgs.gov/mrds,Soda Ash,,drop,,8,8,8
+https://mrdata.usgs.gov/mrds,Tripoli,,drop,,1,1,1
+https://mrdata.usgs.gov/mrds,Metal,,remap,https://minmod.isi.edu/resource/Q628,861,840,800
+https://mrdata.usgs.gov/mrds,Volcanic Materials,,remap,https://minmod.isi.edu/resource/Q679,487,487,487
+https://mrdata.usgs.gov/mrds,Water,,remap,https://minmod.isi.edu/resource/Q680,260,221,220
+https://mrdata.usgs.gov/mrds,Gilsonite,,remap,https://minmod.isi.edu/resource/Q649,1,1,1
+https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,Construc,,drop,,980,980,980
+https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,Halloysite,,drop,,1,1,1
+https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,Metal,,remap,https://minmod.isi.edu/resource/Q628,76,76,74
+http://www.oregongeology.org,SC,stone | crushed | SC,remap,https://minmod.isi.edu/resource/Q664,7074,7074,2948
+http://www.oregongeology.org,CS,stone | crushed | CS,remap,https://minmod.isi.edu/resource/Q664,6,6,6
+http://www.oregongeology.org,SD,stone | dimension | SD,remap,https://minmod.isi.edu/resource/Q665,41,41,41
+http://www.oregongeology.org,S,sand and gravel | S | G,drop,,2337,2337,2337
