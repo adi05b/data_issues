@@ -6,6 +6,11 @@ Branch `fix/p5-commodity-corrections` @ `3766487` (3 commits on `45a2a16`).
 
 ## What it does
 
+- **Why:** these matches are made upstream.
+  - ProcMine splits MRDS names such as `Sand and Gravel, Construction` at the comma and fuzzy-matches the half (`Construction` → Strontium at 0.5453).
+  - Oregon's DOGAMI codes hit `commodity.csv`'s MRDS codes (`SC` = Scandium).
+  - This PR applies the reviewed list as a fallback until the readers are fixed and the site JSON regenerated.
+
 - **The ETL now reads the corrections list from the data repository** (`etl.yml`: `commodity_corrections: ::REPO::data/corrections/commodity.csv`).
 - **Hook: `MergeFn.invoke` (`etl/mineral_site.py:449`).**
   - The list is applied to each raw site dict just before `MineralSiteAndInventory.from_raw_site`.
@@ -42,12 +47,15 @@ Branch `fix/p5-commodity-corrections` @ `3766487` (3 commits on `45a2a16`).
 - 0 merged sites are left with no commodity.
 - **Grade/tonnage:**
   - The 2 dropped inventories with grade/tonnage duplicate the same record's Sand and Gravel row.
-  - 10 merged sites move grade/tonnage from Nonmetal to Metal, and 2 from Slate to Water.
+  - 10 merged sites move grade/tonnage from Nonmetal to Titanium > Metal, and 2 from Slate to Water.
 - **Tests:** 25 new tests, also added to the CI Docker-free list. Full suite with Docker: main 80 passed / 23 failed; this branch 105 passed / the same 23 failed.
+
+## Decided defaults
+
+- **`Metal` → Q674 Titanium > Metal.** Its grade rows are MRDS's own `Titanium, Metal` row (code `TI_M`).
+- **`Water` → Q680 Water.** MRDS writes `Water, Free` (code `H2O`). The rare-earth rows on those records copy Water's grade, not the reverse; they are phantoms of "Free".
 
 ## Defaults you may want to change
 
-- **`Metal` → Q628 Metal.** All 21 `Metal` grade rows copy the record's Titanium row, so those 10 merged sites show Titanium's numbers as Metal. Q674 Titanium > Metal is the alternative.
-- **`Water` → Q680 Water.** Its grade rows copy a rare-earth row (2 merged sites). A drop loses nothing unique.
 - **Oregon: remap rather than drop.** `SC`/`CS` → Stone > Crushed/Broken, `SD` → Stone > Dimension, and `S` is dropped next to Sand and Gravel. A drop of `SC`/`CS`/`SD` would keep only `Stone`.
 - **API edits are not corrected.** A site created or edited through the API keeps the candidate it was sent. Today no user-owned copy of a listed record exists in the data repository.

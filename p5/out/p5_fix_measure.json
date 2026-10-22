@@ -145,10 +145,6 @@
    14,
    6
   ],
-  "Q628": [
-   898,
-   1814
-  ],
   "Q633": [
    5171,
    2834
@@ -176,6 +172,10 @@
   "Q665": [
    344,
    385
+  ],
+  "Q674": [
+   811,
+   1727
   ],
   "Q679": [
    256,
@@ -227,10 +227,6 @@
    13,
    5
   ],
-  "Q628": [
-   857,
-   1674
-  ],
   "Q633": [
    4174,
    1837
@@ -259,6 +255,10 @@
    344,
    385
   ],
+  "Q674": [
+   774,
+   821
+  ],
   "Q679": [
    256,
    562
@@ -275,13 +275,13 @@
   "wrong QID kept because another candidate has it": 2,
   "removed Q619": 8,
   "removed Q581": 821,
-  "added Q628": 817,
   "removed Q609": 46219,
+  "added Q674": 47,
   "grade/tonnage row removed with Q609": 2,
   "removed Q659": 220,
   "added Q680": 220,
   "grade/tonnage row removed with Q581": 10,
-  "grade/tonnage row now under Q628": 10,
+  "grade/tonnage row now under Q674": 10,
   "grade/tonnage row removed with Q659": 2,
   "grade/tonnage row now under Q680": 2,
   "removed Q523": 487,

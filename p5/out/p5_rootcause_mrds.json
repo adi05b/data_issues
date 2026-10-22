@@ -1,0 +1,126 @@
+{
+ "records_in_json": 304638,
+ "rebuild_vs_json": {
+  "equal": 304638
+ },
+ "differ_examples": [],
+ "compound_names": 39,
+ "compound_records": 71281,
+ "mrds_code_list_names_with_comma": 69,
+ "codes_used": 189,
+ "codes_used_without_mrds_code_in_commodity_csv": {
+  "MG_C": 6,
+  "REE_Y": 4,
+  "NA_SS": 40,
+  "SA": 8,
+  "REE_CE": 7,
+  "NA_SC": 30,
+  "SIL_SDG": 11,
+  "SDG_FRAC": 14,
+  "STN_C_L": 4,
+  "STN_D_G": 1,
+  "K_P": 19,
+  "STN_C_S": 3,
+  "STN_D_S": 2,
+  "SIL_T": 1,
+  "MPG_IO": 2
+ },
+ "codes_with_several_entities": {},
+ "compound_records_by_verdict": {
+  "subtype piece hits another entity": 53323,
+  "subtype piece hits the code's entity": 18824,
+  "code has no MinMod entity": 54
+ },
+ "compound_distinct_records_by_verdict": {
+  "subtype piece hits another entity": 53135,
+  "subtype piece hits the code's entity": 18739,
+  "code has no MinMod entity": 48
+ },
+ "pge_ree_inside_another_name": {
+  "Water, Free [H2O]": 221
+ },
+ "by_code_reader": {
+  "same matched commodities": 230035,
+  "matched commodities change": 74603,
+  "has a code without a MinMod entity": 114
+ },
+ "by_code_reader_qids_removed_top": {
+  "Q609 Strontium": 46220,
+  "Q663 Stone": 18889,
+  "Q528 Clay > General": 3427,
+  "Q566 Limestone > Dimension": 2408,
+  "Q689 Yttrium": 1616,
+  "Q687 Cerium": 1615,
+  "Q688 Praseodymium": 1613,
+  "Q693 Gadolinium": 1613,
+  "Q698 Thulium": 1613,
+  "Q690 Neodymium": 1613,
+  "Q695 Dysprosium": 1613,
+  "Q697 Erbium": 1613,
+  "Q700 Lutetium": 1613,
+  "Q692 Europium": 1613,
+  "Q686 Lanthanum": 1613,
+  "Q691 Samarium": 1613,
+  "Q694 Terbium": 1613,
+  "Q699 Ytterbium": 1613,
+  "Q696 Holmium": 1613,
+  "Q614 Titanium": 902,
+  "Q581 Nonmetal": 840,
+  "Q597 Limestone": 790,
+  "Q606 Ruthenium": 736,
+  "Q600 Palladium": 728,
+  "Q599 Osmium": 727
+ },
+ "by_code_reader_qids_added_top": {
+  "Q665 Stone > Dimension": 1530,
+  "Q618 Rare Earth Elements": 1392,
+  "Q674 Titanium > Metal": 840,
+  "Q582 Platinum-Group Elements": 780,
+  "Q679 Volcanic Materials": 487,
+  "Q661 Sodium > Halite": 466,
+  "Q662 Sodium > Salt": 451,
+  "Q680 Water": 221,
+  "Q675 Titanium > Pigment": 65,
+  "Q503 Abrasive > Emery": 49,
+  "Q682 Zinc > Refiner": 39,
+  "Q640 Lead > Refiner": 26,
+  "Q644 Nickel > Smelter": 9,
+  "Q586 Silver > Refinery": 7,
+  "Q643 Nickel > Refiner": 4,
+  "Q678 Tungsten > Refinery": 3,
+  "Q525 Clay > Chlorite": 3,
+  "Q683 Zinc > Smelter": 2,
+  "Q649 Petroleum (Oil) > Gilsonite": 1
+ },
+ "three_states_records": {
+  "root: no change": 232008,
+  "root: matched commodities change": 72536,
+  "list already gives the root result": 46345
+ },
+ "three_states_record_qid_pairs": {
+  "removed by both list and root": 47789,
+  "removed by root only: wrong match, not in the list": 6921,
+  "removed by root only: parent next to its own subtype code": 21120,
+  "added by root only": 2654,
+  "added by both list and root": 1549,
+  "removed by root only: phantom REE from 'Water, Free'": 3315,
+  "removed by root only: code has no MinMod entity (would be lost)": 161
+ },
+ "three_states_records_by_root_only_reason": {
+  "wrong match, not in the list": 6823,
+  "parent next to its own subtype code": 20987,
+  "phantom REE from 'Water, Free'": 221,
+  "code has no MinMod entity (would be lost)": 101
+ },
+ "root_only_wrong_matches_by_qid": {
+  "Q528 Clay > General": 3426,
+  "Q566 Limestone > Dimension": 2404,
+  "Q10004 Alunite": 450,
+  "Q506 Aluminum": 450,
+  "Q575 Mineral Pigments": 65,
+  "Q552 Gold > Refinery": 64,
+  "Q546 Gemstone > Emerald": 49,
+  "Q641 Lead > Smelter": 10,
+  "Q622 Chlorine": 3
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "json_records": 7008,
+ "service_points": 6538,
+ "rebuild_vs_json": {
+  "equal": 6535,
+  "record not in today's service": 470,
+  "differ": 3
+ },
+ "deposit_type_rebuild_vs_json": {
+  "equal": 711,
+  "differ": 62
+ },
+ "compound_names_in_service": {
+  "Sand and Gravel, Construc (cut)": 921,
+  "stone, crushed/broken": 205,
+  "titanium, metal": 72,
+  "stone, dimension": 25,
+  "marble, dimension": 23,
+  "limestone, general": 19,
+  "iron, pig iron": 16,
+  "limestone, high calcium": 5,
+  "slate, dimension": 4,
+  "sulfur, sulfuric acid": 1,
+  "Aluminum, Contained or Me (cut)": 1
+ },
+ "compound_records_in_service": 1290,
+ "differ_examples": [
+  {
+   "NCGS_ID": "1565",
+   "source": " Vermiculite; Zirconium, Iron, Titanium, Metal",
+   "json": [
+    "iron",
+    "metal",
+    "titanium",
+    "vermiculite",
+    "zirconium"
+   ],
+   "rebuilt": [
+    " vermiculite",
+    "iron",
+    "metal",
+    "titanium",
+    "zirconium"
+   ]
+  },
+  {
+   "NCGS_ID": "5371",
+   "source": "Unkown",
+   "json": [],
+   "rebuilt": [
+    "unkown"
+   ]
+  },
+  {
+   "NCGS_ID": "5678",
+   "source": "Mica; 5678",
+   "json": [
+    "mica"
+   ],
+   "rebuilt": [
+    "5678",
+    "mica"
+   ]
+  }
+ ],
+ "major_commodity_length_24_25_26": [
+  2,
+  918,
+  2
+ ],
+ "major_commodity_longer_than_25": 30,
+ "three_states_records": {
+  "root: no change": 5254,
+  "root: matched commodities change": 1284,
+  "list already gives the root result": 920
+ },
+ "three_states_record_qid_pairs": {
+  "removed by root only: wrong match, not in the list": 72,
+  "removed by root only: parent next to its own subtype": 318,
+  "added by root only": 25,
+  "removed by both list and root": 993,
+  "added by both list and root": 72
+ },
+ "root_only_wrong_matches_by_qid": {
+  "Q566 Limestone > Dimension": 52,
+  "Q528 Clay > General": 19,
+  "Q635 Vermiculite": 1
+ },
+ "cut_names": {
+  "sand and gravel, construc (from sand and gravel, construction)": 921,
+  "aluminum, contained or me (from aluminum, contained or metal)": 1
+ },
+ "mrds_names_longer_than_25": [
+  "aluminum, contained or metal",
+  "aluminum, high alumina clay",
+  "gypsum-anhydrite, alabaster",
+  "sand and gravel, construction",
+  "sand and gravel, industrial",
+  "sand and gravel, industrial/frac sand",
+  "tungsten, mill concentrate"
+ ]
+}

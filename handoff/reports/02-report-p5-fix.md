@@ -4,7 +4,12 @@
 
 ## Summary
 
-- **Data:** `ta2-minmod-data` branch `p5-commodity-corrections` @ `5dcac22`, on upstream `0c8b827`. It adds one file, `data/corrections/commodity.csv`, with 15 rows.
+- **Data:** `ta2-minmod-data` branch `p5-commodity-corrections` @ `7ae473f`, on upstream `0c8b827`. It adds one file, `data/corrections/commodity.csv`, with 15 rows.
+- **Updated 2026-10-22 (report 03, Part C):**
+  - Both `Metal` rows now remap to Q674 Titanium > Metal, not Q628.
+  - `Water` stays a remap to Q680.
+  - Both are decided defaults; see "For you".
+  - The data commit was amended (same message), and every number below was re-measured.
 - **kg:** `ta2-minmod-kg` branch `fix/p5-commodity-corrections` @ `3766487`, on main `45a2a16`, in worktree `ta2-minmod-kg-p5`.
 - **Effect, measured offline with main's own merge code on all 679,778 records:**
   - The 7 defects go to 0, except the listed leftovers (SC 2, S 12).
@@ -101,7 +106,7 @@
 | `Construc` → Cobalt | 980 → **0** | 980 → **0** | Cobalt 4,042 → 3,062 |
 | `CS` → Cesium (Oregon) | 6 → **0** | 6 → **0** | Cesium 42 → 36 |
 | `SD` → Sand (Oregon) | 41 → **0** | 41 → **0** | Sand 688 → 647 |
-| `Metal` → Nonmetal | 916 → **0** (mrds 840, nc 76) | 821 → **0** | Nonmetal 824 → 3 |
+| `Metal` → Nonmetal (now → Q674 Titanium > Metal) | 916 → **0** (mrds 840, nc 76) | 821 → **0** | Nonmetal 824 → 3 |
 
 **The other 8 rows:**
 
@@ -118,7 +123,7 @@
 **Targets:**
 - Stone > Crushed/Broken: 17,689 → 20,643 merged sites (+2,954 = 2,948 SC + 6 CS).
 - Stone > Dimension: 344 → 385 (+41).
-- Metal Q628: 857 → 1,674.
+- Titanium > Metal Q674: 774 → 821 merged sites (records 811 → 1,727). SRI's copy of MRDS already maps `Titanium, Metal` → Q674 on 811 records.
 - Volcanic Materials Q679: 256 → 562 (181 SRI copies already had it).
 - Water Q680: 1 → 221.
 - Gilsonite Q649: 0 → 1.
@@ -134,7 +139,9 @@
 
 **Grade/tonnage:**
 - **Dropped:** 2 inventories had grade/tonnage, and **both are duplicated on the same record**: MRDS `10115528` and `10236674`, `Construction` with the same grade and ore as their Sand And Gravel row. No stop condition was met.
-- **Moved by a remap:** 10 merged sites now show grade/tonnage under Metal (it was under Nonmetal). These are the record's Titanium numbers. 2 merged sites now show it under Water (it was under Slate). These are a rare-earth row's numbers.
+- **Moved by a remap:**
+  - 10 merged sites now show grade/tonnage under Titanium > Metal (it was under Nonmetal). These are MRDS's own `Titanium, Metal` row.
+  - 2 merged sites now show it under Water (it was under Slate). These are MRDS's `Water, Free` row. The rare-earth rows on those records are phantoms of "Free" that copy it (report 03).
 
 **Unintended changes: 0.**
 - Every one of the 679,778 records keeps every site field except `inventories`, and its inventories equal main's with the list applied, nothing more.
@@ -161,7 +168,7 @@ Out of scope and unchanged:
 ## Deviations
 
 1. **Rows beyond the table** (all from the investigation's facts or `commodity.csv`):
-   - `Volcanic Materials` → Q679 and `Water` → Q680 are remaps, by the same "missing from ProcMine's table" rule as `Metal`. Water is a default for Amandeep.
+   - `Volcanic Materials` → Q679 and `Water` → Q680 are remaps. Q679 and Q680 are missing from ProcMine's table. Report 03 adds that MRDS writes `Water, Free` (code `H2O`), whose code entity is Q680.
    - `Gilsonite` → Q649: `commodity.csv` has Petroleum (Oil) > Gilsonite.
    - `Industrial`, `Soda Ash`, `Tripoli` and `Halloysite` are drops: every one of their records already carries the commodity the string stands for.
    - `Metal` needs two rows, for mrds and nc.
@@ -184,9 +191,10 @@ Out of scope and unchanged:
 ## For you
 
 - **Merge order:** the data PR first, then kg. Without the file, kg changes nothing.
-- **Defaults for Amandeep** (in `p5/PR_P5_KG.md`):
-  - `Metal` → Q628 or Q674 Titanium > Metal;
-  - `Water` → Q680 or a drop;
+- **Decided defaults:**
+  - `Metal` → Q674 Titanium > Metal: MRDS writes `Titanium, Metal` (code `TI_M`), and its grade rows are that row.
+  - `Water` stays a remap to Q680: MRDS writes `Water, Free` (code `H2O`). The rare-earth rows copy Water's grade, not the reverse, so dropping Water would keep 15 phantoms and remove the real commodity.
+- **Still open for Amandeep** (in `p5/PR_P5_KG.md`):
   - remap vs drop for Oregon;
   - API edits are not corrected.
 - **Nothing is pushed.**

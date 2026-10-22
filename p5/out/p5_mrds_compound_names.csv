@@ -1,0 +1,40 @@
+mrds_name,mrds_code,records,verdict,pieces,subtype_piece_matched_to,confidence,minmod_entity_by_mrds_code
+"Sand and Gravel, Construction",SDG,46221,subtype piece hits another entity,Sand And Gravel | Construction,Q609 Strontium,0.5453,Q656 Sand and Gravel
+"Stone, Crushed/Broken",STN_C,17455,subtype piece hits the code's entity,Stone | Crushed/Broken,Q664 Stone > Crushed/Broken,0.7715,Q664 Stone > Crushed/Broken
+"Limestone, General",LST,3427,subtype piece hits another entity,Limestone | General,Q528 Clay > General,0.7798,Q597 Limestone
+"Stone, Dimension",STN_D,1530,subtype piece hits another entity,Stone | Dimension,Q566 Limestone > Dimension,0.7469,Q665 Stone > Dimension
+"Titanium, Metal",TI_M,840,subtype piece hits another entity,Titanium | Metal,Q581 Nonmetal,0.7599,Q674 Titanium > Metal
+"Limestone, Dimension",LST_D,673,subtype piece hits the code's entity,Limestone | Dimension,Q566 Limestone > Dimension,0.7469,Q566 Limestone > Dimension
+"Marble, Dimension",MBL,642,subtype piece hits another entity,Marble | Dimension,Q566 Limestone > Dimension,0.7469,Q598 Marble
+"Slate, Dimension",SLA,287,subtype piece hits another entity,Slate | Dimension,Q566 Limestone > Dimension,0.7469,Q659 Slate
+"Water, Free",H2O,221,subtype piece hits another entity,Water | Flanthanum | Praseodymium | Samarium | Gadolinium | Thulium | Holmium | Cerium | Europium | Ytterbium | Erbium | Yttrium | Neodymium | Terbium | Dysprosium | Lutetium,Q700 Lutetium,0.9999,Q680 Water
+"Sulfur, Sulfuric Acid",S_A,170,subtype piece hits the code's entity,Sulfur | Sulfuric Acid,Q668 Sulfur > Sulfuric Acid,0.8073,Q668 Sulfur > Sulfuric Acid
+"Aluminum, Contained or Metal",AL_C,148,subtype piece hits the code's entity,Aluminum | Contained Or Metal,Q507 Aluminum > Contained Or Metal,0.8431,Q507 Aluminum > Contained Or Metal
+"Iron, Pig Iron",FE_P,75,subtype piece hits the code's entity,Iron | Pig Iron,Q562 Iron > Pig Iron,0.9999,Q562 Iron > Pig Iron
+"Chromium, Ferrochrome",CR_F,67,subtype piece hits the code's entity,Chromium | Ferrochrome,Q520 Chromium > Ferrochrome,0.7902,Q520 Chromium > Ferrochrome
+"Titanium, Pigment",TI_P,65,subtype piece hits another entity,Titanium | Pigment,Q575 Mineral Pigments,0.6226,Q675 Titanium > Pigment
+"Limestone, High Calcium",LST_C,63,subtype piece hits the code's entity,Limestone | High Calcium,Q567 Limestone > High Calcium,0.7611,Q567 Limestone > High Calcium
+"Limestone, Ultra Pure",LST_P,60,subtype piece hits the code's entity,Limestone | Ultra Pure,Q568 Limestone > Ultra Pure,0.7343,Q568 Limestone > Ultra Pure
+"Zinc, Refiner",ZN_R,39,subtype piece hits another entity,Zinc | Refiner,Q552 Gold > Refinery,0.7462,Q682 Zinc > Refiner
+"Aggregate, Light Weight",LWA,38,subtype piece hits the code's entity,Aggregate | Light Weight,Q505 Aggregate > Light Weight,0.7571,Q505 Aggregate > Light Weight
+"Silica, Ferrosilicon",SIL_F,28,subtype piece hits the code's entity,Silica | Ferrosilicon,Q658 Silica > Ferrosilicon,0.7591,Q658 Silica > Ferrosilicon
+"Lead, Refiner",PB_R,26,subtype piece hits another entity,Lead | Refiner,Q552 Gold > Refinery,0.7462,Q640 Lead > Refiner
+"Potassium, Potash",K_P,19,code has no MinMod entity,Potassium | Potash,Q10002 Potash,0.9999,none
+"Lead, Smelter",PB_S,18,subtype piece hits the code's entity,Lead | Smelter,Q641 Lead > Smelter,0.6474,Q641 Lead > Smelter
+"Sand and Gravel, Industrial/Frac Sand",SDG_FRAC,14,code has no MinMod entity,Sand And Gravel | Industrial/Frac Sand,Q655 Sand,0.5004,none
+"Manganese, Ferromanganese",MN_F,12,subtype piece hits the code's entity,Manganese | Ferromanganese,Q572 Manganese > Ferromanganese,0.8332,Q572 Manganese > Ferromanganese
+"Sand and Gravel, Industrial",SIL_SDG,11,code has no MinMod entity,Sand And Gravel | Industrial,Q559 Indium,0.4998,none
+"Nickel, Smelter",NI_S,9,subtype piece hits another entity,Nickel | Smelter,Q641 Lead > Smelter,0.6474,Q644 Nickel > Smelter
+"Silver, Refinery",AG_R,7,subtype piece hits another entity,Silver | Refinery,Q552 Gold > Refinery,0.7931,Q586 Silver > Refinery
+"Tungsten, Mill Concentrate",W_C,7,subtype piece hits the code's entity,Tungsten | Mill Concentrate,Q677 Tungsten > Mill Concentrate,0.7604,Q677 Tungsten > Mill Concentrate
+"Limestone, Crushed/Broken",STN_C_L,4,code has no MinMod entity,Limestone | Crushed/Broken,Q664 Stone > Crushed/Broken,0.7715,none
+"Nickel, Refiner",NI_R,4,subtype piece hits another entity,Nickel | Refiner,Q552 Gold > Refinery,0.7462,Q643 Nickel > Refiner
+"Gold, Refinery",AU_R,4,subtype piece hits the code's entity,Gold | Refinery,Q552 Gold > Refinery,0.7931,Q552 Gold > Refinery
+"Sandstone, Crushed/Broken",STN_C_S,3,code has no MinMod entity,Sandstone | Crushed/Broken,Q664 Stone > Crushed/Broken,0.7715,none
+"Aluminum, High Alumina Clay",AL_CLY,3,subtype piece hits the code's entity,Aluminum | High Alumina Clay,Q508 Aluminum > High Alumina Clay,0.8602,Q508 Aluminum > High Alumina Clay
+"Tungsten, Refinery",W_R,3,subtype piece hits another entity,Tungsten | Refinery,Q552 Gold > Refinery,0.7931,Q678 Tungsten > Refinery
+"Gypsum-Anhydrite, Alabaster",GYP_A,2,subtype piece hits the code's entity,Gypsum-Anhydrite | Alabaster,Q556 Gypsum-Anhydrite > Alabaster,0.6449,Q556 Gypsum-Anhydrite > Alabaster
+"Sandstone, Dimension",STN_D_S,2,code has no MinMod entity,Sandstone | Dimension,Q566 Limestone > Dimension,0.7469,none
+"Zinc, Smelter",ZN_S,2,subtype piece hits another entity,Zinc | Smelter,Q641 Lead > Smelter,0.6474,Q683 Zinc > Smelter
+"Granite, Dimension",STN_D_G,1,code has no MinMod entity,Granite | Dimension,Q566 Limestone > Dimension,0.7469,none
+"Tin, Tailings",SN_T,1,subtype piece hits the code's entity,Tin | Tailings,Q671 Tin > Tailings,0.7563,Q671 Tin > Tailings

@@ -1,0 +1,414 @@
+{
+ "json_records": 23316,
+ "milo4_points": 24664,
+ "milo4_ids_with_several_points": 0,
+ "json_ids_in_milo4": 23306,
+ "rebuild_vs_json": {
+  "Commodity on ',' + CommodityAbbreviation on '&'": {
+   "differ": 5310,
+   "equal, in order": 17150,
+   "same names, other order or repeats": 846,
+   "record not in MILO-4": 10
+  },
+  "both on ',' ';' '|' (ProcMinev2's rule)": {
+   "differ": 7636,
+   "equal, in order": 14824,
+   "same names, other order or repeats": 846,
+   "record not in MILO-4": 10
+  },
+  "Commodity on ',' + CommodityAbbreviation on '&', repeats of an entity dropped": {
+   "equal, in order": 22479,
+   "differ": 827,
+   "record not in MILO-4": 10
+  }
+ },
+ "defect_records_rebuild_vs_json": {
+  "equal": 9450,
+  "differ": 21
+ },
+ "differ_examples": {
+  "Commodity on ',' + CommodityAbbreviation on '&'": [
+   {
+    "MILO_ID": "ID_21983",
+    "Commodity": "gold",
+    "CommodityAbbreviation": "Au",
+    "json": [
+     "gold"
+    ]
+   },
+   {
+    "MILO_ID": "ID_06263",
+    "Commodity": "mercury",
+    "CommodityAbbreviation": "Hg",
+    "json": [
+     "mercury"
+    ]
+   },
+   {
+    "MILO_ID": "ID_15453",
+    "Commodity": "gold",
+    "CommodityAbbreviation": "Au",
+    "json": [
+     "gold"
+    ]
+   },
+   {
+    "MILO_ID": "ID_11233",
+    "Commodity": "gold",
+    "CommodityAbbreviation": "Au",
+    "json": [
+     "gold"
+    ]
+   },
+   {
+    "MILO_ID": "ID_09143",
+    "Commodity": "chromium",
+    "CommodityAbbreviation": "Cr",
+    "json": [
+     "chromium"
+    ]
+   }
+  ],
+  "both on ',' ';' '|' (ProcMinev2's rule)": [
+   {
+    "MILO_ID": "ID_21983",
+    "Commodity": "gold",
+    "CommodityAbbreviation": "Au",
+    "json": [
+     "gold"
+    ]
+   },
+   {
+    "MILO_ID": "ID_06263",
+    "Commodity": "mercury",
+    "CommodityAbbreviation": "Hg",
+    "json": [
+     "mercury"
+    ]
+   },
+   {
+    "MILO_ID": "ID_15453",
+    "Commodity": "gold",
+    "CommodityAbbreviation": "Au",
+    "json": [
+     "gold"
+    ]
+   },
+   {
+    "MILO_ID": "ID_11233",
+    "Commodity": "gold",
+    "CommodityAbbreviation": "Au",
+    "json": [
+     "gold"
+    ]
+   },
+   {
+    "MILO_ID": "ID_20680",
+    "Commodity": "stone, crushed",
+    "CommodityAbbreviation": "S&G",
+    "json": [
+     "stone",
+     "crushed",
+     "S",
+     "G"
+    ]
+   }
+  ],
+  "Commodity on ',' + CommodityAbbreviation on '&', repeats of an entity dropped": [
+   {
+    "MILO_ID": "ID_06914",
+    "Commodity": "gemstone material",
+    "CommodityAbbreviation": "jasper",
+    "json": [
+     "gem materials",
+     "jasper"
+    ]
+   },
+   {
+    "MILO_ID": "ID_16742",
+    "Commodity": "gemstone material",
+    "CommodityAbbreviation": "picture rocks or petrified wood",
+    "json": [
+     "gem materials",
+     "picture rocks or petrified wood"
+    ]
+   },
+   {
+    "MILO_ID": "ID_16370",
+    "Commodity": "gemstone material",
+    "CommodityAbbreviation": "gemstone",
+    "json": [
+     "gem materials",
+     "gemstone"
+    ]
+   },
+   {
+    "MILO_ID": "ID_01350",
+    "Commodity": "borrow/fill/topsoil",
+    "CommodityAbbreviation": "fill",
+    "json": [
+     "borrow",
+     "fill",
+     "topsoil",
+     "fill"
+    ]
+   },
+   {
+    "MILO_ID": "ID_06328",
+    "Commodity": "gemstone material",
+    "CommodityAbbreviation": "gemstone",
+    "json": [
+     "gem materials",
+     "gemstone"
+    ]
+   }
+  ]
+ },
+ "candidate_origin": {
+  "records rebuilt exactly": 22479,
+  "inventories from Commodity": 39924,
+  "inventories from CommodityAbbreviation": 19482,
+  "  of which matched": 10541
+ },
+ "abbreviation_candidates_matched": {
+  "SC -> Q607 Scandium": 7074,
+  "S -> Q633 Sulfur": 2329,
+  "coal -> Q637 Coal": 337,
+  "limestone -> Q597 Limestone": 190,
+  "Mn -> Q571 Manganese": 132,
+  "diatomite -> Q593 Diatomite": 127,
+  "clay -> Q521 Clay": 101,
+  "sand -> Q655 Sand": 71,
+  "metal -> Q628 Metal": 42,
+  "SD -> Q655 Sand": 41,
+  "granite -> Q624 Granite": 33,
+  "perlite -> Q647 Perlite": 26,
+  "Ca -> Q621 Calcium": 12,
+  "quartz -> Q630 Quartz": 10,
+  "CS -> Q591 Cesium": 6,
+  "sodium -> Q660 Sodium": 3,
+  "travertine -> Q634 Travertine": 2,
+  "peat -> Q646 Peat": 1,
+  "Al -> Q506 Aluminum": 1,
+  "magnesite -> Q570 Magnesite": 1,
+  "graphite -> Q553 Graphite": 1,
+  "olivine -> Q645 Olivine": 1
+ },
+ "records_whose_only_matches_come_from_the_abbreviation": 945,
+ "only_from_abbreviation_examples": [
+  {
+   "MILO_ID": "ID_21488",
+   "Commodity": "energy minerals",
+   "CommodityAbbreviation": "coal"
+  },
+  {
+   "MILO_ID": "ID_17682",
+   "Commodity": "diatomaceous earth",
+   "CommodityAbbreviation": "diatomite"
+  },
+  {
+   "MILO_ID": "ID_02412",
+   "Commodity": "manganese ore",
+   "CommodityAbbreviation": "Mn"
+  },
+  {
+   "MILO_ID": "ID_04622",
+   "Commodity": "energy minerals",
+   "CommodityAbbreviation": "coal"
+  },
+  {
+   "MILO_ID": "ID_21482",
+   "Commodity": "energy minerals",
+   "CommodityAbbreviation": "coal"
+  },
+  {
+   "MILO_ID": "ID_04599",
+   "Commodity": "energy minerals",
+   "CommodityAbbreviation": "coal"
+  },
+  {
+   "MILO_ID": "ID_00041",
+   "Commodity": "lightweight aggregates",
+   "CommodityAbbreviation": "peat"
+  },
+  {
+   "MILO_ID": "ID_21576",
+   "Commodity": "energy minerals",
+   "CommodityAbbreviation": "coal"
+  }
+ ],
+ "last_chance_sulfur_mine_among_them": true,
+ "commodity_values_with_a_comma": {
+  "stone, crushed": 8278,
+  "gold, silver": 1048,
+  "zinc, gold, silver, lead": 452,
+  "gold, silver, copper": 260,
+  "mercury, gold": 139,
+  "gold, copper": 88,
+  "gold, silver, zinc": 66,
+  "gold, silver, copper, lead, zinc": 61,
+  "gold, lead, zinc, copper": 59,
+  "stone, dimension": 57,
+  "mercury, copper": 55,
+  "gold, silver, zinc, lead, copper": 48,
+  "copper, gold": 47,
+  "copper, gold, silver": 46,
+  "gold, silver, arsenic": 46
+ },
+ "code_cooccurrence_in_milo4": {
+  "SC": [
+   [
+    "stone, crushed [SC]",
+    7686
+   ],
+   [
+    "stone, crushed [SC gravel]",
+    2
+   ],
+   [
+    "stone, crushed [ballast SC]",
+    2
+   ],
+   [
+    "sand and gravel [SC]",
+    2
+   ],
+   [
+    "copper, lead, molybdenum, stone, crushed [Cu Pb Mo SC]",
+    1
+   ],
+   [
+    "silver [Ag SC]",
+    1
+   ],
+   [
+    "stone, crushed [SC rubble]",
+    1
+   ],
+   [
+    "gold, stone, crushed [Au SC]",
+    1
+   ]
+  ],
+  "SD": [
+   [
+    "stone, dimension [SD]",
+    41
+   ],
+   [
+    "stone, dimension [SD tuff]",
+    9
+   ],
+   [
+    "stone, dimension [SD picture rock]",
+    8
+   ],
+   [
+    "natural zeolite [zeolite minerals SD]",
+    3
+   ]
+  ],
+  "CS": [
+   [
+    "stone, crushed [CS]",
+    8
+   ]
+  ],
+  "S": [
+   [
+    "sand and gravel [S&G]",
+    2455
+   ],
+   [
+    "stone, crushed [S&G]",
+    15
+   ],
+   [
+    "mercury, arsenic, antimony, sulfur, gold [Hg As Sb S Au-ex]",
+    6
+   ],
+   [
+    "gold, sand and gravel [Au Ag S&G]",
+    2
+   ],
+   [
+    "gold, silver, sand and gravel [Au Ag S&G]",
+    2
+   ],
+   [
+    "stone, crushed [S&G pumice]",
+    1
+   ],
+   [
+    "sulfur and pyrite [S]",
+    1
+   ],
+   [
+    "energy minerals, pyrite and sulfur [coal S]",
+    1
+   ]
+  ],
+  "G": [
+   [
+    "sand and gravel [S&G]",
+    2455
+   ],
+   [
+    "stone, crushed [S&G]",
+    15
+   ],
+   [
+    "gold, sand and gravel [Au Ag S&G]",
+    2
+   ],
+   [
+    "gold, silver, sand and gravel [Au Ag S&G]",
+    2
+   ],
+   [
+    "stone, crushed [S&G pumice]",
+    1
+   ]
+  ],
+  "S&G": [
+   [
+    "sand and gravel [S&G]",
+    2455
+   ],
+   [
+    "stone, crushed [S&G]",
+    15
+   ],
+   [
+    "gold, sand and gravel [Au Ag S&G]",
+    2
+   ],
+   [
+    "gold, silver, sand and gravel [Au Ag S&G]",
+    2
+   ],
+   [
+    "stone, crushed [S&G pumice]",
+    1
+   ]
+  ]
+ },
+ "commodity_csv_keys_equal_to_codes": {
+  "SC": [
+   "Q607 Scandium (aliases = Sc)",
+   "Q607 Scandium (mrds_code = SC)"
+  ],
+  "SD": [
+   "Q655 Sand (mrds_code = SD)"
+  ],
+  "CS": [
+   "Q591 Cesium (aliases = Cs)",
+   "Q591 Cesium (mrds_code = CS)"
+  ],
+  "S": [
+   "Q633 Sulfur (aliases = S)",
+   "Q633 Sulfur (mrds_code = S)"
+  ],
+  "G": []
+ }
+}

@@ -1,0 +1,30 @@
+ProcMine's table: 438 keys
+'Construction'           -> Q609 Strontium                    0.5453  fuzzy, best of all keys; top 3: 'strontium' 0.5453, 'co' 0.4860, 'stone' 0.4356
+'Construc'               -> Q537 Cobalt                       0.5368  fuzzy, best of all keys; top 3: 'co' 0.5368, 'strontium' 0.4947, 'stn_c' 0.4287
+'Metal'                  -> Q581 Nonmetal                     0.7599  fuzzy, best of all keys; top 3: 'nonmetal' 0.7599, 'emerald' 0.5826, 'tantalum' 0.5138
+'General'                -> Q528 Clay > General               0.7798  fuzzy, best of all keys; top 3: 'general clay' 0.7798, 'emerald' 0.6455, 'clay > general' 0.6416
+'Dimension'              -> Q566 Limestone > Dimension        0.7469  fuzzy, best of all keys; top 3: 'dimension limestone' 0.7469, 'stone > dimension' 0.6976, 'limestone > dimension' 0.6767
+'Refiner'                -> Q552 Gold > Refinery              0.7462  fuzzy, best of all keys; top 3: 'refinery gold' 0.7462, 'refinery silver' 0.7277, 'zinc > refiner' 0.6671
+'Smelter'                -> Q641 Lead > Smelter               0.6474  fuzzy, best of all keys; top 3: 'lead > smelter' 0.6474, 'nickel > smelter' 0.6330, 'zinc > smelter' 0.6239
+'Pigment'                -> Q575 Mineral Pigments             0.6226  fuzzy, best of all keys; top 3: 'mineral pigments' 0.6226, 'pig iron' 0.4674, 'platinum-group elements' 0.4475
+'Industrial'             -> Q559 Indium                       0.4998  fuzzy, best of all keys; top 3: 'in' 0.4998, 'indium' 0.4997, 'andalusite' 0.4963
+'Volcanic Materials'     -> Q523 Clay > Bloating Material     0.5950  fuzzy, best of all keys; top 3: 'bloating material clay' 0.5950, 'clay > bloating material' 0.5606, 'nickel > laterite' 0.4885
+'Water'                  -> Q659 Slate                        0.5556  fuzzy, best of all keys; top 3: 'slate' 0.5556, 'te' 0.4721, 'er' 0.4721
+'Flanthanum'             -> Q686 Lanthanum                    0.9439  fuzzy, best of all keys; top 3: 'lanthanum' 0.9439, 'tantalum' 0.6313, 'platinum' 0.5854
+'Halite'                 -> Q10004 Alunite                      0.6753  fuzzy, best of all keys; top 3: 'alunite' 0.6753, 'perlite' 0.6191, 'thallium' 0.5995
+'Salt'                   -> Q506 Aluminum                     0.6734  fuzzy, best of all keys; top 3: 'al' 0.6734, 'cobalt' 0.5882, 'sodium > salt' 0.5107
+'Emery'                  -> Q546 Gemstone > Emerald           0.6872  fuzzy, best of all keys; top 3: 'emerald' 0.6872, 'emery abrasive' 0.6364, 'mercury' 0.6355
+'SC'                     -> Q607 Scandium                     0.9999  exact key 'sc' (mrds_code); top 3: 'sc' 0.9999
+'SD'                     -> Q655 Sand                         0.9999  exact key 'sd' (mrds_code); top 3: 'sd' 0.9999
+'CS'                     -> Q591 Cesium                       0.9999  exact key 'cs' (mrds_code); top 3: 'cs' 0.9999
+'S'                      -> Q633 Sulfur                       0.9999  exact key 's' (mrds_code); top 3: 's' 0.9999
+'S&G'                    -> Q656 Sand and Gravel              0.4667  fuzzy, best of all keys; top 3: 'sdg' 0.4667, 's' 0.3407, 'sb' 0.2810
+'Sand And Gravel'        -> Q656 Sand and Gravel              0.9999  exact key 'sand and gravel' (name); top 3: 'sand and gravel' 0.9999
+
+today's commodity.csv, exact keys for the Oregon codes:
+  SC   -> Q607 Scandium (mrds_code)
+  SD   -> Q655 Sand (mrds_code)
+  CS   -> Q591 Cesium (mrds_code)
+  S    -> Q633 Sulfur (mrds_code)
+  G    -> None  (no key)
+  S&G  -> None  (no key)
