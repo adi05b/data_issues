@@ -56,3 +56,9 @@
 - Neither code branch is pushed, and no PR is opened.
 - The kg worktree `ta2-minmod-kg-p5` holds `1198d04`; the data clone `p5/ta2-minmod-data` holds `7ae473f`.
 - The scratch main worktree used for the suite was removed.
+
+## PRs opened (2026-10-23)
+
+- Data: **https://github.com/usc-isi-i2/ta2-minmod-data/pull/7**, from `adi05b:p5-commodity-corrections` @ `7ae473f` (1 commit on `0c8b827`). Body: `p5/PR_P5_DATA.md`.
+- kg: **https://github.com/usc-isi-i2/ta2-minmod-kg/pull/115**, from `fix/p5-commodity-corrections` @ `3d1cdc0` (4 commits on `63ab67e`, including the acceptance query from report 05). Body: `p5/PR_P5_KG.md`. Its first line now names the data PR by number: "Merge usc-isi-i2/ta2-minmod-data#7 first".
+- Both bodies start with `Part of usc-isi-i2/ta2-minmod-data#6` and carry no attribution lines.

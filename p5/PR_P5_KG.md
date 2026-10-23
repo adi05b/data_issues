@@ -1,4 +1,4 @@
-Part of usc-isi-i2/ta2-minmod-data#6. **Merge the `ta2-minmod-data` PR "Commodity corrections list" first:** without `data/corrections/commodity.csv` this change does nothing.
+Part of usc-isi-i2/ta2-minmod-data#6. **Merge usc-isi-i2/ta2-minmod-data#7 first:** without `data/corrections/commodity.csv` this change does nothing.
 
 # Apply commodity corrections when loading sites (Problem 5)
 
