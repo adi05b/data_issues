@@ -1,8 +1,8 @@
+Part of usc-isi-i2/ta2-minmod-data#6. **Merge the `ta2-minmod-data` PR "Commodity corrections list" first:** without `data/corrections/commodity.csv` this change does nothing.
+
 # Apply commodity corrections when loading sites (Problem 5)
 
-Branch `fix/p5-commodity-corrections` @ `3766487` (3 commits on `45a2a16`).
-
-**Merge the `ta2-minmod-data` PR "Commodity corrections list" first.** Without `data/corrections/commodity.csv` this change does nothing.
+Branch `fix/p5-commodity-corrections` @ `1198d04` (3 commits on `63ab67e`: `ee028a9` apply, `e549ec1` cache bump, `1198d04` tests).
 
 ## What it does
 
@@ -29,6 +29,8 @@ Branch `fix/p5-commodity-corrections` @ `3766487` (3 commits on `45a2a16`).
 
 ## Numbers (offline merge, all 679,778 records, main vs this branch on the data branch)
 
+Measured before the rebase, on main `45a2a16`. #113 and #114 change no file on the merge path, so the numbers hold.
+
 | defect | records | merged sites listing the wrong commodity |
 |---|--:|--:|
 | `Construction` → Strontium | 46,221 → 0 | Strontium 46,612 → **393** |
@@ -48,7 +50,10 @@ Branch `fix/p5-commodity-corrections` @ `3766487` (3 commits on `45a2a16`).
 - **Grade/tonnage:**
   - The 2 dropped inventories with grade/tonnage duplicate the same record's Sand and Gravel row.
   - 10 merged sites move grade/tonnage from Nonmetal to Titanium > Metal, and 2 from Slate to Water.
-- **Tests:** 25 new tests, also added to the CI Docker-free list. Full suite with Docker: main 80 passed / 23 failed; this branch 105 passed / the same 23 failed.
+- **Tests:** 25 new tests, also added to the CI Docker-free list. They pass on the fixture and on the data branch.
+- **Full suite with Docker:** main `63ab67e` 133 passed / 24 failed; this branch 158 passed / the same 24 failed, with the same messages.
+  - The 24 pre-existing failures: 16 need the `vendor/ta2-table-understanding` SHACL files (submodule not checked out), 4 are API tests, 3 backup-listener tests, and 1 is a mineral-site service test.
+- `black` 25.9.0 `--check`: clean.
 
 ## Decided defaults
 
