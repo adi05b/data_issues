@@ -2,7 +2,7 @@ Part of usc-isi-i2/ta2-minmod-data#6. **Merge the `ta2-minmod-data` PR "Commodit
 
 # Apply commodity corrections when loading sites (Problem 5)
 
-Branch `fix/p5-commodity-corrections` @ `1198d04` (3 commits on `63ab67e`: `ee028a9` apply, `e549ec1` cache bump, `1198d04` tests).
+Branch `fix/p5-commodity-corrections` @ `3d1cdc0` (4 commits on `63ab67e`: `ee028a9` apply, `e549ec1` cache bump, `1198d04` tests, `3d1cdc0` acceptance query).
 
 ## What it does
 
@@ -54,6 +54,24 @@ Measured before the rebase, on main `45a2a16`. #113 and #114 change no file on t
 - **Full suite with Docker:** main `63ab67e` 133 passed / 24 failed; this branch 158 passed / the same 24 failed, with the same messages.
   - The 24 pre-existing failures: 16 need the `vendor/ta2-table-understanding` SHACL files (submodule not checked out), 4 are API tests, 3 backup-listener tests, and 1 is a mineral-site service test.
 - `black` 25.9.0 `--check`: clean.
+
+## After deploy
+
+`acceptance/problem5_commodity_corrections.sql` is one read-only query that returns one row per metric (`metric`, `value`, `expected`):
+
+```
+PGOPTIONS='-c default_transaction_read_only=on' psql "$DATABASE_URL" -f acceptance/problem5_commodity_corrections.sql
+```
+
+- **Run it once before the deploy and once after.**
+- **The `expected` column says what each row should show after the deploy**, with the value before it in brackets. It covers:
+  - the 15 listed raw candidates (0, except the leftovers SC 2 and S 12);
+  - merged sites listing each wrong commodity and each target;
+  - totals that must not move;
+  - the two keepers (Strontium Group, Last Chance Sulfur Mine).
+- **The merge cache should be `merge-v109` (or later)** in the statickg workdir. If it isn't, the merge didn't re-run and nothing will have changed.
+- **Tested on a local load of the full data** (Postgres 14, data `0c8b827`). Main's build gives every "before" value and this branch's build every "expected" value, in about 4 s each. It also runs on the repo's own Postgres image (17.11).
+- **If anything is off, empty the corrections list** (keep its header row). The next rebuild restores today's state: the list's content is part of the merge cache key, so the merge re-runs by itself, and an empty list gives output byte-for-byte the same as main's (all 2,446 merged files, `PYTHONHASHSEED=0`).
 
 ## Decided defaults
 
