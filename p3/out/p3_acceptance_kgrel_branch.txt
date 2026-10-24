@@ -1,0 +1,19 @@
+                           metric                           | value  |                            expected                            
+------------------------------------------------------------+--------+----------------------------------------------------------------
+ merged sites whose point is (0, 0)                         |      0 | 0 (before 29)
+ raw sites whose lat/lon is (0, 0)                          |      0 | 0 (before 37)
+ tie-break (168 listed): on the expected more precise point |    168 | 168 (before 0)
+ Null Island (25 listed): now with no point                 |     25 | 25 (before 0)
+ Null Island (4 listed): now on another member's point      |      4 | 4 (before 0)
+ merged sites total                                         | 419098 | unchanged (419,098)
+ raw sites total                                            | 679778 | unchanged (679,778)
+ merged sites with a coordinate                             | 400421 | 400,421 (before 400,446; the 25 Null Island sites lose theirs)
+ merged sites with a country                                | 402429 | unchanged (402,429)
+ merged sites with a state                                  | 374202 | unchanged (374,202); 221 lower if #110 is in the same build
+ funnel 1: merged sites with >= 2 member records            | 198129 | unchanged (198,129)
+ funnel 2: ... >= 2 members with a coordinate               |  23281 | 23,281 (before 23,283)
+ funnel 2a: ... top score held by an expert/curator         |     23 | unchanged (23)
+ funnel 3: ... top score tied (system records)              |  18580 | 18,580 (before 18,583)
+ funnel 3: ... tied, same source                            |  17728 | 17,728 (before 17,730)
+ funnel 3: ... tied, different sources                      |    852 | 852 (before 853)
+(16 rows)

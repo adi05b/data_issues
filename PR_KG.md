@@ -40,7 +40,7 @@ Branch `fix/p2-state-repair`, on `main` after #108. **Merge the `ta2-minmod-data
     - 0,0 and round placeholders.
   - **Boundaries:** `minmodkg/misc/katanga_successors.geojson`, 4 polygons, 212 KB, read once per process. **Province boundaries: OCHA / Référentiel Géographique Commun, via HDX and geoBoundaries (gbHumanitarian), CC BY 3.0 IGO.**
 - **The pairing fix.** A merged site takes its country and its state from the same record: the highest-ranked one that carries both. Before, two independent scans could pair one record's country with another record's state.
-- **`state_or_province.state_code`**, plus `migrations/005_state_or_province_state_code.{up,down}.sql`.
+- **`state_or_province.state_code`**, plus `migrations/006_state_or_province_state_code.{up,down}.sql`.
 - **Cache bumps:**
   - `merge-v107` → `merge-v108`;
   - `EntityDeserFn.VERSION` `v107` → `v108`. The entity reader now writes `state_code` and the aliases, and a cached `state_or_province.json` from older code would have neither.
