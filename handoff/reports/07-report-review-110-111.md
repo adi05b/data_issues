@@ -88,9 +88,15 @@ The member records behind each site, in rank order, are in `p2/out/p2_review_8_s
 2. **Curators only.** A curator's or expert's country always wins (the same state rule as now). Among system records, keep old #110's pair rule. On this data that gives exactly the pre-review numbers (80 country changes, 221 empty), and the curator test still passes. The cost is two rules instead of one, and a lower-ranked source can still override a higher-ranked source's country.
 3. **Option 1, plus a list.** Add the 4 likely-wrong top-ranked records to the P2 review list, for a curator to fix.
 
-### 2. The 7 new empty-state sites are not in `P2_REVIEW_LIST.csv`
+### 2. The 7 new empty-state sites in `P2_REVIEW_LIST.csv`
 
-The CSV still has the 221 (it equals old #110's emptied set exactly). The PR body lists the 7 in a table instead of regenerating the CSV, which has per-row reason groups and geometry suggestions. Say if you want them added to the CSV.
+**Done.** The CSV now has 228 rows: the 221, unchanged byte for byte, plus the 7, in the same columns and `review_list.py`'s sort order.
+- **Reef Ridge, Su-Lik, Mount Keith, Whistler:** `wrong recorded country`, with the note "top-ranked record's country looks wrong; needs a curator fix". These are the 4 wrong-country sites, so they are not listed twice.
+- **The three phosphate sites:** `other`, with the note "the merged site joins records from different countries; a same-as question".
+- **`observed_state`:** what the source wrote for main's conflicting state.
+- **Geometry columns:** "not checked: not in run C's emptied set". Every other row's suggestion comes from run C's point-in-shape check, which never saw these 7.
+- **The #110 body's reason table** is updated to match: other 53, wrong recorded country 18.
+- **`p2c/review_list.py`** still writes only the 221 (from run D). Re-running it would drop the 7.
 
 ## Tests
 

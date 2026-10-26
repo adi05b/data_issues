@@ -1,6 +1,6 @@
 # Repair states recorded in the wrong country at merge time
 
-**Summary:** 5,856 merged sites had a state from another country. After this PR: 5,536 are repointed to the right state, 92 Katanga sites get their 2015 province from their location, and 228 are left empty on purpose (221 listed in the attached `P2_REVIEW_LIST.csv`, 7 more under "Stays empty on purpose"). No other site changes.
+**Summary:** 5,856 merged sites had a state from another country. After this PR: 5,536 are repointed to the right state, 92 Katanga sites get their 2015 province from their location, and 228 are left empty on purpose (listed in the attached `P2_REVIEW_LIST.csv`). No other site changes.
 
 Needs usc-isi-i2/ta2-minmod-data#5, which is merged (`0c8b827`).
 
@@ -89,17 +89,17 @@ From this repo's entity, same-as and merge stages, run locally on `ta2-minmod-da
 
 ## Stays empty on purpose
 
-**228 merged sites keep no state.** 221 are listed in `P2_REVIEW_LIST.csv`, attached to this PR, with a reason group and a geometry suggestion for each. The other 7 are below the table.
+**228 merged sites keep no state.** They are listed in `P2_REVIEW_LIST.csv`, attached to this PR, with a reason group for each, and a geometry suggestion for the 221 from the earlier coverage check. The 7 added in review are also below the table.
 
 | reason | entities |
 |---|--:|
 | Option A: the dependency has no state rows in the table | 73 |
-| other | 50 |
+| other | 53 |
 | abolished units | 31 |
 | Katanga: no location, outside DR Congo, placeholder, or within 2 km of a border | 15 |
 | county-level names | 14 |
 | islands | 14 |
-| wrong recorded country | 14 |
+| wrong recorded country | 18 |
 | cities | 6 |
 | Greenland | 4 |
 
