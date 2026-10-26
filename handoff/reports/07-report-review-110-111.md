@@ -2,7 +2,7 @@
 
 *2026-10-26. Both kg branches are rebased onto `c8f4471`. After your review they were **pushed** (#111 first), both PR bodies were updated, the replies were posted, and CI passed on both: see Pushed, posted, CI at the end. No live graph, Postgres or API was touched: every load went into a throwaway local Postgres.*
 
-**New heads:** #110 `fix/p2-state-repair` → **`29b2c72`** (was `04a79c7`). #111 `fix/p3-null-island` → **`4d236e4`** (was `d995f62`).
+**New heads:** #110 `fix/p2-state-repair` → **`29b2c72`** (was `04a79c7`), then **`34759de`** (CI list, see the end). #111 `fix/p3-null-island` → **`4d236e4`** (was `d995f62`).
 
 Reply text: `handoff/reports/07-replies.md`; posted as one comment per PR (links at the end).
 
@@ -274,4 +274,8 @@ The bodies were set with `gh pr edit --body-file`. Each live body was compared w
 | #110 | `29b2c72` | [run 40419542271](https://github.com/usc-isi-i2/ta2-minmod-kg/actions/runs/40419542271/job/121910237299) | success, 105 passed, 1m31s |
 | #111 | `4d236e4` | [run 40419499723](https://github.com/usc-isi-i2/ta2-minmod-kg/actions/runs/40419499723/job/121910091953) | success, 130 passed, 52s |
 
-**Noticed, not changed:** #110 never added `tests/misc/test_state_repair.py` to the workflow's test list (#111 added its two files), so CI doesn't run #110's 48 state repair tests; they pass locally. Adding them is a one-line change to `tests.yml`, if you want it.
+**Then added, as you asked:** #110 had never put `tests/misc/test_state_repair.py` in the workflow's test list (#111 added its two files), so CI didn't run #110's 48 state repair tests.
+- **The change:** commit `34759de` "Run the state repair tests in CI", one line in `.github/workflows/tests.yml`, after `test_commodity_corrections.py`. #111 adds its lines elsewhere, and a trial merge of the two branches merges `tests.yml` cleanly.
+- **Locally, CI's exact list:** 137 passed. The 16 failures are the SHACL tests, which need the submodule CI checks out.
+- **Pushed** as a fast-forward, `29b2c72..34759de`; #110's head on GitHub is `34759de`.
+- **CI:** [run 40420662402](https://github.com/usc-isi-i2/ta2-minmod-kg/actions/runs/40420662402/job/121913977962), `unit-tests` success on `ubuntu-24.04`, 3m50s: **153 passed** (105 before, plus the 48 state repair tests, all PASSED).
