@@ -68,6 +68,8 @@ The review is a summary, not line comments, so the file and line column gives wh
 
 ### 1. Should the top record's country win for system records too, or only for curators?
 
+**Decided 2026-10-26: option 1, for all records.** The branches stay as committed.
+
 **What 110-1 does now:** on the full data there are **no curator records**, so the curator rule never fires. The rule as chosen still changes **8 system-record sites** compared with #110 before the review. In each one, the top-ranked record has a country but no usable state, and old #110 took a lower-ranked record's country and state.
 
 | site | old #110 (lower record's pair) | now (top record's country) | which looks right |
@@ -232,4 +234,4 @@ Then paste `PR_110_BODY.md` into #110 and `p3/PR_111_BODY.md` into #111, and pos
 - `p3/out/p3_merged_diff_07.txt`;
 - `p5/p5_load_kgrel.py`: now also loads the two entity tables.
 
-**Scratch:** the venv, code snapshots, the four run dirs and the logs are in the session's scratch directory. I'm keeping them until open decision 1 is settled, so option 2 can be measured without rebuilding. No shared database was used, and the throwaway Postgres container is removed.
+**Scratch:** the venv, code snapshots, the four run dirs and the logs were in the session's scratch directory and are deleted, now that decision 1 is settled. No shared database was used, and the throwaway Postgres container is removed.
