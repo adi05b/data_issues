@@ -1,10 +1,10 @@
 # Report 07: #110 and #111 after Amandeep's review
 
-*2026-10-26. Both kg branches are rebased onto `c8f4471` and committed locally; **neither is pushed**, and nothing on GitHub is edited. No live graph, Postgres or API was touched: every load went into a throwaway local Postgres.*
+*2026-10-26. Both kg branches are rebased onto `c8f4471`. After your review they were **pushed** (#111 first), both PR bodies were updated, the replies were posted, and CI passed on both: see Pushed, posted, CI at the end. No live graph, Postgres or API was touched: every load went into a throwaway local Postgres.*
 
 **New heads:** #110 `fix/p2-state-repair` → **`29b2c72`** (was `04a79c7`). #111 `fix/p3-null-island` → **`4d236e4`** (was `d995f62`).
 
-Replies to post: `handoff/reports/07-replies.md`.
+Reply text: `handoff/reports/07-replies.md`; posted as one comment per PR (links at the end).
 
 ## The review
 
@@ -219,7 +219,7 @@ Before is main's build, after is #111's build. Raw outputs: `p3/out/p3_acceptanc
   - tested on `c8f4471`.
 - Nothing is pasted into GitHub.
 
-## Push commands (not run)
+## Push commands (run after review; results at the end)
 
 From this folder (`data_issues`). `--force-with-lease` names the current PR heads, so each push refuses if anyone has pushed since. Both heads were checked just now: `04a79c7` and `d995f62`.
 
@@ -241,3 +241,37 @@ Then paste `PR_110_BODY.md` into #110 and `p3/PR_111_BODY.md` into #111, and pos
 - `p5/p5_load_kgrel.py`: now also loads the two entity tables.
 
 **Scratch:** the venv, code snapshots, the four run dirs and the logs were in the session's scratch directory and are deleted, now that decision 1 is settled. No shared database was used, and the throwaway Postgres container is removed.
+
+## Pushed, posted, CI (after review)
+
+**P2_REVIEW_LIST.csv first:** the 7 sites were added (see Open decisions, 2). The #110 body's counts were updated to match before it was pushed.
+
+**Pushes, #111 first:**
+
+| PR | push | PR head on GitHub | live body |
+|---|---|---|---|
+| [#111](https://github.com/usc-isi-i2/ta2-minmod-kg/pull/111) | `+ d995f62...4d236e4 fix/p3-null-island (forced update)` | `4d236e4`, open, mergeable | matches `p3/PR_111_BODY.md` |
+| [#110](https://github.com/usc-isi-i2/ta2-minmod-kg/pull/110) | `+ 04a79c7...29b2c72 fix/p2-state-repair (forced update)` | `29b2c72`, open (mergeable still being computed when checked) | matches `PR_110_BODY.md` |
+
+The bodies were set with `gh pr edit --body-file`. Each live body was compared with its file: identical, apart from the API's trailing newline.
+
+**Replies:**
+- **Not in threads, as asked:** the PRs have no review threads (GraphQL `reviewThreads` is 0 on both, and there are no line comments).
+  - #110's feedback is the summary of a review (CHANGES_REQUESTED);
+  - #111's is a conversation comment;
+  - GitHub has no thread replies for either.
+- **One comment per PR instead, as you chose:** each of his points is quoted in his own words, with the reply from `07-replies.md` under it.
+  - The #110 point 1 reply was rewritten first, as you asked: the top record's country wins for all records, the state comes only from a record in that country, and 228 states are left empty instead of 221. 8 sites change: 7 are left without a state (listed in the PR body and the CSV), and Aljustrel gets a state from a Portuguese record. The PR body lists the 7, not all 8, so the reply says that.
+  - #111 point 2 now says the check runs on `ubuntu-24.04`, not "once I push".
+- **Posted** as adi05b; each posted body matches what was composed. **No threads were resolved.**
+  - #110: https://github.com/usc-isi-i2/ta2-minmod-kg/pull/110#issuecomment-6429748520
+  - #111: https://github.com/usc-isi-i2/ta2-minmod-kg/pull/111#issuecomment-6429748867
+
+**CI (`Tests` / `unit-tests`, `pull_request`): both pass, on the `ubuntu-24.04` image.**
+
+| PR | commit | run / job | result |
+|---|---|---|---|
+| #110 | `29b2c72` | [run 40419542271](https://github.com/usc-isi-i2/ta2-minmod-kg/actions/runs/40419542271/job/121910237299) | success, 105 passed, 1m31s |
+| #111 | `4d236e4` | [run 40419499723](https://github.com/usc-isi-i2/ta2-minmod-kg/actions/runs/40419499723/job/121910091953) | success, 130 passed, 52s |
+
+**Noticed, not changed:** #110 never added `tests/misc/test_state_repair.py` to the workflow's test list (#111 added its two files), so CI doesn't run #110's 48 state repair tests; they pass locally. Adding them is a one-line change to `tests.yml`, if you want it.

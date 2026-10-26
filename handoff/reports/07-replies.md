@@ -1,11 +1,11 @@
 # Replies for #110 and #111
 
-One per comment, to post under it. Commit ids are on the local branches until they are pushed.
+One per comment, to post under it. The commits are pushed (#110 `29b2c72`, #111 `4d236e4`).
 
 ## #110 (review, 2026-10-26)
 
 **1. Curator's country**
-> Fixed in `0401627`. The merged country is again the top-ranked record's, so the curator's. The state now comes only from the highest-ranked record in that country, otherwise it stays empty. Same rule in `from_sites` and `from_dedup_sites`. Tests are in `tests/misc/test_state_repair.py`: a curator with a country only, merged with a higher-scored source that has both, in one partial and across two. On the full data (`0c8b827`) there are no curator records, but 8 system-record sites change. 7 keep the top record's country with no state, and 1 gets a state from a record in its own country. Conflicts stay 0, and the empty states go from 221 to 228. The PR body lists the 7 (`29b2c72` updates the compare notes).
+> Fixed in `0401627`. The top-ranked record's country now wins for all records, curators included, and the state comes only from a record in that country, otherwise it stays empty. Same rule in `from_sites` and `from_dedup_sites`. Tests are in `tests/misc/test_state_repair.py`: a curator with a country only, merged with a higher-scored source that has both, in one partial and across two. On the full data (`0c8b827`) this leaves 228 states empty instead of 221. 8 sites change: 7 are left without a state (listed in the PR body and in `P2_REVIEW_LIST.csv`), and 1, Aljustrel, gets a state from a record in its own country. Conflicts stay 0. `29b2c72` updates the compare notes.
 
 **2. Cache key on the entity file**
 > Fixed in `6ebb5e4`. `MergeFn.invoke` now takes `state_or_province_file`, the entity stage's `state_or_province.json`, keyed by its content next to `corrections_files`. A new test shows that adding an alias re-runs a cached merge.
@@ -25,4 +25,4 @@ One per comment, to post under it. Commit ids are on the local branches until th
 > Done. Rebased onto `c8f4471`, the cache line resolved to `merge-v110`, and `corrections_files` is still in `cache_ser_args`. The acceptance query's header now says `merge-v110` (`29805e8`). #110 takes `merge-v111`. `4d236e4` updates the query's #110 note from 221 to 228, after the #110 review change.
 
 **2. Failing unit-tests check**
-> Thanks. The rebase includes #116, so the check will run on `ubuntu-24.04` once I push.
+> Thanks. The rebase includes #116, so the check now runs on `ubuntu-24.04`.
