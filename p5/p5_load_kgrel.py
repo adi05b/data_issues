@@ -9,7 +9,9 @@ database.
     members' inventory views, as prep_kgrel_input does. On the Problem 3
     branch the election also takes the run's CRS names and reads each member's
     location, so those are passed too;
-  - mineral_site: every record, all columns; mineral_inventory_view: its views.
+  - mineral_site: every record, all columns; mineral_inventory_view: its views;
+  - country, state_or_province: the run's entity files, which the Problem 2
+    query joins.
 
     CFG_FILE=<kg>/tests/resources/config.yml PYTHONPATH=<kg> \\
       .venv-p2/bin/python p5_load_kgrel.py <run dir> \\
@@ -32,6 +34,8 @@ from sqlalchemy.orm import Session
 
 from minmodkg.models.kgrel.base import Base
 from minmodkg.models.kgrel.dedup_mineral_site import DedupMineralSite
+from minmodkg.models.kgrel.entities.country import Country
+from minmodkg.models.kgrel.entities.state_or_province import StateOrProvince
 from minmodkg.models.kgrel.mineral_site import MineralSite
 from minmodkg.models.kgrel.views.mineral_inventory_view import (
     DedupMineralInventoryView,
@@ -53,6 +57,11 @@ if "crs_names" in inspect.signature(DedupMineralSite.from_dedup_sites).parameter
 t0 = time.time()
 engine = create_engine(url)
 Base.metadata.create_all(engine)
+
+entities = FileEntityService(run / "data/entities")
+with Session(engine) as s:
+    s.add_all(entities._select_all(Country) + entities._select_all(StateOrProvince))
+    s.commit()
 
 # pass 1: merged-site partials and every record's inventory views
 partials = collections.defaultdict(list)

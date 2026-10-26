@@ -1,0 +1,42 @@
+# p2_review_diff.py on data 7ae473f (0c8b827 + data/corrections/commodity.csv), builds: main c8f4471, old = #110 8e458fe (rebased, before review), new = #110 1490e1a (after review; 29b2c72 changes only run_acceptance.sh)
+
+=== diff main -> p2old
+a (first): merged 419,098, with a country 402,429, with a state 374,202, state in another country 5,856
+b (second): merged 419,098, with a country 402,429, with a state 373,981, state in another country 0
+changed: 5,856 {'country changed': 80, 'state changed': 5628, 'state emptied': 148}
+  country changed: dedup_site__api-cdr-land-v1-docs-documents__0283468d8e32eb2151b91e8f29b005238f1438c1258edddbc4f40471ae044bb892__inferlink [['Q1176'], ['Q2654']] -> [['Q1038'], ['Q2654']]
+  country changed: dedup_site__api-cdr-land-v1-docs-documents__02c4dfe31bb57da226b14ffc1205519e8a56a6d087922f8346736f552d4cbdbf25__inferlink [['Q1038'], ['Q6840']] -> [['Q1235'], ['Q6901']]
+  country changed: dedup_site__doi-org-10-1016-j-oregeorev-2016-08-010__reef-ridge-837__usc [['Q1231'], ['Q6840']] -> [['Q1235'], ['Q6840']]
+  state changed: dedup_site__api-cdr-land-v1-docs-documents__0206bec189ad5f0ab7a8d89ca04e652145091a6347dd0fcb53db2f05b6e4df0de7__inferlink [['Q1090'], ['Q3186']] -> [['Q1090'], ['Q3461']]
+  state changed: dedup_site__api-cdr-land-v1-docs-documents__0207bae2ce3ae7a61fc77bb2e6bdd24e6210355b5d7c8df60225caef6ab4d6bf75__inferlink [['Q1176'], ['Q3186']] -> [['Q1176'], ['Q5272']]
+  state changed: dedup_site__api-cdr-land-v1-docs-documents__020a4d7651f9cc5146ad2061b1c48ca0ff140eb30b7c0a9b5a2878942aff752b16__inferlink [['Q1248'], ['Q5998']] -> [['Q1248'], ['Q7072']]
+  state emptied: dedup_site__api-cdr-land-v1-docs-documents__0200ab064d1f23368ac703f8789169194114421955c172b55e2bc1a95184e2f0e0__inferlink [['Q1014'], ['Q3186']] -> [['Q1014'], []]
+  state emptied: dedup_site__api-cdr-land-v1-docs-documents__02028cde67ee14736512d54a601b69aca1b439fcb9bde828b3e1f9274720a0bcad__inferlink [['Q1038'], ['Q6876']] -> [['Q1038'], []]
+  state emptied: dedup_site__api-cdr-land-v1-docs-documents__0202df58d4d9fca30dda22e70e60f3a4c4ce0d826bba0453d7b43bd46970ad2836__inferlink [['Q1150'], ['Q2313']] -> [['Q1150'], []]
+
+=== diff main -> p2
+a (first): merged 419,098, with a country 402,429, with a state 374,202, state in another country 5,856
+b (second): merged 419,098, with a country 402,429, with a state 373,974, state in another country 0
+changed: 5,856 {'country changed': 74, 'state changed': 5628, 'state emptied': 154}
+  country changed: dedup_site__mrdata-usgs-gov-mrds__10008515__sri [['Q1059'], ['Q2214']] -> [['Q1086'], []]
+  country changed: dedup_site__mrdata-usgs-gov-mrds__10024878__sri [['Q1059'], ['Q2214']] -> [['Q1086'], []]
+  country changed: dedup_site__mrdata-usgs-gov-mrds__10038190__sri [['Q1059'], ['Q2214']] -> [['Q1086'], []]
+  state changed: dedup_site__api-cdr-land-v1-docs-documents__0206bec189ad5f0ab7a8d89ca04e652145091a6347dd0fcb53db2f05b6e4df0de7__inferlink [['Q1090'], ['Q3186']] -> [['Q1090'], ['Q3461']]
+  state changed: dedup_site__api-cdr-land-v1-docs-documents__0207bae2ce3ae7a61fc77bb2e6bdd24e6210355b5d7c8df60225caef6ab4d6bf75__inferlink [['Q1176'], ['Q3186']] -> [['Q1176'], ['Q5272']]
+  state changed: dedup_site__api-cdr-land-v1-docs-documents__020a4d7651f9cc5146ad2061b1c48ca0ff140eb30b7c0a9b5a2878942aff752b16__inferlink [['Q1248'], ['Q5998']] -> [['Q1248'], ['Q7072']]
+  state emptied: dedup_site__api-cdr-land-v1-docs-documents__0200ab064d1f23368ac703f8789169194114421955c172b55e2bc1a95184e2f0e0__inferlink [['Q1014'], ['Q3186']] -> [['Q1014'], []]
+  state emptied: dedup_site__api-cdr-land-v1-docs-documents__02028cde67ee14736512d54a601b69aca1b439fcb9bde828b3e1f9274720a0bcad__inferlink [['Q1038'], ['Q6876']] -> [['Q1038'], []]
+  state emptied: dedup_site__api-cdr-land-v1-docs-documents__0202df58d4d9fca30dda22e70e60f3a4c4ce0d826bba0453d7b43bd46970ad2836__inferlink [['Q1150'], ['Q2313']] -> [['Q1150'], []]
+
+=== diff p2old -> p2
+a (first): merged 419,098, with a country 402,429, with a state 373,981, state in another country 0
+b (second): merged 419,098, with a country 402,429, with a state 373,974, state in another country 0
+changed: 8 {'country changed': 8}
+  country changed: dedup_site__api-cdr-land-v1-docs-documents__0283468d8e32eb2151b91e8f29b005238f1438c1258edddbc4f40471ae044bb892__inferlink [['Q1038'], ['Q2654']] -> [['Q1176'], ['Q5258']]
+  country changed: dedup_site__api-cdr-land-v1-docs-documents__02c4dfe31bb57da226b14ffc1205519e8a56a6d087922f8346736f552d4cbdbf25__inferlink [['Q1235'], ['Q6901']] -> [['Q1038'], []]
+  country changed: dedup_site__doi-org-10-1016-j-oregeorev-2016-08-010__reef-ridge-837__usc [['Q1235'], ['Q6840']] -> [['Q1231'], []]
+
+=== records p2old -> p2
+records: 679,778, location view changed: 0
+  of which only a duplicate state removed: 0
+

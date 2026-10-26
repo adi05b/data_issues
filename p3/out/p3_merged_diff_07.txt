@@ -1,0 +1,6 @@
+merged sites: 419,098
+coordinate changed: 197 ({'null island -> no point': 25, 'null island -> another member': 4, 'tie-break refinement': 168})
+changed but not listed: 0
+listed but not changed: 0
+changed from the listed old record to the listed new one: 197
+another field changed: 0

@@ -12,7 +12,7 @@
   - The precision and rounding-box logic is in `minmodkg/misc/coord_precision.py`.
   - Both elections, `from_sites` and `from_dedup_sites`, apply it after the current pick.
   - Both now take a required `crs_names` (a CRS's unit and grid come from the entity table), and every caller passes it from its entity service. So an API edit re-elects with the same rule.
-- **Numbers** (offline rebuild on `ta2-minmod-data` `3a086a5`, and again on `0c8b827` after the rebase onto `63ab67e`, with the same result): **197 merged sites change**, coordinate only.
+- **Numbers** (offline rebuild on `ta2-minmod-data` `3a086a5`, again on `0c8b827` after the rebase onto `63ab67e`, and on `0c8b827` after the rebase onto `c8f4471`, each time with the same result): **197 merged sites change**, coordinate only.
   - **Null Island: 37 records** lose their coordinate, all Inferlink, so **29 merged sites** change: **25** end with no point, **4** fall back to another member's point.
   - **Tie-break: 168** merged sites, none of them among the 29.
   - Nothing else changes: no other record's lat/lon, and no merged site's country, state or any other field.
@@ -25,8 +25,8 @@
     - `MineralSiteService.create` re-elects a merged site with the tie-break, with `crs_names` coming from a stubbed `EntityService.get_instance()`;
     - `EntityService.get_instance()` is a cached singleton that reads the CRS names once.
   - With either change reverted, its switching cases fail and its "keeps" cases still pass.
-  - The full suite with Docker fails the same 24 tests, with the same messages, on main `63ab67e` (133 passed) and on this branch (160 passed); nothing new.
-- **Cache:** `merge-v107` → `merge-v108`, because `location_view` is computed inside the merge. #110 also uses `merge-v108` (see Merge order).
+  - The full suite with Docker fails the same 24 tests, with the same messages, on main `c8f4471` (158 passed) and on this branch (185 passed); nothing new.
+- **Cache:** `merge-v109` → `merge-v110`, because `location_view` is computed inside the merge. #115's `corrections_files` stays in `cache_ser_args`. #115 took `merge-v109` and #110 takes `merge-v111` (see Merge order).
 - **Out of scope:** Inferlink lat/lon sign errors are a separate issue. Two of the four Null Island fallbacks look sign-flipped: Oropesa (Spain) → `MULTIPOINT(-5.475 -19.00)` and Ambatovy (Madagascar) → `MULTIPOINT(48.0 17.5)`.
 
 ## How to verify
@@ -43,7 +43,7 @@ Run it on a kgrel database built from current main (after #108). Prod was built 
 
 ## Merge order
 
-#110 and #111 both use `merge-v108`, so build dev once, after both are merged. #115 uses `merge-v109`.
+#115 is merged with `merge-v109`. This PR uses `merge-v110` and #110 `merge-v111`, so a cache built with either one alone is never reused by the other. Merge this one first; #110 then rebases onto main and keeps `merge-v111`. Build dev once, after both are merged.
 
 ## After deploy
 
@@ -60,6 +60,6 @@ PGOPTIONS='-c default_transaction_read_only=on' psql "$DATABASE_URL" -f acceptan
   - the 29 Null Island sites: 25 with no point, 4 on another member's point;
   - totals that must not move, and merged sites with a coordinate (−25);
   - the funnel, rows 1–3 (198,129 / 23,283 / 23 / 18,583 before).
-- **The merge cache should be `merge-v108` (or later)** in the statickg workdir (`services/mineralsiteetl/merge-v*.sqlite`). If it isn't, the merge didn't re-run and nothing will have changed.
-- **With #110 in the same build**, merged sites with a state also drop by 221 (#110's state repair). No other row depends on #110.
-- **Tested on a local load of the full data** (data `0c8b827`, the repo's Postgres 17.11 image). Main's build gives every "before" value and this branch's build every "expected" value, in about 15 s each.
+- **The merge cache should be `merge-v110` (or later)** in the statickg workdir (`services/mineralsiteetl/merge-v*.sqlite`). If it isn't, the merge didn't re-run and nothing will have changed.
+- **With #110 in the same build**, merged sites with a state also drop by 228 (#110's state repair). No other row depends on #110.
+- **Tested on a local load of the full data** (data `0c8b827` plus `data/corrections/commodity.csv`, the repo's Postgres 17.11 image). The build of main `c8f4471` gives every "before" value, and this branch's build every "expected" value, in about 13 s each.

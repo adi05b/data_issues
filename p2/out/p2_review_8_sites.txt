@@ -1,0 +1,85 @@
+# The 8 merged sites that differ between #110 before review (8e458fe) and after (1490e1a).
+# Members in rank order (score, system/expert, source, country, state, observed state, name), from the #110 build's records.
+
+dedup_site__api-cdr-land-v1-docs-documents__0283468d8e32eb2151b91e8f29b005238f1438c1258edddbc4f40471ae044bb892__inferlink
+  main: ['Portugal'] / ['British Columbia']
+  #110 before review: ['Canada'] / ['British Columbia']
+  #110 now: ['Portugal'] / ['Beja']
+    0.80 system doi-org ['Portugal'] [] observed [] name='Aljustrel'
+    0.80 system doi-org ['Portugal'] [] observed [] name='Aljustrel'
+    0.80 system api-cdr-land ['Canada'] ['British Columbia'] observed ['British Columbia'] name='Aljustrel Project'
+    0.80 system api-cdr-land [] [] observed [] name=None
+    0.10 system mrdata-usgs-gov ['Portugal'] ['Beja'] observed ['Beja'] name='Aljustrel Mines'
+    0.10 system mrdata-usgs-gov [] [] observed [] name=None
+    0.10 system mrdata-usgs-gov ['Portugal'] [] observed [] name='Aljustrel Mine'
+
+dedup_site__api-cdr-land-v1-docs-documents__02c4dfe31bb57da226b14ffc1205519e8a56a6d087922f8346736f552d4cbdbf25__inferlink
+  main: ['Canada'] / ['Alaska']
+  #110 before review: ['United States'] / ['Washington']
+  #110 now: ['Canada'] / []
+    0.80 system api-cdr-land ['Canada'] [] observed ['Alaska'] name='Whistler Copper-Gold Exploration Project'
+    0.80 system api-cdr-land [] [] observed [] name=None
+    0.10 system mrdata-usgs-gov ['United States'] ['Washington'] observed ['Washington'] name='Whistler'
+    0.10 system mrdata-usgs-gov [] [] observed [] name=None
+    0.10 system mrdata-usgs-gov ['United States'] ['Washington'] observed ['Washington'] name='Whistler Prospect'
+    0.10 system mrdata-usgs-gov [] [] observed [] name=None
+
+dedup_site__doi-org-10-1016-j-oregeorev-2016-08-010__reef-ridge-837__usc
+  main: ['Uganda'] / ['Alaska']
+  #110 before review: ['United States'] / ['Alaska']
+  #110 now: ['Uganda'] / []
+    0.80 system doi-org ['Uganda'] [] observed [] name='Reef Ridge'
+    0.50 system doi-org [] [] observed [] name=None
+    0.50 system doi-org ['United States'] ['Alaska'] observed ['Alaska'] name='Reef Ridge'
+
+dedup_site__doi-org-10-1016-j-oregeorev-2016-08-010__su-lik-843__usc
+  main: ['Uganda'] / ['Alaska']
+  #110 before review: ['United States'] / ['Alaska']
+  #110 now: ['Uganda'] / []
+    0.80 system doi-org ['Uganda'] [] observed [] name='Su-Lik'
+    0.50 system mrdata-usgs-gov [] [] observed [] name=None
+    0.50 system mrdata-usgs-gov ['United States'] ['Alaska'] observed [None] name='Su-Lik'
+    0.50 system mrdata-usgs-gov [] [] observed [] name=None
+    0.50 system mrdata-usgs-gov ['United States'] ['Alaska'] observed ['Alaska'] name='Lik - Su'
+    0.10 system mrdata-usgs-gov ['United States'] ['Alaska'] observed ['Alaska'] name='Su-Lik'
+    0.10 system mrdata-usgs-gov [] [] observed [] name=None
+
+dedup_site__mrdata-usgs-gov-mrds__10256361__sri
+  main: ['Australia'] / ['Berry Islands']
+  #110 before review: ['Australia'] / ['Western Australia']
+  #110 now: ['Christmas Island'] / []
+    0.10 system mrdata-usgs-gov ['Christmas Island'] [] observed ['Territory Of Christmas Island'] name='Mount Keith'
+    0.10 system mrdata-usgs-gov [] [] observed [] name=None
+    0.10 system mrdata-usgs-gov ['Australia'] ['Western Australia'] observed ['Western Australia'] name='Mount Keith'
+    0.10 system mrdata-usgs-gov [] [] observed [] name=None
+
+dedup_site__mrdata-usgs-gov-phosphate__1134__sri
+  main: ['Solomon Islands'] / ['Roi Et']
+  #110 before review: ['Thailand'] / ['Roi Et']
+  #110 now: ['Solomon Islands'] / []
+    0.50 system mrdata-usgs-gov [] [] observed [] name=None
+    0.50 system mrdata-usgs-gov ['Solomon Islands'] [] observed [] name=None
+    0.50 system mrdata-usgs-gov [] [] observed [] name=None
+    0.50 system mrdata-usgs-gov ['Thailand'] ['Roi Et'] observed ['Roi Et'] name=None
+    0.50 system mrdata-usgs-gov [] [] observed [] name=None
+    0.50 system mrdata-usgs-gov ['South Africa'] [] observed ['Cape Province'] name=None
+
+dedup_site__mrdata-usgs-gov-phosphate__1__sri
+  main: ['Pakistan'] / ['Helmand']
+  #110 before review: ['Afghanistan'] / ['Helmand']
+  #110 now: ['Pakistan'] / []
+    0.50 system mrdata-usgs-gov [] [] observed [] name=None
+    0.50 system mrdata-usgs-gov ['Pakistan'] [] observed ['North West Frontier'] name=None
+    0.50 system mrdata-usgs-gov [] [] observed [] name=None
+    0.50 system mrdata-usgs-gov ['Mongolia'] [] observed [] name=None
+    0.50 system mrdata-usgs-gov [] [] observed [] name=None
+    0.50 system mrdata-usgs-gov ['Afghanistan'] ['Helmand'] observed ['Helmand'] name=None
+
+dedup_site__mrdata-usgs-gov-phosphate__954__sri
+  main: ['New Zealand'] / ['Queensland']
+  #110 before review: ['Australia'] / ['Queensland']
+  #110 now: ['New Zealand'] / []
+    0.50 system mrdata-usgs-gov [] [] observed [] name=None
+    0.50 system mrdata-usgs-gov ['New Zealand'] [] observed ['Chatham Rise'] name=None
+    0.50 system mrdata-usgs-gov [] [] observed [] name=None
+    0.50 system mrdata-usgs-gov ['Australia'] ['Queensland'] observed ['Queensland'] name=None
