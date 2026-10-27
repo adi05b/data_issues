@@ -305,7 +305,7 @@ The bodies were set with `gh pr edit --body-file`. Each live body was compared w
 | CI's exact list from `tests.yml` | 162 | 16 |
 
 - The 16 are the SHACL tests (12 in `test_sample.py`, 4 in `test_validators.py`). They need `vendor/ta2-table-understanding`, which CI checks out and this Mac doesn't; the same 16 as in every earlier local run.
-- The full Docker suite was not re-run for this rebase.
+- The full Docker suite was re-run afterwards for the body: see PR body below.
 
 **Push:** `+ 34759de...5d69d51 fix/p2-state-repair (forced update)`, with `--force-with-lease=fix/p2-state-repair:34759de`. #110's head on GitHub is **`5d69d51`**, MERGEABLE / CLEAN.
 
@@ -313,7 +313,9 @@ The bodies were set with `gh pr edit --body-file`. Each live body was compared w
 
 **PR body:**
 - The "rebased on" line now says `7840fda` (#111, after #115 and #116). It was applied with `gh pr edit 110`, after CI passed, and the live body matches `PR_110_BODY.md`.
-- **Not changed, as asked:**
-  - The Numbers section and the suite table still describe the measurement against `c8f4471`; #111 changes no country or state.
-  - The Merge order paragraph still describes this rebase as the next step.
+- **Then brought up to date, as you asked** (also applied with `gh pr edit 110`; the live body matches the file):
+  - **Merge order:** #111 is merged with `merge-v110`, and this PR is rebased onto `7840fda` and keeps `merge-v111`. The cache line was the only conflict, and the three merge tests pass `crs_names={}`. Build dev once this PR is merged.
+  - **Suite table:** re-run with Docker for this: main `7840fda` 185 passed / 24 failed, this branch `5d69d51` 233 / 24. The same 24 failures with the same messages: 16 SHACL (submodule), 4 API, 3 backup-listener, 1 service upsert. The +48 are the state repair tests.
+  - **Own tests:** 86 pass, and the body says CI now runs `tests/misc/test_state_repair.py`.
+  - **The Numbers section** still says it was measured against `c8f4471`, which is true; #111 changes no country or state.
 

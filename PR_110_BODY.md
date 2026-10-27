@@ -77,13 +77,13 @@ From this repo's entity, same-as and merge stages, run locally on `ta2-minmod-da
   - all 412,155 consistent candidates are kept;
   - no merged site becomes conflicted;
   - no non-conflicted merged site changes state or country.
-- **Tests:** `tests/misc/test_state_repair.py` has 48 tests: the tiers, aliases, Option A including the two new pairs, Katanga, no duplicate states, the cache key, and the country/state pick (a curator's country wins, in one partial merge and across two). Together with #108's `tests/test_misc.py` and #115's `tests/misc/test_commodity_corrections.py`, 76 pass.
+- **Tests:** `tests/misc/test_state_repair.py` has 48 tests: the tiers, aliases, Option A including the two new pairs, Katanga, no duplicate states, the cache key, and the country/state pick (a curator's country wins, in one partial merge and across two). Together with `tests/test_misc.py` and #115's `tests/misc/test_commodity_corrections.py`, 86 pass. CI now runs `tests/misc/test_state_repair.py` too.
 - **The full suite, with the Fuseki and Postgres containers:**
 
   | | passed | failed |
   |---|--:|--:|
-  | `main` `c8f4471` | 158 | 24 |
-  | this branch | 206 | 24 |
+  | `main` `7840fda` | 185 | 24 |
+  | this branch | 233 | 24 |
 
   The 24 failures are the same tests with the same errors on both. 16 of them need the `ta2-table-understanding` submodule, which was not checked out. The difference in passes is the 48 new tests.
 
@@ -160,7 +160,7 @@ From this repo's entity, same-as and merge stages, run locally on `ta2-minmod-da
 
 ## Merge order
 
-#115 is merged with `merge-v109`. #111 uses `merge-v110` and this PR `merge-v111`, so a cache built with either one alone is never reused by the other. Merge #111 first; I then rebase this PR onto main, where the cache line is a one-line conflict that stays `merge-v111`. The same rebase passes `crs_names={}` in this PR's three new merge tests, because #111 makes that argument required (checked on a local merge of the two branches: 101 unit tests pass). Build dev once, after both are merged.
+#115 is merged with `merge-v109` and #111 with `merge-v110`. This PR is rebased onto main `7840fda`, after #111, and keeps `merge-v111`, so a dev build made before this PR is never reused. The cache line was the only conflict. The three new merge tests now pass `crs_names={}`, because #111 made that argument required. Build dev once this PR is merged; the merge cache should then be `merge-v111`.
 
 ## After deploy
 
