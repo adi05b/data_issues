@@ -4,7 +4,7 @@
 
 Needs usc-isi-i2/ta2-minmod-data#5, which is merged (`0c8b827`).
 
-Branch `fix/p2-state-repair`, rebased on `main` `c8f4471` (#115 and #116).
+Branch `fix/p2-state-repair`, rebased on `main` `7840fda` (#111, after #115 and #116).
 
 **5,856 merged sites have a state that belongs to another country than their own** (Florida → Puerto Rico, La Paz → La Pampa, Potosí → Porto). The upstream state matcher looks states up by name alone and never sees the record's country. MinMod holds every state with its country at merge time, so the merge repairs the choice. Only `location_view` changes: the KG `location` keeps what the source said.
 

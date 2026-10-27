@@ -2,7 +2,7 @@
 
 *2026-10-26. Both kg branches are rebased onto `c8f4471`. After your review they were **pushed** (#111 first), both PR bodies were updated, the replies were posted, and CI passed on both: see Pushed, posted, CI at the end. No live graph, Postgres or API was touched: every load went into a throwaway local Postgres.*
 
-**New heads:** #110 `fix/p2-state-repair` → **`29b2c72`** (was `04a79c7`), then **`34759de`** (CI list, see the end). #111 `fix/p3-null-island` → **`4d236e4`** (was `d995f62`).
+**New heads:** #110 `fix/p2-state-repair` → **`29b2c72`** (was `04a79c7`), then **`34759de`** (CI list), then **`5d69d51`** (rebased onto `7840fda` after #111 merged); see the end. #111 `fix/p3-null-island` → **`4d236e4`** (was `d995f62`).
 
 Reply text: `handoff/reports/07-replies.md`; posted as one comment per PR (links at the end).
 
@@ -279,3 +279,41 @@ The bodies were set with `gh pr edit --body-file`. Each live body was compared w
 - **Locally, CI's exact list:** 137 passed. The 16 failures are the SHACL tests, which need the submodule CI checks out.
 - **Pushed** as a fast-forward, `29b2c72..34759de`; #110's head on GitHub is `34759de`.
 - **CI:** [run 40420662402](https://github.com/usc-isi-i2/ta2-minmod-kg/actions/runs/40420662402/job/121913977962), `unit-tests` success on `ubuntu-24.04`, 3m50s: **153 passed** (105 before, plus the 48 state repair tests, all PASSED).
+
+## #110 rebased after #111 merged (2026-10-27)
+
+**Rebase:**
+- `main` is now `7840fda`, the merge of #111. It is `c8f4471` plus #111's commits, ending at `4d236e4`.
+- `fix/p2-state-repair` was rebased onto it, going from `34759de` to `2562ba1` before the test commit.
+- **One conflict, as expected:** the cache line in `minmodkg/etl/mineral_site.py`, in `Bump merge and entity caches for state repair`, `merge-v110` vs `merge-v111`. Kept **`merge-v111`**. No other conflict.
+- **`tests.yml`:** merged cleanly. It keeps #111's `tests/models/kgrel/test_dedup_mineral_site.py` and `tests/misc/test_coord_precision.py`, and #110's `tests/misc/test_state_repair.py`.
+- **The merge, checked:**
+  - `MergeFn` keeps `corrections_files` (#115) and `state_or_province_file` (#110) in `cache_ser_args`;
+  - the merge call passes both `crs_names` (#111) and `state_index` (#110);
+  - `run_acceptance.sh` still says `merge-v111`.
+
+**New commit `5d69d51`** "Pass crs_names in the country/state merge tests":
+- `crs_names={}` in the two helpers behind #110's three new merge tests: `from_sites` in both helpers, and `from_dedup_sites`. #111 made the argument required.
+- Without it, the 3 tests fail with `TypeError`.
+- black and `ruff format --check` are clean.
+
+**Tests, locally:**
+
+| | passed | failed |
+|---|--:|--:|
+| #110's own tests (`tests/misc/test_state_repair.py`, `tests/test_misc.py`, `tests/misc/test_commodity_corrections.py`) | 86 | 0 |
+| CI's exact list from `tests.yml` | 162 | 16 |
+
+- The 16 are the SHACL tests (12 in `test_sample.py`, 4 in `test_validators.py`). They need `vendor/ta2-table-understanding`, which CI checks out and this Mac doesn't; the same 16 as in every earlier local run.
+- The full Docker suite was not re-run for this rebase.
+
+**Push:** `+ 34759de...5d69d51 fix/p2-state-repair (forced update)`, with `--force-with-lease=fix/p2-state-repair:34759de`. #110's head on GitHub is **`5d69d51`**, MERGEABLE / CLEAN.
+
+**CI:** [run 40555617804](https://github.com/usc-isi-i2/ta2-minmod-kg/actions/runs/40555617804/job/122370774530), `unit-tests` success on `ubuntu-24.04`, 2m49s: **178 passed**. That is #111's 130 plus the 48 state repair tests, all PASSED.
+
+**PR body:**
+- The "rebased on" line now says `7840fda` (#111, after #115 and #116). It was applied with `gh pr edit 110`, after CI passed, and the live body matches `PR_110_BODY.md`.
+- **Not changed, as asked:**
+  - The Numbers section and the suite table still describe the measurement against `c8f4471`; #111 changes no country or state.
+  - The Merge order paragraph still describes this rebase as the next step.
+
